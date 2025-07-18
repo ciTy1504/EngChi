@@ -1,0 +1,510 @@
+{
+  "title": "HSK2 Translation",
+  "language": "zh",
+  "type": "translation",
+  "level": "HSK2",
+  "content": {
+    "questions": [
+      {
+        "_id": "trans_zh_h2_001",
+        "source": "昨天下午天气非常好，是晴天。我和朋友一起去打篮球。他打得比我好很多。我们从下午三点玩到五点。运动以后，身体很累，但是我们非常快乐。晚上我们还一起吃了饭，他告诉我多运动对身体有好处。",
+        "suggestedTranslation": "Chiều hôm qua thời tiết rất đẹp, là một ngày nắng. Tôi và bạn bè cùng nhau đi chơi bóng rổ. Anh ấy chơi giỏi hơn tôi rất nhiều. Chúng tôi chơi từ ba giờ chiều đến năm giờ. Sau khi vận động, cơ thể rất mệt, nhưng chúng tôi rất vui. Buổi tối chúng tôi còn cùng nhau ăn cơm, anh ấy nói với tôi rằng vận động nhiều có lợi cho sức khỏe."
+      },
+      {
+        "_id": "trans_zh_h2_002",
+        "source": "我姐姐在一家大公司上班。她每天早上七点起床，坐公共汽车去公司。她的工作很忙，常常要到晚上七八点才回家。虽然很累，但是她很喜欢这份工作。她说，能用汉语和中国人说话是一件快乐的事情。她希望明年可以来中国旅游。",
+        "suggestedTranslation": "Chị gái tôi làm việc tại một công ty lớn. Mỗi sáng chị ấy thức dậy lúc bảy giờ và đi xe buýt đến công ty. Công việc của chị rất bận rộn, thường phải đến bảy tám giờ tối mới về nhà. Mặc dù rất mệt nhưng chị ấy rất thích công việc này. Chị nói, có thể dùng tiếng Trung nói chuyện với người Trung Quốc là một việc vui vẻ. Chị hy vọng năm sau có thể đến Trung Quốc du lịch."
+      },
+      {
+        "_id": "trans_zh_h2_003",
+        "source": "这个星期天，我想请你来我家玩。我家离你学校不远，你可以坐三路公共汽车来。我家旁边有一个很大的商店，我们可以一起去买东西。我妈妈做的饭非常好吃，她会为我们准备很多好吃的菜。你觉得怎么样？请早点回答我。",
+        "suggestedTranslation": "Chủ nhật tuần này, tôi muốn mời bạn đến nhà tôi chơi. Nhà tôi cách trường bạn không xa, bạn có thể đi xe buýt tuyến số ba đến. Bên cạnh nhà tôi có một cửa hàng rất lớn, chúng ta có thể cùng nhau đi mua sắm. Cơm mẹ tôi nấu rất ngon, mẹ sẽ chuẩn bị rất nhiều món ngon cho chúng ta. Bạn thấy thế nào? Xin hãy trả lời tôi sớm nhé."
+      },
+      {
+        "_id": "trans_zh_h2_004",
+        "source": "我正在学习汉语，觉得非常有意思。我的老师是北京人，她说得很好。我每天都花两个小时学习，读课文，写汉字。虽然汉字有点难写，但是我觉得很有帮助。我的目标是明年可以通过HSK三级考试。因为我希望以后能去中国工作。",
+        "suggestedTranslation": "Tôi đang học tiếng Trung và cảm thấy rất thú vị. Giáo viên của tôi là người Bắc Kinh, cô ấy nói rất hay. Mỗi ngày tôi đều dành hai tiếng để học, đọc bài khóa, viết chữ Hán. Mặc dù chữ Hán hơi khó viết nhưng tôi cảm thấy rất hữu ích. Mục tiêu của tôi là năm sau có thể vượt qua kỳ thi HSK cấp 3. Bởi vì tôi hy vọng sau này có thể đến Trung Quốc làm việc."
+      },
+      {
+        "_id": "trans_zh_h2_005",
+        "source": "昨天是我的生日，我丈夫送给我一块新手表。这块手表是黑色的，我很喜欢。晚上，我们去了一家饭馆吃饭。那家饭馆的羊肉做得不错，我们还喝了一点儿红色的酒。我们聊了很多工作上的事情，也说了很多快乐的事情。这是非常好的一个生日。",
+        "suggestedTranslation": "Hôm qua là sinh nhật của tôi, chồng tôi đã tặng tôi một chiếc đồng hồ mới. Chiếc đồng hồ này màu đen, tôi rất thích. Buổi tối, chúng tôi đã đến một nhà hàng ăn cơm. Thịt cừu của nhà hàng đó làm rất ngon, chúng tôi còn uống một chút rượu vang đỏ. Chúng tôi đã trò chuyện rất nhiều về công việc và cũng nói nhiều chuyện vui vẻ. Đây là một sinh nhật rất tuyệt vời."
+      },
+      {
+        "_id": "trans_zh_h2_006",
+        "source": "我的弟弟今年二十岁，是个大学生。他正在学习怎么开车，因为他想买一辆新车。他说开车比骑自行车快，也方便。但是爸爸告诉他，开车可能很贵，而且找停车的地方也是个问题。弟弟觉得爸爸说得对，所以他还在想这个问题。",
+        "suggestedTranslation": "Em trai tôi năm nay hai mươi tuổi, là một sinh viên đại học. Cậu ấy đang học lái xe, vì cậu ấy muốn mua một chiếc xe mới. Cậu ấy nói lái xe nhanh hơn đi xe đạp, và cũng tiện lợi hơn. Nhưng bố nói với cậu ấy rằng, lái xe có thể rất tốn kém, và việc tìm chỗ đậu xe cũng là một vấn đề. Em trai cảm thấy bố nói đúng, vì vậy cậu ấy vẫn đang suy nghĩ về vấn đề này."
+      },
+      {
+        "_id": "trans_zh_h2_007",
+        "source": "上个星期我生病了，不能去上班。医生告诉我，要在家休息三天，多喝水，还要吃药。这个药一天吃三次，饭后吃。我的妻子每天为我准备好吃的饭菜。现在我的身体已经好了。我觉得健康是最重要的事情，以后要多运动。",
+        "suggestedTranslation": "Tuần trước tôi bị ốm, không thể đi làm. Bác sĩ bảo tôi phải ở nhà nghỉ ngơi ba ngày, uống nhiều nước và còn phải uống thuốc. Thuốc này uống ba lần một ngày, uống sau bữa ăn. Vợ tôi mỗi ngày đều chuẩn bị những bữa ăn ngon cho tôi. Bây giờ sức khỏe của tôi đã tốt rồi. Tôi cảm thấy sức khỏe là điều quan trọng nhất, sau này phải vận động nhiều hơn."
+      },
+      {
+        "_id": "trans_zh_h2_008",
+        "source": "欢迎来到我们学校。我们学校很大也很漂亮。左边是教室，右边是图书馆。你可以在图书馆里看书和报纸。我们学校的学生都喜欢运动，所以下午很多人去踢足球和打篮球。从这里往前走，你就能看见我们的饭馆，那里的饭菜很便宜。",
+        "suggestedTranslation": "Chào mừng đến với trường học của chúng tôi. Trường chúng tôi rất lớn và cũng rất đẹp. Bên trái là phòng học, bên phải là thư viện. Bạn có thể đọc sách và báo trong thư viện. Học sinh trường chúng tôi đều thích vận động, vì vậy buổi chiều có rất nhiều người đi đá bóng và chơi bóng rổ. Từ đây đi thẳng về phía trước, bạn sẽ thấy nhà ăn của chúng tôi, đồ ăn ở đó rất rẻ."
+      },
+      {
+        "_id": "trans_zh_h2_009",
+        "source": "去年夏天，我和家人一起去旅游。我们坐飞机去的，很快就到了。那个地方天气很热，但是风景很漂亮。我们每天都去海边游泳，还吃了很多好吃的水果，西瓜特别甜。我拍了很多照片，以后可以给大家看看。我希望今年还能再去一次。",
+        "suggestedTranslation": "Mùa hè năm ngoái, tôi và gia đình đã cùng nhau đi du lịch. Chúng tôi đi bằng máy bay, rất nhanh đã tới nơi. Nơi đó thời tiết rất nóng, nhưng phong cảnh rất đẹp. Mỗi ngày chúng tôi đều ra biển bơi, còn ăn rất nhiều hoa quả ngon, dưa hấu đặc biệt ngọt. Tôi đã chụp rất nhiều ảnh, sau này có thể cho mọi người xem. Tôi hy vọng năm nay có thể đi thêm một lần nữa."
+      },
+      {
+        "_id": "trans_zh_h2_010",
+        "source": "今天早上我接到一个电话，是我朋友打来的。他问我晚上有没有时间，想请我去看电影。我告诉他，我晚上要上汉语课，从七点到九点。所以不能和他去看电影了。我们说好这个星期六一起去，因为那天我们都有时间。我很期待和他的见面。",
+        "suggestedTranslation": "Sáng nay tôi nhận được một cuộc điện thoại, là bạn tôi gọi đến. Anh ấy hỏi tôi tối nay có thời gian không, muốn mời tôi đi xem phim. Tôi nói với anh ấy, tối nay tôi phải đi học tiếng Trung, từ bảy giờ đến chín giờ. Vì vậy không thể đi xem phim cùng anh ấy. Chúng tôi đã hẹn thứ bảy tuần này sẽ cùng đi, vì ngày đó chúng tôi đều có thời gian. Tôi rất mong chờ cuộc gặp mặt với anh ấy."
+      },
+      {
+        "_id": "trans_zh_h2_011",
+        "source": "这是我第一次来北京，我觉得这个城市非常大。我住的房间离火车站不远，很方便。今天我去了商店，买了一些东西送给家人和朋友。北京的冬天有点冷，还下了一点雪，白色的雪很漂亮。明天我准备去看看长城，听说那里非常有名。",
+        "suggestedTranslation": "Đây là lần đầu tiên tôi đến Bắc Kinh, tôi cảm thấy thành phố này rất lớn. Căn phòng tôi ở cách ga tàu hỏa không xa, rất tiện lợi. Hôm nay tôi đã đến cửa hàng, mua một vài thứ để tặng gia đình và bạn bè. Mùa đông ở Bắc Kinh hơi lạnh, còn có tuyết rơi một chút, tuyết trắng rất đẹp. Ngày mai tôi dự định đi xem Vạn Lý Trường Thành, nghe nói nơi đó rất nổi tiếng."
+      },
+      {
+        "_id": "trans_zh_h2_012",
+        "source": "我妹妹是一个快乐的女孩。她喜欢唱歌和跳舞。每个星期六，她都去教室学习跳舞，已经学了两年了。老师说她跳得非常好。她还希望以后能成为一个有名的歌唱家。她常常对我说，做自己喜欢的事情是最重要的。我也觉得她说的很对。",
+        "suggestedTranslation": "Em gái tôi là một cô gái vui vẻ. Em ấy thích hát và múa. Mỗi thứ bảy, em ấy đều đến phòng học để học múa, đã học được hai năm rồi. Giáo viên nói em ấy múa rất đẹp. Em ấy còn hy vọng sau này có thể trở thành một ca sĩ nổi tiếng. Em ấy thường nói với tôi rằng, làm những việc mình thích là quan trọng nhất. Tôi cũng cảm thấy em ấy nói rất đúng."
+      },
+      {
+        "_id": "trans_zh_h2_013",
+        "source": "你为什么今天看起来不太高兴？是不是工作上有什么问题？你可以告诉我，我们是好朋友，我可以帮助你。别想太多了，下班后我们一起去喝杯咖啡吧。我知道一家咖啡馆，那里的咖啡很好喝，环境也很不错。我们可以聊聊天，可能会好一点。",
+        "suggestedTranslation": "Tại sao hôm nay trông bạn không vui lắm? Có phải có vấn đề gì trong công việc không? Bạn có thể nói cho tôi biết, chúng ta là bạn tốt, tôi có thể giúp bạn. Đừng suy nghĩ nhiều quá, sau khi tan làm chúng ta cùng đi uống một tách cà phê nhé. Tôi biết một quán cà phê, cà phê ở đó rất ngon, môi trường cũng rất tốt. Chúng ta có thể trò chuyện, có thể sẽ khá hơn một chút."
+      },
+      {
+        "_id": "trans_zh_h2_014",
+        "source": "我正在找我的手机，你看见了吗？它是黑色的，昨天晚上我还用它打电话。我记得我把它放在桌子上了，但是现在不在那里了。我房间里都找过了，门后面，椅子下面，都没有。没有手机真不方便，我不能给朋友打电话，也不能看时间了。",
+        "suggestedTranslation": "Tôi đang tìm điện thoại của mình, bạn có thấy nó không? Nó màu đen, tối hôm qua tôi còn dùng nó để gọi điện. Tôi nhớ tôi đã đặt nó trên bàn, nhưng bây giờ nó không ở đó nữa. Tôi đã tìm khắp phòng rồi, sau cánh cửa, dưới ghế, đều không có. Không có điện thoại thật bất tiện, tôi không thể gọi cho bạn bè, cũng không thể xem giờ được nữa."
+      },
+      {
+        "_id": "trans_zh_h2_015",
+        "source": "明天有一个重要的汉语考试。我已经准备了很长时间了。这次考试有很多题，老师说不要太紧张。我觉得我的听和读还可以，但是写汉字有点慢。我希望这次考试的题别太难。考完试，我想好好睡一觉，因为最近学习太累了。",
+        "suggestedTranslation": "Ngày mai có một kỳ thi tiếng Trung quan trọng. Tôi đã chuẩn bị trong một thời gian dài rồi. Kỳ thi lần này có rất nhiều câu hỏi, giáo viên nói đừng quá căng thẳng. Tôi cảm thấy phần nghe và đọc của mình cũng được, nhưng viết chữ Hán hơi chậm. Tôi hy vọng câu hỏi của kỳ thi lần này đừng quá khó. Sau khi thi xong, tôi muốn ngủ một giấc thật ngon, vì gần đây học hành mệt quá."
+      },
+      {
+        "_id": "trans_zh_h2_016",
+        "source": "这是我新买的自行车，红色的，很漂亮吧？我每天骑自行车去上班，比坐公共汽车便宜。而且，骑自行车对身体也好，是一种很好的运动。从我家到公司，骑车要二十分钟，路上可以看到很多好看的风景。我觉得这真是一个好主意。",
+        "suggestedTranslation": "Đây là chiếc xe đạp mới mua của tôi, màu đỏ, đẹp phải không? Tôi mỗi ngày đều đi xe đạp đi làm, rẻ hơn đi xe buýt. Hơn nữa, đi xe đạp cũng tốt cho sức khỏe, là một loại hình vận động rất tốt. Từ nhà tôi đến công ty, đi xe đạp mất hai mươi phút, trên đường có thể thấy rất nhiều phong cảnh đẹp. Tôi cảm thấy đây thực sự là một ý tưởng hay."
+      },
+      {
+        "_id": "trans_zh_h2_017",
+        "source": "我妻子的眼睛很大很漂亮。她喜欢看书和看电影。每个周末，我们都可能去电影院看新电影。她觉得看电影可以帮助她学习汉语，因为可以听到中国人怎么说话。她也喜欢读中文报纸，虽然有些字她还不认识，但她会用手机查。",
+        "suggestedTranslation": "Mắt của vợ tôi rất to và đẹp. Cô ấy thích đọc sách và xem phim. Mỗi cuối tuần, chúng tôi có thể sẽ đến rạp chiếu phim để xem phim mới. Cô ấy cảm thấy xem phim có thể giúp cô ấy học tiếng Trung, vì có thể nghe người Trung Quốc nói chuyện như thế nào. Cô ấy cũng thích đọc báo tiếng Trung, mặc dù có một số chữ cô ấy chưa biết, nhưng cô ấy sẽ dùng điện thoại để tra."
+      },
+      {
+        "_id": "trans_zh_h2_018",
+        "source": "服务员，请给我来一杯茶，再来一点米饭和这个羊肉。这个菜的名字是什么？看起来很好吃。你们这里最受欢迎的菜是什么？可以介绍一下吗？我第一次来你们饭馆，是我的朋友告诉我你们这里的菜做得很好。谢谢你的帮助。",
+        "suggestedTranslation": "Phục vụ, xin cho tôi một tách trà, thêm một chút cơm và món thịt cừu này. Tên của món ăn này là gì? Trông rất ngon. Món ăn được yêu thích nhất ở đây của các bạn là gì? Có thể giới thiệu một chút được không? Đây là lần đầu tôi đến nhà hàng của các bạn, là bạn tôi nói với tôi rằng món ăn ở đây làm rất ngon. Cảm ơn sự giúp đỡ của bạn."
+      },
+      {
+        "_id": "trans_zh_h2_019",
+        "source": "我家有五口人：爸爸，妈妈，哥哥，姐姐和我。我爸爸是医生，在医院工作。妈妈是老师，在一所大学教汉语。哥哥在一家公司工作，他已经结婚了。姐姐正在国外学习，她明年回国。我们一家人在一起的时候非常快乐，常常一起吃饭聊天。",
+        "suggestedTranslation": "Nhà tôi có năm người: bố, mẹ, anh trai, chị gái và tôi. Bố tôi là bác sĩ, làm việc tại bệnh viện. Mẹ tôi là giáo viên, dạy tiếng Trung tại một trường đại học. Anh trai tôi làm việc tại một công ty, anh ấy đã kết hôn rồi. Chị gái tôi đang du học ở nước ngoài, năm sau chị sẽ về nước. Gia đình chúng tôi khi ở bên nhau rất vui vẻ, thường cùng nhau ăn cơm và trò chuyện."
+      },
+      {
+        "_id": "trans_zh_h2_020",
+        "source": "你看，外面正在下雪，雪下得真大。今天的报纸说天气会很冷，让我们多穿点衣服。我们今天别出去了吧，在家看电视怎么样？我可以给你做点热茶和好吃的东西。等天气好了，我们再一起出去玩。我希望明天会是晴天。",
+        "suggestedTranslation": "Bạn xem, bên ngoài đang có tuyết rơi, tuyết rơi thật lớn. Báo hôm nay nói thời tiết sẽ rất lạnh, bảo chúng ta mặc thêm quần áo. Hôm nay chúng ta đừng ra ngoài nữa nhé, ở nhà xem TV thì thế nào? Tôi có thể pha cho bạn chút trà nóng và làm vài món ngon. Đợi khi thời tiết đẹp hơn, chúng ta lại cùng nhau ra ngoài chơi. Tôi hy vọng ngày mai sẽ là một ngày nắng."
+      },
+      {
+        "_id": "trans_zh_h2_021",
+        "source": "我认识一个中国朋友，他叫王先生。他来我们国家工作已经一年了。他的妻子和孩子也跟他一起来了。他们住得离我家很近。周末的时候，我常常请他们来我家吃饭。我教他说我们国家的语言，他教我说汉语。我们都觉得学习新的语言是件有意思的事情。",
+        "suggestedTranslation": "Tôi quen một người bạn Trung Quốc, anh ấy tên là Vương. Anh ấy đến nước ta làm việc đã được một năm rồi. Vợ và con anh ấy cũng đến cùng anh. Họ sống rất gần nhà tôi. Cuối tuần, tôi thường mời họ đến nhà tôi ăn cơm. Tôi dạy anh ấy nói ngôn ngữ của nước tôi, anh ấy dạy tôi nói tiếng Trung. Chúng tôi đều cảm thấy học một ngôn ngữ mới là một việc thú vị."
+      },
+      {
+        "_id": "trans_zh_h2_022",
+        "source": "明天是星期六，我不用去上班。我准备早上睡个好觉，九点再起床。然后，我要把房间打扫一下，洗洗衣服。下午，我想去图书馆看书，找几本有意思的书。晚上，我的女朋友会来我家，我们一起做饭，看电影。我觉得这会是快乐的一天。",
+        "suggestedTranslation": "Ngày mai là thứ bảy, tôi không cần đi làm. Tôi định buổi sáng sẽ ngủ một giấc thật ngon, chín giờ mới dậy. Sau đó, tôi sẽ dọn dẹp phòng một chút, giặt giũ quần áo. Buổi chiều, tôi muốn đến thư viện đọc sách, tìm vài cuốn sách thú vị. Buổi tối, bạn gái tôi sẽ đến nhà, chúng tôi cùng nhau nấu cơm, xem phim. Tôi cảm thấy đây sẽ là một ngày vui vẻ."
+      },
+      {
+        "_id": "trans_zh_h2_023",
+        "source": "这件衣服是什么时候买的？颜色真好看。它贵不贵？我也想买一件这样的。你是在哪个商店买的？可以告诉我吗？我觉得这件衣服很适合你，穿上它让你看起来更高了。你还有没有别的颜色的？比如白色或者黑色的？",
+        "suggestedTranslation": "Chiếc áo này mua khi nào vậy? Màu sắc thật đẹp. Nó có đắt không? Tôi cũng muốn mua một chiếc như thế này. Bạn mua nó ở cửa hàng nào vậy? Có thể nói cho tôi biết được không? Tôi thấy chiếc áo này rất hợp với bạn, mặc nó vào trông bạn cao hơn. Bạn còn có màu khác không? Ví dụ như màu trắng hoặc màu đen?"
+      },
+      {
+        "_id": "trans_zh_h2_024",
+        "source": "公共汽车来了，我们快上去吧。从这里到市中心要坐多长时间？大概要半个小时吧。你看，车上的人真多，已经没有坐的地方了。我们只能站着了。下一站是哪儿？你看一下门旁边的地图。希望我们不会坐错车。",
+        "suggestedTranslation": "Xe buýt đến rồi, chúng ta mau lên xe thôi. Từ đây đến trung tâm thành phố mất bao lâu? Chắc khoảng nửa tiếng. Bạn xem, trên xe đông người quá, đã không còn chỗ ngồi rồi. Chúng ta chỉ có thể đứng thôi. Trạm tiếp theo là ở đâu? Bạn xem bản đồ bên cạnh cửa kìa. Hy vọng chúng ta không đi nhầm xe."
+      },
+      {
+        "_id": "trans_zh_h2_025",
+        "source": "喂，是张老师吗？我是小王。对不起，我今天早上身体有点不舒服，可能不能去上课了。医生让我多休息。今天的课很重要，您能不能告诉我今天学了什么？下课后，我可以让同学把书和笔记带给我。谢谢您，老师再见。",
+        "suggestedTranslation": "A lô, có phải cô Trương không ạ? Em là Tiểu Vương. Xin lỗi cô, sáng nay em thấy trong người không được khỏe, có lẽ không thể đến lớp được. Bác sĩ bảo em phải nghỉ ngơi nhiều. Bài học hôm nay rất quan trọng, cô có thể cho em biết hôm nay học gì không ạ? Sau khi tan học, em có thể nhờ bạn học mang sách và vở ghi cho em. Cảm ơn cô, chào cô ạ."
+      },
+      {
+        "_id": "trans_zh_h2_026",
+        "source": "这块手表是我爸爸送给我的生日礼物，我已经戴了三年了。虽然它不贵，但是对我来说，它的意义非常大。它告诉我时间很重要，不能浪费。每当我看到它，我就会想起爸爸对我说的话。所以我非常爱这块手表，每天都戴着它。",
+        "suggestedTranslation": "Chiếc đồng hồ này là món quà sinh nhật bố tặng tôi, tôi đã đeo nó ba năm rồi. Mặc dù nó không đắt, nhưng đối với tôi, ý nghĩa của nó rất lớn. Nó nhắc nhở tôi rằng thời gian rất quan trọng, không thể lãng phí. Mỗi khi nhìn thấy nó, tôi lại nhớ đến những lời bố nói với tôi. Vì vậy tôi rất yêu quý chiếc đồng hồ này, ngày nào cũng đeo nó."
+      },
+      {
+        "_id": "trans_zh_h2_027",
+        "source": "你喜欢喝咖啡还是喝茶？我比较喜欢喝茶，特别是中国的茶。我觉得喝茶对身体有好处。但是我的朋友们都喜欢喝咖啡，他们说早上喝杯咖啡可以让他们工作得更好。我们国家的人喝咖啡的比较多，喝茶的比较少。这可能是一种文化上的不同。",
+        "suggestedTranslation": "Bạn thích uống cà phê hay uống trà? Tôi thì thích uống trà hơn, đặc biệt là trà Trung Quốc. Tôi cảm thấy uống trà có lợi cho sức khỏe. Nhưng bạn bè tôi đều thích uống cà phê, họ nói buổi sáng uống một tách cà phê có thể giúp họ làm việc tốt hơn. Người nước tôi uống cà phê nhiều hơn, uống trà ít hơn. Đây có thể là một sự khác biệt về văn hóa."
+      },
+      {
+        "_id": "trans_zh_h2_028",
+        "source": "明天我们公司要去机场接几个客人。他们是从中国来的。经理让我去，因为我的汉语说得最好。这是我第一次去机场接人，我正在想应该准备些什么。我要知道他们的飞机什么时候到，还要准备一个写着他们名字的牌子。希望一切都没问题。",
+        "suggestedTranslation": "Ngày mai công ty chúng tôi phải ra sân bay đón mấy vị khách. Họ đến từ Trung Quốc. Giám đốc bảo tôi đi, vì tiếng Trung của tôi là tốt nhất. Đây là lần đầu tiên tôi ra sân bay đón người, tôi đang nghĩ nên chuẩn bị những gì. Tôi cần biết máy bay của họ mấy giờ đến, còn phải chuẩn bị một tấm biển ghi tên của họ. Hy vọng mọi việc đều ổn."
+      },
+      {
+        "_id": "trans_zh_h2_029",
+        "source": "我家的小猫是白色的，眼睛大大的，非常可爱。它喜欢睡觉，也喜欢和我玩。每天我下班回家，它都会在门口等我。我给它准备了鱼和牛奶，它吃得很高兴。有它在家，我觉得不那么孤单了。它是我最好的朋友之一。",
+        "suggestedTranslation": "Con mèo nhà tôi màu trắng, mắt to tròn, rất đáng yêu. Nó thích ngủ, cũng thích chơi với tôi. Mỗi ngày khi tôi đi làm về, nó đều sẽ đợi tôi ở cửa. Tôi chuẩn bị cá và sữa cho nó, nó ăn rất vui vẻ. Có nó ở nhà, tôi cảm thấy không còn cô đơn nữa. Nó là một trong những người bạn tốt nhất của tôi."
+      },
+      {
+        "_id": "trans_zh_h2_030",
+        "source": "你觉得这道题怎么做？我看了很长时间，还是不太懂。老师上课的时候说了，但是我没听清楚。你可以再给我讲一次吗？我觉得这个问题可能有点难。考试的时候如果也遇到这样的题，我就不知道怎么办了。谢谢你的帮助。",
+        "suggestedTranslation": "Bạn thấy câu hỏi này làm thế nào? Tôi đã xem rất lâu rồi mà vẫn chưa hiểu lắm. Lúc trên lớp thầy giáo có giảng, nhưng tôi nghe không rõ. Bạn có thể giảng lại cho tôi một lần nữa được không? Tôi cảm thấy câu hỏi này có thể hơi khó. Lúc thi nếu cũng gặp câu hỏi như thế này, tôi sẽ không biết làm thế nào. Cảm ơn sự giúp đỡ của bạn."
+      },
+      {
+        "_id": "trans_zh_h2_031",
+        "source": "我哥哥比我大五岁，他是一名丈夫，也是一位爸爸。他的妻子很漂亮，女儿也很可爱。他们一家人住得离我们家不远，走路十分钟就到了。每个星期天，他们都会来我们家吃饭。我喜欢和我的小侄女玩，她总是笑，非常快乐。",
+        "suggestedTranslation": "Anh trai tôi lớn hơn tôi năm tuổi, anh ấy là một người chồng, và cũng là một người cha. Vợ anh ấy rất đẹp, con gái cũng rất đáng yêu. Gia đình họ sống không xa nhà chúng tôi, đi bộ mười phút là đến. Mỗi Chủ nhật, họ đều sẽ đến nhà chúng tôi ăn cơm. Tôi thích chơi với cháu gái nhỏ của mình, cô bé luôn cười, rất vui vẻ."
+      },
+      {
+        "_id": "trans_zh_h2_032",
+        "source": "这家饭馆的服务非常好，服务员都很热情。我们点了三个菜，一个汤，还有米饭。菜很快就上来了，味道也不错，不是很贵。我最喜欢的是那个鱼，做得特别好吃。我的朋友说他下次还要来。我们吃完饭，还送了我们一些水果。",
+        "suggestedTranslation": "Dịch vụ của nhà hàng này rất tốt, nhân viên phục vụ đều rất nhiệt tình. Chúng tôi đã gọi ba món ăn, một món canh, và cơm. Món ăn được mang lên rất nhanh, hương vị cũng không tồi, không đắt lắm. Tôi thích nhất là món cá đó, làm đặc biệt ngon. Bạn tôi nói lần sau anh ấy vẫn muốn đến. Sau khi chúng tôi ăn xong, họ còn tặng chúng tôi một ít hoa quả."
+      },
+      {
+        "_id": "trans_zh_h2_033",
+        "source": "你已经学习汉语多长时间了？你觉得汉语难吗？我觉得听和说比较容易，但是读和写很难，特别是汉字。我的老师告诉我，每天都要练习，多读多写，慢慢就会好了。我也觉得是这样，所以现在我每天都花一个小时写汉字。",
+        "suggestedTranslation": "Bạn đã học tiếng Trung bao lâu rồi? Bạn có thấy tiếng Trung khó không? Tôi thấy nghe và nói tương đối dễ, nhưng đọc và viết rất khó, đặc biệt là chữ Hán. Giáo viên của tôi nói với tôi rằng, mỗi ngày đều phải luyện tập, đọc nhiều viết nhiều, dần dần sẽ tốt hơn. Tôi cũng cảm thấy như vậy, vì vậy bây giờ mỗi ngày tôi đều dành một giờ để viết chữ Hán."
+      },
+      {
+        "_id": "trans_zh_h2_034",
+        "source": "今天天气真不错，不冷也不热，是晴天。我们一起出去走走吧。我知道附近有一个公园，那里的花都开了，很漂亮。我们可以拍一些照片。公园旁边还有一条小河，很多人在那里跑步和散步。运动一下对身体好，你觉得怎么样？",
+        "suggestedTranslation": "Thời tiết hôm nay thật đẹp, không lạnh cũng không nóng, là một ngày nắng. Chúng ta cùng nhau ra ngoài đi dạo nhé. Tôi biết gần đây có một công viên, hoa ở đó đều nở rồi, rất đẹp. Chúng ta có thể chụp một vài bức ảnh. Bên cạnh công viên còn có một con sông nhỏ, rất nhiều người đang chạy bộ và đi dạo ở đó. Vận động một chút tốt cho sức khỏe, bạn thấy thế nào?"
+      },
+      {
+        "_id": "trans_zh_h2_035",
+        "source": "我新买了一本书，是关于中国历史的。虽然里面有很多字我还不认识，但是我可以一边看一边查字典。我觉得这对我学习汉语很有帮助。了解一个国家的历史，可以帮助你更好地了解它的文化。我希望以后能看懂中文报纸和电视。",
+        "suggestedTranslation": "Tôi mới mua một cuốn sách, là về lịch sử Trung Quốc. Mặc dù bên trong có rất nhiều chữ tôi chưa biết, nhưng tôi có thể vừa đọc vừa tra từ điển. Tôi cảm thấy điều này rất hữu ích cho việc học tiếng Trung của mình. Hiểu lịch sử của một quốc gia có thể giúp bạn hiểu rõ hơn về văn hóa của nó. Tôi hy vọng sau này có thể đọc hiểu báo và xem TV tiếng Trung."
+      },
+      {
+        "_id": "trans_zh_h2_036",
+        "source": "我昨天买的票是今天下午三点半的火车。我现在正在去火车站的路上。从我家到火车站坐出租车要二十分钟。我希望路上别太忙，不要迟到。这次我是回家看爸爸妈妈，他们已经很久没看见我了。我给他们买了很多东西，希望他们会喜欢。",
+        "suggestedTranslation": "Vé tôi mua hôm qua là chuyến tàu lúc ba giờ rưỡi chiều nay. Bây giờ tôi đang trên đường đến ga tàu hỏa. Từ nhà tôi đến ga tàu đi taxi mất hai mươi phút. Tôi hy vọng trên đường không quá đông, đừng đến muộn. Lần này tôi về nhà thăm bố mẹ, họ đã rất lâu rồi không gặp tôi. Tôi đã mua rất nhiều thứ cho họ, hy vọng họ sẽ thích."
+      },
+      {
+        "_id": "trans_zh_h2_037",
+        "source": "你喜欢旅游吗？我觉得旅游是一件非常好的事情。你可以去不同的地方，看不同的风景，认识不同的人。去年我去了中国的南方，那里的天气比我们这里热。我还吃了很多以前没吃过的水果。我希望以后有时间可以去中国的北方看看。",
+        "suggestedTranslation": "Bạn có thích du lịch không? Tôi cảm thấy du lịch là một việc rất tuyệt vời. Bạn có thể đến những nơi khác nhau, ngắm những phong cảnh khác nhau, quen biết những người khác nhau. Năm ngoái tôi đã đến miền Nam Trung Quốc, thời tiết ở đó nóng hơn ở đây của chúng ta. Tôi còn ăn rất nhiều loại hoa quả mà trước đây chưa từng ăn. Tôi hy vọng sau này có thời gian có thể đi xem miền Bắc Trung Quốc."
+      },
+      {
+        "_id": "trans_zh_h2_038",
+        "source": "我的女儿今年八岁了，上小学二年级。她每天早上六点半起床，吃了早饭就去学校。她很喜欢学习，特别是数学课。老师常常说她是一个好学生。放学后，她喜欢和朋友们一起玩。她还告诉我，她长大了想当一名医生，因为可以帮助生病的人。",
+        "suggestedTranslation": "Con gái tôi năm nay tám tuổi, học lớp hai tiểu học. Mỗi sáng bé dậy lúc sáu rưỡi, ăn sáng xong là đến trường. Bé rất thích học, đặc biệt là môn toán. Giáo viên thường nói bé là một học sinh ngoan. Sau khi tan học, bé thích chơi cùng bạn bè. Bé còn nói với tôi rằng, khi lớn lên bé muốn làm bác sĩ, vì có thể giúp đỡ những người bị bệnh."
+      },
+      {
+        "_id": "trans_zh_h2_039",
+        "source": "这家商店的衣服正在打折，比平常便宜很多。你看这件白色的怎么样？我觉得很漂亮。服务员，请问这件有没有大一点的？我想试一下。好的，谢谢你。我觉得这件很不错，也不是很贵。好的，我就买这件了，请帮我包起来。",
+        "suggestedTranslation": "Quần áo ở cửa hàng này đang giảm giá, rẻ hơn bình thường rất nhiều. Bạn xem chiếc màu trắng này thế nào? Tôi thấy rất đẹp. Nhân viên phục vụ, xin hỏi chiếc này có cỡ lớn hơn một chút không? Tôi muốn thử một chút. Vâng, cảm ơn bạn. Tôi thấy chiếc này rất ổn, cũng không đắt lắm. Được, tôi mua chiếc này, xin hãy gói lại giúp tôi."
+      },
+      {
+        "_id": "trans_zh_h2_040",
+        "source": "我弟弟很喜欢运动，特别是踢足球。每个周末，他都和朋友们去学校的运动场踢球。他踢得非常好，是他们球队里最好的。他说踢足球让他很快乐，也让他的身体更健康。他的房间里有很多关于足球明星的报纸和照片。他希望以后能成为一名足球运动员。",
+        "suggestedTranslation": "Em trai tôi rất thích thể thao, đặc biệt là đá bóng. Mỗi cuối tuần, cậu ấy đều cùng bạn bè đến sân vận động của trường để đá bóng. Cậu ấy đá rất giỏi, là người giỏi nhất trong đội của họ. Cậu ấy nói đá bóng khiến cậu ấy rất vui, và cũng làm cho cơ thể khỏe mạnh hơn. Trong phòng của cậu ấy có rất nhiều báo và ảnh về các ngôi sao bóng đá. Cậu ấy hy vọng sau này có thể trở thành một vận động viên bóng đá."
+      },
+      {
+        "_id": "trans_zh_h2_041",
+        "source": "今天早上出门的时候，天还是阴的，我以为会下雨。所以我就带了雨伞。但是到了中午，天晴了，太阳出来了，天气也热了起来。办公室里的人都说今天天气真奇怪。下午下班的时候，我希望不要再下雨了，因为我没开车，是骑自行车来的。",
+        "suggestedTranslation": "Sáng nay lúc ra ngoài, trời vẫn còn âm u, tôi tưởng sẽ mưa. Vì vậy tôi đã mang theo ô. Nhưng đến trưa, trời quang đãng, mặt trời ló ra, thời tiết cũng nóng lên. Mọi người trong văn phòng đều nói thời tiết hôm nay thật kỳ lạ. Chiều lúc tan làm, tôi hy vọng sẽ không mưa nữa, vì tôi không lái xe, mà là đi xe đạp đến."
+      },
+      {
+        "_id": "trans_zh_h2_042",
+        "source": "你找工作找到了吗？我现在正在找。我在报纸上看了很多，也问了朋友。我希望找一个离家近一点的工作，这样每天可以多睡一会儿。我对电脑很了解，所以想找一个和电脑有关的工作。如果你有什么好介绍，请告诉我。谢谢你的帮助。",
+        "suggestedTranslation": "Bạn đã tìm được việc chưa? Tôi hiện đang tìm. Tôi đã xem rất nhiều trên báo, cũng đã hỏi bạn bè. Tôi hy vọng tìm được một công việc gần nhà một chút, như vậy mỗi ngày có thể ngủ thêm một lát. Tôi rất am hiểu về máy tính, vì vậy muốn tìm một công việc liên quan đến máy tính. Nếu bạn có giới thiệu nào hay, xin hãy nói cho tôi biết. Cảm ơn sự giúp đỡ của bạn."
+      },
+      {
+        "_id": "trans_zh_h2_043",
+        "source": "喂，妈妈，是我。我现在已经在火车站了，准备上车。火车是下午两点的，不用担心。我买了吃的和水在路上吃。大概晚上十点能到家。爸爸在家吗？请告诉他我回来了。外面有点冷，你们多穿点衣服。好的，我上车了，再见。",
+        "suggestedTranslation": "A lô, mẹ à, con đây. Con bây giờ đã ở ga tàu rồi, chuẩn bị lên tàu. Tàu lúc hai giờ chiều, mẹ đừng lo. Con đã mua đồ ăn và nước để ăn trên đường. Khoảng mười giờ tối có thể về đến nhà. Bố có nhà không ạ? Mẹ nói với bố là con về nhé. Bên ngoài hơi lạnh, bố mẹ mặc thêm quần áo vào. Vâng, con lên tàu đây, tạm biệt mẹ."
+      },
+      {
+        "_id": "trans_zh_h2_044",
+        "source": "学习一门新的语言，最重要的是多说多听。别怕说错，说错了老师和朋友可以帮你。每天花半个小时听一些简单的中文对话，对你的听力非常有帮助。你也可以找一个中国朋友，常常和他聊天。慢慢地，你就会发现你的汉语越来越好了。",
+        "suggestedTranslation": "Học một ngôn ngữ mới, điều quan trọng nhất là nói nhiều và nghe nhiều. Đừng sợ nói sai, nói sai giáo viên và bạn bè có thể giúp bạn. Mỗi ngày dành nửa tiếng nghe một số đoạn hội thoại tiếng Trung đơn giản, sẽ rất hữu ích cho kỹ năng nghe của bạn. Bạn cũng có thể tìm một người bạn Trung Quốc, thường xuyên trò chuyện với anh ấy. Dần dần, bạn sẽ phát hiện ra tiếng Trung của mình ngày càng tốt hơn."
+      },
+      {
+        "_id": "trans_zh_h2_045",
+        "source": "这是我们新家的照片，你看怎么样？这个房间是我们的，旁边那个小一点的是给我女儿的。我们买了很多新桌子和新椅子。我觉得最满意的是厨房，很大，做饭很方便。房子后面还有一个小花园，我们可以种一些花。欢迎你来玩。",
+        "suggestedTranslation": "Đây là ảnh ngôi nhà mới của chúng tôi, bạn thấy thế nào? Căn phòng này là của chúng tôi, căn nhỏ hơn bên cạnh là dành cho con gái tôi. Chúng tôi đã mua rất nhiều bàn và ghế mới. Tôi cảm thấy hài lòng nhất là nhà bếp, rất rộng, nấu ăn rất tiện lợi. Phía sau nhà còn có một khu vườn nhỏ, chúng tôi có thể trồng một ít hoa. Chào mừng bạn đến chơi."
+      },
+      {
+        "_id": "trans_zh_h2_046",
+        "source": "我正在准备晚饭。今天晚上我们吃米饭，还做了三个菜。一个是中国人喜欢吃的西红柿鸡蛋，一个是鱼，还有一个羊肉。我觉得你会喜欢的。你大概什么时候能到家？饭快做好了。路上开车慢一点，别着急。我在家等你。",
+        "suggestedTranslation": "Em đang chuẩn bị bữa tối. Tối nay chúng ta ăn cơm, em còn làm ba món ăn. Một món là trứng sốt cà chua mà người Trung Quốc thích ăn, một món là cá, và một món thịt cừu. Em nghĩ anh sẽ thích. Khoảng mấy giờ anh về đến nhà? Cơm sắp xong rồi. Trên đường lái xe chậm một chút, đừng vội. Em ở nhà đợi anh."
+      },
+      {
+        "_id": "trans_zh_h2_047",
+        "source": "明天是小王的生日，我们准备给他一个惊喜。我们已经买好了生日礼物，是一个新手机。我们还想买一个大大的生日蛋糕。下午放学后，我们一起去他家。你觉得这个主意怎么样？别告诉他，这是我们之间的秘密。希望能给他一个快乐的生日。",
+        "suggestedTranslation": "Ngày mai là sinh nhật của Tiểu Vương, chúng tôi chuẩn bị cho cậu ấy một bất ngờ. Chúng tôi đã mua xong quà sinh nhật, là một chiếc điện thoại mới. Chúng tôi còn muốn mua một chiếc bánh sinh nhật thật to. Chiều sau khi tan học, chúng tôi cùng nhau đến nhà cậu ấy. Bạn thấy ý tưởng này thế nào? Đừng nói cho cậu ấy biết nhé, đây là bí mật giữa chúng ta. Hy vọng sẽ mang đến cho cậu ấy một sinh nhật vui vẻ."
+      },
+      {
+        "_id": "trans_zh_h2_048",
+        "source": "我每天早上七点半开始上班，下午五点半下班。中午有一个半小时的休息时间。我通常和同事们一起去公司附近的饭馆吃饭。我们的工作不是很忙，但是经理对我们的要求很高。他说，做事情一定要做得最好。我很喜欢我的同事们，大家在一起工作很开心。",
+        "suggestedTranslation": "Tôi mỗi sáng bắt đầu làm việc lúc bảy rưỡi, tan làm lúc năm rưỡi chiều. Buổi trưa có một tiếng rưỡi nghỉ ngơi. Tôi thường cùng đồng nghiệp đến nhà hàng gần công ty ăn cơm. Công việc của chúng tôi không bận lắm, nhưng giám đốc yêu cầu rất cao đối với chúng tôi. Ông ấy nói, làm việc gì cũng phải làm cho tốt nhất. Tôi rất thích các đồng nghiệp của mình, mọi người cùng nhau làm việc rất vui vẻ."
+      },
+      {
+        "_id": "trans_zh_h2_049",
+        "source": "左边的这个人是我丈夫，右边的是我儿子。这张照片是去年我们去海边玩的时候拍的。那时候我儿子还不会游泳，现在他已经游得很好了。你看他笑得多开心。时间过得真快，孩子一年比一年高。我希望我们每年都能一起出去旅游。",
+        "suggestedTranslation": "Người bên trái này là chồng tôi, bên phải là con trai tôi. Bức ảnh này được chụp vào năm ngoái khi chúng tôi đi biển chơi. Lúc đó con trai tôi còn chưa biết bơi, bây giờ cháu đã bơi rất giỏi rồi. Bạn xem nó cười vui vẻ biết bao. Thời gian trôi thật nhanh, con cái mỗi năm một cao hơn. Tôi hy vọng mỗi năm chúng tôi đều có thể cùng nhau đi du lịch."
+      },
+      {
+        "_id": "trans_zh_h2_050",
+        "source": "今天的报纸上说，明天天气不好，可能会下大雨。你明天出门的时候别忘了带伞。如果你开车，路上要慢一点。下雨天，路上车多，也容易出问题。如果雨下得太大，你就别出去了，在家休息吧。有什么事情可以打电话。",
+        "suggestedTranslation": "Báo hôm nay nói, thời tiết ngày mai không tốt, có thể sẽ có mưa to. Ngày mai lúc ra ngoài bạn đừng quên mang ô. Nếu bạn lái xe, trên đường phải đi chậm một chút. Ngày mưa, trên đường xe đông, cũng dễ xảy ra vấn đề. Nếu mưa quá to, bạn đừng ra ngoài nữa, ở nhà nghỉ ngơi đi. Có việc gì có thể gọi điện thoại."
+      },
+      {
+        "_id": "trans_zh_h2_051",
+        "source": "我正在为去中国旅游做准备。我已经买好了飞机票，也找到了住的地方。我还买了一本关于中国的书，想多了解一下那里的文化。我的中国朋友告诉我，春天去北京最好，因为天气不冷不热。我很期待这次旅行，希望能拍很多漂亮的照片。",
+        "suggestedTranslation": "Tôi đang chuẩn bị cho chuyến du lịch Trung Quốc. Tôi đã mua vé máy bay, cũng đã tìm được chỗ ở. Tôi còn mua một cuốn sách về Trung Quốc, muốn tìm hiểu thêm về văn hóa ở đó. Bạn tôi người Trung Quốc nói với tôi, mùa xuân đi Bắc Kinh là tốt nhất, vì thời tiết không lạnh cũng không nóng. Tôi rất mong chờ chuyến đi này, hy vọng sẽ chụp được nhiều bức ảnh đẹp."
+      },
+      {
+        "_id": "trans_zh_h2_052",
+        "source": "这家商店的东西真不少。你看这些水果，又大又红的苹果，还有西瓜。我们买点儿吧。前面还有卖衣服和报纸的。你想不想买件新衣服？这件蓝色的怎么样？我觉得很适合你。我们再买点牛奶和鸡蛋，家里的已经吃完了。",
+        "suggestedTranslation": "Đồ đạc trong cửa hàng này thật nhiều. Bạn xem những loại hoa quả này, táo vừa to vừa đỏ, còn có dưa hấu. Chúng ta mua một ít đi. Phía trước còn có bán quần áo và báo. Bạn có muốn mua một bộ quần áo mới không? Chiếc màu xanh lam này thế nào? Tôi thấy rất hợp với bạn. Chúng ta mua thêm chút sữa và trứng nữa, đồ ở nhà đã ăn hết rồi."
+      },
+      {
+        "_id": "trans_zh_h2_053",
+        "source": "王医生，您好。我最近总是觉得很累，晚上也睡不好。这是为什么呢？我每天工作八个小时，也不是很忙。您觉得我应该怎么办？是不是需要吃点药？还是需要多做一些运动？请您给我一些帮助。谢谢您。",
+        "suggestedTranslation": "Chào bác sĩ Vương. Gần đây tôi luôn cảm thấy rất mệt, buổi tối cũng ngủ không ngon. Tại sao lại như vậy ạ? Tôi mỗi ngày làm việc tám tiếng, cũng không bận lắm. Bác sĩ thấy tôi nên làm thế nào? Có cần phải uống chút thuốc không? Hay là cần vận động nhiều hơn? Xin bác sĩ hãy cho tôi một vài lời khuyên. Cảm ơn bác sĩ."
+      },
+      {
+        "_id": "trans_zh_h2_054",
+        "source": "从我家到公司，坐公共汽车要一个小时，太慢了。所以我正在考虑买一辆车。我的朋友说，开车虽然快，但是每天找停车的地方也是一个大问题。而且，买车和养车都要花很多钱。我现在还在想，不知道应该怎么选择。你有什么好主意吗？",
+        "suggestedTranslation": "Từ nhà tôi đến công ty, đi xe buýt mất một tiếng đồng hồ, quá chậm. Vì vậy tôi đang cân nhắc mua một chiếc xe ô tô. Bạn tôi nói, lái xe tuy nhanh, nhưng mỗi ngày tìm chỗ đậu xe cũng là một vấn đề lớn. Hơn nữa, mua xe và nuôi xe đều tốn rất nhiều tiền. Bây giờ tôi vẫn đang suy nghĩ, không biết nên lựa chọn thế nào. Bạn có ý kiến gì hay không?"
+      },
+      {
+        "_id": "trans_zh_h2_055",
+        "source": "我妹妹下个月就要结婚了。她的丈夫是她大学同学，人非常好，对她也很好。他们准备去南方旅游结婚。我正在为她准备结婚礼物，我想送她一些有意思的东西。妈妈准备送她一套新衣服。我们全家都为她感到高兴。",
+        "suggestedTranslation": "Em gái tôi tháng sau sẽ kết hôn. Chồng của em ấy là bạn học đại học của em, là người rất tốt, cũng rất tốt với em. Họ dự định đi du lịch kết hôn ở miền Nam. Tôi đang chuẩn bị quà cưới cho em ấy, tôi muốn tặng em ấy một vài món đồ thú vị. Mẹ chuẩn bị tặng em một bộ quần áo mới. Cả nhà chúng tôi đều mừng cho em."
+      },
+      {
+        "_id": "trans_zh_h2_056",
+        "source": "你喜欢猫还是狗？我家里有一只大狗，黑色的，非常聪明。每天早上，它都和我一起出去跑步。它是我最好的朋友。但是我的妻子更喜欢猫，她说猫比较安静，不那么吵。我们常常为这个问题说话，但是到现在也没有结果。",
+        "suggestedTranslation": "Bạn thích mèo hay chó? Nhà tôi có một con chó lớn, màu đen, rất thông minh. Mỗi sáng, nó đều cùng tôi ra ngoài chạy bộ. Nó là người bạn tốt nhất của tôi. Nhưng vợ tôi thì thích mèo hơn, cô ấy nói mèo tương đối yên tĩnh, không ồn ào như vậy. Chúng tôi thường tranh luận về vấn đề này, nhưng đến giờ vẫn chưa có kết quả."
+      },
+      {
+        "_id": "trans_zh_h2_057",
+        "source": "这个周末你有什么安排？如果没事的话，我们一起去爬山怎么样？我听说西边的山很漂亮，空气也好。我们可以早上八点出发，坐公共汽车去。中午在山上吃点东西，下午再回来。多出去走走，对身体有好处。你觉得这个主意好吗？",
+        "suggestedTranslation": "Cuối tuần này bạn có kế hoạch gì chưa? Nếu không có việc gì, chúng ta cùng đi leo núi nhé? Tôi nghe nói ngọn núi ở phía tây rất đẹp, không khí cũng trong lành. Chúng ta có thể xuất phát lúc tám giờ sáng, đi xe buýt đến đó. Buổi trưa ăn chút gì đó trên núi, chiều lại về. Ra ngoài đi dạo nhiều tốt cho sức khỏe. Bạn thấy ý tưởng này có hay không?"
+      },
+      {
+        "_id": "trans_zh_h2_058",
+        "source": "我的新手机比旧的那个好用多了。它的屏幕更大，看电影和玩游戏都很清楚。拍照也比以前清楚很多。我最喜欢的功能是可以用它来学习汉语，有很多好用的应用。虽然它有点贵，但是我觉得很值得。我希望它可以用很长时间。",
+        "suggestedTranslation": "Điện thoại mới của tôi dễ dùng hơn nhiều so với cái cũ. Màn hình của nó lớn hơn, xem phim và chơi game đều rất rõ. Chụp ảnh cũng rõ hơn trước rất nhiều. Chức năng tôi thích nhất là có thể dùng nó để học tiếng Trung, có rất nhiều ứng dụng hữu ích. Mặc dù nó hơi đắt, nhưng tôi cảm thấy rất đáng tiền. Tôi hy vọng nó có thể dùng được trong một thời gian dài."
+      },
+      {
+        "_id": "trans_zh_h2_059",
+        "source": "老师，这篇课文我已经读了三遍了，但是还有几个句子不太懂它的意思。比如这个“因为……所以……”，是什么意思？还有这个“比”字怎么用？您能再给我们讲讲吗？我们觉得这些语法点有点难。谢谢老师的帮助。",
+        "suggestedTranslation": "Thưa cô, bài khóa này em đã đọc ba lần rồi, nhưng vẫn còn vài câu không hiểu rõ ý nghĩa. Ví dụ như cấu trúc “bởi vì... cho nên...” này nghĩa là gì ạ? Còn chữ “hơn” (比) này dùng như thế nào? Cô có thể giảng lại cho chúng em được không ạ? Chúng em cảm thấy những điểm ngữ pháp này hơi khó. Cảm ơn sự giúp đỡ của cô."
+      },
+      {
+        "_id": "trans_zh_h2_060",
+        "source": "欢迎来到我们家。请坐，喝杯茶吧。这是我妻子，那是我的女儿。我妻子是老师，女儿正在上大学。你不用客气，就像在自己家一样。晚饭马上就好了，我妈妈做的饭特别好吃。希望你喜欢我们为你准备的菜。",
+        "suggestedTranslation": "Chào mừng đến nhà chúng tôi. Mời ngồi, uống tách trà nhé. Đây là vợ tôi, kia là con gái tôi. Vợ tôi là giáo viên, con gái đang học đại học. Bạn đừng khách sáo, cứ tự nhiên như ở nhà. Bữa tối sắp xong rồi, cơm mẹ tôi nấu đặc biệt ngon. Hy vọng bạn sẽ thích những món ăn chúng tôi chuẩn bị cho bạn."
+      },
+      {
+        "_id": "trans_zh_h2_061",
+        "source": "这个电影院是新开的，里面的椅子很舒服，屏幕也很大。今天的电影票不贵，一个人三十块钱。你想看哪部电影？这部中国电影怎么样？我听说很有意思。电影七点半开始，我们还有时间去买点喝的和吃的。快点决定吧。",
+        "suggestedTranslation": "Rạp chiếu phim này mới mở, ghế bên trong rất thoải mái, màn hình cũng rất lớn. Vé xem phim hôm nay không đắt, ba mươi tệ một người. Bạn muốn xem phim nào? Bộ phim Trung Quốc này thế nào? Tôi nghe nói rất thú vị. Phim bắt đầu lúc bảy rưỡi, chúng ta vẫn còn thời gian để đi mua chút đồ uống và đồ ăn. Mau quyết định đi."
+      },
+      {
+        "_id": "trans_zh_h2_062",
+        "source": "这是我第一次坐船，感觉很不一样。你看，海上的风景多漂亮啊！蓝色的天，白色的云，还有飞来飞去的小鸟。船开得不快也不慢，很舒服。我拍了很多照片，想发给我的朋友们看。这次旅行真有意思，我希望以后还能再来。",
+        "suggestedTranslation": "Đây là lần đầu tiên tôi đi thuyền, cảm giác rất khác biệt. Bạn xem, phong cảnh trên biển đẹp biết bao! Bầu trời xanh, mây trắng, còn có những chú chim nhỏ bay lượn. Thuyền chạy không nhanh cũng không chậm, rất thoải mái. Tôi đã chụp rất nhiều ảnh, muốn gửi cho bạn bè xem. Chuyến đi này thật thú vị, tôi hy vọng sau này có thể đến nữa."
+      },
+      {
+        "_id": "trans_zh_h2_063",
+        "source": "我哥哥的公司离我们家很远，开车要一个多小时。他每天早上六点就要起床，晚上很晚才回家，非常累。他正在考虑换一个工作。他希望找一个离家近的公司，这样就有更多的时间和家人在一起。但是找一个好工作不是一件容易的事情。",
+        "suggestedTranslation": "Công ty của anh trai tôi rất xa nhà chúng tôi, lái xe mất hơn một tiếng. Mỗi sáng anh ấy phải dậy lúc sáu giờ, tối rất muộn mới về nhà, vô cùng mệt mỏi. Anh ấy đang cân nhắc đổi một công việc khác. Anh ấy hy vọng tìm được một công ty gần nhà, như vậy sẽ có nhiều thời gian hơn để ở bên gia đình. Nhưng tìm một công việc tốt không phải là một việc dễ dàng."
+      },
+      {
+        "_id": "trans_zh_h2_064",
+        "source": "我正在学习怎么做中国菜。我买了一本书，上面介绍了很多菜的做法。今天我准备做一个西红柿炒鸡蛋。书上说，需要两个鸡蛋和一个西红柿。做法看起来不难，我希望能做好。我丈夫很喜欢吃中国菜，我想给他一个惊喜。",
+        "suggestedTranslation": "Tôi đang học cách làm món ăn Trung Quốc. Tôi đã mua một cuốn sách, trên đó giới thiệu cách làm của rất nhiều món ăn. Hôm nay tôi dự định làm món trứng xào cà chua. Sách nói, cần hai quả trứng và một quả cà chua. Cách làm trông không khó, tôi hy vọng có thể làm tốt. Chồng tôi rất thích ăn món Trung Quốc, tôi muốn cho anh ấy một bất ngờ."
+      },
+      {
+        "_id": "trans_zh_h2_065",
+        "source": "下个星期我们有一次考试，老师说这次考试很重要。从这个星期开始，我每天晚上都去图书馆复习。我的同学也和我一起。我们互相帮助，有问题一起讨论。我觉得这样学习效果比一个人学好。我们都希望这次能考得好一点。",
+        "suggestedTranslation": "Tuần sau chúng tôi có một kỳ thi, giáo viên nói kỳ thi lần này rất quan trọng. Bắt đầu từ tuần này, mỗi tối tôi đều đến thư viện ôn tập. Bạn học của tôi cũng đi cùng tôi. Chúng tôi giúp đỡ lẫn nhau, có vấn đề cùng nhau thảo luận. Tôi cảm thấy học như vậy hiệu quả tốt hơn học một mình. Chúng tôi đều hy vọng lần này có thể thi tốt hơn một chút."
+      },
+      {
+        "_id": "trans_zh_h2_066",
+        "source": "你为什么看起来这么累？是昨天晚上没睡好吗？是不是工作太忙了？你要多注意身体，健康是最重要的。今天早点下班回家休息吧。别想太多工作上的事情。如果有什么需要我帮助的，请告诉我，别客气。",
+        "suggestedTranslation": "Sao trông bạn mệt mỏi thế? Có phải tối qua ngủ không ngon không? Hay là công việc bận quá? Bạn phải chú ý sức khỏe nhiều hơn, sức khỏe là quan trọng nhất. Hôm nay tan làm sớm về nhà nghỉ ngơi đi. Đừng nghĩ quá nhiều về chuyện công việc. Nếu có gì cần tôi giúp, cứ nói cho tôi biết, đừng khách sáo."
+      },
+      {
+        "_id": "trans_zh_h2_067",
+        "source": "你看，那只小狗真可爱，是白色的。它正在草地上跑步。它的主人在那边看着它笑。我也很想养一只狗，但是我的房间太小了，可能不太方便。而且我每天上班很忙，可能没有时间照顾它。所以现在只能看看别人的狗了。",
+        "suggestedTranslation": "Bạn xem, chú chó nhỏ kia thật đáng yêu, là màu trắng. Nó đang chạy trên bãi cỏ. Chủ của nó đang đứng ở kia nhìn nó cười. Tôi cũng rất muốn nuôi một con chó, nhưng phòng của tôi quá nhỏ, có thể không tiện lắm. Hơn nữa, tôi mỗi ngày đi làm rất bận, có thể không có thời gian chăm sóc nó. Vì vậy bây giờ chỉ có thể ngắm chó của người khác thôi."
+      },
+      {
+        "_id": "trans_zh_h2_068",
+        "source": "明天是星期天，你有什么打算？我想去商店买几件新衣服，因为天气热了，我需要买几件夏天的衣服。你要不要和我一起去？我知道有一家商店的衣服又便宜又好看。我们可以上午去，中午在那附近吃饭。你觉得怎么样？",
+        "suggestedTranslation": "Ngày mai là Chủ nhật, bạn có dự định gì chưa? Tôi muốn đi cửa hàng mua vài bộ quần áo mới, vì thời tiết nóng lên rồi, tôi cần mua vài bộ quần áo mùa hè. Bạn có muốn đi cùng tôi không? Tôi biết có một cửa hàng quần áo vừa rẻ vừa đẹp. Chúng ta có thể đi vào buổi sáng, trưa ăn cơm ở gần đó. Bạn thấy thế nào?"
+      },
+      {
+        "_id": "trans_zh_h2_069",
+        "source": "我儿子今年上大学一年级。他学的是电脑。他说他对电脑很感兴趣，希望以后能成为一名电脑工程师。他每天学习都很努力，常常在图书馆看书到很晚。我们告诉他要注意身体，别太累了。看到他这么喜欢自己的专业，我们也很为他高兴。",
+        "suggestedTranslation": "Con trai tôi năm nay học đại học năm thứ nhất. Cháu học ngành máy tính. Cháu nói cháu rất có hứng thú với máy tính, hy vọng sau này có thể trở thành một kỹ sư máy tính. Mỗi ngày cháu học hành rất chăm chỉ, thường ở thư viện đọc sách đến rất muộn. Chúng tôi bảo cháu phải chú ý sức khỏe, đừng quá mệt. Thấy cháu yêu thích chuyên ngành của mình như vậy, chúng tôi cũng rất mừng cho cháu."
+      },
+      {
+        "_id": "trans_zh_h2_070",
+        "source": "喂，请问是王经理吗？我是小李。我今天早上起来觉得有点不舒服，头很疼，可能生病了。我想请一天假，去医院看看。今天的工作我已经做完了，放在您的桌子上了。如果有什么急事，您可以给我打电话。非常对不起。",
+        "suggestedTranslation": "A lô, xin hỏi có phải Giám đốc Vương không ạ? Tôi là Tiểu Lý. Sáng nay tôi thức dậy cảm thấy hơi không khỏe, đầu rất đau, có lẽ bị ốm rồi. Tôi muốn xin nghỉ một ngày để đến bệnh viện xem sao. Công việc hôm nay tôi đã làm xong, để trên bàn của ngài rồi. Nếu có việc gì gấp, ngài có thể gọi điện cho tôi. Vô cùng xin lỗi ạ."
+      },
+      {
+        "_id": "trans_zh_h2_071",
+        "source": "这家书店真大，里面有很多书。你想找什么书？是汉语学习的，还是小说？你看，这边的书都是新的，那边的书比较便宜。我们可以在这里看一下午。如果你找到了喜欢的书，我们可以买回家看。读书是一件非常好的事情。",
+        "suggestedTranslation": "Hiệu sách này thật lớn, bên trong có rất nhiều sách. Bạn muốn tìm sách gì? Là sách học tiếng Trung, hay là tiểu thuyết? Bạn xem, sách bên này đều là sách mới, sách bên kia thì rẻ hơn. Chúng ta có thể ở đây xem cả buổi chiều. Nếu bạn tìm được cuốn sách yêu thích, chúng ta có thể mua về nhà đọc. Đọc sách là một việc rất tốt."
+      },
+      {
+        "_id": "trans_zh_h2_072",
+        "source": "我住的这个地方交通很方便。门口就有公共汽车站，可以去城市的很多地方。离地铁站也近，走路只要十分钟。附近还有一家大商店，买东西很方便。虽然房租有点贵，但是我觉得住在这里很值得。生活方便是最重要的。",
+        "suggestedTranslation": "Nơi tôi ở giao thông rất thuận tiện. Ngay cửa đã có trạm xe buýt, có thể đi đến nhiều nơi trong thành phố. Cũng gần trạm tàu điện ngầm, đi bộ chỉ mất mười phút. Gần đó còn có một cửa hàng lớn, mua sắm rất tiện lợi. Mặc dù tiền thuê nhà hơi đắt, nhưng tôi cảm thấy sống ở đây rất đáng. Cuộc sống tiện lợi là quan trọng nhất."
+      },
+      {
+        "_id": "trans_zh_h2_073",
+        "source": "你觉得这两种颜色哪种更好看？是红色的还是黑色的？我想买一件新衣服，但是不知道选哪个颜色。服务员说这两种颜色都很好卖。红色的看起来更热情，黑色的看起来更漂亮。你能帮我选一下吗？我真的不知道怎么办了。",
+        "suggestedTranslation": "Bạn thấy hai màu này màu nào đẹp hơn? Là màu đỏ hay màu đen? Tôi muốn mua một chiếc áo mới, nhưng không biết chọn màu nào. Nhân viên phục vụ nói cả hai màu này đều bán rất chạy. Màu đỏ trông nhiệt tình hơn, màu đen trông đẹp hơn. Bạn có thể giúp tôi chọn một chút được không? Tôi thật sự không biết phải làm sao."
+      },
+      {
+        "_id": "trans_zh_h2_074",
+        "source": "我的爸爸很喜欢喝茶，他有很多种茶。每天吃完晚饭，他都会泡一壶茶，和妈妈一起喝，一边喝一边看电视。他说喝茶对身体好，可以帮助休息。我也学着喝茶，但是我觉得茶的味道有点苦，还是更喜欢喝果汁。",
+        "suggestedTranslation": "Bố tôi rất thích uống trà, ông có rất nhiều loại trà. Mỗi ngày sau khi ăn tối xong, ông đều sẽ pha một ấm trà, cùng mẹ uống, vừa uống vừa xem TV. Ông nói uống trà tốt cho sức khỏe, có thể giúp thư giãn. Tôi cũng học uống trà, nhưng tôi cảm thấy vị của trà hơi đắng, vẫn thích uống nước hoa quả hơn."
+      },
+      {
+        "_id": "trans_zh_h2_075",
+        "source": "去年夏天，我和朋友一起去了一个小城市旅游。那个地方的人很少，也很安静。我们住了三天。那里的天气非常好，每天都是晴天。我们骑自行车在城里逛，看了很多有意思的地方。那里的饭菜也很好吃，比大城市的便宜。我很喜欢那里。",
+        "suggestedTranslation": "Mùa hè năm ngoái, tôi và bạn bè đã cùng nhau đi du lịch đến một thành phố nhỏ. Nơi đó rất ít người, cũng rất yên tĩnh. Chúng tôi đã ở đó ba ngày. Thời tiết ở đó rất đẹp, ngày nào cũng là ngày nắng. Chúng tôi đi xe đạp dạo quanh thành phố, xem rất nhiều nơi thú vị. Đồ ăn ở đó cũng rất ngon, rẻ hơn so với các thành phố lớn. Tôi rất thích nơi đó."
+      },
+      {
+        "_id": "trans_zh_h2_076",
+        "source": "我妹妹是一个护士，在一家大医院工作。她的工作非常忙，也很累，常常需要晚上上班。但是她很喜欢自己的工作，因为她觉得帮助病人是一件非常有意义的事情。她对每一个病人都很好，病人们也都很喜欢她。我为有这样的妹妹感到高兴。",
+        "suggestedTranslation": "Em gái tôi là một y tá, làm việc tại một bệnh viện lớn. Công việc của em ấy rất bận rộn, cũng rất mệt, thường phải làm việc vào ban đêm. Nhưng em ấy rất thích công việc của mình, vì em cảm thấy giúp đỡ bệnh nhân là một việc vô cùng ý nghĩa. Em ấy đối xử rất tốt với mỗi bệnh nhân, và các bệnh nhân cũng rất quý mến em. Tôi cảm thấy vui vì có một người em gái như vậy."
+      },
+      {
+        "_id": "trans_zh_h2_077",
+        "source": "今天的汉语课，老师教我们唱了一首中文歌。这首歌很好听，但是有点难唱，因为里面有些词我们还不认识。老师一句一句地教我们，还告诉我们歌词的意思。下课后，我还在听这首歌。我希望我能快点学会它，然后唱给我的中国朋友听。",
+        "suggestedTranslation": "Buổi học tiếng Trung hôm nay, giáo viên đã dạy chúng tôi hát một bài hát tiếng Trung. Bài hát này rất hay, nhưng hơi khó hát, vì bên trong có một số từ chúng tôi chưa biết. Giáo viên dạy chúng tôi từng câu một, còn cho chúng tôi biết ý nghĩa của lời bài hát. Sau khi tan học, tôi vẫn đang nghe bài hát này. Tôi hy vọng tôi có thể học được nó nhanh một chút, sau đó hát cho bạn tôi người Trung Quốc nghe."
+      },
+      {
+        "_id": "trans_zh_h2_078",
+        "source": "你现在有时间吗？我想问你一个问题。我下个月要去中国，但是我不知道应该带什么衣服。那时候北京的天气怎么样？会很冷吗？需要穿很厚的衣服吗？我还应该准备些什么东西？这是我第一次去，所以问题有点多。谢谢你的帮助。",
+        "suggestedTranslation": "Bây giờ bạn có thời gian không? Tôi muốn hỏi bạn một vấn đề. Tháng sau tôi sẽ đến Trung Quốc, nhưng tôi không biết nên mang theo quần áo gì. Lúc đó thời tiết ở Bắc Kinh như thế nào? Sẽ rất lạnh không? Có cần mặc quần áo rất dày không? Tôi còn nên chuẩn bị thêm những thứ gì nữa? Đây là lần đầu tiên tôi đi, nên có hơi nhiều câu hỏi. Cảm ơn sự giúp đỡ của bạn."
+      },
+      {
+        "_id": "trans_zh_h2_079",
+        "source": "今天是我来这家公司工作的第一天。早上，经理向大家介绍了 我。我的同事们都很友好，对我很好。他们告诉我公司的一些事情，还带我熟悉环境。中午我们一起去吃饭。我觉得这里的工作环境很好，我希望能在这里做得好。",
+        "suggestedTranslation": "Hôm nay là ngày đầu tiên tôi đến làm việc tại công ty này. Buổi sáng, giám đốc đã giới thiệu tôi với mọi người. Các đồng nghiệp của tôi đều rất thân thiện, đối xử rất tốt với tôi. Họ nói cho tôi biết một số việc của công ty, còn dẫn tôi đi làm quen với môi trường. Buổi trưa chúng tôi cùng nhau đi ăn cơm. Tôi cảm thấy môi trường làm việc ở đây rất tốt, tôi hy vọng có thể làm tốt ở đây."
+      },
+      {
+        "_id": "trans_zh_h2_080",
+        "source": "我家离公司有点远，每天坐公共汽车要花很长时间。所以我准备搬家，找一个离公司近一点的房子。我已经在网上看了几个，这个周末准备去看看。我希望新房子能大一点，旁边有商店和车站，这样生活会方便很多。找房子真不是一件容易的事。",
+        "suggestedTranslation": "Nhà tôi hơi xa công ty, mỗi ngày đi xe buýt mất rất nhiều thời gian. Vì vậy tôi định chuyển nhà, tìm một căn nhà gần công ty hơn một chút. Tôi đã xem vài căn trên mạng, cuối tuần này định đi xem thử. Tôi hy vọng căn nhà mới có thể lớn hơn một chút, bên cạnh có cửa hàng và trạm xe, như vậy cuộc sống sẽ tiện lợi hơn nhiều. Tìm nhà thật không phải là một việc dễ dàng."
+      },
+      {
+        "_id": "trans_zh_h2_081",
+        "source": "你看，这张报纸上说，有一个新的电影要上映了。是关于一个中国家庭的故事。我觉得会很有意思。你想不想去看？我们可以这个星期六晚上去。我知道一家电影院，票不贵，而且人也不多。看完电影我们可以去喝杯咖啡。",
+        "suggestedTranslation": "Bạn xem, trên tờ báo này nói, có một bộ phim mới sắp ra mắt. Là câu chuyện về một gia đình Trung Quốc. Tôi nghĩ sẽ rất thú vị. Bạn có muốn đi xem không? Chúng ta có thể đi vào tối thứ bảy tuần này. Tôi biết một rạp chiếu phim, vé không đắt, và người cũng không đông. Xem phim xong chúng ta có thể đi uống một tách cà phê."
+      },
+      {
+        "_id": "trans_zh_h2_082",
+        "source": "我正在学跳舞，每个星期去上两次课。我们的老师跳得非常好，她对我们要求也很高。她说，跳舞不仅能让身体更健康，还能让人更快乐。我觉得她说得很对。虽然每次上完课都很累，但是我非常开心。我希望以后能跳得和老师一样好。",
+        "suggestedTranslation": "Tôi đang học khiêu vũ, mỗi tuần đi học hai buổi. Giáo viên của chúng tôi múa rất đẹp, cô ấy cũng yêu cầu rất cao đối với chúng tôi. Cô ấy nói, khiêu vũ không chỉ có thể làm cho cơ thể khỏe mạnh hơn, mà còn có thể làm cho người ta vui vẻ hơn. Tôi cảm thấy cô ấy nói rất đúng. Mặc dù mỗi lần học xong đều rất mệt, nhưng tôi vô cùng vui vẻ. Tôi hy vọng sau này có thể múa đẹp như cô giáo."
+      },
+      {
+        "_id": "trans_zh_h2_083",
+        "source": "我昨天买了一个西瓜，非常大，也很甜。我把它放在冰箱里了。今天天气这么热，我们吃点西瓜吧。吃完饭，我们可以一边看电视一边吃。你喜欢吃西瓜吗？夏天吃西瓜是最舒服的事情了。我再去洗点苹果，你想吃哪个？",
+        "suggestedTranslation": "Hôm qua tôi mua một quả dưa hấu, rất to và cũng rất ngọt. Tôi đã để nó trong tủ lạnh rồi. Hôm nay thời tiết nóng như vậy, chúng ta ăn chút dưa hấu đi. Ăn cơm xong, chúng ta có thể vừa xem TV vừa ăn. Bạn có thích ăn dưa hấu không? Mùa hè ăn dưa hấu là việc thoải mái nhất. Tôi đi rửa thêm ít táo nữa, bạn muốn ăn quả nào?"
+      },
+      {
+        "_id": "trans_zh_h2_084",
+        "source": "这件件衣服是我去年买的，但是现在已经有点小了。我想把它送给我妹妹，她比我瘦一点，应该能穿。这件衣服的颜色很好看，质量也不错。我希望她会喜欢。我准备再给自己买一件新的，这次要买大一点的。",
+        "suggestedTranslation": "Chiếc áo này là tôi mua năm ngoái, nhưng bây giờ đã hơi nhỏ rồi. Tôi muốn tặng nó cho em gái tôi, em ấy gầy hơn tôi một chút, chắc là có thể mặc vừa. Màu sắc của chiếc áo này rất đẹp, chất lượng cũng không tồi. Tôi hy vọng em ấy sẽ thích. Tôi định mua cho mình một chiếc mới, lần này phải mua cỡ lớn hơn một chút."
+      },
+      {
+        "_id": "trans_zh_h2_085",
+        "source": "我的丈夫是一名工程师，他的工作很忙。他常常需要去别的城市出差。虽然我们在一起的时间不多，但是我们的关系很好。他每天都会给我打电话，告诉我他那边的情况。我也很支持他的工作。我希望他能注意身体，不要太累。",
+        "suggestedTranslation": "Chồng tôi là một kỹ sư, công việc của anh ấy rất bận rộn. Anh ấy thường phải đi công tác ở các thành phố khác. Mặc dù thời gian chúng tôi ở bên nhau không nhiều, nhưng mối quan hệ của chúng tôi rất tốt. Mỗi ngày anh ấy đều sẽ gọi điện cho tôi, nói cho tôi biết tình hình bên đó của anh ấy. Tôi cũng rất ủng hộ công việc của anh. Tôi hy vọng anh ấy có thể chú ý sức khỏe, đừng quá mệt."
+      },
+      {
+        "_id": "trans_zh_h2_086",
+        "source": "你觉得学习汉语最大的问题是什么？对我来说，是汉字。有太多的汉字要记，而且很多字看起来很像，意思却完全不同。老师说，学习汉字没有别的办法，只能多看多写。我现在每天都花时间练习写字，希望慢慢能好起来。",
+        "suggestedTranslation": "Bạn cảm thấy vấn đề lớn nhất khi học tiếng Trung là gì? Đối với tôi, đó là chữ Hán. Có quá nhiều chữ Hán phải nhớ, và rất nhiều chữ trông rất giống nhau, nhưng ý nghĩa lại hoàn toàn khác. Giáo viên nói, học chữ Hán không có cách nào khác, chỉ có thể xem nhiều và viết nhiều. Bây giờ tôi mỗi ngày đều dành thời gian luyện viết chữ, hy vọng dần dần có thể khá hơn."
+      },
+      {
+        "_id": "trans_zh_h2_087",
+        "source": "请问，去火车站是在这里等车吗？是的，你等10路公共汽车就可以。从这里到火车站大概要多长时间？不远，二十分钟就到了。好的，谢谢你。请问下一班车什么时候来？我看看手表，应该快来了，再等五分钟吧。",
+        "suggestedTranslation": "Xin hỏi, đi đến ga tàu hỏa là đợi xe ở đây phải không? Đúng vậy, bạn đợi xe buýt tuyến số 10 là được. Từ đây đến ga tàu hỏa mất khoảng bao lâu? Không xa, hai mươi phút là đến. Vâng, cảm ơn bạn. Xin hỏi chuyến xe tiếp theo khi nào đến? Để tôi xem đồng hồ, chắc là sắp đến rồi, đợi thêm năm phút nữa nhé."
+      },
+      {
+        "_id": "trans_zh_h2_088",
+        "source": "我昨天晚上做了一个有意思的梦。我梦见我会飞了，我飞得很高，看到了很多漂亮的房子和车。我还飞到了海上，看到了蓝色的水和白色的船。这个梦太有意思了，早上起来我还记得很清楚。我把这个梦告诉了我的朋友，他也觉得很有趣。",
+        "suggestedTranslation": "Tối hôm qua tôi đã có một giấc mơ thú vị. Tôi mơ thấy mình biết bay, tôi bay rất cao, nhìn thấy rất nhiều ngôi nhà và xe hơi đẹp. Tôi còn bay ra biển, nhìn thấy nước biển màu xanh và những con thuyền màu trắng. Giấc mơ này quá thú vị, sáng dậy tôi vẫn còn nhớ rất rõ. Tôi đã kể giấc mơ này cho bạn tôi, anh ấy cũng cảm thấy rất thú vị."
+      },
+      {
+        "_id": "trans_zh_h2_089",
+        "source": "小王，你的房间怎么这么乱？桌子上都是书和报纸，椅子上还有你的衣服。快点收拾一下吧。一个干净的房间会让人觉得更舒服。你先把桌子上的东西放好，再把地扫一下。妈妈希望你每天都能让自己的房间干干净净的。",
+        "suggestedTranslation": "Tiểu Vương, sao phòng con bừa bộn thế này? Trên bàn toàn là sách và báo, trên ghế còn có quần áo của con. Mau dọn dẹp một chút đi. Một căn phòng sạch sẽ sẽ khiến người ta cảm thấy thoải mái hơn. Con hãy để đồ trên bàn gọn gàng trước, sau đó quét nhà một chút. Mẹ hy vọng mỗi ngày con đều có thể giữ cho phòng của mình sạch sẽ."
+      },
+      {
+        "_id": "trans_zh_h2_090",
+        "source": "我们公司下个月要组织一次旅游。有两个地方可以选，一个是去海边，一个是去山上。我更想去海边，因为可以游泳，还可以吃很多好吃的海鲜。但是我的同事们很多人想去山上，他们说山上的空气好。我们还在讨论，希望能快点决定。",
+        "suggestedTranslation": "Công ty chúng tôi tháng sau sẽ tổ chức một chuyến du lịch. Có hai nơi để chọn, một là đi biển, một là đi núi. Tôi thì muốn đi biển hơn, vì có thể bơi, còn có thể ăn nhiều hải sản ngon. Nhưng rất nhiều đồng nghiệp của tôi muốn đi núi, họ nói không khí trên núi trong lành. Chúng tôi vẫn đang thảo luận, hy vọng có thể quyết định nhanh một chút."
+      },
+      {
+        "_id": "trans_zh_h2_091",
+        "source": "我觉得运动对身体健康非常重要。我每天早上都去公园跑步半个小时。跑步以后，我觉得身体很舒服，一天的工作也更有精神。我的很多朋友也喜欢运动，我们有时候会一起去打篮球或者踢足球。我希望更多的人能开始运动。",
+        "suggestedTranslation": "Tôi cảm thấy vận động vô cùng quan trọng đối với sức khỏe. Tôi mỗi sáng đều đến công viên chạy bộ nửa tiếng. Sau khi chạy bộ, tôi cảm thấy cơ thể rất thoải mái, công việc trong ngày cũng có tinh thần hơn. Rất nhiều bạn bè của tôi cũng thích vận động, đôi khi chúng tôi sẽ cùng nhau đi chơi bóng rổ hoặc đá bóng. Tôi hy vọng nhiều người hơn có thể bắt đầu vận động."
+      },
+      {
+        "_id": "trans_zh_h2_092",
+        "source": "我昨天买的鸡蛋，今天早上想做早饭的时候，发现少了一个。我问我丈夫，他说他没看见。我又问我儿子，他也说不知道。后来，我看见我们家的小猫正在玩一个圆圆的东西，那就是我的鸡蛋！这只猫真是太淘气了。",
+        "suggestedTranslation": "Trứng tôi mua hôm qua, sáng nay lúc định làm bữa sáng thì phát hiện thiếu một quả. Tôi hỏi chồng tôi, anh ấy nói anh không thấy. Tôi lại hỏi con trai, nó cũng nói không biết. Sau đó, tôi nhìn thấy con mèo nhà chúng tôi đang chơi một thứ tròn tròn, đó chính là quả trứng của tôi! Con mèo này thật là quá nghịch ngợm."
+      },
+      {
+        "_id": "trans_zh_h2_093",
+        "source": "你看，天阴了，可能要下雨了。我们快点回家吧。我今天没带伞，希望雨不要下得太大。从这里回家走路要二十分钟，如果下雨了，我们就坐出租车回去吧。虽然贵一点，但是不会生病。下次出门前，我一定要看看天气预报。",
+        "suggestedTranslation": "Bạn xem, trời âm u rồi, có lẽ sắp mưa. Chúng ta mau về nhà thôi. Hôm nay tôi không mang ô, hy vọng mưa sẽ không quá to. Từ đây về nhà đi bộ mất hai mươi phút, nếu trời mưa, chúng ta đi taxi về đi. Mặc dù đắt hơn một chút, nhưng sẽ không bị ốm. Lần sau trước khi ra ngoài, tôi nhất định phải xem dự báo thời tiết."
+      },
+      {
+        "_id": "trans_zh_h2_094",
+        "source": "我姐姐的孩子今年五岁了，是个男孩，非常可爱。他很喜欢问问题，常常问一些“为什么”。比如，他会问为什么天是蓝的，为什么鸟会飞。有些问题我也不知道怎么回答。我觉得孩子们的世界真有意思，充满了好奇。",
+        "suggestedTranslation": "Con của chị gái tôi năm nay năm tuổi, là một bé trai, rất đáng yêu. Cậu bé rất thích hỏi, thường hỏi những câu “tại sao”. Ví dụ, cậu bé sẽ hỏi tại sao trời màu xanh, tại sao chim biết bay. Một số câu hỏi tôi cũng không biết trả lời thế nào. Tôi cảm thấy thế giới của trẻ con thật thú vị, tràn đầy sự tò mò."
+      },
+      {
+        "_id": "trans_zh_h2_095",
+        "source": "这家饭馆的菜真不错，特别是这个鱼，做得太好吃了。而且服务也很好，服务员很热情。我们下次再来吧。对了，你别忘了带钱包，上次就是我付的钱。开个玩笑，我们是好朋友，谁付钱都一样。我们再点一个菜怎么样？",
+        "suggestedTranslation": "Món ăn của nhà hàng này thật ngon, đặc biệt là món cá này, làm quá ngon. Hơn nữa dịch vụ cũng rất tốt, nhân viên phục vụ rất nhiệt tình. Lần sau chúng ta lại đến nhé. À đúng rồi, bạn đừng quên mang ví, lần trước là tôi trả tiền đấy. Đùa thôi, chúng ta là bạn tốt, ai trả tiền cũng như nhau. Chúng ta gọi thêm một món nữa nhé?"
+      },
+      {
+        "_id": "trans_zh_h2_096",
+        "source": "学习一门外语不是一件容易的事情，需要时间和努力。别希望一天就能学会。最重要的是每天都坚持学习，哪怕只有半个小时。你可以多看一些外语电影，多听一些外语歌。找机会和外国人说话，别怕错。慢慢来，你一定会成功的。",
+        "suggestedTranslation": "Học một ngoại ngữ không phải là một việc dễ dàng, cần có thời gian và sự nỗ lực. Đừng hy vọng có thể học được trong một ngày. Điều quan trọng nhất là mỗi ngày đều kiên trì học tập, dù chỉ là nửa tiếng. Bạn có thể xem nhiều phim ngoại ngữ, nghe nhiều bài hát ngoại ngữ. Tìm cơ hội nói chuyện với người nước ngoài, đừng sợ sai. Cứ từ từ, bạn nhất định sẽ thành công."
+      },
+      {
+        "_id": "trans_zh_h2_097",
+        "source": "我明天要去北京出差三天。飞机票已经买好了，是早上九点的。因为走得早，我可能不能送孩子去学校了。我已经告诉我的妻子了。这是我第一次去北京，听说那里的冬天很冷，我已经准备了很厚的衣服。希望这次工作一切都好。",
+        "suggestedTranslation": "Ngày mai tôi phải đi công tác ở Bắc Kinh ba ngày. Vé máy bay đã mua xong, là chuyến chín giờ sáng. Vì đi sớm, có lẽ tôi không thể đưa con đi học được. Tôi đã nói với vợ tôi rồi. Đây là lần đầu tiên tôi đến Bắc Kinh, nghe nói mùa đông ở đó rất lạnh, tôi đã chuẩn bị quần áo rất dày. Hy vọng chuyến công tác lần này mọi việc đều tốt đẹp."
+      },
+      {
+        "_id": "trans_zh_h2_098",
+        "source": "你觉得幸福是什么？对我来说，幸福就是和家人在一起。每天下班回家，能看到妻子的笑，能和孩子一起玩，就是最幸福的事情。我们不需要很有钱，也不需要住很大的房子。只要一家人健康、快乐地在一起，就够了。",
+        "suggestedTranslation": "Bạn cảm thấy hạnh phúc là gì? Đối với tôi, hạnh phúc là được ở bên gia đình. Mỗi ngày tan làm về nhà, có thể nhìn thấy nụ cười của vợ, có thể chơi cùng con, chính là điều hạnh phúc nhất. Chúng tôi không cần phải rất giàu có, cũng không cần ở trong một ngôi nhà rất lớn. Chỉ cần cả gia đình khỏe mạnh, vui vẻ ở bên nhau là đủ rồi."
+      },
+      {
+        "_id": "trans_zh_h2_099",
+        "source": "喂，你好，请问是搬家公司吗？我想问一下，从这个地方搬到那个地方，大概需要多少钱？东西不多，就是一些桌子、椅子和几箱书。你们什么时候有时间可以来？这个星期六可以吗？好的，那请你们早上九点来吧。谢谢。",
+        "suggestedTranslation": "A lô, xin chào, xin hỏi có phải công ty chuyển nhà không? Tôi muốn hỏi một chút, chuyển từ nơi này đến nơi kia, mất khoảng bao nhiêu tiền? Đồ đạc không nhiều, chỉ là một vài cái bàn, ghế và mấy thùng sách. Khi nào các bạn có thời gian đến được? Thứ bảy tuần này được không? Vâng, vậy xin mời các bạn đến lúc chín giờ sáng nhé. Cảm ơn."
+      },
+      {
+        "_id": "trans_zh_h2_100",
+        "source": "我今天在报纸上看到一个有意思的故事。故事说，有一个人，他每天都帮助别人，但是从来不求回报。很多人都觉得他很奇怪。但是他说，帮助别人让他感到快乐。我觉得他说得对，快乐不是你有多少钱，而是你为别人做了什么。",
+        "suggestedTranslation": "Hôm nay tôi đọc được một câu chuyện thú vị trên báo. Câu chuyện kể rằng, có một người, anh ấy mỗi ngày đều giúp đỡ người khác, nhưng chưa bao giờ mong được báo đáp. Rất nhiều người đều cảm thấy anh ấy rất kỳ lạ. Nhưng anh ấy nói, giúp đỡ người khác khiến anh ấy cảm thấy vui vẻ. Tôi cảm thấy anh ấy nói đúng, hạnh phúc không phải là bạn có bao nhiêu tiền, mà là bạn đã làm được gì cho người khác."
+      }
+    ]
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "title": "HSK1 Translation",
+  "language": "zh",
+  "type": "translation",
+  "level": "HSK1",
+  "content": {
+    "questions": [
+      {
+        "_id": "trans_zh_h1_001",
+        "source": "今天是星期一。上午我去学校学习汉语。我的老师是中国人，她叫李老师。中午我和同学去饭馆吃米饭和菜。我们都说汉语，我们很高兴。",
+        "suggestedTranslation": "Hôm nay là thứ hai. Buổi sáng tôi đến trường học tiếng Trung. Giáo viên của tôi là người Trung Quốc, cô ấy tên là cô giáo Lý. Buổi trưa tôi và bạn học đi nhà hàng ăn cơm và thức ăn. Chúng tôi đều nói tiếng Trung, chúng tôi rất vui."
+      },
+      {
+        "_id": "trans_zh_h1_002",
+        "source": "这是我的家。我的家在北京。我的家很大，也很漂亮。桌子上有书和电脑。椅子是爸爸买的。我爱我的家。",
+        "suggestedTranslation": "Đây là nhà của tôi. Nhà tôi ở Bắc Kinh. Nhà của tôi rất to và cũng rất đẹp. Trên bàn có sách và máy tính. Cái ghế là do bố mua. Tôi yêu ngôi nhà của mình."
+      },
+      {
+        "_id": "trans_zh_h1_003",
+        "source": "下午我和妈妈去商店。妈妈想买些水果。她买了苹果和水。我看见一件漂亮的衣服，我想买。这件衣服多少钱？太贵了，我没买。",
+        "suggestedTranslation": "Buổi chiều tôi và mẹ đi cửa hàng. Mẹ muốn mua một ít hoa quả. Bà ấy đã mua táo và nước. Tôi nhìn thấy một bộ quần áo đẹp, tôi muốn mua. Bộ quần áo này bao nhiêu tiền? Đắt quá, tôi đã không mua."
+      },
+      {
+        "_id": "trans_zh_h1_004",
+        "source": "我朋友叫大卫。他不是中国人，他是医生。他今天去医院工作。下午他会来我家。我们会一起看中国电影，喝茶。",
+        "suggestedTranslation": "Bạn tôi tên là David. Anh ấy không phải người Trung Quốc, anh ấy là bác sĩ. Hôm nay anh ấy đến bệnh viện làm việc. Buổi chiều anh ấy sẽ đến nhà tôi. Chúng tôi sẽ cùng nhau xem phim Trung Quốc và uống trà."
+      },
+      {
+        "_id": "trans_zh_h1_005",
+        "source": "昨天北京的天气很热。今天天气不热，下雨了。我没去学校，我在家看书。我读了三本书。妈妈叫我吃水果。",
+        "suggestedTranslation": "Hôm qua thời tiết ở Bắc Kinh rất nóng. Hôm nay thời tiết không nóng, trời mưa rồi. Tôi không đến trường, tôi ở nhà đọc sách. Tôi đã đọc ba quyển sách. Mẹ gọi tôi ăn hoa quả."
+      },
+      {
+        "_id": "trans_zh_h1_006",
+        "source": "喂，是王小姐吗？我是丁先生。我想请你明天中午十二点来我家吃饭。我做中国菜。你喜欢吗？好的，明天见。",
+        "suggestedTranslation": "A lô, có phải cô Vương không ạ? Tôi là ông Đinh. Tôi muốn mời cô ngày mai 12 giờ trưa đến nhà tôi ăn cơm. Tôi nấu món Trung Quốc. Cô có thích không? Được, mai gặp nhé."
+      },
+      {
+        "_id": "trans_zh_h1_007",
+        "source": "我女儿今年八岁。她是一个好学生。她喜欢去学校读书和写字。她也喜欢小猫和小狗。她想买一只小猫。",
+        "suggestedTranslation": "Con gái tôi năm nay tám tuổi. Nó là một học sinh ngoan. Nó thích đến trường đọc sách và viết chữ. Nó cũng thích mèo con và chó con. Nó muốn mua một con mèo con."
+      },
+      {
+        "_id": "trans_zh_h1_008",
+        "source": "那是我的汉语老师。他叫王朋。他在中国住了十年。他会说汉语，也会写汉字。我们都喜欢听他说话。",
+        "suggestedTranslation": "Kia là giáo viên tiếng Trung của tôi. Thầy ấy tên là Vương Bằng. Thầy ấy đã sống ở Trung Quốc mười năm. Thầy ấy biết nói tiếng Trung, cũng biết viết chữ Hán. Chúng tôi đều thích nghe thầy ấy nói chuyện."
+      },
+      {
+        "_id": "trans_zh_h1_009",
+        "source": "我坐飞机去北京。飞机上人不多。我旁边坐的是一个中国先生。他去北京看他的女儿。我们说话说了三十分钟。",
+        "suggestedTranslation": "Tôi đi máy bay đến Bắc Kinh. Trên máy bay không có nhiều người. Ngồi bên cạnh tôi là một ông người Trung Quốc. Ông ấy đến Bắc Kinh thăm con gái. Chúng tôi đã nói chuyện ba mươi phút."
+      },
+      {
+        "_id": "trans_zh_h1_010",
+        "source": "前面是火车站。我的朋友在那里。他今天回中国。我去火车站看他。他说明天会给我打电话。我说好的，再见。",
+        "suggestedTranslation": "Phía trước là ga xe lửa. Bạn tôi ở đó. Hôm nay anh ấy về Trung Quốc. Tôi ra ga xe lửa tiễn anh ấy. Anh ấy nói ngày mai sẽ gọi điện cho tôi. Tôi nói được thôi, tạm biệt."
+      },
+      {
+        "_id": "trans_zh_h1_011",
+        "source": "我的爸爸是医生，他在医院工作。我的妈妈是老师，她在学校工作。我是一个学生。我们家有三个人。我们都爱看电视。",
+        "suggestedTranslation": "Bố tôi là bác sĩ, ông làm việc ở bệnh viện. Mẹ tôi là giáo viên, bà làm việc ở trường học. Tôi là một học sinh. Nhà chúng tôi có ba người. Chúng tôi đều thích xem ti vi."
+      },
+      {
+        "_id": "trans_zh_h1_012",
+        "source": "这个商店的东西很多。我想买一个杯子。这个杯子很漂亮，多少钱？十块钱。不太贵，我买了。我还买了些苹果。",
+        "suggestedTranslation": "Cửa hàng này có rất nhiều đồ. Tôi muốn mua một cái cốc. Cái cốc này rất đẹp, bao nhiêu tiền? Mười đồng. Không đắt lắm, tôi mua rồi. Tôi còn mua thêm một ít táo."
+      },
+      {
+        "_id": "trans_zh_h1_013",
+        "source": "我的桌子上有什么？有一本书，一个电脑，和三杯茶。书是汉语书。电脑是爸爸的。茶是我的，我喜欢喝茶。",
+        "suggestedTranslation": "Trên bàn của tôi có gì? Có một quyển sách, một cái máy tính, và ba tách trà. Sách là sách tiếng Trung. Máy tính là của bố. Trà là của tôi, tôi thích uống trà."
+      },
+      {
+        "_id": "trans_zh_h1_014",
+        "source": "他是谁？他是我同学。他叫李明。他学习很好。他会读很多汉字。下午我们一起去商店买东西。",
+        "suggestedTranslation": "Anh ấy là ai? Anh ấy là bạn học của tôi. Anh ấy tên là Lý Minh. Anh ấy học rất giỏi. Anh ấy biết đọc rất nhiều chữ Hán. Buổi chiều chúng tôi cùng nhau đi cửa hàng mua đồ."
+      },
+      {
+        "_id": "trans_zh_h1_015",
+        "source": "今天天气怎么样？今天天气很冷。我不去外面。我在家看电影。电影的名字叫“你好，北京”。这个电影很好看。",
+        "suggestedTranslation": "Thời tiết hôm nay thế nào? Thời tiết hôm nay rất lạnh. Tôi không đi ra ngoài. Tôi ở nhà xem phim. Tên của bộ phim là “Xin chào, Bắc Kinh”. Bộ phim này rất hay."
+      },
+      {
+        "_id": "trans_zh_h1_016",
+        "source": "喂，请问王老师在吗？他不在。他去学校了。他什么时候回？他下午五点回。好的，谢谢你。不客气。",
+        "suggestedTranslation": "A lô, xin hỏi thầy giáo Vương có ở đó không? Thầy ấy không có ở đây. Thầy ấy đến trường rồi. Khi nào thầy ấy về? 5 giờ chiều thầy ấy về. Vâng, cảm ơn bạn. Không có gì."
+      },
+      {
+        "_id": "trans_zh_h1_017",
+        "source": "我儿子喜欢坐出租车。今天我们坐出租车去饭馆吃饭。饭馆里人很多。我们吃了米饭和中国菜。儿子吃得很高兴。",
+        "suggestedTranslation": "Con trai tôi thích đi xe taxi. Hôm nay chúng tôi đi taxi đến nhà hàng ăn cơm. Trong nhà hàng rất đông người. Chúng tôi đã ăn cơm và món ăn Trung Quốc. Con trai tôi ăn rất vui vẻ."
+      },
+      {
+        "_id": "trans_zh_h1_018",
+        "source": "那个人是谁？我不认识他。他很高。他前面是我的朋友。我的朋友叫小月。她是一个漂亮的小姐。",
+        "suggestedTranslation": "Người kia là ai? Tôi không quen anh ấy. Anh ấy rất cao. Phía trước anh ấy là bạn của tôi. Bạn tôi tên là Tiểu Nguyệt. Cô ấy là một cô gái xinh đẹp."
+      },
+      {
+        "_id": "trans_zh_h1_019",
+        "source": "你会写汉字吗？我会写。你看，这个字是“爱”。这个字是“家”。汉语的字都很好看。我想学习写很多汉字。",
+        "suggestedTranslation": "Bạn có biết viết chữ Hán không? Tôi biết viết. Bạn xem, chữ này là “yêu”. Chữ này là “nhà”. Chữ Hán đều rất đẹp. Tôi muốn học viết rất nhiều chữ Hán."
+      },
+      {
+        "_id": "trans_zh_h1_020",
+        "source": "现在几点了？现在上午十点。我们去商店买东西，怎么样？好啊。你想买什么？我想买些衣服和水果。",
+        "suggestedTranslation": "Bây giờ là mấy giờแล้ว? Bây giờ là 10 giờ sáng. Chúng ta đi cửa hàng mua đồ nhé, được không? Được thôi. Bạn muốn mua gì? Tôi muốn mua một ít quần áo và hoa quả."
+      },
+      {
+        "_id": "trans_zh_h1_021",
+        "source": "这是我们学校的医院。里面有很多医生。我的朋友是医生。她今天很忙。她看了很多学生。她下午六点回家。",
+        "suggestedTranslation": "Đây là bệnh viện của trường chúng tôi. Bên trong có rất nhiều bác sĩ. Bạn của tôi là bác sĩ. Hôm nay cô ấy rất bận. Cô ấy đã khám cho rất nhiều học sinh. Cô ấy về nhà lúc sáu giờ chiều."
+      },
+      {
+        "_id": "trans_zh_h1_022",
+        "source": "明天星期六，我们都不工作。我和朋友想去中国饭馆。那个饭馆的菜很好吃。我们都喜欢吃那里的菜。我们中午十二点去。",
+        "suggestedTranslation": "Ngày mai là thứ bảy, chúng tôi đều không làm việc. Tôi và bạn bè muốn đến một nhà hàng Trung Quốc. Đồ ăn của nhà hàng đó rất ngon. Chúng tôi đều thích ăn đồ ăn ở đó. Chúng tôi sẽ đi vào lúc mười hai giờ trưa."
+      },
+      {
+        "_id": "trans_zh_h1_023",
+        "source": "那个漂亮的小姐是谁？她是我妹妹。她今年二十岁，是一个大学生。她学习汉语。她想去中国工作。",
+        "suggestedTranslation": "Cô gái xinh đẹp kia là ai? Cô ấy là em gái tôi. Năm nay cô ấy hai mươi tuổi, là một sinh viên đại học. Cô ấy học tiếng Trung. Cô ấy muốn đến Trung Quốc làm việc."
+      },
+      {
+        "_id": "trans_zh_h1_024",
+        "source": "对不起，我明天不能来学校。明天我妈妈来北京。我要去火车站看她。我请老师和同学吃饭。怎么样？",
+        "suggestedTranslation": "Xin lỗi, ngày mai tôi không thể đến trường. Ngày mai mẹ tôi đến Bắc Kinh. Tôi phải ra ga xe lửa đón bà ấy. Tôi mời thầy giáo và các bạn học ăn cơm. Được không?"
+      },
+      {
+        "_id": "trans_zh_h1_025",
+        "source": "你喜欢喝茶还是喝水？我喜欢喝茶。中国茶很好喝。我的朋友也爱喝茶。我们下午常常一起喝茶，说话。",
+        "suggestedTranslation": "Bạn thích uống trà hay uống nước? Tôi thích uống trà. Trà Trung Quốc rất ngon. Bạn của tôi cũng thích uống trà. Buổi chiều chúng tôi thường cùng nhau uống trà, nói chuyện."
+      },
+      {
+        "_id": "trans_zh_h1_026",
+        "source": "桌子上是我的电脑。我用电脑工作和学习。我也会用电脑看电影。我喜欢看中国电影。中国电影很好看。",
+        "suggestedTranslation": "Trên bàn là máy tính của tôi. Tôi dùng máy tính để làm việc và học tập. Tôi cũng dùng máy tính để xem phim. Tôi thích xem phim Trung Quốc. Phim Trung Quốc rất hay."
+      },
+      {
+        "_id": "trans_zh_h1_027",
+        "source": "昨天我买了一本书。这本书的名字叫《我的中国朋友》。书里写了很多中国人和中国的东西。我觉得这本书很好。",
+        "suggestedTranslation": "Hôm qua tôi đã mua một cuốn sách. Tên của cuốn sách này là 'Bạn bè Trung Quốc của tôi'. Trong sách viết về rất nhiều người Trung Quốc và những thứ của Trung Quốc. Tôi cảm thấy cuốn sách này rất hay."
+      },
+      {
+        "_id": "trans_zh_h1_028",
+        "source": "我家后面有一个小商店。商店里的人不多。我常常去那里买东西。今天我买了米饭和一些菜。这些东西五十块钱。",
+        "suggestedTranslation": "Đằng sau nhà tôi có một cửa hàng nhỏ. Trong cửa hàng không có nhiều người. Tôi thường đến đó mua đồ. Hôm nay tôi đã mua gạo và một ít rau củ. Những thứ này hết năm mươi đồng."
+      },
+      {
+        "_id": "trans_zh_h1_029",
+        "source": "李小姐，你好。我是你的新同学，我叫大卫。我很高兴认识你。你是中国人吗？对，我是北京人。你呢？",
+        "suggestedTranslation": "Chào cô Lý. Tôi là bạn học mới của bạn, tôi tên là David. Tôi rất vui được làm quen với bạn. Bạn là người Trung Quốc phải không? Đúng vậy, tôi là người Bắc Kinh. Còn bạn?"
+      },
+      {
+        "_id": "trans_zh_h1_030",
+        "source": "今天下午下雨了，天气有点儿冷。我没出去，我在家睡觉。我睡了三个小时。现在我不冷了。我想喝点儿热茶。",
+        "suggestedTranslation": "Chiều nay trời mưa, thời tiết hơi lạnh. Tôi không ra ngoài, tôi ở nhà ngủ. Tôi đã ngủ ba tiếng. Bây giờ tôi không lạnh nữa. Tôi muốn uống một chút trà nóng."
+      },
+      {
+        "_id": "trans_zh_h1_031",
+        "source": "这是我朋友的猫。它的名字叫“小黑”。它很漂亮。它喜欢吃东西和睡觉。它不工作，也不学习。我爱小黑。",
+        "suggestedTranslation": "Đây là con mèo của bạn tôi. Tên của nó là “Tiểu Hắc”. Nó rất đẹp. Nó thích ăn và ngủ. Nó không làm việc, cũng không học. Tôi yêu Tiểu Hắc."
+      },
+      {
+        "_id": "trans_zh_h1_032",
+        "source": "你在做什么呢？我在给我妈妈打电话。她现在在商店买衣服。我告诉她，我想要一件新衣服。她说好的，她会买。",
+        "suggestedTranslation": "Bạn đang làm gì vậy? Tôi đang gọi điện cho mẹ. Bà ấy đang ở cửa hàng mua quần áo. Tôi nói với bà ấy rằng tôi muốn một bộ quần áo mới. Bà ấy nói được, bà sẽ mua."
+      },
+      {
+        "_id": "trans_zh_h1_033",
+        "source": "我们的学校很大，也很漂亮。学校里有很多学生和老师。我们上午八点上课。我们学习汉语。中午我们在学校吃饭。",
+        "suggestedTranslation": "Trường học của chúng tôi rất lớn và cũng rất đẹp. Trong trường có rất nhiều học sinh và giáo viên. Chúng tôi vào học lúc tám giờ sáng. Chúng tôi học tiếng Trung. Buổi trưa chúng tôi ăn cơm ở trường."
+      },
+      {
+        "_id": "trans_zh_h1_034",
+        "source": "这个星期天你想做什么？我想在家看电视。我爸爸妈妈想去饭馆吃饭。我不想去。我想一个人在家。",
+        "suggestedTranslation": "Chủ nhật này bạn muốn làm gì? Tôi muốn ở nhà xem ti vi. Bố mẹ tôi muốn đến nhà hàng ăn cơm. Tôi không muốn đi. Tôi muốn ở nhà một mình."
+      },
+      {
+        "_id": "trans_zh_h1_035",
+        "source": "你的汉语怎么样？我的汉语不太好。我会说一点儿，但是不会写。我的老师说，我应该多读多写。我想学好汉语。",
+        "suggestedTranslation": "Tiếng Trung của bạn thế nào? Tiếng Trung của tôi không tốt lắm. Tôi biết nói một chút, nhưng không biết viết. Giáo viên của tôi nói, tôi nên đọc nhiều và viết nhiều. Tôi muốn học tốt tiếng Trung."
+      },
+      {
+        "_id": "trans_zh_h1_036",
+        "source": "请问，去火车站怎么走？你坐出租车去。出租车很快。坐出租车要多少钱？大概四十块钱。好的，谢谢你。",
+        "suggestedTranslation": "Xin hỏi, đi đến ga xe lửa như thế nào? Bạn đi taxi đi. Taxi rất nhanh. Đi taxi hết bao nhiêu tiền? Khoảng bốn mươi đồng. Được, cảm ơn bạn."
+      },
+      {
+        "_id": "trans_zh_h1_037",
+        "source": "我认识一个中国朋友。她是一个医生。她工作很忙。她喜欢喝咖啡和看书。我们是好朋友。她下星期来我家。",
+        "suggestedTranslation": "Tôi quen một người bạn Trung Quốc. Cô ấy là bác sĩ. Công việc của cô ấy rất bận. Cô ấy thích uống cà phê và đọc sách. Chúng tôi là bạn tốt. Tuần sau cô ấy sẽ đến nhà tôi."
+      },
+      {
+        "_id": "trans_zh_h1_038",
+        "source": "今天我很高兴。为什么？因为我爸爸回来了。他去了中国三个月。他给我买了很多东西。有衣服，有书，还有吃的。",
+        "suggestedTranslation": "Hôm nay tôi rất vui. Tại sao? Bởi vì bố tôi đã trở về. Ông ấy đã đi Trung Quốc ba tháng. Ông ấy mua cho tôi rất nhiều đồ. Có quần áo, có sách, và cả đồ ăn nữa."
+      },
+      {
+        "_id": "trans_zh_h1_039",
+        "source": "我们班有二十个学生。十个男学生，十个女学生。我们的老师是王老师。她教我们读和写。我们都爱我们的老师。",
+        "suggestedTranslation": "Lớp chúng tôi có hai mươi học sinh. Mười học sinh nam, mười học sinh nữ. Giáo viên của chúng tôi là cô Vương. Cô ấy dạy chúng tôi đọc và viết. Chúng tôi đều yêu quý cô giáo của mình."
+      },
+      {
+        "_id": "trans_zh_h1_040",
+        "source": "那家饭馆的菜太好吃了。我和朋友昨天去了。我们点了三个菜和米饭。我们都吃了很多。我们下次还想去。",
+        "suggestedTranslation": "Đồ ăn của nhà hàng kia ngon quá. Tôi và bạn tôi đã đến đó hôm qua. Chúng tôi đã gọi ba món và cơm. Chúng tôi đều ăn rất nhiều. Lần sau chúng tôi vẫn muốn đến."
+      },
+      {
+        "_id": "trans_zh_h1_041",
+        "source": "明天是九月一日。是新学年的开始。我很高兴能回到学校。我能看见我的同学和老师了。我想和他们说汉语。",
+        "suggestedTranslation": "Ngày mai là ngày 1 tháng 9. Là bắt đầu năm học mới. Tôi rất vui vì được trở lại trường. Tôi có thể gặp lại các bạn học và thầy cô. Tôi muốn nói tiếng Trung với họ."
+      },
+      {
+        "_id": "trans_zh_h1_042",
+        "source": "那个桌子是谁的？是我的。桌子后面是什么？是我的椅子。椅子很漂亮。是我爸爸昨天在商店买的。",
+        "suggestedTranslation": "Cái bàn kia là của ai? Là của tôi. Đằng sau cái bàn là gì? Là ghế của tôi. Cái ghế rất đẹp. Là bố tôi đã mua ở cửa hàng vào hôm qua."
+      },
+      {
+        "_id": "trans_zh_h1_043",
+        "source": "你女儿在哪儿工作？她在北京的一家医院工作。她是一个好医生。很多人都认识她。她很喜欢她的工作。",
+        "suggestedTranslation": "Con gái của bạn làm việc ở đâu? Nó làm việc tại một bệnh viện ở Bắc Kinh. Nó là một bác sĩ giỏi. Rất nhiều người quen biết nó. Nó rất thích công việc của mình."
+      },
+      {
+        "_id": "trans_zh_h1_044",
+        "source": "我前面坐的是我的同学。他叫李明。他学习很好。我们下课后会一起去吃饭。我们都喜欢吃中国菜。",
+        "suggestedTranslation": "Người ngồi trước mặt tôi là bạn học của tôi. Cậu ấy tên là Lý Minh. Cậu ấy học rất giỏi. Sau khi tan học chúng tôi sẽ cùng nhau đi ăn cơm. Chúng tôi đều thích ăn món Trung Quốc."
+      },
+      {
+        "_id": "trans_zh_h1_045",
+        "source": "今天天气太好了，不冷也不热。我们去外面坐坐，怎么样？好啊。我们可以去喝杯茶。我请你。",
+        "suggestedTranslation": "Thời tiết hôm nay đẹp quá, không lạnh cũng không nóng. Chúng ta ra ngoài ngồi chơi nhé, được không? Được thôi. Chúng ta có thể đi uống một tách trà. Tôi mời bạn."
+      },
+      {
+        "_id": "trans_zh_h1_046",
+        "source": "你看见我的书了吗？是那本红色的汉语书。我在桌子上没看见。你看椅子上了吗？啊，在椅子上。谢谢你。",
+        "suggestedTranslation": "Bạn có thấy sách của tôi không? Là cuốn sách tiếng Trung màu đỏ đó. Tôi không thấy trên bàn. Bạn đã xem trên ghế chưa? A, ở trên ghế. Cảm ơn bạn."
+      },
+      {
+        "_id": "trans_zh_h1_047",
+        "source": "我们家有五个人。爸爸，妈妈，两个儿子和我。我爸爸是医生。我妈妈不工作。我们都住在北京。我们爱北京。",
+        "suggestedTranslation": "Nhà chúng tôi có năm người. Bố, mẹ, hai anh trai và tôi. Bố tôi là bác sĩ. Mẹ tôi không đi làm. Chúng tôi đều sống ở Bắc Kinh. Chúng tôi yêu Bắc Kinh."
+      },
+      {
+        "_id": "trans_zh_h1_048",
+        "source": "现在是下午三点。我女儿在睡觉。她今天有点儿不高兴。我下午带她去商店买东西。她看见漂亮衣服会很高兴的。",
+        "suggestedTranslation": "Bây giờ là ba giờ chiều. Con gái tôi đang ngủ. Hôm nay nó có chút không vui. Buổi chiều tôi sẽ đưa nó đi cửa hàng mua đồ. Nó nhìn thấy quần áo đẹp sẽ rất vui."
+      },
+      {
+        "_id": "trans_zh_h1_049",
+        "source": "你想喝点儿什么？茶还是水？我喝水，谢谢。你想吃点儿什么？苹果怎么样？好的，谢谢。不客气。",
+        "suggestedTranslation": "Bạn muốn uống chút gì không? Trà hay nước? Tôi uống nước, cảm ơn. Bạn muốn ăn chút gì không? Táo thì sao? Được, cảm ơn. Không có gì."
+      },
+      {
+        "_id": "trans_zh_h1_050",
+        "source": "这是我的小狗。它的名字叫“高兴”。我回家的时候，它很高兴。它喜欢和我一起出去。我们是好朋友。",
+        "suggestedTranslation": "Đây là con chó nhỏ của tôi. Tên của nó là “Vui Vẻ”. Khi tôi về nhà, nó rất vui mừng. Nó thích đi ra ngoài cùng tôi. Chúng tôi là bạn tốt."
+      },
+      {
+        "_id": "trans_zh_h1_051",
+        "source": "李老师，对不起，我今天上午不能来上课了。我的女儿生病了。我要带她去医院。医生说她需要多喝水，多睡觉。",
+        "suggestedTranslation": "Thưa cô Lý, xin lỗi, sáng nay em không thể đến lớp được. Con gái em bị ốm rồi. Em phải đưa nó đến bệnh viện. Bác sĩ nói nó cần uống nhiều nước và ngủ nhiều."
+      },
+      {
+        "_id": "trans_zh_h1_052",
+        "source": "你认识那个人吗？他是我爸爸的朋友。他是一个出租车司机。他工作很忙。他今天来我们家吃饭。",
+        "suggestedTranslation": "Bạn có quen người kia không? Ông ấy là bạn của bố tôi. Ông ấy là tài xế taxi. Công việc của ông ấy rất bận. Hôm nay ông ấy đến nhà chúng tôi ăn cơm."
+      },
+      {
+        "_id": "trans_zh_h1_053",
+        "source": "明天我们去看电影，好吗？好啊。你想看什么电影？我想看中国电影。几点去？下午三点，怎么样？好的，明天见。",
+        "suggestedTranslation": "Ngày mai chúng ta đi xem phim nhé? Được thôi. Bạn muốn xem phim gì? Tôi muốn xem phim Trung Quốc. Mấy giờ đi? Ba giờ chiều, được không? Được, mai gặp."
+      },
+      {
+        "_id": "trans_zh_h1_054",
+        "source": "王先生，你的女儿多大了？她今年六岁了。她上学了吗？上了，她现在是学生了。她喜欢去学校吗？她很喜欢。",
+        "suggestedTranslation": "Ông Vương, con gái ông bao nhiêu tuổi rồi? Nó năm nay sáu tuổi rồi. Nó đi học chưa? Đi rồi, bây giờ nó là học sinh rồi. Nó có thích đến trường không? Nó rất thích."
+      },
+      {
+        "_id": "trans_zh_h1_055",
+        "source": "这些水果多少钱？苹果五块钱一斤，那些呢？那些三块钱。好的，我要买这些苹果。给你钱。谢谢。",
+        "suggestedTranslation": "Số hoa quả này bao nhiêu tiền? Táo năm đồng một cân, còn những quả kia? Kia ba đồng. Được, tôi muốn mua số táo này. Gửi bạn tiền. Cảm ơn."
+      },
+      {
+        "_id": "trans_zh_h1_056",
+        "source": "我的汉语名字叫李明。我是学生。我学习汉语。我喜欢读汉语书，也喜欢和中国朋友说话。我觉得汉语很有意思。",
+        "suggestedTranslation": "Tên tiếng Trung của tôi là Lý Minh. Tôi là học sinh. Tôi học tiếng Trung. Tôi thích đọc sách tiếng Trung, cũng thích nói chuyện với bạn bè Trung Quốc. Tôi cảm thấy tiếng Trung rất thú vị."
+      },
+      {
+        "_id": "trans_zh_h1_057",
+        "source": "昨天是星期日，我没去工作。我和家人去了商店。商店里有很多漂亮的衣服。我妈妈买了一件。我也想买，但是我没钱。",
+        "suggestedTranslation": "Hôm qua là Chủ nhật, tôi không đi làm. Tôi và gia đình đã đi cửa hàng. Trong cửa hàng có rất nhiều quần áo đẹp. Mẹ tôi đã mua một chiếc. Tôi cũng muốn mua, nhưng tôi không có tiền."
+      },
+      {
+        "_id": "trans_zh_h1_058",
+        "source": "喂，是张老师吗？我是小王。我想请您明天来我家吃饭。我爸爸妈妈也想见您。您下午六点能来吗？",
+        "suggestedTranslation": "A lô, có phải thầy Trương không ạ? Em là Tiểu Vương đây. Em muốn mời thầy ngày mai đến nhà em ăn cơm. Bố mẹ em cũng muốn gặp thầy. 6 giờ chiều thầy đến được không ạ?"
+      },
+      {
+        "_id": "trans_zh_h1_059",
+        "source": "你看，这是我女儿写的字。她今年七岁，会写很多汉字了。她写的字很漂亮。老师说她是一个好学生。",
+        "suggestedTranslation": "Bạn xem, đây là chữ con gái tôi viết. Nó năm nay bảy tuổi, đã biết viết rất nhiều chữ Hán rồi. Chữ nó viết rất đẹp. Giáo viên nói nó là một học sinh ngoan."
+      },
+      {
+        "_id": "trans_zh_h1_060",
+        "source": "今天天气不好，下大雨了。我很冷。我不想出去。我在家喝热茶，看电视。电视上说，明天天气会很好。",
+        "suggestedTranslation": "Hôm nay thời tiết xấu, mưa to rồi. Tôi rất lạnh. Tôi không muốn ra ngoài. Tôi ở nhà uống trà nóng, xem ti vi. Trên ti vi nói, ngày mai thời tiết sẽ rất đẹp."
+      },
+      {
+        "_id": "trans_zh_h1_061",
+        "source": "我爸爸是中国人，妈妈不是。我们在北京住。爸爸是医生，妈妈是老师。我爱爸爸，也爱妈妈。我们家很漂亮。",
+        "suggestedTranslation": "Bố tôi là người Trung Quốc, mẹ thì không. Chúng tôi sống ở Bắc Kinh. Bố là bác sĩ, mẹ là giáo viên. Tôi yêu bố, cũng yêu mẹ. Nhà của chúng tôi rất đẹp."
+      },
+      {
+        "_id": "trans_zh_h1_062",
+        "source": "这个饭馆怎么样？这个饭馆的菜很好吃，也不贵。我们进去吧。你想吃什么？我想吃米饭和鱼。我们再喝点儿茶。",
+        "suggestedTranslation": "Nhà hàng này thế nào? Đồ ăn của nhà hàng này rất ngon, cũng không đắt. Chúng ta vào đi. Bạn muốn ăn gì? Tôi muốn ăn cơm và cá. Chúng ta uống thêm chút trà nữa."
+      },
+      {
+        "_id": "trans_zh_h1_063",
+        "source": "你在看什么书？我在看一本关于中国的书。书里有很多漂亮的照片。你看，这是北京。这是上海。中国很大。",
+        "suggestedTranslation": "Bạn đang đọc sách gì vậy? Tôi đang đọc một cuốn sách về Trung Quốc. Trong sách có rất nhiều ảnh đẹp. Bạn xem, đây là Bắc Kinh. Đây là Thượng Hải. Trung Quốc rất lớn."
+      },
+      {
+        "_id": "trans_zh_h1_064",
+        "source": "你什么时候去火车站？我下午四点去。我的朋友五点到北京。我去火车站看他。我们会一起吃饭。",
+        "suggestedTranslation": "Khi nào bạn đi ga xe lửa? Tôi đi lúc bốn giờ chiều. Bạn của tôi năm giờ đến Bắc Kinh. Tôi ra ga xe lửa đón anh ấy. Chúng tôi sẽ cùng nhau ăn cơm."
+      },
+      {
+        "_id": "trans_zh_h1_065",
+        "source": "我有一个好朋友。她叫小丽。她是一个学生。她学习很好。她喜欢看电影和听音乐。我们常常一起去商店。",
+        "suggestedTranslation": "Tôi có một người bạn thân. Cô ấy tên là Tiểu Lệ. Cô ấy là một học sinh. Cô ấy học rất giỏi. Cô ấy thích xem phim và nghe nhạc. Chúng tôi thường cùng nhau đi cửa hàng."
+      },
+      {
+        "_id": "trans_zh_h1_066",
+        "source": "我家后面有一个学校。学校很大。每天上午我都能听到学生们读书。他们读得很好听。我也想去那个学校学习。",
+        "suggestedTranslation": "Đằng sau nhà tôi có một ngôi trường. Ngôi trường rất lớn. Mỗi buổi sáng tôi đều có thể nghe thấy học sinh đọc sách. Họ đọc rất hay. Tôi cũng muốn đến trường đó học."
+      },
+      {
+        "_id": "trans_zh_h1_067",
+        "source": "你的杯子是这个吗？不是，我的杯子是那个大的。这个小的杯子是谁的？是我女儿的。她喜欢用小杯子喝水。",
+        "suggestedTranslation": "Cốc của bạn là cái này phải không? Không phải, cốc của tôi là cái to kia. Cái cốc nhỏ này là của ai? Là của con gái tôi. Nó thích dùng cốc nhỏ để uống nước."
+      },
+      {
+        "_id": "trans_zh_h1_068",
+        "source": "今天我坐出租车去工作。出租车上，我看见了我的老师。他也坐出租车。我们说了话。我们都觉得今天天气很热。",
+        "suggestedTranslation": "Hôm nay tôi đi taxi đi làm. Trên taxi, tôi đã nhìn thấy thầy giáo của mình. Thầy cũng đi taxi. Chúng tôi đã nói chuyện. Chúng tôi đều cảm thấy thời tiết hôm nay rất nóng."
+      },
+      {
+        "_id": "trans_zh_h1_069",
+        "source": "我的电脑里有很多中国电影。我喜欢一个人在家看电影。我爸爸妈妈不喜欢看电影，他们喜欢看电视。我们都爱在家。",
+        "suggestedTranslation": "Trong máy tính của tôi có rất nhiều phim Trung Quốc. Tôi thích ở nhà xem phim một mình. Bố mẹ tôi không thích xem phim, họ thích xem ti vi. Chúng tôi đều thích ở nhà."
+      },
+      {
+        "_id": "trans_zh_h1_070",
+        "source": "喂，王先生在家吗？对不起，他不在。他去商店买东西了。他什么时候回来？我想他下午四点能回来。好的，谢谢。",
+        "suggestedTranslation": "A lô, ông Vương có nhà không? Xin lỗi, ông ấy không có ở nhà. Ông ấy đi cửa hàng mua đồ rồi. Khi nào ông ấy về? Tôi nghĩ ông ấy có thể về lúc bốn giờ chiều. Được, cảm ơn."
+      },
+      {
+        "_id": "trans_zh_h1_071",
+        "source": "那个穿漂亮衣服的小姐是谁？她是我姐姐。她今年二十五岁。她是一个医生，在医院工作。她很喜欢她的工作。",
+        "suggestedTranslation": "Cô gái mặc bộ đồ xinh đẹp kia là ai? Cô ấy là chị gái tôi. Năm nay cô ấy hai mươi lăm tuổi. Cô ấy là bác sĩ, làm việc tại bệnh viện. Cô ấy rất thích công việc của mình."
+      },
+      {
+        "_id": "trans_zh_h1_072",
+        "source": "今天中午你在哪儿吃饭？我在学校的饭馆吃饭。你吃了什么？我吃了一点儿米饭和菜。学校的饭菜很好吃。",
+        "suggestedTranslation": "Trưa nay bạn ăn cơm ở đâu? Tôi ăn cơm ở nhà ăn của trường. Bạn đã ăn gì? Tôi đã ăn một chút cơm và thức ăn. Cơm ở trường rất ngon."
+      },
+      {
+        "_id": "trans_zh_h1_073",
+        "source": "你儿子在哪儿学习？他在北京学习汉语。他学习了多长时间了？他学习了一年了。他的汉语说得很好。",
+        "suggestedTranslation": "Con trai bạn học ở đâu? Nó học tiếng Trung ở Bắc Kinh. Nó đã học được bao lâu rồi? Nó đã học được một năm rồi. Tiếng Trung của nó nói rất tốt."
+      },
+      {
+        "_id": "trans_zh_h1_074",
+        "source": "你喜欢猫还是狗？我都喜欢。我家有一只小猫和一只小狗。它们是好朋友。它们都喜欢和我一起玩儿。",
+        "suggestedTranslation": "Bạn thích mèo hay chó? Tôi đều thích. Nhà tôi có một con mèo nhỏ và một con chó nhỏ. Chúng là bạn tốt. Chúng đều thích chơi cùng tôi."
+      },
+      {
+        "_id": "trans_zh_h1_075",
+        "source": "我想买一个新电脑。这个电脑怎么样？这个很好，很多人买。多少钱？三千块钱。太贵了。那个呢？",
+        "suggestedTranslation": "Tôi muốn mua một cái máy tính mới. Cái máy tính này thế nào? Cái này rất tốt, nhiều người mua. Bao nhiêu tiền? Ba nghìn đồng. Đắt quá. Còn cái kia thì sao?"
+      },
+      {
+        "_id": "trans_zh_h1_076",
+        "source": "昨天我给朋友打电话。他没接。今天上午他又给我打电话了。他说他昨天在睡觉。我们说了很多话。",
+        "suggestedTranslation": "Hôm qua tôi gọi điện cho bạn tôi. Anh ấy không nghe máy. Sáng nay anh ấy lại gọi cho tôi. Anh ấy nói hôm qua anh ấy đang ngủ. Chúng tôi đã nói rất nhiều chuyện."
+      },
+      {
+        "_id": "trans_zh_h1_077",
+        "source": "请问，这里能坐吗？能，请坐。你是学生吗？对，我是这儿的学生。你呢？我也是。很高兴认识你。",
+        "suggestedTranslation": "Xin hỏi, ở đây có thể ngồi không? Có thể, mời ngồi. Bạn là học sinh phải không? Đúng vậy, tôi là học sinh ở đây. Còn bạn? Tôi cũng vậy. Rất vui được làm quen với bạn."
+      },
+      {
+        "_id": "trans_zh_h1_078",
+        "source": "明天是我的生日。我很高兴。我爸爸妈妈会给我买东西。我的朋友们会来我家。我们会一起吃饭，说话。",
+        "suggestedTranslation": "Ngày mai là sinh nhật của tôi. Tôi rất vui. Bố mẹ sẽ mua đồ cho tôi. Bạn bè của tôi sẽ đến nhà tôi. Chúng tôi sẽ cùng nhau ăn cơm, nói chuyện."
+      },
+      {
+        "_id": "trans_zh_h1_079",
+        "source": "我不会做饭。我妈妈做的饭很好吃。我爸爸也会做饭。他们做的中国菜都很好吃。我爱吃他们做的饭。",
+        "suggestedTranslation": "Tôi không biết nấu cơm. Cơm mẹ tôi nấu rất ngon. Bố tôi cũng biết nấu cơm. Các món Trung Quốc họ nấu đều rất ngon. Tôi thích ăn cơm họ nấu."
+      },
+      {
+        "_id": "trans_zh_h1_080",
+        "source": "这本书是谁的？是我的。这本书很有意思。我在商店买的。是关于中国菜的书。你想看吗？",
+        "suggestedTranslation": "Cuốn sách này là của ai? Là của tôi. Cuốn sách này rất thú vị. Tôi mua ở cửa hàng. Là sách về món ăn Trung Quốc. Bạn có muốn đọc không?"
+      },
+      {
+        "_id": "trans_zh_h1_081",
+        "source": "你看见我的小猫了吗？它在哪儿？我没看见。它是不是在桌子下面？啊，对，它在桌子下面睡觉呢。谢谢你。",
+        "suggestedTranslation": "Bạn có thấy con mèo nhỏ của tôi không? Nó ở đâu? Tôi không thấy. Có phải nó ở dưới gầm bàn không? A, đúng rồi, nó đang ngủ dưới gầm bàn. Cảm ơn bạn."
+      },
+      {
+        "_id": "trans_zh_h1_082",
+        "source": "我的朋友今天坐飞机来北京。他是第一次来中国。我下午三点去飞机场看他。我们会一起去饭馆吃饭。",
+        "suggestedTranslation": "Bạn tôi hôm nay đi máy bay đến Bắc Kinh. Đây là lần đầu tiên anh ấy đến Trung Quốc. Ba giờ chiều tôi ra sân bay đón anh ấy. Chúng tôi sẽ cùng nhau đi nhà hàng ăn cơm."
+      },
+      {
+        "_id": "trans_zh_h1_083",
+        "source": "这个星期我们很忙。我们有很多工作要做。我们每天上午八点去工作，下午六点回家。我们都很累。",
+        "suggestedTranslation": "Tuần này chúng tôi rất bận. Chúng tôi có rất nhiều việc phải làm. Mỗi ngày chúng tôi đi làm lúc tám giờ sáng, về nhà lúc sáu giờ chiều. Chúng tôi đều rất mệt."
+      },
+      {
+        "_id": "trans_zh_h1_084",
+        "source": "明天天气怎么样？电视上说明天会下雨，天气很冷。那我们不出去玩儿了。我们在家看书，好吗？好的。",
+        "suggestedTranslation": "Ngày mai thời tiết thế nào? Trên ti vi nói ngày mai sẽ mưa, thời tiết rất lạnh. Vậy thì chúng ta không ra ngoài chơi nữa. Chúng ta ở nhà đọc sách nhé? Được."
+      },
+      {
+        "_id": "trans_zh_h1_085",
+        "source": "那个饭馆的服务员都是学生。她们工作很好。她们会说汉语和英语。我们都喜欢去那个饭馆吃饭。",
+        "suggestedTranslation": "Nhân viên phục vụ của nhà hàng kia đều là học sinh. Họ làm việc rất tốt. Họ biết nói tiếng Trung và tiếng Anh. Chúng tôi đều thích đến nhà hàng đó ăn cơm."
+      },
+      {
+        "_id": "trans_zh_h1_086",
+        "source": "我的女儿喜欢画画儿。你看，这些都是她画的。她画了爸爸，妈妈，还有我们家的小狗。她画得很好看。",
+        "suggestedTranslation": "Con gái tôi thích vẽ tranh. Bạn xem, đây đều là tranh nó vẽ. Nó đã vẽ bố, mẹ, và cả con chó nhỏ của nhà chúng tôi. Nó vẽ rất đẹp."
+      },
+      {
+        "_id": "trans_zh_h1_087",
+        "source": "你家离学校远吗？不远，很近。我每天走路去学校。走路要多长时间？要二十分钟。走路对身体很好。",
+        "suggestedTranslation": "Nhà bạn cách trường có xa không? Không xa, rất gần. Mỗi ngày tôi đi bộ đến trường. Đi bộ mất bao lâu? Mất hai mươi phút. Đi bộ rất tốt cho sức khỏe."
+      },
+      {
+        "_id": "trans_zh_h1_088",
+        "source": "我今天在商店看见一件很漂亮的衣服。我想买。但是太贵了，要五百块钱。我没那么多钱。我没买。",
+        "suggestedTranslation": "Hôm nay tôi nhìn thấy một bộ quần áo rất đẹp ở cửa hàng. Tôi muốn mua. Nhưng nó đắt quá, cần năm trăm đồng. Tôi không có nhiều tiền như vậy. Tôi đã không mua."
+      },
+      {
+        "_id": "trans_zh_h1_089",
+        "source": "喂，你好。请问王朋在吗？我就是。你是谁？我是小李。我们昨天在学校见过。你还认识我吗？",
+        "suggestedTranslation": "A lô, xin chào. Xin hỏi Vương Bằng có ở đó không? Tôi đây. Bạn là ai? Tôi là Tiểu Lý. Chúng ta đã gặp nhau ở trường hôm qua. Bạn còn nhớ tôi không?"
+      },
+      {
+        "_id": "trans_zh_h1_090",
+        "source": "我们学校前面有很多饭馆。中国饭馆，美国饭馆都有。我喜欢和朋友去那儿吃饭。我们常常吃中国菜。",
+        "suggestedTranslation": "Phía trước trường chúng tôi có rất nhiều nhà hàng. Nhà hàng Trung Quốc, nhà hàng Mỹ đều có. Tôi thích đến đó ăn cơm cùng bạn bè. Chúng tôi thường ăn món Trung Quốc."
+      },
+      {
+        "_id": "trans_zh_h1_091",
+        "source": "你喜欢读什么书？我喜欢读关于中国的书。我也喜欢看中国电影。我觉得中国的文化很有意思。我想多学习。",
+        "suggestedTranslation": "Bạn thích đọc sách gì? Tôi thích đọc sách về Trung Quốc. Tôi cũng thích xem phim Trung Quốc. Tôi cảm thấy văn hóa Trung Quốc rất thú vị. Tôi muốn học hỏi thêm."
+      },
+      {
+        "_id": "trans_zh_h1_092",
+        "source": "我的桌子上有一杯热茶。茶是我妈妈做的。我工作的时候喜欢喝茶。茶很好喝。我很爱我的妈妈。",
+        "suggestedTranslation": "Trên bàn của tôi có một tách trà nóng. Trà là do mẹ tôi pha. Khi làm việc tôi thích uống trà. Trà rất ngon. Tôi rất yêu mẹ của tôi."
+      },
+      {
+        "_id": "trans_zh_h1_093",
+        "source": "现在是中午十二点。学生们都去吃饭了。学校的饭馆里人很多。他们吃米饭和菜。他们都很高兴。",
+        "suggestedTranslation": "Bây giờ là mười hai giờ trưa. Học sinh đều đi ăn cơm rồi. Nhà ăn của trường rất đông người. Họ ăn cơm và thức ăn. Họ đều rất vui vẻ."
+      },
+      {
+        "_id": "trans_zh_h1_094",
+        "source": "李小姐，你是什么时候来中国的？我是去年来的。你来中国做什么？我来学习汉语。你喜欢中国吗？我很喜欢。",
+        "suggestedTranslation": "Cô Lý, cô đến Trung Quốc khi nào? Tôi đến vào năm ngoái. Cô đến Trung Quốc làm gì? Tôi đến để học tiếng Trung. Cô có thích Trung Quốc không? Tôi rất thích."
+      },
+      {
+        "_id": "trans_zh_h1_095",
+        "source": "我家有四个人，爸爸，妈妈，我，还有一个女儿。我女儿今年五岁。她很可爱。她喜欢听我读故事书。",
+        "suggestedTranslation": "Nhà tôi có bốn người, bố, mẹ, tôi, và một cô con gái. Con gái tôi năm nay năm tuổi. Nó rất đáng yêu. Nó thích nghe tôi đọc truyện."
+      },
+      {
+        "_id": "trans_zh_h1_096",
+        "source": "对不起，我不知道你的名字。没关系。我的名字叫王芳。我是你的新同学。很高兴认识你。我也很高兴认识你。",
+        "suggestedTranslation": "Xin lỗi, tôi không biết tên của bạn. Không sao cả. Tên tôi là Vương Phương. Tôi là bạn học mới của bạn. Rất vui được làm quen với bạn. Tôi cũng rất vui được làm quen với bạn."
+      },
+      {
+        "_id": "trans_zh_h1_097",
+        "source": "你会开车吗？我不会。我爸爸会开车。他有一辆很漂亮的车。他常常开车带我们出去玩儿。我们都很高兴。",
+        "suggestedTranslation": "Bạn có biết lái xe không? Tôi không biết. Bố tôi biết lái xe. Ông ấy có một chiếc xe rất đẹp. Ông ấy thường lái xe đưa chúng tôi ra ngoài chơi. Chúng tôi đều rất vui."
+      },
+      {
+        "_id": "trans_zh_h1_098",
+        "source": "你什么时候睡觉？我晚上十点睡觉。你呢？我睡得比较早，九点就睡了。早睡对身体好。是的，你说得对。",
+        "suggestedTranslation": "Bạn ngủ lúc mấy giờ? Tôi ngủ lúc mười giờ tối. Còn bạn? Tôi ngủ tương đối sớm, chín giờ đã ngủ rồi. Ngủ sớm tốt cho sức khỏe. Vâng, bạn nói đúng."
+      },
+      {
+        "_id": "trans_zh_h1_099",
+        "source": "今天下午，我和朋友去商店。我想买一些水果。我朋友想买一本书。商店里东西很多，我们看了很长时间。",
+        "suggestedTranslation": "Chiều nay, tôi và bạn tôi đi cửa hàng. Tôi muốn mua một ít hoa quả. Bạn tôi muốn mua một cuốn sách. Trong cửa hàng có rất nhiều đồ, chúng tôi đã xem rất lâu."
+      },
+      {
+        "_id": "trans_zh_h1_100",
+        "source": "我的老师是中国人。她教我们汉语。她的汉语说得很好听。她也教我们写汉字。我们都觉得汉字很漂亮，但是不太好写。",
+        "suggestedTranslation": "Giáo viên của tôi là người Trung Quốc. Cô ấy dạy chúng tôi tiếng Trung. Tiếng Trung của cô ấy nói rất hay. Cô ấy cũng dạy chúng tôi viết chữ Hán. Chúng tôi đều cảm thấy chữ Hán rất đẹp, nhưng không dễ viết lắm."
+      }
+    ]
+  }
+}

@@ -1,0 +1,4490 @@
+{
+  "learning": [
+    {
+      "word": "about",
+      "meaning": "về",
+      "pronounce": "əˈbaʊt"
+    },
+    {
+      "word": "above",
+      "meaning": "bên trên",
+      "pronounce": "əˈbəv"
+    },
+    {
+      "word": "across",
+      "meaning": "sang",
+      "pronounce": "əˈkrɔs"
+    },
+    {
+      "word": "action",
+      "meaning": "hoạt động",
+      "pronounce": "ˈækʃən"
+    },
+    {
+      "word": "activity",
+      "meaning": "hoạt động",
+      "pronounce": "ækˈtɪvɪti"
+    },
+    {
+      "word": "actor",
+      "meaning": "diễn viên",
+      "pronounce": "ˈæktər"
+    },
+    {
+      "word": "actress",
+      "meaning": "nữ diễn viên",
+      "pronounce": "ˈæktrəs"
+    },
+    {
+      "word": "add",
+      "meaning": "thêm vào",
+      "pronounce": "æd"
+    },
+    {
+      "word": "address",
+      "meaning": "địa chỉ",
+      "pronounce": "ˈæˌdrɛs"
+    },
+    {
+      "word": "adult",
+      "meaning": "người lớn",
+      "pronounce": "ˈædəlt"
+    },
+    {
+      "word": "advice",
+      "meaning": "khuyên bảo",
+      "pronounce": "ədˈvaɪs"
+    },
+    {
+      "word": "afraid",
+      "meaning": "sợ",
+      "pronounce": "əˈfreɪd"
+    },
+    {
+      "word": "after",
+      "meaning": "sau đó",
+      "pronounce": "ˈæftər"
+    },
+    {
+      "word": "afternoon",
+      "meaning": "buổi chiều",
+      "pronounce": "ˌæftərˈnun"
+    },
+    {
+      "word": "again",
+      "meaning": "lại",
+      "pronounce": "əˈgɛn"
+    },
+    {
+      "word": "age",
+      "meaning": "tuổi",
+      "pronounce": "eɪʤ"
+    },
+    {
+      "word": "ago",
+      "meaning": "trước kia",
+      "pronounce": "əˈgoʊ"
+    },
+    {
+      "word": "agree",
+      "meaning": "đồng ý",
+      "pronounce": "əˈgri"
+    },
+    {
+      "word": "air",
+      "meaning": "không khí",
+      "pronounce": "ɛr"
+    },
+    {
+      "word": "airport",
+      "meaning": "sân bay",
+      "pronounce": "ˈɛrˌpɔrt"
+    },
+    {
+      "word": "all",
+      "meaning": "tất cả",
+      "pronounce": "ɔl"
+    },
+    {
+      "word": "also",
+      "meaning": "mà còn",
+      "pronounce": "ˈɔlsoʊ"
+    },
+    {
+      "word": "always",
+      "meaning": "luôn luôn",
+      "pronounce": "ˈɔlˌweɪz"
+    },
+    {
+      "word": "amazing",
+      "meaning": "tuyệt vời",
+      "pronounce": "əˈmeɪzɪŋ"
+    },
+    {
+      "word": "and",
+      "meaning": "và",
+      "pronounce": "ənd"
+    },
+    {
+      "word": "angry",
+      "meaning": "tức giận",
+      "pronounce": "ˈæŋgri"
+    },
+    {
+      "word": "animal",
+      "meaning": "động vật",
+      "pronounce": "ˈænəməl"
+    },
+    {
+      "word": "another",
+      "meaning": "khác",
+      "pronounce": "əˈnəðər"
+    },
+    {
+      "word": "answer",
+      "meaning": "trả lời",
+      "pronounce": "ˈænsər"
+    },
+    {
+      "word": "any",
+      "meaning": "bất kì",
+      "pronounce": "ˈɛni"
+    },
+    {
+      "word": "anyone",
+      "meaning": "bất cứ ai",
+      "pronounce": "ˈɛniˌwən"
+    },
+    {
+      "word": "anything",
+      "meaning": "bất cứ điều gì",
+      "pronounce": "ˈɛniˌθɪŋ"
+    },
+    {
+      "word": "apartment",
+      "meaning": "căn hộ",
+      "pronounce": "əˈpɑrtmənt"
+    },
+    {
+      "word": "apple",
+      "meaning": "quả táo",
+      "pronounce": "ˈæpəl"
+    },
+    {
+      "word": "April",
+      "meaning": "tháng tư",
+      "pronounce": "ˈeɪprəl"
+    },
+    {
+      "word": "area",
+      "meaning": "khu vực",
+      "pronounce": "ˈɛriə"
+    },
+    {
+      "word": "arm",
+      "meaning": "cánh tay",
+      "pronounce": "ɑrm"
+    },
+    {
+      "word": "around",
+      "meaning": "xung quanh",
+      "pronounce": "əraʊnd"
+    },
+    {
+      "word": "arrive",
+      "meaning": "đến",
+      "pronounce": "əraɪv"
+    },
+    {
+      "word": "art",
+      "meaning": "nghệ thuật",
+      "pronounce": "ɑrt"
+    },
+    {
+      "word": "article",
+      "meaning": "bài báo",
+      "pronounce": "ˈɑrtɪkəl"
+    },
+    {
+      "word": "artist",
+      "meaning": "nghệ sĩ",
+      "pronounce": "ˈɑrtɪst"
+    },
+    {
+      "word": "as",
+      "meaning": "bằng",
+      "pronounce": "ɛz"
+    },
+    {
+      "word": "ask",
+      "meaning": "hỏi",
+      "pronounce": "æsk"
+    },
+    {
+      "word": "at",
+      "meaning": "tại",
+      "pronounce": "æt"
+    },
+    {
+      "word": "August",
+      "meaning": "tháng tám",
+      "pronounce": "ˈɔgəst"
+    },
+    {
+      "word": "aunt",
+      "meaning": "dì",
+      "pronounce": "ɔnt"
+    },
+    {
+      "word": "away",
+      "meaning": "xa",
+      "pronounce": "əˈweɪ"
+    },
+    {
+      "word": "awesome",
+      "meaning": "tuyệt vời",
+      "pronounce": "ˈɔsəm"
+    },
+    {
+      "word": "baby",
+      "meaning": "đứa bé",
+      "pronounce": "ˈbeɪbi"
+    },
+    {
+      "word": "back",
+      "meaning": "mặt sau",
+      "pronounce": "bæk"
+    },
+    {
+      "word": "bad",
+      "meaning": "xấu",
+      "pronounce": "bæd"
+    },
+    {
+      "word": "bag",
+      "meaning": "cái túi",
+      "pronounce": "bæg"
+    },
+    {
+      "word": "ball",
+      "meaning": "quả bóng",
+      "pronounce": "bɔl"
+    },
+    {
+      "word": "banana",
+      "meaning": "chuối",
+      "pronounce": "bəˈnænə"
+    },
+    {
+      "word": "band",
+      "meaning": "ban nhạc",
+      "pronounce": "bænd"
+    },
+    {
+      "word": "bank",
+      "meaning": "ngân hàng",
+      "pronounce": "bæŋk"
+    },
+    {
+      "word": "bar",
+      "meaning": "thanh",
+      "pronounce": "bɑr"
+    },
+    {
+      "word": "baseball",
+      "meaning": "bóng chày",
+      "pronounce": "ˈbeɪsˈbɔl"
+    },
+    {
+      "word": "basketball",
+      "meaning": "bóng rổ",
+      "pronounce": "ˈbæskətˌbɔl"
+    },
+    {
+      "word": "bath",
+      "meaning": "bồn tắm",
+      "pronounce": "bæθ"
+    },
+    {
+      "word": "bathroom",
+      "meaning": "phòng tắm",
+      "pronounce": "ˈbæθˌrum"
+    },
+    {
+      "word": "be",
+      "meaning": "là",
+      "pronounce": "bi"
+    },
+    {
+      "word": "beach",
+      "meaning": "bãi biển",
+      "pronounce": "biʧ"
+    },
+    {
+      "word": "beautiful",
+      "meaning": "xinh đẹp",
+      "pronounce": "ˈbjutəfəl"
+    },
+    {
+      "word": "because",
+      "meaning": "bởi vì",
+      "pronounce": "bɪˈkəz"
+    },
+    {
+      "word": "become",
+      "meaning": "trở nên",
+      "pronounce": "bɪˈkəm"
+    },
+    {
+      "word": "bed",
+      "meaning": "giường",
+      "pronounce": "bɛd"
+    },
+    {
+      "word": "bedroom",
+      "meaning": "phòng ngủ",
+      "pronounce": "ˈbɛˌdrum"
+    },
+    {
+      "word": "beer",
+      "meaning": "bia",
+      "pronounce": "bɪr"
+    },
+    {
+      "word": "before",
+      "meaning": "trước",
+      "pronounce": "ˌbiˈfɔr"
+    },
+    {
+      "word": "begin",
+      "meaning": "bắt đầu",
+      "pronounce": "bɪˈgɪn"
+    },
+    {
+      "word": "beginning",
+      "meaning": "bắt đầu",
+      "pronounce": "bɪˈgɪnɪŋ"
+    },
+    {
+      "word": "behind",
+      "meaning": "phía sau",
+      "pronounce": "bɪˈhaɪnd"
+    },
+    {
+      "word": "believe",
+      "meaning": "tin tưởng",
+      "pronounce": "bɪˈliv"
+    },
+    {
+      "word": "below",
+      "meaning": "dưới",
+      "pronounce": "bɪˈloʊ"
+    },
+    {
+      "word": "best",
+      "meaning": "tốt nhất",
+      "pronounce": "bɛst"
+    },
+    {
+      "word": "better",
+      "meaning": "tốt hơn",
+      "pronounce": "ˈbɛtər"
+    },
+    {
+      "word": "between",
+      "meaning": "giữa",
+      "pronounce": "bɪtˈwin"
+    },
+    {
+      "word": "bicycle",
+      "meaning": "xe đạp",
+      "pronounce": "ˈbaɪsɪkəl"
+    },
+    {
+      "word": "big",
+      "meaning": "to lớn",
+      "pronounce": "bɪg"
+    },
+    {
+      "word": "bike",
+      "meaning": "xe đạp",
+      "pronounce": "baɪk"
+    },
+    {
+      "word": "bill",
+      "meaning": "hóa đơn",
+      "pronounce": "bɪl"
+    },
+    {
+      "word": "bird",
+      "meaning": "chim",
+      "pronounce": "bərd"
+    },
+    {
+      "word": "birthday",
+      "meaning": "sinh nhật",
+      "pronounce": "ˈbərθˌdeɪ"
+    },
+    {
+      "word": "black",
+      "meaning": "đen",
+      "pronounce": "blæk"
+    },
+    {
+      "word": "blog",
+      "meaning": "blog",
+      "pronounce": "blɔg"
+    },
+    {
+      "word": "blond",
+      "meaning": "tóc vàng",
+      "pronounce": "blɑnd"
+    },
+    {
+      "word": "blue",
+      "meaning": "màu xanh da trời",
+      "pronounce": "blu"
+    },
+    {
+      "word": "boat",
+      "meaning": "thuyền",
+      "pronounce": "boʊt"
+    },
+    {
+      "word": "body",
+      "meaning": "thân hình",
+      "pronounce": "ˈbɑdi"
+    },
+    {
+      "word": "book",
+      "meaning": "sách",
+      "pronounce": "bʊk"
+    },
+    {
+      "word": "boot",
+      "meaning": "khởi động",
+      "pronounce": "but"
+    },
+    {
+      "word": "bored",
+      "meaning": "chán",
+      "pronounce": "bɔrd"
+    },
+    {
+      "word": "boring",
+      "meaning": "nhạt nhẽo",
+      "pronounce": "ˈbɔrɪŋ"
+    },
+    {
+      "word": "born",
+      "meaning": "sinh",
+      "pronounce": "bɔrn"
+    },
+    {
+      "word": "both",
+      "meaning": "cả hai",
+      "pronounce": "boʊθ"
+    },
+    {
+      "word": "bottle",
+      "meaning": "cái chai",
+      "pronounce": "ˈbɑtəl"
+    },
+    {
+      "word": "box",
+      "meaning": "hộp",
+      "pronounce": "bɑks"
+    },
+    {
+      "word": "boy",
+      "meaning": "con trai",
+      "pronounce": "bɔɪ"
+    },
+    {
+      "word": "boyfriend",
+      "meaning": "bạn trai",
+      "pronounce": "ˈbɔɪˌfrɛnd"
+    },
+    {
+      "word": "bread",
+      "meaning": "bánh mỳ",
+      "pronounce": "brɛd"
+    },
+    {
+      "word": "break",
+      "meaning": "phá vỡ",
+      "pronounce": "breɪk"
+    },
+    {
+      "word": "breakfast",
+      "meaning": "bữa sáng",
+      "pronounce": "ˈbrɛkfəst"
+    },
+    {
+      "word": "bring",
+      "meaning": "mang đến",
+      "pronounce": "brɪŋ"
+    },
+    {
+      "word": "brother",
+      "meaning": "anh trai",
+      "pronounce": "ˈbrəðər"
+    },
+    {
+      "word": "brown",
+      "meaning": "màu nâu",
+      "pronounce": "braʊn"
+    },
+    {
+      "word": "build",
+      "meaning": "xây dựng",
+      "pronounce": "bɪld"
+    },
+    {
+      "word": "building",
+      "meaning": "xây dựng",
+      "pronounce": "ˈbɪldɪŋ"
+    },
+    {
+      "word": "bus",
+      "meaning": "xe buýt",
+      "pronounce": "bəs"
+    },
+    {
+      "word": "business",
+      "meaning": "việc kinh doanh",
+      "pronounce": "ˈbɪznɪs"
+    },
+    {
+      "word": "busy",
+      "meaning": "bận",
+      "pronounce": "ˈbɪzi"
+    },
+    {
+      "word": "but",
+      "meaning": "nhưng",
+      "pronounce": "bət"
+    },
+    {
+      "word": "butter",
+      "meaning": "bơ",
+      "pronounce": "ˈbətər"
+    },
+    {
+      "word": "buy",
+      "meaning": "mua",
+      "pronounce": "baɪ"
+    },
+    {
+      "word": "by",
+      "meaning": "qua",
+      "pronounce": "baɪ"
+    },
+    {
+      "word": "bye",
+      "meaning": "tạm biệt",
+      "pronounce": "baɪ"
+    },
+    {
+      "word": "cafe",
+      "meaning": "quán cà phê",
+      "pronounce": "kəˈfeɪ"
+    },
+    {
+      "word": "cake",
+      "meaning": "bánh ngọt",
+      "pronounce": "keɪk"
+    },
+    {
+      "word": "call",
+      "meaning": "gọi",
+      "pronounce": "kɔl"
+    },
+    {
+      "word": "camera",
+      "meaning": "camera",
+      "pronounce": "ˈkæmərə"
+    },
+    {
+      "word": "can",
+      "meaning": "có thể",
+      "pronounce": "kən"
+    },
+    {
+      "word": "cannot",
+      "meaning": "không thể",
+      "pronounce": "ˈkænɑt"
+    },
+    {
+      "word": "capital",
+      "meaning": "thủ đô",
+      "pronounce": "ˈkæpɪtəl"
+    },
+    {
+      "word": "car",
+      "meaning": "xe hơi",
+      "pronounce": "kɑr"
+    },
+    {
+      "word": "card",
+      "meaning": "thẻ",
+      "pronounce": "kɑrd"
+    },
+    {
+      "word": "career",
+      "meaning": "sự nghiệp",
+      "pronounce": "kərɪr"
+    },
+    {
+      "word": "carrot",
+      "meaning": "cà rốt",
+      "pronounce": "ˈkɛrət"
+    },
+    {
+      "word": "carry",
+      "meaning": "mang",
+      "pronounce": "ˈkɛri"
+    },
+    {
+      "word": "cat",
+      "meaning": "con mèo",
+      "pronounce": "kæt"
+    },
+    {
+      "word": "CD",
+      "meaning": "đĩa cd",
+      "pronounce": "ˈsiˈdi"
+    },
+    {
+      "word": "cent",
+      "meaning": "xu",
+      "pronounce": "sɛnt"
+    },
+    {
+      "word": "center",
+      "meaning": "trung tâm",
+      "pronounce": "ˈsɛnər"
+    },
+    {
+      "word": "chair",
+      "meaning": "chủ tịch",
+      "pronounce": "ʧɛr"
+    },
+    {
+      "word": "change",
+      "meaning": "thay đổi",
+      "pronounce": "ʧeɪnʤ"
+    },
+    {
+      "word": "chart",
+      "meaning": "biểu đồ",
+      "pronounce": "ʧɑrt"
+    },
+    {
+      "word": "cheap",
+      "meaning": "rẻ",
+      "pronounce": "ʧip"
+    },
+    {
+      "word": "check",
+      "meaning": "kiểm tra",
+      "pronounce": "ʧɛk"
+    },
+    {
+      "word": "cheese",
+      "meaning": "phô mai",
+      "pronounce": "ʧiz"
+    },
+    {
+      "word": "chicken",
+      "meaning": "thịt gà",
+      "pronounce": "ˈʧɪkən"
+    },
+    {
+      "word": "child",
+      "meaning": "đứa trẻ",
+      "pronounce": "ʧaɪld"
+    },
+    {
+      "word": "chocolate",
+      "meaning": "sôcôla",
+      "pronounce": "ˈʧɔklət"
+    },
+    {
+      "word": "choose",
+      "meaning": "chọn",
+      "pronounce": "ʧuz"
+    },
+    {
+      "word": "city",
+      "meaning": "thành phố",
+      "pronounce": "ˈsɪti"
+    },
+    {
+      "word": "class",
+      "meaning": "lớp học",
+      "pronounce": "klæs"
+    },
+    {
+      "word": "classroom",
+      "meaning": "lớp học",
+      "pronounce": "ˈklæsˌrum"
+    },
+    {
+      "word": "clean",
+      "meaning": "lau dọn",
+      "pronounce": "klin"
+    },
+    {
+      "word": "climb",
+      "meaning": "leo",
+      "pronounce": "klaɪm"
+    },
+    {
+      "word": "clock",
+      "meaning": "cái đồng hồ",
+      "pronounce": "klɑk"
+    },
+    {
+      "word": "close",
+      "meaning": "đóng",
+      "pronounce": "kloʊz"
+    },
+    {
+      "word": "clothes",
+      "meaning": "quần áo",
+      "pronounce": "kloʊðz"
+    },
+    {
+      "word": "club",
+      "meaning": "câu lạc bộ",
+      "pronounce": "kləb"
+    },
+    {
+      "word": "coat",
+      "meaning": "áo choàng",
+      "pronounce": "koʊt"
+    },
+    {
+      "word": "coffee",
+      "meaning": "cà phê",
+      "pronounce": "ˈkɔfi"
+    },
+    {
+      "word": "cold",
+      "meaning": "lạnh lẽo",
+      "pronounce": "koʊld"
+    },
+    {
+      "word": "college",
+      "meaning": "trường cao đẳng",
+      "pronounce": "ˈkɑlɪʤ"
+    },
+    {
+      "word": "color",
+      "meaning": "màu sắc",
+      "pronounce": "ˈkələr"
+    },
+    {
+      "word": "come",
+      "meaning": "đến",
+      "pronounce": "kəm"
+    },
+    {
+      "word": "common",
+      "meaning": "chung",
+      "pronounce": "ˈkɑmən"
+    },
+    {
+      "word": "company",
+      "meaning": "công ty",
+      "pronounce": "ˈkəmpəˌni"
+    },
+    {
+      "word": "compare",
+      "meaning": "so sánh",
+      "pronounce": "kəmˈpɛr"
+    },
+    {
+      "word": "complete",
+      "meaning": "hoàn thành",
+      "pronounce": "kəmˈplit"
+    },
+    {
+      "word": "computer",
+      "meaning": "máy tính",
+      "pronounce": "kəmˈpjutər"
+    },
+    {
+      "word": "concert",
+      "meaning": "buổi hòa nhạc",
+      "pronounce": "ˈkɑnsərt"
+    },
+    {
+      "word": "conversation",
+      "meaning": "cuộc hội thoại",
+      "pronounce": "ˌkɑnvərˈseɪʃən"
+    },
+    {
+      "word": "cook",
+      "meaning": "đầu bếp",
+      "pronounce": "kʊk"
+    },
+    {
+      "word": "cooking",
+      "meaning": "nấu ăn",
+      "pronounce": "ˈkʊkɪŋ"
+    },
+    {
+      "word": "cool",
+      "meaning": "mát mẻ",
+      "pronounce": "kul"
+    },
+    {
+      "word": "correct",
+      "meaning": "chính xác",
+      "pronounce": "kərˈɛkt"
+    },
+    {
+      "word": "cost",
+      "meaning": "trị giá",
+      "pronounce": "kɔst"
+    },
+    {
+      "word": "could",
+      "meaning": "có thể",
+      "pronounce": "kʊd"
+    },
+    {
+      "word": "country",
+      "meaning": "quốc gia",
+      "pronounce": "ˈkəntri"
+    },
+    {
+      "word": "course",
+      "meaning": "khóa học",
+      "pronounce": "kɔrs"
+    },
+    {
+      "word": "cousin",
+      "meaning": "anh em họ",
+      "pronounce": "ˈkəzən"
+    },
+    {
+      "word": "cow",
+      "meaning": "bò",
+      "pronounce": "kaʊ"
+    },
+    {
+      "word": "cream",
+      "meaning": "kem",
+      "pronounce": "krim"
+    },
+    {
+      "word": "create",
+      "meaning": "tạo nên",
+      "pronounce": "kriˈeɪt"
+    },
+    {
+      "word": "culture",
+      "meaning": "văn hoá",
+      "pronounce": "ˈkəlʧər"
+    },
+    {
+      "word": "cup",
+      "meaning": "tách",
+      "pronounce": "kəp"
+    },
+    {
+      "word": "customer",
+      "meaning": "khách hàng",
+      "pronounce": "ˈkəstəmər"
+    },
+    {
+      "word": "cut",
+      "meaning": "cắt",
+      "pronounce": "kət"
+    },
+    {
+      "word": "dad",
+      "meaning": "bố",
+      "pronounce": "dæd"
+    },
+    {
+      "word": "dance",
+      "meaning": "nhảy",
+      "pronounce": "dæns"
+    },
+    {
+      "word": "dancer",
+      "meaning": "vũ công",
+      "pronounce": "ˈdænsər"
+    },
+    {
+      "word": "dancing",
+      "meaning": "khiêu vũ",
+      "pronounce": "ˈdænsɪŋ"
+    },
+    {
+      "word": "dangerous",
+      "meaning": "nguy hiểm",
+      "pronounce": "ˈdeɪnʤərəs"
+    },
+    {
+      "word": "dark",
+      "meaning": "tối tăm",
+      "pronounce": "dɑrk"
+    },
+    {
+      "word": "date",
+      "meaning": "ngày",
+      "pronounce": "deɪt"
+    },
+    {
+      "word": "daughter",
+      "meaning": "con gái",
+      "pronounce": "ˈdɔtər"
+    },
+    {
+      "word": "day",
+      "meaning": "ngày",
+      "pronounce": "deɪ"
+    },
+    {
+      "word": "dear",
+      "meaning": "thân mến",
+      "pronounce": "dɪr"
+    },
+    {
+      "word": "December",
+      "meaning": "tháng 12",
+      "pronounce": "dɪˈsɛmbər"
+    },
+    {
+      "word": "decide",
+      "meaning": "quyết định",
+      "pronounce": "ˌdɪˈsaɪd"
+    },
+    {
+      "word": "delicious",
+      "meaning": "thơm ngon",
+      "pronounce": "dɪˈlɪʃəs"
+    },
+    {
+      "word": "describe",
+      "meaning": "mô tả",
+      "pronounce": "dɪˈskraɪb"
+    },
+    {
+      "word": "description",
+      "meaning": "sự miêu tả",
+      "pronounce": "dɪˈskrɪpʃən"
+    },
+    {
+      "word": "design",
+      "meaning": "thiết kế",
+      "pronounce": "dɪˈzaɪn"
+    },
+    {
+      "word": "desk",
+      "meaning": "bàn làm việc",
+      "pronounce": "dɛsk"
+    },
+    {
+      "word": "detail",
+      "meaning": "chi tiết",
+      "pronounce": "ˈditeɪl"
+    },
+    {
+      "word": "dialogue",
+      "meaning": "đối thoại",
+      "pronounce": "ˈdaɪəˌlɔg"
+    },
+    {
+      "word": "dictionary",
+      "meaning": "từ điển",
+      "pronounce": "ˈdɪkʃəˌnɛri"
+    },
+    {
+      "word": "die",
+      "meaning": "chết",
+      "pronounce": "daɪ"
+    },
+    {
+      "word": "diet",
+      "meaning": "ăn kiêng",
+      "pronounce": "daɪət"
+    },
+    {
+      "word": "difference",
+      "meaning": "sự khác biệt",
+      "pronounce": "ˈdɪfərəns"
+    },
+    {
+      "word": "different",
+      "meaning": "khác biệt",
+      "pronounce": "ˈdɪfərənt"
+    },
+    {
+      "word": "difficult",
+      "meaning": "khó",
+      "pronounce": "ˈdɪfəkəlt"
+    },
+    {
+      "word": "dinner",
+      "meaning": "bữa tối",
+      "pronounce": "ˈdɪnər"
+    },
+    {
+      "word": "dirty",
+      "meaning": "bẩn thỉu",
+      "pronounce": "ˈdərti"
+    },
+    {
+      "word": "discuss",
+      "meaning": "bàn luận",
+      "pronounce": "dɪˈskəs"
+    },
+    {
+      "word": "dish",
+      "meaning": "món ăn",
+      "pronounce": "dɪʃ"
+    },
+    {
+      "word": "do",
+      "meaning": "làm",
+      "pronounce": "du"
+    },
+    {
+      "word": "doctor",
+      "meaning": "bác sĩ",
+      "pronounce": "ˈdɔktər"
+    },
+    {
+      "word": "dog",
+      "meaning": "chó",
+      "pronounce": "dɔg"
+    },
+    {
+      "word": "dollar",
+      "meaning": "đô la",
+      "pronounce": "ˈdɔlər"
+    },
+    {
+      "word": "door",
+      "meaning": "cửa",
+      "pronounce": "dɔr"
+    },
+    {
+      "word": "down",
+      "meaning": "xuống",
+      "pronounce": "daʊn"
+    },
+    {
+      "word": "downstairs",
+      "meaning": "ở tầng dưới",
+      "pronounce": "ˈdaʊnˈstɛrz"
+    },
+    {
+      "word": "draw",
+      "meaning": "vẽ tranh",
+      "pronounce": "drɔ"
+    },
+    {
+      "word": "dress",
+      "meaning": "đầm",
+      "pronounce": "drɛs"
+    },
+    {
+      "word": "drink",
+      "meaning": "uống",
+      "pronounce": "drɪŋk"
+    },
+    {
+      "word": "drive",
+      "meaning": "lái xe",
+      "pronounce": "draɪv"
+    },
+    {
+      "word": "driver",
+      "meaning": "tài xế",
+      "pronounce": "ˈdraɪvər"
+    },
+    {
+      "word": "during",
+      "meaning": "trong lúc",
+      "pronounce": "ˈdʊrɪŋ"
+    },
+    {
+      "word": "DVD",
+      "meaning": "dvd",
+      "pronounce": "ˌdiˌviˈdi"
+    },
+    {
+      "word": "each",
+      "meaning": "mỗi",
+      "pronounce": "iʧ"
+    },
+    {
+      "word": "ear",
+      "meaning": "tai",
+      "pronounce": "ɪr"
+    },
+    {
+      "word": "early",
+      "meaning": "sớm",
+      "pronounce": "ˈərli"
+    },
+    {
+      "word": "east",
+      "meaning": "phía đông",
+      "pronounce": "ist"
+    },
+    {
+      "word": "easy",
+      "meaning": "dễ",
+      "pronounce": "ˈizi"
+    },
+    {
+      "word": "eat",
+      "meaning": "ăn",
+      "pronounce": "it"
+    },
+    {
+      "word": "egg",
+      "meaning": "trứng",
+      "pronounce": "ɛg"
+    },
+    {
+      "word": "eight",
+      "meaning": "tám",
+      "pronounce": "eɪt"
+    },
+    {
+      "word": "eighteen",
+      "meaning": "mười tám",
+      "pronounce": "ˈeɪˈtin"
+    },
+    {
+      "word": "eighty",
+      "meaning": "tám mươi",
+      "pronounce": "ˈeɪti"
+    },
+    {
+      "word": "elephant",
+      "meaning": "con voi",
+      "pronounce": "ˈɛləfənt"
+    },
+    {
+      "word": "eleven",
+      "meaning": "mười một",
+      "pronounce": "ˈilɛvən"
+    },
+    {
+      "word": "else",
+      "meaning": "khác",
+      "pronounce": "ɛls"
+    },
+    {
+      "word": "email",
+      "meaning": "e-mail",
+      "pronounce": "iˈmeɪl"
+    },
+    {
+      "word": "end",
+      "meaning": "kết thúc",
+      "pronounce": "ɛnd"
+    },
+    {
+      "word": "enjoy",
+      "meaning": "thưởng thức",
+      "pronounce": "ˌɛnˈʤɔɪ"
+    },
+    {
+      "word": "enough",
+      "meaning": "đủ",
+      "pronounce": "ɪˈnəf"
+    },
+    {
+      "word": "euro",
+      "meaning": "euro",
+      "pronounce": "ˈjʊrə"
+    },
+    {
+      "word": "even",
+      "meaning": "thậm chí",
+      "pronounce": "ˈivɪn"
+    },
+    {
+      "word": "evening",
+      "meaning": "buổi tối",
+      "pronounce": "ˈivnɪŋ"
+    },
+    {
+      "word": "event",
+      "meaning": "sự kiện",
+      "pronounce": "ɪˈvɛnt"
+    },
+    {
+      "word": "ever",
+      "meaning": "bao giờ",
+      "pronounce": "ˈɛvər"
+    },
+    {
+      "word": "every",
+      "meaning": "mọi",
+      "pronounce": "ˈɛvəri"
+    },
+    {
+      "word": "everybody",
+      "meaning": "mọi người",
+      "pronounce": "ˈɛvriˌbɑdi"
+    },
+    {
+      "word": "everyone",
+      "meaning": "mọi người",
+      "pronounce": "ˈɛvriˌwən"
+    },
+    {
+      "word": "everything",
+      "meaning": "mọi thứ",
+      "pronounce": "ˈɛvriˌθɪŋ"
+    },
+    {
+      "word": "exam",
+      "meaning": "bài thi",
+      "pronounce": "ɪgˈzæm"
+    },
+    {
+      "word": "example",
+      "meaning": "ví dụ",
+      "pronounce": "ɪgˈzæmpəl"
+    },
+    {
+      "word": "excited",
+      "meaning": "hào hứng",
+      "pronounce": "ɪkˈsaɪtɪd"
+    },
+    {
+      "word": "exciting",
+      "meaning": "thú vị",
+      "pronounce": "ɪkˈsaɪtɪŋ"
+    },
+    {
+      "word": "exercise",
+      "meaning": "bài tập",
+      "pronounce": "ˈɛksərˌsaɪz"
+    },
+    {
+      "word": "expensive",
+      "meaning": "đắt",
+      "pronounce": "ɪkˈspɛnsɪv"
+    },
+    {
+      "word": "explain",
+      "meaning": "giải thích",
+      "pronounce": "ɪkˈspleɪn"
+    },
+    {
+      "word": "extra",
+      "meaning": "thêm",
+      "pronounce": "ˈɛkstrə"
+    },
+    {
+      "word": "eye",
+      "meaning": "mắt",
+      "pronounce": "aɪ"
+    },
+    {
+      "word": "face",
+      "meaning": "khuôn mặt",
+      "pronounce": "feɪs"
+    },
+    {
+      "word": "fact",
+      "meaning": "sự thật",
+      "pronounce": "fækt"
+    },
+    {
+      "word": "fall",
+      "meaning": "ngã",
+      "pronounce": "fɔl"
+    },
+    {
+      "word": "FALSE",
+      "meaning": "sai",
+      "pronounce": "fɔls"
+    },
+    {
+      "word": "family",
+      "meaning": "gia đình",
+      "pronounce": "ˈfæməli"
+    },
+    {
+      "word": "famous",
+      "meaning": "nổi tiếng",
+      "pronounce": "ˈfeɪməs"
+    },
+    {
+      "word": "fantastic",
+      "meaning": "tuyệt vời",
+      "pronounce": "fænˈtæstɪk"
+    },
+    {
+      "word": "far",
+      "meaning": "xa",
+      "pronounce": "fɑr"
+    },
+    {
+      "word": "farm",
+      "meaning": "nông trại",
+      "pronounce": "fɑrm"
+    },
+    {
+      "word": "farmer",
+      "meaning": "nông dân",
+      "pronounce": "ˈfɑrmər"
+    },
+    {
+      "word": "fast",
+      "meaning": "nhanh",
+      "pronounce": "fæst"
+    },
+    {
+      "word": "fat",
+      "meaning": "mập",
+      "pronounce": "fæt"
+    },
+    {
+      "word": "father",
+      "meaning": "bố",
+      "pronounce": "ˈfɑðər"
+    },
+    {
+      "word": "favorite",
+      "meaning": "yêu thích",
+      "pronounce": "ˈfeɪvərɪt"
+    },
+    {
+      "word": "February",
+      "meaning": "tháng hai",
+      "pronounce": "ˈfɛbruˌɛri"
+    },
+    {
+      "word": "feel",
+      "meaning": "cảm thấy",
+      "pronounce": "fil"
+    },
+    {
+      "word": "feeling",
+      "meaning": "cảm giác",
+      "pronounce": "ˈfilɪŋ"
+    },
+    {
+      "word": "festival",
+      "meaning": "lễ hội",
+      "pronounce": "ˈfɛstɪvəl"
+    },
+    {
+      "word": "few",
+      "meaning": "một vài",
+      "pronounce": "fju"
+    },
+    {
+      "word": "fifteen",
+      "meaning": "mười lăm",
+      "pronounce": "ˈfɪfˈtin"
+    },
+    {
+      "word": "fifth",
+      "meaning": "thứ năm",
+      "pronounce": "fɪθ"
+    },
+    {
+      "word": "fifty",
+      "meaning": "năm mươi",
+      "pronounce": "ˈfɪfti"
+    },
+    {
+      "word": "fill",
+      "meaning": "đổ đầy",
+      "pronounce": "fɪl"
+    },
+    {
+      "word": "final",
+      "meaning": "cuối cùng",
+      "pronounce": "ˈfaɪnəl"
+    },
+    {
+      "word": "find",
+      "meaning": "tìm thấy",
+      "pronounce": "faɪnd"
+    },
+    {
+      "word": "fine",
+      "meaning": "khỏe",
+      "pronounce": "faɪn"
+    },
+    {
+      "word": "finish",
+      "meaning": "hoàn thành",
+      "pronounce": "ˈfɪnɪʃ"
+    },
+    {
+      "word": "fire",
+      "meaning": "ngọn lửa",
+      "pronounce": "faɪər"
+    },
+    {
+      "word": "first",
+      "meaning": "đầu tiên",
+      "pronounce": "fərst"
+    },
+    {
+      "word": "fish",
+      "meaning": "cá",
+      "pronounce": "fɪʃ"
+    },
+    {
+      "word": "five",
+      "meaning": "năm",
+      "pronounce": "faɪv"
+    },
+    {
+      "word": "flight",
+      "meaning": "chuyến bay",
+      "pronounce": "flaɪt"
+    },
+    {
+      "word": "floor",
+      "meaning": "sàn nhà",
+      "pronounce": "flɔr"
+    },
+    {
+      "word": "flower",
+      "meaning": "hoa",
+      "pronounce": "flaʊər"
+    },
+    {
+      "word": "fly",
+      "meaning": "bay",
+      "pronounce": "flaɪ"
+    },
+    {
+      "word": "follow",
+      "meaning": "theo",
+      "pronounce": "ˈfɑloʊ"
+    },
+    {
+      "word": "food",
+      "meaning": "đồ ăn",
+      "pronounce": "fud"
+    },
+    {
+      "word": "foot",
+      "meaning": "chân",
+      "pronounce": "fʊt"
+    },
+    {
+      "word": "football",
+      "meaning": "bóng đá",
+      "pronounce": "ˈfʊtˌbɔl"
+    },
+    {
+      "word": "for",
+      "meaning": "vì",
+      "pronounce": "fər"
+    },
+    {
+      "word": "forget",
+      "meaning": "quên",
+      "pronounce": "fərˈgɛt"
+    },
+    {
+      "word": "form",
+      "meaning": "hình thức",
+      "pronounce": "fɔrm"
+    },
+    {
+      "word": "forty",
+      "meaning": "bốn mươi",
+      "pronounce": "ˈfɔrti"
+    },
+    {
+      "word": "four",
+      "meaning": "bốn",
+      "pronounce": "fɔr"
+    },
+    {
+      "word": "fourteen",
+      "meaning": "mười bốn",
+      "pronounce": "ˌfɔrˈtin"
+    },
+    {
+      "word": "fourth",
+      "meaning": "thứ tư",
+      "pronounce": "fɔrθ"
+    },
+    {
+      "word": "free",
+      "meaning": "miễn phí",
+      "pronounce": "fri"
+    },
+    {
+      "word": "Friday",
+      "meaning": "thứ sáu",
+      "pronounce": "ˈfraɪˌdeɪ"
+    },
+    {
+      "word": "friend",
+      "meaning": "bạn",
+      "pronounce": "frɛnd"
+    },
+    {
+      "word": "friendly",
+      "meaning": "thân thiện",
+      "pronounce": "ˈfrɛndli"
+    },
+    {
+      "word": "from",
+      "meaning": "từ",
+      "pronounce": "frəm"
+    },
+    {
+      "word": "front",
+      "meaning": "đằng trước",
+      "pronounce": "frənt"
+    },
+    {
+      "word": "fruit",
+      "meaning": "hoa quả",
+      "pronounce": "frut"
+    },
+    {
+      "word": "full",
+      "meaning": "đầy",
+      "pronounce": "fʊl"
+    },
+    {
+      "word": "fun",
+      "meaning": "vui vẻ",
+      "pronounce": "fən"
+    },
+    {
+      "word": "funny",
+      "meaning": "buồn cười",
+      "pronounce": "ˈfəni"
+    },
+    {
+      "word": "future",
+      "meaning": "tương lai",
+      "pronounce": "fˈjuʧər"
+    },
+    {
+      "word": "game",
+      "meaning": "trò chơi",
+      "pronounce": "geɪm"
+    },
+    {
+      "word": "garden",
+      "meaning": "vườn",
+      "pronounce": "ˈgɑrdən"
+    },
+    {
+      "word": "geography",
+      "meaning": "địa lý",
+      "pronounce": "ʤiˈɑgrəfi"
+    },
+    {
+      "word": "get",
+      "meaning": "lấy",
+      "pronounce": "gɪt"
+    },
+    {
+      "word": "girl",
+      "meaning": "con gái",
+      "pronounce": "gərl"
+    },
+    {
+      "word": "girlfriend",
+      "meaning": "bạn gái",
+      "pronounce": "ˈgərlˌfrɛnd"
+    },
+    {
+      "word": "give",
+      "meaning": "đưa cho",
+      "pronounce": "gɪv"
+    },
+    {
+      "word": "glass",
+      "meaning": "thủy tinh",
+      "pronounce": "glæs"
+    },
+    {
+      "word": "go",
+      "meaning": "đi",
+      "pronounce": "goʊ"
+    },
+    {
+      "word": "good",
+      "meaning": "tốt",
+      "pronounce": "gʊd"
+    },
+    {
+      "word": "goodbye",
+      "meaning": "tạm biệt",
+      "pronounce": "ˌgʊdˈbaɪ"
+    },
+    {
+      "word": "grandfather",
+      "meaning": "ông nội",
+      "pronounce": "ˈgrænˌfɑðər"
+    },
+    {
+      "word": "grandmother",
+      "meaning": "bà",
+      "pronounce": "ˈgrændˌməðər"
+    },
+    {
+      "word": "grandparent",
+      "meaning": "ông bà",
+      "pronounce": "ˈgrændˌpɛrənt"
+    },
+    {
+      "word": "gray",
+      "meaning": "xám",
+      "pronounce": "greɪ"
+    },
+    {
+      "word": "great",
+      "meaning": "tuyệt",
+      "pronounce": "greɪt"
+    },
+    {
+      "word": "green",
+      "meaning": "màu xanh lá",
+      "pronounce": "grin"
+    },
+    {
+      "word": "group",
+      "meaning": "nhóm",
+      "pronounce": "grup"
+    },
+    {
+      "word": "grow",
+      "meaning": "phát triển",
+      "pronounce": "groʊ"
+    },
+    {
+      "word": "guess",
+      "meaning": "đoán",
+      "pronounce": "gɛs"
+    },
+    {
+      "word": "guitar",
+      "meaning": "guitar",
+      "pronounce": "gɪˈtɑr"
+    },
+    {
+      "word": "gym",
+      "meaning": "phòng tập thể dục",
+      "pronounce": "ʤɪm"
+    },
+    {
+      "word": "hair",
+      "meaning": "tóc",
+      "pronounce": "hɛr"
+    },
+    {
+      "word": "half",
+      "meaning": "một nửa",
+      "pronounce": "hæf"
+    },
+    {
+      "word": "hand",
+      "meaning": "tay",
+      "pronounce": "hænd"
+    },
+    {
+      "word": "happen",
+      "meaning": "xảy ra",
+      "pronounce": "ˈhæpən"
+    },
+    {
+      "word": "happy",
+      "meaning": "vui mừng",
+      "pronounce": "ˈhæpi"
+    },
+    {
+      "word": "hard",
+      "meaning": "cứng",
+      "pronounce": "hɑrd"
+    },
+    {
+      "word": "hat",
+      "meaning": "mũ",
+      "pronounce": "hæt"
+    },
+    {
+      "word": "hate",
+      "meaning": "ghét",
+      "pronounce": "heɪt"
+    },
+    {
+      "word": "have",
+      "meaning": "có",
+      "pronounce": "hæv"
+    },
+    {
+      "word": "have to",
+      "meaning": "phải",
+      "pronounce": "hæv tɪ"
+    },
+    {
+      "word": "he",
+      "meaning": "anh ta",
+      "pronounce": "hi"
+    },
+    {
+      "word": "head",
+      "meaning": "cái đầu",
+      "pronounce": "hɛd"
+    },
+    {
+      "word": "health",
+      "meaning": "sức khỏe",
+      "pronounce": "hɛlθ"
+    },
+    {
+      "word": "healthy",
+      "meaning": "khỏe mạnh",
+      "pronounce": "ˈhɛlθi"
+    },
+    {
+      "word": "hear",
+      "meaning": "nghe",
+      "pronounce": "hir"
+    },
+    {
+      "word": "hello",
+      "meaning": "xin chào",
+      "pronounce": "hɛˈloʊ"
+    },
+    {
+      "word": "help",
+      "meaning": "giúp đỡ",
+      "pronounce": "hɛlp"
+    },
+    {
+      "word": "her",
+      "meaning": "cô ấy",
+      "pronounce": "hər"
+    },
+    {
+      "word": "here",
+      "meaning": "đây",
+      "pronounce": "hir"
+    },
+    {
+      "word": "hey",
+      "meaning": "chào",
+      "pronounce": "heɪ"
+    },
+    {
+      "word": "hi",
+      "meaning": "chào",
+      "pronounce": "haɪ"
+    },
+    {
+      "word": "high",
+      "meaning": "cao",
+      "pronounce": "haɪ"
+    },
+    {
+      "word": "him",
+      "meaning": "anh ta",
+      "pronounce": "ɪm"
+    },
+    {
+      "word": "his",
+      "meaning": "của anh ấy",
+      "pronounce": "hɪz"
+    },
+    {
+      "word": "history",
+      "meaning": "lịch sử",
+      "pronounce": "ˈhɪstəri"
+    },
+    {
+      "word": "hobby",
+      "meaning": "sở thích",
+      "pronounce": "ˈhɑbi"
+    },
+    {
+      "word": "home",
+      "meaning": "trang chủ",
+      "pronounce": "hoʊm"
+    },
+    {
+      "word": "homework",
+      "meaning": "bài tập về nhà",
+      "pronounce": "ˈhoʊmˌwərk"
+    },
+    {
+      "word": "hope",
+      "meaning": "mong",
+      "pronounce": "hoʊp"
+    },
+    {
+      "word": "horse",
+      "meaning": "ngựa",
+      "pronounce": "hɔrs"
+    },
+    {
+      "word": "hospital",
+      "meaning": "bệnh viện",
+      "pronounce": "ˈhɑˌspɪtəl"
+    },
+    {
+      "word": "hot",
+      "meaning": "nóng",
+      "pronounce": "hɑt"
+    },
+    {
+      "word": "hotel",
+      "meaning": "khách sạn",
+      "pronounce": "hoʊˈtɛl"
+    },
+    {
+      "word": "hour",
+      "meaning": "giờ",
+      "pronounce": "aʊər"
+    },
+    {
+      "word": "house",
+      "meaning": "căn nhà",
+      "pronounce": "haʊs"
+    },
+    {
+      "word": "how",
+      "meaning": "làm sao",
+      "pronounce": "haʊ"
+    },
+    {
+      "word": "however",
+      "meaning": "tuy nhiên",
+      "pronounce": "ˌhaʊˈɛvər"
+    },
+    {
+      "word": "hundred",
+      "meaning": "hàng trăm",
+      "pronounce": "ˈhənərd"
+    },
+    {
+      "word": "hungry",
+      "meaning": "đói bụng",
+      "pronounce": "ˈhəŋgri"
+    },
+    {
+      "word": "husband",
+      "meaning": "chồng",
+      "pronounce": "ˈhəzbənd"
+    },
+    {
+      "word": "I",
+      "meaning": "tôi",
+      "pronounce": "aɪ"
+    },
+    {
+      "word": "ice",
+      "meaning": "đá",
+      "pronounce": "aɪs"
+    },
+    {
+      "word": "ice cream",
+      "meaning": "kem",
+      "pronounce": "aɪs krim"
+    },
+    {
+      "word": "idea",
+      "meaning": "ý tưởng",
+      "pronounce": "aɪˈdiə"
+    },
+    {
+      "word": "if",
+      "meaning": "nếu như",
+      "pronounce": "ɪf"
+    },
+    {
+      "word": "imagine",
+      "meaning": "tưởng tượng",
+      "pronounce": "ˌɪˈmæʤən"
+    },
+    {
+      "word": "important",
+      "meaning": "quan trọng",
+      "pronounce": "ˌɪmˈpɔrtənt"
+    },
+    {
+      "word": "improve",
+      "meaning": "cải thiện",
+      "pronounce": "ˌɪmˈpruv"
+    },
+    {
+      "word": "in",
+      "meaning": "trong",
+      "pronounce": "ɪn"
+    },
+    {
+      "word": "include",
+      "meaning": "bao gồm",
+      "pronounce": "ˌɪnˈklud"
+    },
+    {
+      "word": "information",
+      "meaning": "thông tin",
+      "pronounce": "ˌɪnˌfɔrˈmeɪʃən"
+    },
+    {
+      "word": "interest",
+      "meaning": "quan tâm",
+      "pronounce": "ˈɪntəˌrɛst"
+    },
+    {
+      "word": "interested",
+      "meaning": "thú vị",
+      "pronounce": "ˈɪntəˌrɛstɪd"
+    },
+    {
+      "word": "interesting",
+      "meaning": "hấp dẫn",
+      "pronounce": "ˈɪntəˌrɛstɪŋ"
+    },
+    {
+      "word": "internet",
+      "meaning": "internet",
+      "pronounce": "ˈɪntərˌnɛt"
+    },
+    {
+      "word": "interview",
+      "meaning": "phỏng vấn",
+      "pronounce": "ˈɪntərvˌju"
+    },
+    {
+      "word": "into",
+      "meaning": "vào trong",
+      "pronounce": "ˈɪntu"
+    },
+    {
+      "word": "introduce",
+      "meaning": "giới thiệu",
+      "pronounce": "ˌɪntrəˈdus"
+    },
+    {
+      "word": "island",
+      "meaning": "hòn đảo",
+      "pronounce": "ˈaɪlənd"
+    },
+    {
+      "word": "it",
+      "meaning": "nó",
+      "pronounce": "ɪt"
+    },
+    {
+      "word": "its",
+      "meaning": "của nó",
+      "pronounce": "ɪts"
+    },
+    {
+      "word": "jacket",
+      "meaning": "áo khoác",
+      "pronounce": "ˈʤækɪt"
+    },
+    {
+      "word": "January",
+      "meaning": "tháng một",
+      "pronounce": "ˈʤænjuˌɛri"
+    },
+    {
+      "word": "jeans",
+      "meaning": "quần jean",
+      "pronounce": "ʤinz"
+    },
+    {
+      "word": "job",
+      "meaning": "công việc",
+      "pronounce": "ʤɑb"
+    },
+    {
+      "word": "join",
+      "meaning": "tham gia",
+      "pronounce": "ʤɔɪn"
+    },
+    {
+      "word": "juice",
+      "meaning": "nước ép",
+      "pronounce": "ʤus"
+    },
+    {
+      "word": "July",
+      "meaning": "tháng bảy",
+      "pronounce": "ˌʤuˈlaɪ"
+    },
+    {
+      "word": "June",
+      "meaning": "tháng sáu",
+      "pronounce": "ʤun"
+    },
+    {
+      "word": "just",
+      "meaning": "chỉ",
+      "pronounce": "ʤɪst"
+    },
+    {
+      "word": "keep",
+      "meaning": "giữ",
+      "pronounce": "kip"
+    },
+    {
+      "word": "key",
+      "meaning": "chìa khóa",
+      "pronounce": "ki"
+    },
+    {
+      "word": "kind",
+      "meaning": "loại",
+      "pronounce": "kaɪnd"
+    },
+    {
+      "word": "kitchen",
+      "meaning": "phòng bếp",
+      "pronounce": "ˈkɪʧən"
+    },
+    {
+      "word": "know",
+      "meaning": "biết",
+      "pronounce": "noʊ"
+    },
+    {
+      "word": "land",
+      "meaning": "đất",
+      "pronounce": "lænd"
+    },
+    {
+      "word": "language",
+      "meaning": "ngôn ngữ",
+      "pronounce": "ˈlæŋgwɪʤ"
+    },
+    {
+      "word": "large",
+      "meaning": "lớn",
+      "pronounce": "lɑrʤ"
+    },
+    {
+      "word": "last",
+      "meaning": "cuối cùng",
+      "pronounce": "læst"
+    },
+    {
+      "word": "late",
+      "meaning": "muộn",
+      "pronounce": "leɪt"
+    },
+    {
+      "word": "later",
+      "meaning": "sau đó",
+      "pronounce": "ˈleɪtər"
+    },
+    {
+      "word": "laugh",
+      "meaning": "cười",
+      "pronounce": "læf"
+    },
+    {
+      "word": "learn",
+      "meaning": "học hỏi",
+      "pronounce": "lərn"
+    },
+    {
+      "word": "leave",
+      "meaning": "rời khỏi",
+      "pronounce": "liv"
+    },
+    {
+      "word": "left",
+      "meaning": "bên trái",
+      "pronounce": "lɛft"
+    },
+    {
+      "word": "leg",
+      "meaning": "chân",
+      "pronounce": "lɛg"
+    },
+    {
+      "word": "lesson",
+      "meaning": "bài học",
+      "pronounce": "ˈlɛsən"
+    },
+    {
+      "word": "let",
+      "meaning": "cho phép",
+      "pronounce": "lɛt"
+    },
+    {
+      "word": "letter",
+      "meaning": "thư",
+      "pronounce": "ˈlɛtər"
+    },
+    {
+      "word": "library",
+      "meaning": "thư viện",
+      "pronounce": "ˈlaɪbrɛˌri"
+    },
+    {
+      "word": "lie",
+      "meaning": "nói dối",
+      "pronounce": "laɪ"
+    },
+    {
+      "word": "life",
+      "meaning": "mạng sống",
+      "pronounce": "laɪf"
+    },
+    {
+      "word": "light",
+      "meaning": "ánh sáng",
+      "pronounce": "laɪt"
+    },
+    {
+      "word": "like",
+      "meaning": "giống",
+      "pronounce": "laɪk"
+    },
+    {
+      "word": "line",
+      "meaning": "đường kẻ",
+      "pronounce": "laɪn"
+    },
+    {
+      "word": "lion",
+      "meaning": "con sư tử",
+      "pronounce": "laɪən"
+    },
+    {
+      "word": "list",
+      "meaning": "danh sách",
+      "pronounce": "lɪst"
+    },
+    {
+      "word": "listen",
+      "meaning": "nghe",
+      "pronounce": "ˈlɪsən"
+    },
+    {
+      "word": "little",
+      "meaning": "nhỏ bé",
+      "pronounce": "ˈlɪtəl"
+    },
+    {
+      "word": "live",
+      "meaning": "sống",
+      "pronounce": "lɪv"
+    },
+    {
+      "word": "local",
+      "meaning": "địa phương",
+      "pronounce": "ˈloʊkəl"
+    },
+    {
+      "word": "long",
+      "meaning": "dài",
+      "pronounce": "lɔŋ"
+    },
+    {
+      "word": "look",
+      "meaning": "nhìn",
+      "pronounce": "lʊk"
+    },
+    {
+      "word": "lose",
+      "meaning": "thua",
+      "pronounce": "luz"
+    },
+    {
+      "word": "lot",
+      "meaning": "nhiều",
+      "pronounce": "lɔt"
+    },
+    {
+      "word": "love",
+      "meaning": "yêu",
+      "pronounce": "ləv"
+    },
+    {
+      "word": "lunch",
+      "meaning": "bữa trưa",
+      "pronounce": "lənʧ"
+    },
+    {
+      "word": "machine",
+      "meaning": "máy móc",
+      "pronounce": "məˈʃin"
+    },
+    {
+      "word": "magazine",
+      "meaning": "tạp chí",
+      "pronounce": "ˈmægəˌzin"
+    },
+    {
+      "word": "main",
+      "meaning": "chủ yếu",
+      "pronounce": "meɪn"
+    },
+    {
+      "word": "make",
+      "meaning": "làm",
+      "pronounce": "meɪk"
+    },
+    {
+      "word": "mall",
+      "meaning": "trung tâm mua sắm",
+      "pronounce": "mɔl"
+    },
+    {
+      "word": "man",
+      "meaning": "người đàn ông",
+      "pronounce": "mæn"
+    },
+    {
+      "word": "many",
+      "meaning": "nhiều",
+      "pronounce": "ˈmɛni"
+    },
+    {
+      "word": "map",
+      "meaning": "bản đồ",
+      "pronounce": "mæp"
+    },
+    {
+      "word": "March",
+      "meaning": "bước đều",
+      "pronounce": "mɑrʧ"
+    },
+    {
+      "word": "market",
+      "meaning": "chợ",
+      "pronounce": "ˈmɑrkɪt"
+    },
+    {
+      "word": "married",
+      "meaning": "đã cưới",
+      "pronounce": "ˈmɛrid"
+    },
+    {
+      "word": "match",
+      "meaning": "cuộc thi đấu",
+      "pronounce": "mæʧ"
+    },
+    {
+      "word": "May",
+      "meaning": "có thể",
+      "pronounce": "meɪ"
+    },
+    {
+      "word": "maybe",
+      "meaning": "có lẽ",
+      "pronounce": "ˈmeɪbi"
+    },
+    {
+      "word": "me",
+      "meaning": "tôi",
+      "pronounce": "mi"
+    },
+    {
+      "word": "meal",
+      "meaning": "bữa ăn",
+      "pronounce": "mil"
+    },
+    {
+      "word": "mean",
+      "meaning": "nghĩa là",
+      "pronounce": "min"
+    },
+    {
+      "word": "meaning",
+      "meaning": "nghĩa",
+      "pronounce": "ˈminɪŋ"
+    },
+    {
+      "word": "meat",
+      "meaning": "thịt",
+      "pronounce": "mit"
+    },
+    {
+      "word": "meet",
+      "meaning": "gặp",
+      "pronounce": "mit"
+    },
+    {
+      "word": "meeting",
+      "meaning": "cuộc họp",
+      "pronounce": "ˈmitɪŋ"
+    },
+    {
+      "word": "member",
+      "meaning": "thành viên",
+      "pronounce": "ˈmɛmbər"
+    },
+    {
+      "word": "menu",
+      "meaning": "menu",
+      "pronounce": "ˈmɛnju"
+    },
+    {
+      "word": "message",
+      "meaning": "tin nhắn",
+      "pronounce": "ˈmɛsɪʤ"
+    },
+    {
+      "word": "meter",
+      "meaning": "mét",
+      "pronounce": "ˈmitər"
+    },
+    {
+      "word": "midnight",
+      "meaning": "nửa đêm",
+      "pronounce": "ˈmɪdˌnaɪt"
+    },
+    {
+      "word": "mile",
+      "meaning": "dặm",
+      "pronounce": "maɪl"
+    },
+    {
+      "word": "milk",
+      "meaning": "sữa",
+      "pronounce": "mɪlk"
+    },
+    {
+      "word": "million",
+      "meaning": "triệu",
+      "pronounce": "ˈmɪljən"
+    },
+    {
+      "word": "minute",
+      "meaning": "phút",
+      "pronounce": "ˈmɪnət"
+    },
+    {
+      "word": "miss",
+      "meaning": "cô",
+      "pronounce": "mɪs"
+    },
+    {
+      "word": "mistake",
+      "meaning": "sai lầm",
+      "pronounce": "mɪˈsteɪk"
+    },
+    {
+      "word": "model",
+      "meaning": "người mẫu",
+      "pronounce": "ˈmɑdəl"
+    },
+    {
+      "word": "modern",
+      "meaning": "hiện đại",
+      "pronounce": "ˈmɑdərn"
+    },
+    {
+      "word": "mom",
+      "meaning": "mẹ",
+      "pronounce": "mɑm"
+    },
+    {
+      "word": "moment",
+      "meaning": "chốc lát",
+      "pronounce": "ˈmoʊmənt"
+    },
+    {
+      "word": "Monday",
+      "meaning": "thứ hai",
+      "pronounce": "ˈmənˌdeɪ"
+    },
+    {
+      "word": "money",
+      "meaning": "tiền bạc",
+      "pronounce": "ˈməni"
+    },
+    {
+      "word": "month",
+      "meaning": "tháng",
+      "pronounce": "mənθ"
+    },
+    {
+      "word": "more",
+      "meaning": "hơn",
+      "pronounce": "mɔr"
+    },
+    {
+      "word": "morning",
+      "meaning": "buổi sáng",
+      "pronounce": "ˈmɔrnɪŋ"
+    },
+    {
+      "word": "most",
+      "meaning": "hầu hết",
+      "pronounce": "moʊst"
+    },
+    {
+      "word": "mother",
+      "meaning": "mẹ",
+      "pronounce": "ˈməðər"
+    },
+    {
+      "word": "mountain",
+      "meaning": "núi",
+      "pronounce": "ˈmaʊntən"
+    },
+    {
+      "word": "mouse",
+      "meaning": "chuột",
+      "pronounce": "maʊs"
+    },
+    {
+      "word": "mouth",
+      "meaning": "miệng",
+      "pronounce": "maʊθ"
+    },
+    {
+      "word": "move",
+      "meaning": "di chuyển",
+      "pronounce": "muv"
+    },
+    {
+      "word": "movie",
+      "meaning": "bộ phim",
+      "pronounce": "ˈmuvi"
+    },
+    {
+      "word": "much",
+      "meaning": "nhiều",
+      "pronounce": "məʧ"
+    },
+    {
+      "word": "museum",
+      "meaning": "bảo tàng",
+      "pronounce": "mˈjuziəm"
+    },
+    {
+      "word": "music",
+      "meaning": "âm nhạc",
+      "pronounce": "mˈjuzɪk"
+    },
+    {
+      "word": "must",
+      "meaning": "phải",
+      "pronounce": "məst"
+    },
+    {
+      "word": "my",
+      "meaning": "của tôi",
+      "pronounce": "maɪ"
+    },
+    {
+      "word": "name",
+      "meaning": "tên",
+      "pronounce": "neɪm"
+    },
+    {
+      "word": "natural",
+      "meaning": "tự nhiên",
+      "pronounce": "ˈnæʧərəl"
+    },
+    {
+      "word": "near",
+      "meaning": "gần",
+      "pronounce": "nɪr"
+    },
+    {
+      "word": "need",
+      "meaning": "nhu cầu",
+      "pronounce": "nid"
+    },
+    {
+      "word": "negative",
+      "meaning": "tiêu cực",
+      "pronounce": "ˈnɛgətɪv"
+    },
+    {
+      "word": "neighbor",
+      "meaning": "hàng xóm",
+      "pronounce": "ˈneɪbər"
+    },
+    {
+      "word": "neighborhood",
+      "meaning": "hàng xóm",
+      "pronounce": "ˈneɪbərˌhʊd"
+    },
+    {
+      "word": "never",
+      "meaning": "không bao giờ",
+      "pronounce": "ˈnɛvər"
+    },
+    {
+      "word": "new",
+      "meaning": "mới",
+      "pronounce": "nu"
+    },
+    {
+      "word": "news",
+      "meaning": "tin tức",
+      "pronounce": "nuz"
+    },
+    {
+      "word": "newspaper",
+      "meaning": "báo",
+      "pronounce": "ˈnuzˌpeɪpər"
+    },
+    {
+      "word": "next",
+      "meaning": "kế tiếp",
+      "pronounce": "nɛkst"
+    },
+    {
+      "word": "next to",
+      "meaning": "ở cạnh",
+      "pronounce": "nɛkst tɪ"
+    },
+    {
+      "word": "nice",
+      "meaning": "đẹp",
+      "pronounce": "nis"
+    },
+    {
+      "word": "night",
+      "meaning": "đêm",
+      "pronounce": "naɪt"
+    },
+    {
+      "word": "nine",
+      "meaning": "chín",
+      "pronounce": "naɪn"
+    },
+    {
+      "word": "nineteen",
+      "meaning": "mười chín",
+      "pronounce": "ˈnaɪnˈtin"
+    },
+    {
+      "word": "ninety",
+      "meaning": "chín mươi",
+      "pronounce": "ˈnaɪnti"
+    },
+    {
+      "word": "no",
+      "meaning": "không",
+      "pronounce": "noʊ"
+    },
+    {
+      "word": "no one",
+      "meaning": "không ai",
+      "pronounce": "noʊ wən"
+    },
+    {
+      "word": "nobody",
+      "meaning": "không ai",
+      "pronounce": "ˈnoʊˌbɑˌdi"
+    },
+    {
+      "word": "north",
+      "meaning": "phía bắc",
+      "pronounce": "nɔrθ"
+    },
+    {
+      "word": "nose",
+      "meaning": "mũi",
+      "pronounce": "noʊz"
+    },
+    {
+      "word": "not",
+      "meaning": "không",
+      "pronounce": "nɑt"
+    },
+    {
+      "word": "note",
+      "meaning": "ghi chú",
+      "pronounce": "noʊt"
+    },
+    {
+      "word": "nothing",
+      "meaning": "không có gì",
+      "pronounce": "ˈnəθɪŋ"
+    },
+    {
+      "word": "November",
+      "meaning": "tháng mười một",
+      "pronounce": "noʊˈvɛmbər"
+    },
+    {
+      "word": "now",
+      "meaning": "hiện nay",
+      "pronounce": "naʊ"
+    },
+    {
+      "word": "number",
+      "meaning": "con số",
+      "pronounce": "ˈnəmbər"
+    },
+    {
+      "word": "nurse",
+      "meaning": "y tá",
+      "pronounce": "nərs"
+    },
+    {
+      "word": "object",
+      "meaning": "sự vật",
+      "pronounce": "ˈɑbʤɛkt"
+    },
+    {
+      "word": "ocean",
+      "meaning": "đại dương",
+      "pronounce": "ˈoʊʃən"
+    },
+    {
+      "word": "o’clock",
+      "meaning": "o hèclock",
+      "pronounce": "o’clock*"
+    },
+    {
+      "word": "October",
+      "meaning": "tháng mười",
+      "pronounce": "ɑkˈtoʊbər"
+    },
+    {
+      "word": "of",
+      "meaning": "của",
+      "pronounce": "əv"
+    },
+    {
+      "word": "off",
+      "meaning": "tắt",
+      "pronounce": "ɔf"
+    },
+    {
+      "word": "office",
+      "meaning": "văn phòng",
+      "pronounce": "ˈɔfəs"
+    },
+    {
+      "word": "often",
+      "meaning": "thường",
+      "pronounce": "ˈɔfən"
+    },
+    {
+      "word": "oh",
+      "meaning": "ồ",
+      "pronounce": "oʊ"
+    },
+    {
+      "word": "OK",
+      "meaning": "được rồi",
+      "pronounce": "ˈoʊˈkeɪ"
+    },
+    {
+      "word": "old",
+      "meaning": "cũ",
+      "pronounce": "oʊld"
+    },
+    {
+      "word": "on",
+      "meaning": "trên",
+      "pronounce": "ɔn"
+    },
+    {
+      "word": "once",
+      "meaning": "một lần",
+      "pronounce": "wəns"
+    },
+    {
+      "word": "one",
+      "meaning": "một",
+      "pronounce": "wən"
+    },
+    {
+      "word": "onion",
+      "meaning": "củ hành",
+      "pronounce": "ˈənjən"
+    },
+    {
+      "word": "online",
+      "meaning": "trực tuyến",
+      "pronounce": "ˈɔnˌlaɪn"
+    },
+    {
+      "word": "only",
+      "meaning": "chỉ một",
+      "pronounce": "ˈoʊnli"
+    },
+    {
+      "word": "open",
+      "meaning": "mở",
+      "pronounce": "ˈoʊpən"
+    },
+    {
+      "word": "opinion",
+      "meaning": "ý kiến",
+      "pronounce": "əˈpɪnjən"
+    },
+    {
+      "word": "opposite",
+      "meaning": "đối diện",
+      "pronounce": "ˈɑpəzɪt"
+    },
+    {
+      "word": "or",
+      "meaning": "hoặc",
+      "pronounce": "ər"
+    },
+    {
+      "word": "orange",
+      "meaning": "quả cam",
+      "pronounce": "ˈɔrɪnʤ"
+    },
+    {
+      "word": "order",
+      "meaning": "đặt hàng",
+      "pronounce": "ˈɔrdər"
+    },
+    {
+      "word": "other",
+      "meaning": "khác",
+      "pronounce": "ˈəðər"
+    },
+    {
+      "word": "our",
+      "meaning": "của chúng tôi",
+      "pronounce": "ɑr"
+    },
+    {
+      "word": "out",
+      "meaning": "ngoài",
+      "pronounce": "aʊt"
+    },
+    {
+      "word": "outside",
+      "meaning": "ngoài",
+      "pronounce": "ˈaʊtˈsaɪd"
+    },
+    {
+      "word": "over",
+      "meaning": "qua",
+      "pronounce": "ˈoʊvər"
+    },
+    {
+      "word": "own",
+      "meaning": "sở hữu",
+      "pronounce": "oʊn"
+    },
+    {
+      "word": "page",
+      "meaning": "trang",
+      "pronounce": "peɪʤ"
+    },
+    {
+      "word": "paint",
+      "meaning": "sơn",
+      "pronounce": "peɪnt"
+    },
+    {
+      "word": "painting",
+      "meaning": "bức vẽ",
+      "pronounce": "ˈpeɪnɪŋ"
+    },
+    {
+      "word": "pair",
+      "meaning": "đôi",
+      "pronounce": "pɛr"
+    },
+    {
+      "word": "pants",
+      "meaning": "quần dài",
+      "pronounce": "pænts"
+    },
+    {
+      "word": "paper",
+      "meaning": "giấy",
+      "pronounce": "ˈpeɪpər"
+    },
+    {
+      "word": "paragraph",
+      "meaning": "đoạn văn",
+      "pronounce": "ˈpɛrəˌgræf"
+    },
+    {
+      "word": "parent",
+      "meaning": "cha mẹ",
+      "pronounce": "ˈpɛrənt"
+    },
+    {
+      "word": "park",
+      "meaning": "công viên",
+      "pronounce": "pɑrk"
+    },
+    {
+      "word": "part",
+      "meaning": "phần",
+      "pronounce": "pɑrt"
+    },
+    {
+      "word": "partner",
+      "meaning": "cộng sự",
+      "pronounce": "ˈpɑrtnər"
+    },
+    {
+      "word": "party",
+      "meaning": "buổi tiệc",
+      "pronounce": "ˈpɑrti"
+    },
+    {
+      "word": "passport",
+      "meaning": "hộ chiếu",
+      "pronounce": "ˈpæˌspɔrt"
+    },
+    {
+      "word": "past",
+      "meaning": "quá khứ",
+      "pronounce": "pæst"
+    },
+    {
+      "word": "pay",
+      "meaning": "chi trả",
+      "pronounce": "peɪ"
+    },
+    {
+      "word": "pen",
+      "meaning": "cái bút",
+      "pronounce": "pɛn"
+    },
+    {
+      "word": "pencil",
+      "meaning": "bút chì",
+      "pronounce": "ˈpɛnsəl"
+    },
+    {
+      "word": "people",
+      "meaning": "mọi người",
+      "pronounce": "ˈpipəl"
+    },
+    {
+      "word": "pepper",
+      "meaning": "hạt tiêu",
+      "pronounce": "ˈpɛpər"
+    },
+    {
+      "word": "perfect",
+      "meaning": "hoàn hảo",
+      "pronounce": "ˈpərˌfɪkt"
+    },
+    {
+      "word": "period",
+      "meaning": "giai đoạn",
+      "pronounce": "ˈpɪriəd"
+    },
+    {
+      "word": "person",
+      "meaning": "người",
+      "pronounce": "ˈpərsən"
+    },
+    {
+      "word": "personal",
+      "meaning": "riêng tư",
+      "pronounce": "ˈpərsɪnəl"
+    },
+    {
+      "word": "phone",
+      "meaning": "điện thoại",
+      "pronounce": "foʊn"
+    },
+    {
+      "word": "photo",
+      "meaning": "ảnh",
+      "pronounce": "ˈfoʊˌtoʊ"
+    },
+    {
+      "word": "photograph",
+      "meaning": "ảnh",
+      "pronounce": "ˈfoʊtəˌgræf"
+    },
+    {
+      "word": "phrase",
+      "meaning": "cụm từ",
+      "pronounce": "freɪz"
+    },
+    {
+      "word": "piano",
+      "meaning": "đàn piano",
+      "pronounce": "piˈænə"
+    },
+    {
+      "word": "picture",
+      "meaning": "hình ảnh",
+      "pronounce": "ˈpɪkʧər"
+    },
+    {
+      "word": "piece",
+      "meaning": "cái",
+      "pronounce": "pis"
+    },
+    {
+      "word": "pig",
+      "meaning": "con lợn",
+      "pronounce": "pɪg"
+    },
+    {
+      "word": "pink",
+      "meaning": "hồng",
+      "pronounce": "pɪŋk"
+    },
+    {
+      "word": "place",
+      "meaning": "địa điểm",
+      "pronounce": "pleɪs"
+    },
+    {
+      "word": "plan",
+      "meaning": "kế hoạch",
+      "pronounce": "plæn"
+    },
+    {
+      "word": "plane",
+      "meaning": "máy bay",
+      "pronounce": "pleɪn"
+    },
+    {
+      "word": "plant",
+      "meaning": "thực vật",
+      "pronounce": "plænt"
+    },
+    {
+      "word": "play",
+      "meaning": "chơi",
+      "pronounce": "pleɪ"
+    },
+    {
+      "word": "player",
+      "meaning": "người chơi",
+      "pronounce": "pleɪər"
+    },
+    {
+      "word": "please",
+      "meaning": "xin vui lòng",
+      "pronounce": "pliz"
+    },
+    {
+      "word": "point",
+      "meaning": "điểm",
+      "pronounce": "pɔɪnt"
+    },
+    {
+      "word": "police",
+      "meaning": "cảnh sát",
+      "pronounce": "pəˈlis"
+    },
+    {
+      "word": "policeman",
+      "meaning": "cảnh sát",
+      "pronounce": "pəˈlismən"
+    },
+    {
+      "word": "pool",
+      "meaning": "hồ bơi",
+      "pronounce": "pul"
+    },
+    {
+      "word": "poor",
+      "meaning": "nghèo",
+      "pronounce": "pur"
+    },
+    {
+      "word": "popular",
+      "meaning": "phổ biến",
+      "pronounce": "ˈpɑpjələr"
+    },
+    {
+      "word": "positive",
+      "meaning": "tích cực",
+      "pronounce": "ˈpɑzətɪv"
+    },
+    {
+      "word": "possible",
+      "meaning": "khả thi",
+      "pronounce": "ˈpɑsəbəl"
+    },
+    {
+      "word": "post",
+      "meaning": "bưu kiện",
+      "pronounce": "poʊst"
+    },
+    {
+      "word": "potato",
+      "meaning": "khoai tây",
+      "pronounce": "pəˈteɪˌtoʊ"
+    },
+    {
+      "word": "pound",
+      "meaning": "pao",
+      "pronounce": "paʊnd"
+    },
+    {
+      "word": "practice",
+      "meaning": "luyện tập",
+      "pronounce": "ˈpræktɪs"
+    },
+    {
+      "word": "prefer",
+      "meaning": "thích hơn",
+      "pronounce": "prɪˈfər"
+    },
+    {
+      "word": "prepare",
+      "meaning": "chuẩn bị",
+      "pronounce": "priˈpɛr"
+    },
+    {
+      "word": "present",
+      "meaning": "hiện tại",
+      "pronounce": "ˈprɛzənt"
+    },
+    {
+      "word": "pretty",
+      "meaning": "đẹp",
+      "pronounce": "ˈprɪti"
+    },
+    {
+      "word": "price",
+      "meaning": "giá",
+      "pronounce": "praɪs"
+    },
+    {
+      "word": "probably",
+      "meaning": "có lẽ",
+      "pronounce": "ˈprɑbəˌbli"
+    },
+    {
+      "word": "problem",
+      "meaning": "vấn đề",
+      "pronounce": "ˈprɑbləm"
+    },
+    {
+      "word": "product",
+      "meaning": "sản phẩm",
+      "pronounce": "ˈprɑdəkt"
+    },
+    {
+      "word": "program",
+      "meaning": "chương trình",
+      "pronounce": "ˈproʊˌgræm"
+    },
+    {
+      "word": "project",
+      "meaning": "dự án",
+      "pronounce": "ˈprɑʤɛkt"
+    },
+    {
+      "word": "purple",
+      "meaning": "màu tím",
+      "pronounce": "ˈpərpəl"
+    },
+    {
+      "word": "put",
+      "meaning": "đặt",
+      "pronounce": "pʊt"
+    },
+    {
+      "word": "quarter",
+      "meaning": "một phần tư",
+      "pronounce": "kˈwɔrtər"
+    },
+    {
+      "word": "question",
+      "meaning": "câu hỏi",
+      "pronounce": "kˈwɛʃən"
+    },
+    {
+      "word": "quick",
+      "meaning": "nhanh",
+      "pronounce": "kwɪk"
+    },
+    {
+      "word": "quickly",
+      "meaning": "nhanh",
+      "pronounce": "kˈwɪkli"
+    },
+    {
+      "word": "quiet",
+      "meaning": "im lặng",
+      "pronounce": "kwaɪət"
+    },
+    {
+      "word": "quite",
+      "meaning": "khá",
+      "pronounce": "kwaɪt"
+    },
+    {
+      "word": "radio",
+      "meaning": "radio",
+      "pronounce": "ˈreɪdiˌoʊ"
+    },
+    {
+      "word": "rain",
+      "meaning": "cơn mưa",
+      "pronounce": "reɪn"
+    },
+    {
+      "word": "read",
+      "meaning": "đọc",
+      "pronounce": "rɛd"
+    },
+    {
+      "word": "reader",
+      "meaning": "người đọc",
+      "pronounce": "ˈridər"
+    },
+    {
+      "word": "reading",
+      "meaning": "đọc",
+      "pronounce": "ˈrɛdɪŋ"
+    },
+    {
+      "word": "ready",
+      "meaning": "sẵn sàng",
+      "pronounce": "ˈrɛdi"
+    },
+    {
+      "word": "real",
+      "meaning": "thực tế",
+      "pronounce": "ril"
+    },
+    {
+      "word": "really",
+      "meaning": "thực ra",
+      "pronounce": "ˈrɪli"
+    },
+    {
+      "word": "reason",
+      "meaning": "lý do",
+      "pronounce": "ˈrizən"
+    },
+    {
+      "word": "red",
+      "meaning": "màu đỏ",
+      "pronounce": "rɛd"
+    },
+    {
+      "word": "relax",
+      "meaning": "thư giãn",
+      "pronounce": "rɪˈlæks"
+    },
+    {
+      "word": "remember",
+      "meaning": "nhớ",
+      "pronounce": "rɪˈmɛmbər"
+    },
+    {
+      "word": "repeat",
+      "meaning": "lặp lại",
+      "pronounce": "rɪˈpit"
+    },
+    {
+      "word": "report",
+      "meaning": "báo cáo",
+      "pronounce": "rɪˈpɔrt"
+    },
+    {
+      "word": "restaurant",
+      "meaning": "nhà hàng",
+      "pronounce": "ˈrɛˌstrɑnt"
+    },
+    {
+      "word": "result",
+      "meaning": "kết quả",
+      "pronounce": "rɪˈzəlt"
+    },
+    {
+      "word": "return",
+      "meaning": "trở lại",
+      "pronounce": "rɪˈtərn"
+    },
+    {
+      "word": "rice",
+      "meaning": "cơm",
+      "pronounce": "raɪs"
+    },
+    {
+      "word": "rich",
+      "meaning": "giàu có",
+      "pronounce": "rɪʧ"
+    },
+    {
+      "word": "ride",
+      "meaning": "lái",
+      "pronounce": "raɪd"
+    },
+    {
+      "word": "right",
+      "meaning": "phải",
+      "pronounce": "raɪt"
+    },
+    {
+      "word": "river",
+      "meaning": "dòng sông",
+      "pronounce": "ˈrɪvər"
+    },
+    {
+      "word": "road",
+      "meaning": "đường",
+      "pronounce": "roʊd"
+    },
+    {
+      "word": "room",
+      "meaning": "phòng",
+      "pronounce": "rum"
+    },
+    {
+      "word": "routine",
+      "meaning": "lịch trình",
+      "pronounce": "ruˈtin"
+    },
+    {
+      "word": "rule",
+      "meaning": "luật lệ",
+      "pronounce": "rul"
+    },
+    {
+      "word": "run",
+      "meaning": "chạy",
+      "pronounce": "rən"
+    },
+    {
+      "word": "sad",
+      "meaning": "buồn",
+      "pronounce": "sæd"
+    },
+    {
+      "word": "salad",
+      "meaning": "xa lát",
+      "pronounce": "ˈsæləd"
+    },
+    {
+      "word": "salt",
+      "meaning": "muối",
+      "pronounce": "sɔlt"
+    },
+    {
+      "word": "same",
+      "meaning": "như nhau",
+      "pronounce": "seɪm"
+    },
+    {
+      "word": "sandwich",
+      "meaning": "sandwich",
+      "pronounce": "ˈsænwɪʧ"
+    },
+    {
+      "word": "Saturday",
+      "meaning": "thứ bảy",
+      "pronounce": "ˈsæˌtɪˌdeɪ"
+    },
+    {
+      "word": "say",
+      "meaning": "nói",
+      "pronounce": "seɪ"
+    },
+    {
+      "word": "school",
+      "meaning": "trường học",
+      "pronounce": "skul"
+    },
+    {
+      "word": "science",
+      "meaning": "khoa học",
+      "pronounce": "saɪəns"
+    },
+    {
+      "word": "scientist",
+      "meaning": "nhà khoa học",
+      "pronounce": "ˈsaɪəntɪst"
+    },
+    {
+      "word": "second",
+      "meaning": "thứ hai",
+      "pronounce": "ˈsɛkənd"
+    },
+    {
+      "word": "section",
+      "meaning": "phần",
+      "pronounce": "ˈsɛkʃən"
+    },
+    {
+      "word": "see",
+      "meaning": "nhìn thấy",
+      "pronounce": "si"
+    },
+    {
+      "word": "sell",
+      "meaning": "bán",
+      "pronounce": "sɛl"
+    },
+    {
+      "word": "send",
+      "meaning": "gửi",
+      "pronounce": "sɛnd"
+    },
+    {
+      "word": "sentence",
+      "meaning": "câu",
+      "pronounce": "ˈsɛntəns"
+    },
+    {
+      "word": "September",
+      "meaning": "tháng 9",
+      "pronounce": "sɛpˈtɛmbər"
+    },
+    {
+      "word": "seven",
+      "meaning": "bảy",
+      "pronounce": "ˈsɛvən"
+    },
+    {
+      "word": "seventeen",
+      "meaning": "mười bảy",
+      "pronounce": "ˈsɛvənˈtin"
+    },
+    {
+      "word": "seventy",
+      "meaning": "bảy mươi",
+      "pronounce": "ˈsɛvənti"
+    },
+    {
+      "word": "share",
+      "meaning": "chia sẻ",
+      "pronounce": "ʃɛr"
+    },
+    {
+      "word": "she",
+      "meaning": "cô ấy",
+      "pronounce": "ʃi"
+    },
+    {
+      "word": "sheep",
+      "meaning": "con cừu",
+      "pronounce": "ʃip"
+    },
+    {
+      "word": "shirt",
+      "meaning": "áo sơ mi",
+      "pronounce": "ʃərt"
+    },
+    {
+      "word": "shoe",
+      "meaning": "giày",
+      "pronounce": "ʃu"
+    },
+    {
+      "word": "shop",
+      "meaning": "cửa hàng",
+      "pronounce": "ʃɑp"
+    },
+    {
+      "word": "shopping",
+      "meaning": "mua sắm",
+      "pronounce": "ˈʃɑpɪŋ"
+    },
+    {
+      "word": "short",
+      "meaning": "ngắn",
+      "pronounce": "ʃɔrt"
+    },
+    {
+      "word": "should",
+      "meaning": "nên",
+      "pronounce": "ʃʊd"
+    },
+    {
+      "word": "show",
+      "meaning": "trình diễn",
+      "pronounce": "ʃoʊ"
+    },
+    {
+      "word": "shower",
+      "meaning": "vòi sen",
+      "pronounce": "ʃaʊər"
+    },
+    {
+      "word": "sick",
+      "meaning": "đau ốm",
+      "pronounce": "sɪk"
+    },
+    {
+      "word": "similar",
+      "meaning": "tương tự",
+      "pronounce": "ˈsɪmələr"
+    },
+    {
+      "word": "sing",
+      "meaning": "hát",
+      "pronounce": "sɪŋ"
+    },
+    {
+      "word": "singer",
+      "meaning": "ca sĩ",
+      "pronounce": "ˈsɪŋər"
+    },
+    {
+      "word": "sister",
+      "meaning": "em gái",
+      "pronounce": "ˈsɪstər"
+    },
+    {
+      "word": "sit",
+      "meaning": "ngồi",
+      "pronounce": "sɪt"
+    },
+    {
+      "word": "situation",
+      "meaning": "tình huống",
+      "pronounce": "ˌsɪʧuˈeɪʃən"
+    },
+    {
+      "word": "six",
+      "meaning": "sáu",
+      "pronounce": "sɪks"
+    },
+    {
+      "word": "sixteen",
+      "meaning": "mười sáu",
+      "pronounce": "ˈsɪkˈstin"
+    },
+    {
+      "word": "sixty",
+      "meaning": "sáu mươi",
+      "pronounce": "ˈsɪksti"
+    },
+    {
+      "word": "skill",
+      "meaning": "kỹ năng",
+      "pronounce": "skɪl"
+    },
+    {
+      "word": "skirt",
+      "meaning": "váy ngắn",
+      "pronounce": "skərt"
+    },
+    {
+      "word": "sleep",
+      "meaning": "ngủ",
+      "pronounce": "slip"
+    },
+    {
+      "word": "slow",
+      "meaning": "chậm",
+      "pronounce": "sloʊ"
+    },
+    {
+      "word": "small",
+      "meaning": "bé nhỏ",
+      "pronounce": "smɔl"
+    },
+    {
+      "word": "smart",
+      "meaning": "thông minh",
+      "pronounce": "smɑrt"
+    },
+    {
+      "word": "snake",
+      "meaning": "rắn",
+      "pronounce": "sneɪk"
+    },
+    {
+      "word": "snow",
+      "meaning": "tuyết",
+      "pronounce": "snoʊ"
+    },
+    {
+      "word": "so",
+      "meaning": "vì thế",
+      "pronounce": "soʊ"
+    },
+    {
+      "word": "some",
+      "meaning": "một số",
+      "pronounce": "səm"
+    },
+    {
+      "word": "somebody",
+      "meaning": "ai đó",
+      "pronounce": "ˈsəmˌbɑdi"
+    },
+    {
+      "word": "someone",
+      "meaning": "người nào đó",
+      "pronounce": "ˈsəmˌwən"
+    },
+    {
+      "word": "something",
+      "meaning": "thứ gì đó",
+      "pronounce": "ˈsəmθɪŋ"
+    },
+    {
+      "word": "sometimes",
+      "meaning": "thỉnh thoảng",
+      "pronounce": "ˈsəmˌtaɪmz"
+    },
+    {
+      "word": "son",
+      "meaning": "con trai",
+      "pronounce": "sən"
+    },
+    {
+      "word": "song",
+      "meaning": "bài hát",
+      "pronounce": "sɔŋ"
+    },
+    {
+      "word": "soon",
+      "meaning": "sớm",
+      "pronounce": "sun"
+    },
+    {
+      "word": "sorry",
+      "meaning": "xin lỗi",
+      "pronounce": "ˈsɑri"
+    },
+    {
+      "word": "sound",
+      "meaning": "âm thanh",
+      "pronounce": "saʊnd"
+    },
+    {
+      "word": "soup",
+      "meaning": "canh",
+      "pronounce": "sup"
+    },
+    {
+      "word": "south",
+      "meaning": "phía nam",
+      "pronounce": "saʊθ"
+    },
+    {
+      "word": "space",
+      "meaning": "không gian",
+      "pronounce": "speɪs"
+    },
+    {
+      "word": "speak",
+      "meaning": "nói chuyện",
+      "pronounce": "spik"
+    },
+    {
+      "word": "special",
+      "meaning": "đặc biệt",
+      "pronounce": "ˈspɛʃəl"
+    },
+    {
+      "word": "spell",
+      "meaning": "đánh vần",
+      "pronounce": "spɛl"
+    },
+    {
+      "word": "spelling",
+      "meaning": "chính tả",
+      "pronounce": "ˈspɛlɪŋ"
+    },
+    {
+      "word": "spend",
+      "meaning": "tiêu",
+      "pronounce": "spɛnd"
+    },
+    {
+      "word": "sport",
+      "meaning": "thể thao",
+      "pronounce": "spɔrt"
+    },
+    {
+      "word": "spring",
+      "meaning": "mùa xuân",
+      "pronounce": "spərɪŋ"
+    },
+    {
+      "word": "stand",
+      "meaning": "đứng",
+      "pronounce": "stænd"
+    },
+    {
+      "word": "star",
+      "meaning": "ngôi sao",
+      "pronounce": "stɑr"
+    },
+    {
+      "word": "start",
+      "meaning": "bắt đầu",
+      "pronounce": "stɑrt"
+    },
+    {
+      "word": "statement",
+      "meaning": "tuyên bố",
+      "pronounce": "ˈsteɪtmənt"
+    },
+    {
+      "word": "station",
+      "meaning": "ga tàu",
+      "pronounce": "ˈsteɪʃən"
+    },
+    {
+      "word": "stay",
+      "meaning": "ở lại",
+      "pronounce": "steɪ"
+    },
+    {
+      "word": "still",
+      "meaning": "vẫn",
+      "pronounce": "stɪl"
+    },
+    {
+      "word": "stop",
+      "meaning": "dừng lại",
+      "pronounce": "stɑp"
+    },
+    {
+      "word": "store",
+      "meaning": "cửa hàng",
+      "pronounce": "stɔr"
+    },
+    {
+      "word": "story",
+      "meaning": "câu chuyện",
+      "pronounce": "ˈstɔri"
+    },
+    {
+      "word": "street",
+      "meaning": "đường phố",
+      "pronounce": "strit"
+    },
+    {
+      "word": "strong",
+      "meaning": "mạnh",
+      "pronounce": "strɔŋ"
+    },
+    {
+      "word": "student",
+      "meaning": "học sinh",
+      "pronounce": "ˈstudənt"
+    },
+    {
+      "word": "study",
+      "meaning": "học",
+      "pronounce": "ˈstədi"
+    },
+    {
+      "word": "style",
+      "meaning": "phong cách",
+      "pronounce": "staɪl"
+    },
+    {
+      "word": "subject",
+      "meaning": "chủ thể",
+      "pronounce": "ˈsəbʤɪkt"
+    },
+    {
+      "word": "success",
+      "meaning": "thành công",
+      "pronounce": "səkˈsɛs"
+    },
+    {
+      "word": "sugar",
+      "meaning": "đường",
+      "pronounce": "ˈʃʊgər"
+    },
+    {
+      "word": "summer",
+      "meaning": "mùa hè",
+      "pronounce": "ˈsəmər"
+    },
+    {
+      "word": "sun",
+      "meaning": "mặt trời",
+      "pronounce": "sən"
+    },
+    {
+      "word": "Sunday",
+      "meaning": "chủ nhật",
+      "pronounce": "ˈsənˌdi"
+    },
+    {
+      "word": "supermarket",
+      "meaning": "siêu thị",
+      "pronounce": "ˈsupərˌmɑrkɪt"
+    },
+    {
+      "word": "sure",
+      "meaning": "chắc chắn",
+      "pronounce": "ʃʊr"
+    },
+    {
+      "word": "sweater",
+      "meaning": "áo len",
+      "pronounce": "sˈwɛtər"
+    },
+    {
+      "word": "swim",
+      "meaning": "bơi",
+      "pronounce": "swɪm"
+    },
+    {
+      "word": "swimming",
+      "meaning": "bơi lội",
+      "pronounce": "sˈwɪmɪŋ"
+    },
+    {
+      "word": "table",
+      "meaning": "bàn",
+      "pronounce": "ˈteɪbəl"
+    },
+    {
+      "word": "take",
+      "meaning": "lấy",
+      "pronounce": "teɪk"
+    },
+    {
+      "word": "talk",
+      "meaning": "nói chuyện",
+      "pronounce": "tɔk"
+    },
+    {
+      "word": "tall",
+      "meaning": "cao",
+      "pronounce": "tɔl"
+    },
+    {
+      "word": "taxi",
+      "meaning": "taxi",
+      "pronounce": "ˈtæksi"
+    },
+    {
+      "word": "tea",
+      "meaning": "trà",
+      "pronounce": "ti"
+    },
+    {
+      "word": "teach",
+      "meaning": "dạy bảo",
+      "pronounce": "tiʧ"
+    },
+    {
+      "word": "teacher",
+      "meaning": "giáo viên",
+      "pronounce": "ˈtiʧər"
+    },
+    {
+      "word": "team",
+      "meaning": "đội",
+      "pronounce": "tim"
+    },
+    {
+      "word": "teenager",
+      "meaning": "thiếu niên",
+      "pronounce": "ˈtiˌneɪʤər"
+    },
+    {
+      "word": "telephone",
+      "meaning": "điện thoại",
+      "pronounce": "ˈtɛləˌfoʊn"
+    },
+    {
+      "word": "television",
+      "meaning": "tivi",
+      "pronounce": "ˈtɛləˌvɪʒən"
+    },
+    {
+      "word": "tell",
+      "meaning": "kể",
+      "pronounce": "tɛl"
+    },
+    {
+      "word": "ten",
+      "meaning": "mười",
+      "pronounce": "tɛn"
+    },
+    {
+      "word": "tennis",
+      "meaning": "quần vợt",
+      "pronounce": "ˈtɛnɪs"
+    },
+    {
+      "word": "terrible",
+      "meaning": "kinh khủng",
+      "pronounce": "ˈtɛrəbəl"
+    },
+    {
+      "word": "test",
+      "meaning": "bài kiểm tra",
+      "pronounce": "tɛst"
+    },
+    {
+      "word": "text",
+      "meaning": "chữ",
+      "pronounce": "tɛkst"
+    },
+    {
+      "word": "than",
+      "meaning": "hơn",
+      "pronounce": "ðən"
+    },
+    {
+      "word": "thank",
+      "meaning": "cám ơn",
+      "pronounce": "θæŋk"
+    },
+    {
+      "word": "thanks",
+      "meaning": "cảm ơn",
+      "pronounce": "θæŋks"
+    },
+    {
+      "word": "that",
+      "meaning": "cái đó",
+      "pronounce": "ðət"
+    },
+    {
+      "word": "the",
+      "meaning": "các",
+      "pronounce": "ðə"
+    },
+    {
+      "word": "theater",
+      "meaning": "nhà hát",
+      "pronounce": "ˈθieɪtər"
+    },
+    {
+      "word": "their",
+      "meaning": "của họ",
+      "pronounce": "ðɛr"
+    },
+    {
+      "word": "them",
+      "meaning": "họ",
+      "pronounce": "ðɛm"
+    },
+    {
+      "word": "then",
+      "meaning": "sau đó",
+      "pronounce": "ðɛn"
+    },
+    {
+      "word": "there",
+      "meaning": "ở đó",
+      "pronounce": "ðɛr"
+    },
+    {
+      "word": "they",
+      "meaning": "họ",
+      "pronounce": "ðeɪ"
+    },
+    {
+      "word": "thing",
+      "meaning": "điều",
+      "pronounce": "θɪŋ"
+    },
+    {
+      "word": "think",
+      "meaning": "nghĩ",
+      "pronounce": "θɪŋk"
+    },
+    {
+      "word": "third",
+      "meaning": "thứ ba",
+      "pronounce": "θərd"
+    },
+    {
+      "word": "thirsty",
+      "meaning": "khát",
+      "pronounce": "ˈθərsti"
+    },
+    {
+      "word": "thirteen",
+      "meaning": "mười ba",
+      "pronounce": "ˈθərˈtin"
+    },
+    {
+      "word": "thirty",
+      "meaning": "ba mươi",
+      "pronounce": "ˈθərˌdi"
+    },
+    {
+      "word": "this",
+      "meaning": "cái này",
+      "pronounce": "ðɪs"
+    },
+    {
+      "word": "thousand",
+      "meaning": "ngàn",
+      "pronounce": "ˈθaʊzənd"
+    },
+    {
+      "word": "three",
+      "meaning": "ba",
+      "pronounce": "θri"
+    },
+    {
+      "word": "through",
+      "meaning": "bởi vì",
+      "pronounce": "θru"
+    },
+    {
+      "word": "Thursday",
+      "meaning": "thứ năm",
+      "pronounce": "ˈθərzˌdeɪ"
+    },
+    {
+      "word": "ticket",
+      "meaning": "vé",
+      "pronounce": "ˈtɪkɪt"
+    },
+    {
+      "word": "time",
+      "meaning": "thời gian",
+      "pronounce": "taɪm"
+    },
+    {
+      "word": "tired",
+      "meaning": "mệt",
+      "pronounce": "taɪərd"
+    },
+    {
+      "word": "title",
+      "meaning": "tiêu đề",
+      "pronounce": "ˈtaɪtəl"
+    },
+    {
+      "word": "to",
+      "meaning": "đến",
+      "pronounce": "tɪ"
+    },
+    {
+      "word": "today",
+      "meaning": "hôm nay",
+      "pronounce": "təˈdeɪ"
+    },
+    {
+      "word": "together",
+      "meaning": "cùng nhau",
+      "pronounce": "təˈgɛðər"
+    },
+    {
+      "word": "toilet",
+      "meaning": "nhà vệ sinh",
+      "pronounce": "ˈtɔɪlət"
+    },
+    {
+      "word": "tomato",
+      "meaning": "cà chua",
+      "pronounce": "təˈmɑˌtoʊ"
+    },
+    {
+      "word": "tomorrow",
+      "meaning": "ngày mai",
+      "pronounce": "təˈmɑˌroʊ"
+    },
+    {
+      "word": "tonight",
+      "meaning": "tối nay",
+      "pronounce": "təˈnaɪt"
+    },
+    {
+      "word": "too",
+      "meaning": "cũng vậy",
+      "pronounce": "tu"
+    },
+    {
+      "word": "tooth",
+      "meaning": "răng",
+      "pronounce": "tuθ"
+    },
+    {
+      "word": "topic",
+      "meaning": "đề tài",
+      "pronounce": "ˈtɑpɪk"
+    },
+    {
+      "word": "tourist",
+      "meaning": "du khách",
+      "pronounce": "ˈtʊrɪst"
+    },
+    {
+      "word": "town",
+      "meaning": "thị trấn",
+      "pronounce": "taʊn"
+    },
+    {
+      "word": "traffic",
+      "meaning": "giao thông",
+      "pronounce": "ˈtræfɪk"
+    },
+    {
+      "word": "train",
+      "meaning": "xe lửa",
+      "pronounce": "treɪn"
+    },
+    {
+      "word": "travel",
+      "meaning": "du lịch",
+      "pronounce": "ˈtrævəl"
+    },
+    {
+      "word": "tree",
+      "meaning": "cây",
+      "pronounce": "tri"
+    },
+    {
+      "word": "trip",
+      "meaning": "chuyến đi",
+      "pronounce": "trɪp"
+    },
+    {
+      "word": "truck",
+      "meaning": "xe tải",
+      "pronounce": "trək"
+    },
+    {
+      "word": "TRUE",
+      "meaning": "đúng vậy",
+      "pronounce": "tru"
+    },
+    {
+      "word": "try",
+      "meaning": "thử",
+      "pronounce": "traɪ"
+    },
+    {
+      "word": "T-shirt",
+      "meaning": "áo phông",
+      "pronounce": "ˈtiˌsərt"
+    },
+    {
+      "word": "Tuesday",
+      "meaning": "thứ ba",
+      "pronounce": "ˈtuzˌdeɪ"
+    },
+    {
+      "word": "turn",
+      "meaning": "xoay",
+      "pronounce": "tərn"
+    },
+    {
+      "word": "TV",
+      "meaning": "tv",
+      "pronounce": "ˌtɛləˈvɪʒən"
+    },
+    {
+      "word": "twelve",
+      "meaning": "mười hai",
+      "pronounce": "twɛlv"
+    },
+    {
+      "word": "twenty",
+      "meaning": "hai mươi",
+      "pronounce": "tˈwɛnti"
+    },
+    {
+      "word": "twice",
+      "meaning": "hai lần",
+      "pronounce": "twaɪs"
+    },
+    {
+      "word": "two",
+      "meaning": "hai",
+      "pronounce": "tu"
+    },
+    {
+      "word": "type",
+      "meaning": "kiểu",
+      "pronounce": "taɪp"
+    },
+    {
+      "word": "umbrella",
+      "meaning": "chiếc ô",
+      "pronounce": "ˈəmˌbrɛlə"
+    },
+    {
+      "word": "uncle",
+      "meaning": "chú",
+      "pronounce": "ˈəŋkəl"
+    },
+    {
+      "word": "under",
+      "meaning": "dưới",
+      "pronounce": "ˈəndər"
+    },
+    {
+      "word": "understand",
+      "meaning": "hiểu",
+      "pronounce": "ˌəndərˈstænd"
+    },
+    {
+      "word": "university",
+      "meaning": "trường đại học",
+      "pronounce": "ˌjunəˈvərsəti"
+    },
+    {
+      "word": "until",
+      "meaning": "cho đến khi",
+      "pronounce": "ənˈtɪl"
+    },
+    {
+      "word": "up",
+      "meaning": "hướng lên",
+      "pronounce": "əp"
+    },
+    {
+      "word": "upstairs",
+      "meaning": "trên lầu",
+      "pronounce": "əpˈstɛrz"
+    },
+    {
+      "word": "us",
+      "meaning": "chúng ta",
+      "pronounce": "ˈjuˈɛs"
+    },
+    {
+      "word": "use",
+      "meaning": "sử dụng",
+      "pronounce": "juz"
+    },
+    {
+      "word": "useful",
+      "meaning": "hữu ích",
+      "pronounce": "ˈjusfəl"
+    },
+    {
+      "word": "usually",
+      "meaning": "thường xuyên",
+      "pronounce": "ˈjuʒəwəli"
+    },
+    {
+      "word": "vacation",
+      "meaning": "kì nghỉ",
+      "pronounce": "veɪˈkeɪʃən"
+    },
+    {
+      "word": "vegetable",
+      "meaning": "rau quả",
+      "pronounce": "ˈvɛʤtəbəl"
+    },
+    {
+      "word": "very",
+      "meaning": "rất",
+      "pronounce": "ˈvɛri"
+    },
+    {
+      "word": "video",
+      "meaning": "băng hình",
+      "pronounce": "ˈvɪdioʊ"
+    },
+    {
+      "word": "visit",
+      "meaning": "thăm nom",
+      "pronounce": "ˈvɪzɪt"
+    },
+    {
+      "word": "visitor",
+      "meaning": "khách truy cập",
+      "pronounce": "ˈvɪzɪtər"
+    },
+    {
+      "word": "wait",
+      "meaning": "chờ đợi",
+      "pronounce": "weɪt"
+    },
+    {
+      "word": "waiter",
+      "meaning": "phục vụ nam",
+      "pronounce": "ˈweɪtər"
+    },
+    {
+      "word": "wake",
+      "meaning": "thức dậy",
+      "pronounce": "weɪk"
+    },
+    {
+      "word": "walk",
+      "meaning": "đi bộ",
+      "pronounce": "wɔk"
+    },
+    {
+      "word": "wall",
+      "meaning": "tường",
+      "pronounce": "wɔl"
+    },
+    {
+      "word": "want",
+      "meaning": "muốn",
+      "pronounce": "wɔnt"
+    },
+    {
+      "word": "warm",
+      "meaning": "ấm",
+      "pronounce": "wɔrm"
+    },
+    {
+      "word": "wash",
+      "meaning": "rửa",
+      "pronounce": "wɑʃ"
+    },
+    {
+      "word": "watch",
+      "meaning": "đồng hồ",
+      "pronounce": "wɔʧ"
+    },
+    {
+      "word": "water",
+      "meaning": "nước",
+      "pronounce": "ˈwɔtər"
+    },
+    {
+      "word": "way",
+      "meaning": "đường",
+      "pronounce": "weɪ"
+    },
+    {
+      "word": "we",
+      "meaning": "chúng tôi",
+      "pronounce": "wi"
+    },
+    {
+      "word": "wear",
+      "meaning": "mặc",
+      "pronounce": "wɛr"
+    },
+    {
+      "word": "weather",
+      "meaning": "thời tiết",
+      "pronounce": "ˈwɛðər"
+    },
+    {
+      "word": "website",
+      "meaning": "trang web",
+      "pronounce": "ˈwɛbˌsaɪt"
+    },
+    {
+      "word": "Wednesday",
+      "meaning": "thứ tư",
+      "pronounce": "ˈwɛnzˌdeɪ"
+    },
+    {
+      "word": "week",
+      "meaning": "tuần",
+      "pronounce": "wik"
+    },
+    {
+      "word": "weekend",
+      "meaning": "ngày cuối tuần",
+      "pronounce": "ˈwiˌkɪnd"
+    },
+    {
+      "word": "welcome",
+      "meaning": "chào mừng",
+      "pronounce": "ˈwɛlkəm"
+    },
+    {
+      "word": "well",
+      "meaning": "tốt",
+      "pronounce": "wɛl"
+    },
+    {
+      "word": "west",
+      "meaning": "tây",
+      "pronounce": "wɛst"
+    },
+    {
+      "word": "what",
+      "meaning": "gì",
+      "pronounce": "wət"
+    },
+    {
+      "word": "when",
+      "meaning": "khi",
+      "pronounce": "wɪn"
+    },
+    {
+      "word": "where",
+      "meaning": "ở đâu",
+      "pronounce": "wɛr"
+    },
+    {
+      "word": "which",
+      "meaning": "cái mà",
+      "pronounce": "wɪʧ"
+    },
+    {
+      "word": "white",
+      "meaning": "trắng",
+      "pronounce": "waɪt"
+    },
+    {
+      "word": "who",
+      "meaning": "ai",
+      "pronounce": "hu"
+    },
+    {
+      "word": "why",
+      "meaning": "tại sao",
+      "pronounce": "waɪ"
+    },
+    {
+      "word": "wife",
+      "meaning": "vợ",
+      "pronounce": "waɪf"
+    },
+    {
+      "word": "will",
+      "meaning": "sẽ",
+      "pronounce": "wɪl"
+    },
+    {
+      "word": "win",
+      "meaning": "thắng",
+      "pronounce": "wɪn"
+    },
+    {
+      "word": "window",
+      "meaning": "cửa sổ",
+      "pronounce": "ˈwɪndoʊ"
+    },
+    {
+      "word": "wine",
+      "meaning": "rượu",
+      "pronounce": "waɪn"
+    },
+    {
+      "word": "winter",
+      "meaning": "mùa đông",
+      "pronounce": "ˈwɪntər"
+    },
+    {
+      "word": "with",
+      "meaning": "với",
+      "pronounce": "wɪθ"
+    },
+    {
+      "word": "without",
+      "meaning": "không có",
+      "pronounce": "wɪˈθaʊt"
+    },
+    {
+      "word": "woman",
+      "meaning": "đàn bà",
+      "pronounce": "ˈwʊmən"
+    },
+    {
+      "word": "wonderful",
+      "meaning": "tuyệt vời",
+      "pronounce": "ˈwəndərfəl"
+    },
+    {
+      "word": "word",
+      "meaning": "từ",
+      "pronounce": "wərd"
+    },
+    {
+      "word": "work",
+      "meaning": "công việc",
+      "pronounce": "wərk"
+    },
+    {
+      "word": "worker",
+      "meaning": "công nhân",
+      "pronounce": "ˈwərkər"
+    },
+    {
+      "word": "world",
+      "meaning": "thế giới",
+      "pronounce": "wərld"
+    },
+    {
+      "word": "would",
+      "meaning": "sẽ",
+      "pronounce": "wʊd"
+    },
+    {
+      "word": "write",
+      "meaning": "viết",
+      "pronounce": "raɪt"
+    },
+    {
+      "word": "writer",
+      "meaning": "người viết",
+      "pronounce": "ˈraɪtər"
+    },
+    {
+      "word": "writing",
+      "meaning": "viết",
+      "pronounce": "ˈraɪtɪŋ"
+    },
+    {
+      "word": "wrong",
+      "meaning": "sai",
+      "pronounce": "rɔŋ"
+    },
+    {
+      "word": "yard",
+      "meaning": "sân",
+      "pronounce": "jɑrd"
+    },
+    {
+      "word": "yeah",
+      "meaning": "vâng",
+      "pronounce": "jæ"
+    },
+    {
+      "word": "year",
+      "meaning": "năm",
+      "pronounce": "jɪr"
+    },
+    {
+      "word": "yellow",
+      "meaning": "màu vàng",
+      "pronounce": "ˈjɛloʊ"
+    },
+    {
+      "word": "yes",
+      "meaning": "đúng",
+      "pronounce": "jɛs"
+    },
+    {
+      "word": "yesterday",
+      "meaning": "hôm qua",
+      "pronounce": "ˈjɛstərˌdeɪ"
+    },
+    {
+      "word": "you",
+      "meaning": "bạn",
+      "pronounce": "ju"
+    },
+    {
+      "word": "young",
+      "meaning": "trẻ",
+      "pronounce": "jəŋ"
+    },
+    {
+      "word": "your",
+      "meaning": "của bạn",
+      "pronounce": "jʊr"
+    },
+    {
+      "word": "yourself",
+      "meaning": "bản thân bạn",
+      "pronounce": "ˈjɔrsɛlf"
+    }
+  ],
+  "deleted": []
+}

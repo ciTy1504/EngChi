@@ -1,0 +1,6485 @@
+{
+  "title": "HSK5 词汇",
+  "language": "zh",
+  "type": "vocab",
+  "level": "h5",
+  "content": {
+    "words": [
+      {
+        "word": "哎",
+        "pronounce": "āi",
+        "meaning": "thán từ"
+      },
+      {
+        "word": "唉",
+        "pronounce": "āi",
+        "meaning": "thán từ"
+      },
+      {
+        "word": "爱护",
+        "pronounce": "ài hù",
+        "meaning": "yêu thương, giữ gìn"
+      },
+      {
+        "word": "爱惜",
+        "pronounce": "ài xī",
+        "meaning": "quý trọng"
+      },
+      {
+        "word": "爱心",
+        "pronounce": "ài xīn",
+        "meaning": "lòng tốt"
+      },
+      {
+        "word": "安装",
+        "pronounce": "ān zhuāng",
+        "meaning": "lắp đặt"
+      },
+      {
+        "word": "岸",
+        "pronounce": "àn",
+        "meaning": "bờ"
+      },
+      {
+        "word": "暗",
+        "pronounce": "àn",
+        "meaning": "tối"
+      },
+      {
+        "word": "熬夜",
+        "pronounce": "áo yè",
+        "meaning": "thức đêm"
+      },
+      {
+        "word": "把握",
+        "pronounce": "bǎ wò",
+        "meaning": "nắm chắc"
+      },
+      {
+        "word": "摆",
+        "pronounce": "bǎi",
+        "meaning": "bày"
+      },
+      {
+        "word": "办理",
+        "pronounce": "bàn lǐ",
+        "meaning": "làm (thủ tục)"
+      },
+      {
+        "word": "傍晚",
+        "pronounce": "bàng wǎn",
+        "meaning": "chiều muộn"
+      },
+      {
+        "word": "包裹",
+        "pronounce": "bāo guǒ",
+        "meaning": "bưu kiện"
+      },
+      {
+        "word": "包含",
+        "pronounce": "bāo hán",
+        "meaning": "bao hàm"
+      },
+      {
+        "word": "包括",
+        "pronounce": "bāo kuò",
+        "meaning": "bao gồm"
+      },
+      {
+        "word": "薄",
+        "pronounce": "báo",
+        "meaning": "mỏng"
+      },
+      {
+        "word": "宝贝",
+        "pronounce": "bǎo bèi",
+        "meaning": "bảo bối"
+      },
+      {
+        "word": "宝贵",
+        "pronounce": "bǎo guì",
+        "meaning": "quí báu"
+      },
+      {
+        "word": "保持",
+        "pronounce": "bǎo chí",
+        "meaning": "duy trì"
+      },
+      {
+        "word": "保留",
+        "pronounce": "bǎo liú",
+        "meaning": "bảo lưu"
+      },
+      {
+        "word": "保险",
+        "pronounce": "bǎo xiǎn",
+        "meaning": "bảo hiểm"
+      },
+      {
+        "word": "报到",
+        "pronounce": "bào dào",
+        "meaning": "điểm danh"
+      },
+      {
+        "word": "报道",
+        "pronounce": "bào dào",
+        "meaning": "đưa tin, bản tin"
+      },
+      {
+        "word": "报告",
+        "pronounce": "bào gào",
+        "meaning": "báo cáo"
+      },
+      {
+        "word": "报社",
+        "pronounce": "bào shè",
+        "meaning": "tòa soạn báo"
+      },
+      {
+        "word": "抱怨",
+        "pronounce": "bào yuàn",
+        "meaning": "trách móc"
+      },
+      {
+        "word": "背",
+        "pronounce": "bèi",
+        "meaning": "học thuộc, cõng"
+      },
+      {
+        "word": "悲观",
+        "pronounce": "bēi guān",
+        "meaning": "bi quan"
+      },
+      {
+        "word": "背景",
+        "pronounce": "bèi jǐng",
+        "meaning": "bối cảnh"
+      },
+      {
+        "word": "被子",
+        "pronounce": "bèi zi",
+        "meaning": "chăn"
+      },
+      {
+        "word": "本科",
+        "pronounce": "běn kē",
+        "meaning": "trình độ đại học"
+      },
+      {
+        "word": "本领",
+        "pronounce": "běn lǐng",
+        "meaning": "bản lĩnh"
+      },
+      {
+        "word": "本质",
+        "pronounce": "běn zhì",
+        "meaning": "bản chất"
+      },
+      {
+        "word": "比例",
+        "pronounce": "bǐ lì",
+        "meaning": "tỉ lệ"
+      },
+      {
+        "word": "彼此",
+        "pronounce": "bǐ cǐ",
+        "meaning": "lẫn nhau, với nhau"
+      },
+      {
+        "word": "必然",
+        "pronounce": "bì rán",
+        "meaning": "tất yếu"
+      },
+      {
+        "word": "必要",
+        "pronounce": "bì yào",
+        "meaning": "cần thiết, cần"
+      },
+      {
+        "word": "避免",
+        "pronounce": "bì miǎn",
+        "meaning": "tránh"
+      },
+      {
+        "word": "编辑",
+        "pronounce": "biān jí",
+        "meaning": "biên tập"
+      },
+      {
+        "word": "鞭炮",
+        "pronounce": "biān pào",
+        "meaning": "pháo"
+      },
+      {
+        "word": "便",
+        "pronounce": "biàn",
+        "meaning": "liền"
+      },
+      {
+        "word": "辩论",
+        "pronounce": "biàn lùn",
+        "meaning": "biện luận"
+      },
+      {
+        "word": "标点",
+        "pronounce": "biāo diǎn",
+        "meaning": "dấu"
+      },
+      {
+        "word": "标志",
+        "pronounce": "biāo zhì",
+        "meaning": "đánh dấu, ký hiệu"
+      },
+      {
+        "word": "表达",
+        "pronounce": "biǎo dá",
+        "meaning": "diễn đạt"
+      },
+      {
+        "word": "表面",
+        "pronounce": "biǎo miàn",
+        "meaning": "bề mặt, bề ngoài"
+      },
+      {
+        "word": "表明",
+        "pronounce": "biǎo míng",
+        "meaning": "cho thấy"
+      },
+      {
+        "word": "表情",
+        "pronounce": "biǎo qíng",
+        "meaning": "biểu cảm"
+      },
+      {
+        "word": "表现",
+        "pronounce": "biǎo xiàn",
+        "meaning": "biểu hiện"
+      },
+      {
+        "word": "冰淇淋",
+        "pronounce": "bīng qí lín",
+        "meaning": "kem"
+      },
+      {
+        "word": "病毒",
+        "pronounce": "bìng dú",
+        "meaning": "vi rút"
+      },
+      {
+        "word": "玻璃",
+        "pronounce": "bō lí",
+        "meaning": "thủy tinh"
+      },
+      {
+        "word": "播放",
+        "pronounce": "bō fàng",
+        "meaning": "phát sóng"
+      },
+      {
+        "word": "脖子",
+        "pronounce": "bó zi",
+        "meaning": "cổ"
+      },
+      {
+        "word": "博物馆",
+        "pronounce": "bó wù guǎn",
+        "meaning": "bảo tàng"
+      },
+      {
+        "word": "补充",
+        "pronounce": "bǔ chōng",
+        "meaning": "bổ sung"
+      },
+      {
+        "word": "不安",
+        "pronounce": "bú ān",
+        "meaning": "bất an"
+      },
+      {
+        "word": "不断",
+        "pronounce": "bú duàn",
+        "meaning": "không ngừng"
+      },
+      {
+        "word": "不见得",
+        "pronounce": "bú jiàn dé",
+        "meaning": "chưa chắc"
+      },
+      {
+        "word": "不耐烦",
+        "pronounce": "bú nài fán",
+        "meaning": "chán nản, không kiên nhẫn"
+      },
+      {
+        "word": "不然",
+        "pronounce": "bú rán",
+        "meaning": "nếu không thì"
+      },
+      {
+        "word": "不如",
+        "pronounce": "bú rú",
+        "meaning": "không bằng"
+      },
+      {
+        "word": "不要紧",
+        "pronounce": "bú yào jǐn",
+        "meaning": "không quan trọng"
+      },
+      {
+        "word": "不足",
+        "pronounce": "bú zú",
+        "meaning": "không đủ"
+      },
+      {
+        "word": "布",
+        "pronounce": "bù",
+        "meaning": "vải"
+      },
+      {
+        "word": "步骤",
+        "pronounce": "bù zhòu",
+        "meaning": "bước"
+      },
+      {
+        "word": "部门",
+        "pronounce": "bù mén",
+        "meaning": "ban ngành, bộ phận"
+      },
+      {
+        "word": "财产",
+        "pronounce": "cái chǎn",
+        "meaning": "tài sản"
+      },
+      {
+        "word": "采访",
+        "pronounce": "cǎi fǎng",
+        "meaning": "phỏng vấn"
+      },
+      {
+        "word": "采取",
+        "pronounce": "cǎi qǔ",
+        "meaning": "chọn, dùng"
+      },
+      {
+        "word": "彩虹",
+        "pronounce": "cǎi hóng",
+        "meaning": "cầu vồng"
+      },
+      {
+        "word": "踩",
+        "pronounce": "cǎi",
+        "meaning": "giẫm"
+      },
+      {
+        "word": "参考",
+        "pronounce": "cān kǎo",
+        "meaning": "tham khảo"
+      },
+      {
+        "word": "参与",
+        "pronounce": "cān yù",
+        "meaning": "tham gia"
+      },
+      {
+        "word": "惭愧",
+        "pronounce": "cán kuì",
+        "meaning": "hổ thẹn"
+      },
+      {
+        "word": "操场",
+        "pronounce": "cāo chǎng",
+        "meaning": "sân vận động"
+      },
+      {
+        "word": "操心",
+        "pronounce": "cāo xīn",
+        "meaning": "lo lắng"
+      },
+      {
+        "word": "册",
+        "pronounce": "cè",
+        "meaning": "quyển, sổ"
+      },
+      {
+        "word": "测验",
+        "pronounce": "cè yàn",
+        "meaning": "thí nghiệm"
+      },
+      {
+        "word": "曾经",
+        "pronounce": "céng jīng",
+        "meaning": "đã từng"
+      },
+      {
+        "word": "叉子",
+        "pronounce": "chā zi",
+        "meaning": "cái dĩa, cái xiên, cái nĩa"
+      },
+      {
+        "word": "差距",
+        "pronounce": "chā jù",
+        "meaning": "sự khác biệt"
+      },
+      {
+        "word": "插",
+        "pronounce": "chā",
+        "meaning": "cắm, chèn"
+      },
+      {
+        "word": "拆",
+        "pronounce": "chāi",
+        "meaning": "gỡ, dỡ"
+      },
+      {
+        "word": "产品",
+        "pronounce": "chǎn pǐn",
+        "meaning": "sản phẩm"
+      },
+      {
+        "word": "产生",
+        "pronounce": "chǎn shēng",
+        "meaning": "sản sinh, nảy sinh"
+      },
+      {
+        "word": "长途",
+        "pronounce": "cháng tú",
+        "meaning": "đường dài"
+      },
+      {
+        "word": "常识",
+        "pronounce": "cháng shí",
+        "meaning": "kiến thức cơ bản"
+      },
+      {
+        "word": "抄",
+        "pronounce": "chāo",
+        "meaning": "chép"
+      },
+      {
+        "word": "超级",
+        "pronounce": "chāo jí",
+        "meaning": "siêu cấp, cực kỳ"
+      },
+      {
+        "word": "朝",
+        "pronounce": "cháo",
+        "meaning": "về hướng"
+      },
+      {
+        "word": "潮湿",
+        "pronounce": "cháo shī",
+        "meaning": "ẩm ướt"
+      },
+      {
+        "word": "吵",
+        "pronounce": "chǎo",
+        "meaning": "ồn ào"
+      },
+      {
+        "word": "吵架",
+        "pronounce": "chǎo jià",
+        "meaning": "cãi vã"
+      },
+      {
+        "word": "炒",
+        "pronounce": "chǎo",
+        "meaning": "xào"
+      },
+      {
+        "word": "车库",
+        "pronounce": "chē kù",
+        "meaning": "nhà xe"
+      },
+      {
+        "word": "车厢",
+        "pronounce": "chē xiāng",
+        "meaning": "toa tàu"
+      },
+      {
+        "word": "彻底",
+        "pronounce": "chè dǐ",
+        "meaning": "triệt để"
+      },
+      {
+        "word": "沉默",
+        "pronounce": "chén mò",
+        "meaning": "im lặng"
+      },
+      {
+        "word": "趁",
+        "pronounce": "chèn",
+        "meaning": "nhân"
+      },
+      {
+        "word": "称",
+        "pronounce": "chēng",
+        "meaning": "gọi là"
+      },
+      {
+        "word": "称呼",
+        "pronounce": "chēng hū",
+        "meaning": "xưng hô"
+      },
+      {
+        "word": "称赞",
+        "pronounce": "chēng zàn",
+        "meaning": "tán thưởng"
+      },
+      {
+        "word": "成分",
+        "pronounce": "chéng fèn",
+        "meaning": "thành phần"
+      },
+      {
+        "word": "成果",
+        "pronounce": "chéng guǒ",
+        "meaning": "thành quả"
+      },
+      {
+        "word": "成就",
+        "pronounce": "chéng jiù",
+        "meaning": "thành tựu"
+      },
+      {
+        "word": "成立",
+        "pronounce": "chéng lì",
+        "meaning": "thành lập"
+      },
+      {
+        "word": "成人",
+        "pronounce": "chéng rén",
+        "meaning": "người lớn"
+      },
+      {
+        "word": "成熟",
+        "pronounce": "chéng shú",
+        "meaning": "thành thục"
+      },
+      {
+        "word": "成语",
+        "pronounce": "chéng yǔ",
+        "meaning": "thành ngữ"
+      },
+      {
+        "word": "成长",
+        "pronounce": "chéng zhǎng",
+        "meaning": "trưởng thành"
+      },
+      {
+        "word": "诚恳",
+        "pronounce": "chéng kěn",
+        "meaning": "thành khẩn"
+      },
+      {
+        "word": "承担",
+        "pronounce": "chéng dān",
+        "meaning": "chịu trách nhiệm"
+      },
+      {
+        "word": "承认",
+        "pronounce": "chéng rèn",
+        "meaning": "thừa nhận"
+      },
+      {
+        "word": "承受",
+        "pronounce": "chéng shòu",
+        "meaning": "chịu đựng"
+      },
+      {
+        "word": "程度",
+        "pronounce": "chéng dù",
+        "meaning": "trình độ"
+      },
+      {
+        "word": "程序",
+        "pronounce": "chéng xù",
+        "meaning": "trình tự"
+      },
+      {
+        "word": "吃亏",
+        "pronounce": "chī kuī",
+        "meaning": "thiệt thòi"
+      },
+      {
+        "word": "池塘",
+        "pronounce": "chí táng",
+        "meaning": "ao hồ"
+      },
+      {
+        "word": "迟早",
+        "pronounce": "chí zǎo",
+        "meaning": "sớm muộn"
+      },
+      {
+        "word": "持续",
+        "pronounce": "chí xù",
+        "meaning": "kéo dài, tiêp tục"
+      },
+      {
+        "word": "尺子",
+        "pronounce": "chǐ zi",
+        "meaning": "thước đo"
+      },
+      {
+        "word": "翅膀",
+        "pronounce": "chì bǎng",
+        "meaning": "cánh"
+      },
+      {
+        "word": "冲",
+        "pronounce": "chōng",
+        "meaning": "xông, xô đẩy"
+      },
+      {
+        "word": "充分",
+        "pronounce": "chōng fèn",
+        "meaning": "đầy đủ"
+      },
+      {
+        "word": "充满",
+        "pronounce": "chōng mǎn",
+        "meaning": "tràn đầy"
+      },
+      {
+        "word": "重复",
+        "pronounce": "chóng fù",
+        "meaning": "lặp lại"
+      },
+      {
+        "word": "宠物",
+        "pronounce": "chǒng wù",
+        "meaning": "thú cưng"
+      },
+      {
+        "word": "抽屉",
+        "pronounce": "chōu tì",
+        "meaning": "ngăn kéo"
+      },
+      {
+        "word": "抽象",
+        "pronounce": "chōu xiàng",
+        "meaning": "trừu tượng"
+      },
+      {
+        "word": "丑",
+        "pronounce": "chǒu",
+        "meaning": "xấu"
+      },
+      {
+        "word": "臭",
+        "pronounce": "chòu",
+        "meaning": "thối"
+      },
+      {
+        "word": "出版",
+        "pronounce": "chū bǎn",
+        "meaning": "xuất bản"
+      },
+      {
+        "word": "出口",
+        "pronounce": "chū kǒu",
+        "meaning": "lối ra, cửa ra"
+      },
+      {
+        "word": "出色",
+        "pronounce": "chū sè",
+        "meaning": "xuất sắc"
+      },
+      {
+        "word": "出示",
+        "pronounce": "chū shì",
+        "meaning": "xuất trình"
+      },
+      {
+        "word": "出席",
+        "pronounce": "chū xí",
+        "meaning": "tham dự"
+      },
+      {
+        "word": "初级",
+        "pronounce": "chū jí",
+        "meaning": "sơ cấp"
+      },
+      {
+        "word": "除非",
+        "pronounce": "chú fēi",
+        "meaning": "trừ phi"
+      },
+      {
+        "word": "除夕",
+        "pronounce": "chú xī",
+        "meaning": "giao thừa"
+      },
+      {
+        "word": "处理",
+        "pronounce": "chǔ lǐ",
+        "meaning": "xử lý"
+      },
+      {
+        "word": "传播",
+        "pronounce": "chuán bō",
+        "meaning": "lan truyền, lây lan"
+      },
+      {
+        "word": "传染",
+        "pronounce": "chuán rǎn",
+        "meaning": "nhiễm"
+      },
+      {
+        "word": "传说",
+        "pronounce": "chuán shuō",
+        "meaning": "truyền thuyết"
+      },
+      {
+        "word": "传统",
+        "pronounce": "chuán tǒng",
+        "meaning": "truyền thống"
+      },
+      {
+        "word": "窗帘",
+        "pronounce": "chuāng lián",
+        "meaning": "rèm cửa"
+      },
+      {
+        "word": "闯",
+        "pronounce": "chuǎng",
+        "meaning": "xông vào, xông lên"
+      },
+      {
+        "word": "创造",
+        "pronounce": "chuàng zào",
+        "meaning": "sáng tạo"
+      },
+      {
+        "word": "吹",
+        "pronounce": "chuī",
+        "meaning": "thổi"
+      },
+      {
+        "word": "词汇",
+        "pronounce": "cí huì",
+        "meaning": "từ vựng"
+      },
+      {
+        "word": "辞职",
+        "pronounce": "cí zhí",
+        "meaning": "từ chức, bỏ việc"
+      },
+      {
+        "word": "此外",
+        "pronounce": "cǐ wài",
+        "meaning": "ngoài ra"
+      },
+      {
+        "word": "次要",
+        "pronounce": "cì yào",
+        "meaning": "thứ yếu"
+      },
+      {
+        "word": "刺激",
+        "pronounce": "cì jī",
+        "meaning": "kích thích"
+      },
+      {
+        "word": "匆忙",
+        "pronounce": "cōng máng",
+        "meaning": "vội vàng"
+      },
+      {
+        "word": "从此",
+        "pronounce": "cóng cǐ",
+        "meaning": "từ đó"
+      },
+      {
+        "word": "从而",
+        "pronounce": "cóng ér",
+        "meaning": "cho nên"
+      },
+      {
+        "word": "从前",
+        "pronounce": "cóng qián",
+        "meaning": "từ trước"
+      },
+      {
+        "word": "从事",
+        "pronounce": "cóng shì",
+        "meaning": "theo đuổi"
+      },
+      {
+        "word": "粗糙",
+        "pronounce": "cū cāo",
+        "meaning": "thô ráp"
+      },
+      {
+        "word": "促进",
+        "pronounce": "cù jìn",
+        "meaning": "xúc tiến"
+      },
+      {
+        "word": "促使",
+        "pronounce": "cù shǐ",
+        "meaning": "thúc đẩy"
+      },
+      {
+        "word": "醋",
+        "pronounce": "cù",
+        "meaning": "giấm"
+      },
+      {
+        "word": "催",
+        "pronounce": "cuī",
+        "meaning": "giục"
+      },
+      {
+        "word": "存在",
+        "pronounce": "cún zài",
+        "meaning": "tồn tại"
+      },
+      {
+        "word": "措施",
+        "pronounce": "cuò shī",
+        "meaning": "sách lược, chính sách"
+      },
+      {
+        "word": "答应",
+        "pronounce": "dā yìng",
+        "meaning": "hứa, đồng ý"
+      },
+      {
+        "word": "达到",
+        "pronounce": "dá dào",
+        "meaning": "đạt đến"
+      },
+      {
+        "word": "打工",
+        "pronounce": "dǎ gōng",
+        "meaning": "làm thêm"
+      },
+      {
+        "word": "打交道",
+        "pronounce": "dǎ jiāo dào",
+        "meaning": "kết bạn"
+      },
+      {
+        "word": "打喷嚏",
+        "pronounce": "dǎ pēn tì",
+        "meaning": "hắt xì"
+      },
+      {
+        "word": "打听",
+        "pronounce": "dǎ tīng",
+        "meaning": "hỏi thăm"
+      },
+      {
+        "word": "大方",
+        "pronounce": "dà fāng",
+        "meaning": "phóng khoáng"
+      },
+      {
+        "word": "大厦",
+        "pronounce": "dà shà",
+        "meaning": "tòa nhà"
+      },
+      {
+        "word": "大象",
+        "pronounce": "dà xiàng",
+        "meaning": "voi"
+      },
+      {
+        "word": "大型",
+        "pronounce": "dà xíng",
+        "meaning": "lớn (qui mô)"
+      },
+      {
+        "word": "呆",
+        "pronounce": "dāi",
+        "meaning": "ở lì, ở"
+      },
+      {
+        "word": "代表",
+        "pronounce": "dài biǎo",
+        "meaning": "đại diện"
+      },
+      {
+        "word": "代替",
+        "pronounce": "dài tì",
+        "meaning": "thay thế"
+      },
+      {
+        "word": "贷款",
+        "pronounce": "dài kuǎn",
+        "meaning": "vay tiền"
+      },
+      {
+        "word": "待遇",
+        "pronounce": "dài yù",
+        "meaning": "đãi ngộ"
+      },
+      {
+        "word": "担任",
+        "pronounce": "dān rèn",
+        "meaning": "đảm nhiệm"
+      },
+      {
+        "word": "单纯",
+        "pronounce": "dān chún",
+        "meaning": "đơn thuần,ngây thơ"
+      },
+      {
+        "word": "单调",
+        "pronounce": "dān diào",
+        "meaning": "đơn điệu"
+      },
+      {
+        "word": "单独",
+        "pronounce": "dān dú",
+        "meaning": "đơn độc"
+      },
+      {
+        "word": "单位",
+        "pronounce": "dān wèi",
+        "meaning": "đơn vị"
+      },
+      {
+        "word": "单元",
+        "pronounce": "dān yuán",
+        "meaning": "đơn nguyên, cụm"
+      },
+      {
+        "word": "耽误",
+        "pronounce": "dān wù",
+        "meaning": "bỏ lỡ"
+      },
+      {
+        "word": "胆小鬼",
+        "pronounce": "dǎn xiǎo guǐ",
+        "meaning": "kẻ nhát gan"
+      },
+      {
+        "word": "淡",
+        "pronounce": "dàn",
+        "meaning": "nhạt"
+      },
+      {
+        "word": "当地",
+        "pronounce": "dāng dì",
+        "meaning": "địa phương"
+      },
+      {
+        "word": "当心",
+        "pronounce": "dāng xīn",
+        "meaning": "để tâm, lưu tâm"
+      },
+      {
+        "word": "挡",
+        "pronounce": "dǎng",
+        "meaning": "chắn"
+      },
+      {
+        "word": "导演",
+        "pronounce": "dǎo yǎn",
+        "meaning": "đạo diễn"
+      },
+      {
+        "word": "导致",
+        "pronounce": "dǎo zhì",
+        "meaning": "gây ra"
+      },
+      {
+        "word": "岛屿",
+        "pronounce": "dǎo yǔ",
+        "meaning": "đảo"
+      },
+      {
+        "word": "倒霉",
+        "pronounce": "dǎo méi",
+        "meaning": "xui xẻo"
+      },
+      {
+        "word": "到达",
+        "pronounce": "dào dá",
+        "meaning": "đến"
+      },
+      {
+        "word": "道德",
+        "pronounce": "dào dé",
+        "meaning": "đạo đức"
+      },
+      {
+        "word": "道理",
+        "pronounce": "dào lǐ",
+        "meaning": "đạo lí, bài học"
+      },
+      {
+        "word": "登记",
+        "pronounce": "dēng jì",
+        "meaning": "đăng kí"
+      },
+      {
+        "word": "等待",
+        "pronounce": "děng dài",
+        "meaning": "đợi, chờ đợi"
+      },
+      {
+        "word": "等于",
+        "pronounce": "děng yú",
+        "meaning": "bằng"
+      },
+      {
+        "word": "滴",
+        "pronounce": "dī",
+        "meaning": "giọt"
+      },
+      {
+        "word": "的确",
+        "pronounce": "dí què",
+        "meaning": "đúng, thật (phó từ)"
+      },
+      {
+        "word": "敌人",
+        "pronounce": "dí rén",
+        "meaning": "kẻ địch"
+      },
+      {
+        "word": "地道",
+        "pronounce": "dì dào",
+        "meaning": "chuẩn bản địa (ngôn ngữ, món ăn)"
+      },
+      {
+        "word": "地理",
+        "pronounce": "dì lǐ",
+        "meaning": "địa lý"
+      },
+      {
+        "word": "地区",
+        "pronounce": "dì qū",
+        "meaning": "khu vực"
+      },
+      {
+        "word": "地毯",
+        "pronounce": "dì tǎn",
+        "meaning": "thảm"
+      },
+      {
+        "word": "地位",
+        "pronounce": "dì wèi",
+        "meaning": "địa vị"
+      },
+      {
+        "word": "地震",
+        "pronounce": "dì zhèn",
+        "meaning": "động đất"
+      },
+      {
+        "word": "递",
+        "pronounce": "dì",
+        "meaning": "truyền"
+      },
+      {
+        "word": "点心",
+        "pronounce": "diǎn xīn",
+        "meaning": "điểm tâm"
+      },
+      {
+        "word": "电池",
+        "pronounce": "diàn chí",
+        "meaning": "pin"
+      },
+      {
+        "word": "电台",
+        "pronounce": "diàn tái",
+        "meaning": "đài truyền hình"
+      },
+      {
+        "word": "钓",
+        "pronounce": "diào",
+        "meaning": "câu (cá)"
+      },
+      {
+        "word": "顶",
+        "pronounce": "dǐng",
+        "meaning": "đội, cái (lượng từ cho mũ)"
+      },
+      {
+        "word": "动画片",
+        "pronounce": "dòng huà piàn",
+        "meaning": "phim hoạt hình"
+      },
+      {
+        "word": "冻",
+        "pronounce": "dòng",
+        "meaning": "đông cứng"
+      },
+      {
+        "word": "洞",
+        "pronounce": "dòng",
+        "meaning": "hang động"
+      },
+      {
+        "word": "豆腐",
+        "pronounce": "dòu fǔ",
+        "meaning": "đậu phụ"
+      },
+      {
+        "word": "逗",
+        "pronounce": "dòu",
+        "meaning": "trêu"
+      },
+      {
+        "word": "独立",
+        "pronounce": "dú lì",
+        "meaning": "độc lập"
+      },
+      {
+        "word": "独特",
+        "pronounce": "dú tè",
+        "meaning": "độc đáo"
+      },
+      {
+        "word": "度过",
+        "pronounce": "dù guò",
+        "meaning": "trải qua (thời kì, thời gian)"
+      },
+      {
+        "word": "断",
+        "pronounce": "duàn",
+        "meaning": "đoạn, đứt"
+      },
+      {
+        "word": "堆",
+        "pronounce": "duī",
+        "meaning": "đống"
+      },
+      {
+        "word": "对比",
+        "pronounce": "duì bǐ",
+        "meaning": "đối chiếu"
+      },
+      {
+        "word": "对待",
+        "pronounce": "duì dài",
+        "meaning": "đối đãi"
+      },
+      {
+        "word": "对方",
+        "pronounce": "duì fāng",
+        "meaning": "đối phương"
+      },
+      {
+        "word": "对手",
+        "pronounce": "duì shǒu",
+        "meaning": "đối thủ"
+      },
+      {
+        "word": "对象",
+        "pronounce": "duì xiàng",
+        "meaning": "đối tượng"
+      },
+      {
+        "word": "兑换",
+        "pronounce": "duì huàn",
+        "meaning": "đổi"
+      },
+      {
+        "word": "吨",
+        "pronounce": "dūn",
+        "meaning": "tấn"
+      },
+      {
+        "word": "蹲",
+        "pronounce": "dūn",
+        "meaning": "ngồi xổm"
+      },
+      {
+        "word": "顿",
+        "pronounce": "dùn",
+        "meaning": "bữa"
+      },
+      {
+        "word": "多亏",
+        "pronounce": "duō kuī",
+        "meaning": "may mà"
+      },
+      {
+        "word": "多余",
+        "pronounce": "duō yú",
+        "meaning": "thừa thãi"
+      },
+      {
+        "word": "朵",
+        "pronounce": "duǒ",
+        "meaning": "bông"
+      },
+      {
+        "word": "躲藏",
+        "pronounce": "duǒ cáng",
+        "meaning": "trốn"
+      },
+      {
+        "word": "恶劣",
+        "pronounce": "è liè",
+        "meaning": "khắc nghiệt, hà khắc"
+      },
+      {
+        "word": "耳环",
+        "pronounce": "ěr huán",
+        "meaning": "khuyên tai"
+      },
+      {
+        "word": "发表",
+        "pronounce": "fā biǎo",
+        "meaning": "phát biểu, đăng, ra mắt (tác phẩm)"
+      },
+      {
+        "word": "发愁",
+        "pronounce": "fā chóu",
+        "meaning": "phát buồn, chán"
+      },
+      {
+        "word": "发达",
+        "pronounce": "fā dá",
+        "meaning": "phát đạt, phát triển"
+      },
+      {
+        "word": "发抖",
+        "pronounce": "fā dǒu",
+        "meaning": "run rẩy"
+      },
+      {
+        "word": "发挥",
+        "pronounce": "fā huī",
+        "meaning": "phát huy"
+      },
+      {
+        "word": "发明",
+        "pronounce": "fā míng",
+        "meaning": "phát minh"
+      },
+      {
+        "word": "发票",
+        "pronounce": "fā piào",
+        "meaning": "hóa đơn giá trị gia tăng"
+      },
+      {
+        "word": "发言",
+        "pronounce": "fā yán",
+        "meaning": "phát biểu (ý kiến)"
+      },
+      {
+        "word": "罚款",
+        "pronounce": "fá kuǎn",
+        "meaning": "phạt tiền"
+      },
+      {
+        "word": "法院",
+        "pronounce": "fǎ yuàn",
+        "meaning": "tòa án"
+      },
+      {
+        "word": "翻",
+        "pronounce": "fān",
+        "meaning": "lật, giở"
+      },
+      {
+        "word": "繁荣",
+        "pronounce": "fán róng",
+        "meaning": "phồn vinh"
+      },
+      {
+        "word": "反而",
+        "pronounce": "fǎn ér",
+        "meaning": "ngược lại"
+      },
+      {
+        "word": "反复",
+        "pronounce": "fǎn fù",
+        "meaning": "lặp đi lặp lại"
+      },
+      {
+        "word": "反应",
+        "pronounce": "fǎn yìng",
+        "meaning": "phản ứng"
+      },
+      {
+        "word": "反映",
+        "pronounce": "fǎn yìng",
+        "meaning": "phản ánh"
+      },
+      {
+        "word": "反正",
+        "pronounce": "fǎn zhèng",
+        "meaning": "dù sao thì"
+      },
+      {
+        "word": "范围",
+        "pronounce": "fàn wéi",
+        "meaning": "phạm vi"
+      },
+      {
+        "word": "方",
+        "pronounce": "fāng",
+        "meaning": "phương"
+      },
+      {
+        "word": "方案",
+        "pronounce": "fāng àn",
+        "meaning": "phương án"
+      },
+      {
+        "word": "方式",
+        "pronounce": "fāng shì",
+        "meaning": "phương thức"
+      },
+      {
+        "word": "妨碍",
+        "pronounce": "fáng ài",
+        "meaning": "trở ngại, cản trở"
+      },
+      {
+        "word": "仿佛",
+        "pronounce": "fǎng fú",
+        "meaning": "dường như"
+      },
+      {
+        "word": "非",
+        "pronounce": "fēi",
+        "meaning": "phi, không"
+      },
+      {
+        "word": "肥皂",
+        "pronounce": "féi zào",
+        "meaning": "bánh xà phòng"
+      },
+      {
+        "word": "废话",
+        "pronounce": "fèi huà",
+        "meaning": "lời nói thừa thãi"
+      },
+      {
+        "word": "分别",
+        "pronounce": "fēn bié",
+        "meaning": "phân biệt, lần lượt, xa nhau"
+      },
+      {
+        "word": "分布",
+        "pronounce": "fēn bù",
+        "meaning": "phân bố"
+      },
+      {
+        "word": "分配",
+        "pronounce": "fēn pèi",
+        "meaning": "chia sẻ, phân chia, phân công"
+      },
+      {
+        "word": "分手",
+        "pronounce": "fēn shǒu",
+        "meaning": "chia tay"
+      },
+      {
+        "word": "分析",
+        "pronounce": "fēn xī",
+        "meaning": "phân tích"
+      },
+      {
+        "word": "纷纷",
+        "pronounce": "fēn fēn",
+        "meaning": "lũ lượt"
+      },
+      {
+        "word": "奋斗",
+        "pronounce": "fèn dòu",
+        "meaning": "phấn đấu"
+      },
+      {
+        "word": "风格",
+        "pronounce": "fēng gé",
+        "meaning": "phong cách"
+      },
+      {
+        "word": "风景",
+        "pronounce": "fēng jǐng",
+        "meaning": "phong cảnh"
+      },
+      {
+        "word": "风俗",
+        "pronounce": "fēng sú",
+        "meaning": "phong tục"
+      },
+      {
+        "word": "风险",
+        "pronounce": "fēng xiǎn",
+        "meaning": "mạo hiểm, hiểm nguy"
+      },
+      {
+        "word": "疯狂",
+        "pronounce": "fēng kuáng",
+        "meaning": "điên rồ"
+      },
+      {
+        "word": "讽刺",
+        "pronounce": "fěng cì",
+        "meaning": "châm biếm"
+      },
+      {
+        "word": "否定",
+        "pronounce": "fǒu dìng",
+        "meaning": "phủ định"
+      },
+      {
+        "word": "否认",
+        "pronounce": "fǒu rèn",
+        "meaning": "phủ nhận"
+      },
+      {
+        "word": "扶",
+        "pronounce": "fú",
+        "meaning": "vịn"
+      },
+      {
+        "word": "服装",
+        "pronounce": "fú zhuāng",
+        "meaning": "phục trang, quần áo"
+      },
+      {
+        "word": "幅",
+        "pronounce": "fú",
+        "meaning": "bức (lượng từ cho tranh)"
+      },
+      {
+        "word": "辅导",
+        "pronounce": "fǔ dǎo",
+        "meaning": "phụ đạo, bổ trợ"
+      },
+      {
+        "word": "妇女",
+        "pronounce": "fù nǚ",
+        "meaning": "phụ nữ"
+      },
+      {
+        "word": "复制",
+        "pronounce": "fù zhì",
+        "meaning": "copy"
+      },
+      {
+        "word": "改革",
+        "pronounce": "gǎi gé",
+        "meaning": "cải cách"
+      },
+      {
+        "word": "改进",
+        "pronounce": "gǎi jìn",
+        "meaning": "cải tiến"
+      },
+      {
+        "word": "改善",
+        "pronounce": "gǎi shàn",
+        "meaning": "cải thiện"
+      },
+      {
+        "word": "改正",
+        "pronounce": "gǎi zhèng",
+        "meaning": "đính chính"
+      },
+      {
+        "word": "盖",
+        "pronounce": "gài",
+        "meaning": "đậy, bao phủ"
+      },
+      {
+        "word": "概括",
+        "pronounce": "gài kuò",
+        "meaning": "khái quát"
+      },
+      {
+        "word": "概念",
+        "pronounce": "gài niàn",
+        "meaning": "khái niệm"
+      },
+      {
+        "word": "干脆",
+        "pronounce": "gān cuì",
+        "meaning": "dứt khoát"
+      },
+      {
+        "word": "干燥",
+        "pronounce": "gān zào",
+        "meaning": "khô ráo, khô hanh"
+      },
+      {
+        "word": "赶紧",
+        "pronounce": "gǎn jǐn",
+        "meaning": "mau chóng"
+      },
+      {
+        "word": "赶快",
+        "pronounce": "gǎn kuài",
+        "meaning": "mau chóng"
+      },
+      {
+        "word": "感激",
+        "pronounce": "gǎn jī",
+        "meaning": "cảm kích, biết ơn"
+      },
+      {
+        "word": "感受",
+        "pronounce": "gǎn shòu",
+        "meaning": "cảm nhận"
+      },
+      {
+        "word": "感想",
+        "pronounce": "gǎn xiǎng",
+        "meaning": "cảm tưởng, suy nghĩ"
+      },
+      {
+        "word": "干活儿",
+        "pronounce": "gàn huó ér",
+        "meaning": "lao động"
+      },
+      {
+        "word": "钢铁",
+        "pronounce": "gāng tiě",
+        "meaning": "sắt thép"
+      },
+      {
+        "word": "高档",
+        "pronounce": "gāo dàng",
+        "meaning": "cao cấp, đẳng cấp"
+      },
+      {
+        "word": "高级",
+        "pronounce": "gāo jí",
+        "meaning": "cao cấp"
+      },
+      {
+        "word": "搞",
+        "pronounce": "gǎo",
+        "meaning": "làm"
+      },
+      {
+        "word": "告别",
+        "pronounce": "gào bié",
+        "meaning": "từ biệt"
+      },
+      {
+        "word": "格外",
+        "pronounce": "gé wài",
+        "meaning": "đặc biệt"
+      },
+      {
+        "word": "隔壁",
+        "pronounce": "gé bì",
+        "meaning": "sát vách, ngay cạnh"
+      },
+      {
+        "word": "个别",
+        "pronounce": "gè bié",
+        "meaning": "cá biệt"
+      },
+      {
+        "word": "个人",
+        "pronounce": "gè rén",
+        "meaning": "cá nhân"
+      },
+      {
+        "word": "个性",
+        "pronounce": "gè xìng",
+        "meaning": "cá tính"
+      },
+      {
+        "word": "各自",
+        "pronounce": "gè zì",
+        "meaning": "tự, mỗi"
+      },
+      {
+        "word": "根",
+        "pronounce": "gēn",
+        "meaning": "lượng từ: sợi, cành, khúc, ngón"
+      },
+      {
+        "word": "根本",
+        "pronounce": "gēn běn",
+        "meaning": "vốn"
+      },
+      {
+        "word": "工厂",
+        "pronounce": "gōng chǎng",
+        "meaning": "xưởng, xí nghiệp"
+      },
+      {
+        "word": "工程师",
+        "pronounce": "gōng chéng shī",
+        "meaning": "kỹ sư"
+      },
+      {
+        "word": "工具",
+        "pronounce": "gōng jù",
+        "meaning": "công cụ"
+      },
+      {
+        "word": "工人",
+        "pronounce": "gōng rén",
+        "meaning": "công nhân"
+      },
+      {
+        "word": "工业",
+        "pronounce": "gōng yè",
+        "meaning": "công nghiệp"
+      },
+      {
+        "word": "公布",
+        "pronounce": "gōng bù",
+        "meaning": "công bố"
+      },
+      {
+        "word": "公开",
+        "pronounce": "gōng kāi",
+        "meaning": "công khai"
+      },
+      {
+        "word": "公平",
+        "pronounce": "gōng píng",
+        "meaning": "công bằng"
+      },
+      {
+        "word": "公寓",
+        "pronounce": "gōng yù",
+        "meaning": "chung cư"
+      },
+      {
+        "word": "公元",
+        "pronounce": "gōng yuán",
+        "meaning": "công nguyên"
+      },
+      {
+        "word": "公主",
+        "pronounce": "gōng zhǔ",
+        "meaning": "công chúa"
+      },
+      {
+        "word": "功能",
+        "pronounce": "gōng néng",
+        "meaning": "công năng"
+      },
+      {
+        "word": "恭喜",
+        "pronounce": "gōng xǐ",
+        "meaning": "chúc mừng"
+      },
+      {
+        "word": "贡献",
+        "pronounce": "gòng xiàn",
+        "meaning": "cống hiến"
+      },
+      {
+        "word": "沟通",
+        "pronounce": "gōu tōng",
+        "meaning": "trao đổi, thấu hiểu"
+      },
+      {
+        "word": "构成",
+        "pronounce": "gòu chéng",
+        "meaning": "tạo thành, cấu thành"
+      },
+      {
+        "word": "姑姑",
+        "pronounce": "gū gu",
+        "meaning": "cô"
+      },
+      {
+        "word": "姑娘",
+        "pronounce": "gū niang",
+        "meaning": "cô gái"
+      },
+      {
+        "word": "古代",
+        "pronounce": "gǔ dài",
+        "meaning": "cổ đại"
+      },
+      {
+        "word": "古典",
+        "pronounce": "gǔ diǎn",
+        "meaning": "cổ điển"
+      },
+      {
+        "word": "股票",
+        "pronounce": "gǔ piào",
+        "meaning": "cổ phiếu"
+      },
+      {
+        "word": "骨头",
+        "pronounce": "gǔ tou",
+        "meaning": "xương"
+      },
+      {
+        "word": "鼓舞",
+        "pronounce": "gǔ wǔ",
+        "meaning": "cổ vũ"
+      },
+      {
+        "word": "鼓掌",
+        "pronounce": "gǔ zhǎng",
+        "meaning": "vỗ tay"
+      },
+      {
+        "word": "固定",
+        "pronounce": "gù dìng",
+        "meaning": "cố định"
+      },
+      {
+        "word": "挂号",
+        "pronounce": "guà hào",
+        "meaning": "xếp số"
+      },
+      {
+        "word": "乖",
+        "pronounce": "guāi",
+        "meaning": "ngoan"
+      },
+      {
+        "word": "拐弯",
+        "pronounce": "guǎi wān",
+        "meaning": "rẽ"
+      },
+      {
+        "word": "怪不得",
+        "pronounce": "guài bù dé",
+        "meaning": "chẳng trách"
+      },
+      {
+        "word": "关闭",
+        "pronounce": "guān bì",
+        "meaning": "đóng"
+      },
+      {
+        "word": "观察",
+        "pronounce": "guān chá",
+        "meaning": "quan sát"
+      },
+      {
+        "word": "观点",
+        "pronounce": "guān diǎn",
+        "meaning": "quan điểm"
+      },
+      {
+        "word": "观念",
+        "pronounce": "guān niàn",
+        "meaning": "quan niệm"
+      },
+      {
+        "word": "官",
+        "pronounce": "guān",
+        "meaning": "quan"
+      },
+      {
+        "word": "管子",
+        "pronounce": "guǎn zi",
+        "meaning": "cái ống"
+      },
+      {
+        "word": "冠军",
+        "pronounce": "guàn jūn",
+        "meaning": "quán quân"
+      },
+      {
+        "word": "光滑",
+        "pronounce": "guāng huá",
+        "meaning": "bóng mượt"
+      },
+      {
+        "word": "光临",
+        "pronounce": "guāng lín",
+        "meaning": "đến, có mặt"
+      },
+      {
+        "word": "光明",
+        "pronounce": "guāng míng",
+        "meaning": "quang minh, sáng sủa"
+      },
+      {
+        "word": "光盘",
+        "pronounce": "guāng pán",
+        "meaning": "đĩa CD, VCD,DVD"
+      },
+      {
+        "word": "广场",
+        "pronounce": "guǎng chǎng",
+        "meaning": "quảng trường"
+      },
+      {
+        "word": "广大",
+        "pronounce": "guǎng dà",
+        "meaning": "quảng đại, rộng lớn"
+      },
+      {
+        "word": "广泛",
+        "pronounce": "guǎng fàn",
+        "meaning": "rộng khắp"
+      },
+      {
+        "word": "归纳",
+        "pronounce": "guī nà",
+        "meaning": "tóm tắt"
+      },
+      {
+        "word": "规矩",
+        "pronounce": "guī ju",
+        "meaning": "qui tắc"
+      },
+      {
+        "word": "规律",
+        "pronounce": "guī lǜ",
+        "meaning": "qui luật"
+      },
+      {
+        "word": "规模",
+        "pronounce": "guī mó",
+        "meaning": "qui mô"
+      },
+      {
+        "word": "规则",
+        "pronounce": "guī zé",
+        "meaning": "nội qui"
+      },
+      {
+        "word": "柜台",
+        "pronounce": "guì tái",
+        "meaning": "quầy ba, quầy"
+      },
+      {
+        "word": "滚",
+        "pronounce": "gǔn",
+        "meaning": "cút, cuộn, lăn"
+      },
+      {
+        "word": "锅",
+        "pronounce": "guō",
+        "meaning": "nồi"
+      },
+      {
+        "word": "国庆节",
+        "pronounce": "guó qìng jié",
+        "meaning": "quốc khánh"
+      },
+      {
+        "word": "国王",
+        "pronounce": "guó wáng",
+        "meaning": "quốc vương"
+      },
+      {
+        "word": "果然",
+        "pronounce": "guǒ rán",
+        "meaning": "quả nhiên"
+      },
+      {
+        "word": "果实",
+        "pronounce": "guǒ shí",
+        "meaning": "quả thật"
+      },
+      {
+        "word": "过分",
+        "pronounce": "guò fèn",
+        "meaning": "quá đáng"
+      },
+      {
+        "word": "过敏",
+        "pronounce": "guò mǐn",
+        "meaning": "mẫn cảm, dị ứng"
+      },
+      {
+        "word": "过期",
+        "pronounce": "guò qī",
+        "meaning": "quá hạn"
+      },
+      {
+        "word": "哈",
+        "pronounce": "hā",
+        "meaning": "ha ha"
+      },
+      {
+        "word": "海关",
+        "pronounce": "hǎi guān",
+        "meaning": "hải quan"
+      },
+      {
+        "word": "海鲜",
+        "pronounce": "hǎi xiān",
+        "meaning": "hải sản"
+      },
+      {
+        "word": "喊",
+        "pronounce": "hǎn",
+        "meaning": "hét"
+      },
+      {
+        "word": "行业",
+        "pronounce": "háng yè",
+        "meaning": "ngành nghề"
+      },
+      {
+        "word": "豪华",
+        "pronounce": "háo huá",
+        "meaning": "sang trọng"
+      },
+      {
+        "word": "好客",
+        "pronounce": "hào kè",
+        "meaning": "hiếu khách"
+      },
+      {
+        "word": "好奇",
+        "pronounce": "hào qí",
+        "meaning": "hiếu kì"
+      },
+      {
+        "word": "合法",
+        "pronounce": "hé fǎ",
+        "meaning": "hợp pháp"
+      },
+      {
+        "word": "合理",
+        "pronounce": "hé lǐ",
+        "meaning": "hợp lý"
+      },
+      {
+        "word": "合同",
+        "pronounce": "hé tóng",
+        "meaning": "hợp đồng"
+      },
+      {
+        "word": "合影",
+        "pronounce": "hé yǐng",
+        "meaning": "chụp ảnh chung, chụp ảnh tập thể"
+      },
+      {
+        "word": "合作",
+        "pronounce": "hé zuò",
+        "meaning": "hợp tác"
+      },
+      {
+        "word": "何必",
+        "pronounce": "hé bì",
+        "meaning": "hà tất"
+      },
+      {
+        "word": "何况",
+        "pronounce": "hé kuàng",
+        "meaning": "huống hồ, hơn nữa"
+      },
+      {
+        "word": "和平",
+        "pronounce": "hé píng",
+        "meaning": "hòa bình"
+      },
+      {
+        "word": "核心",
+        "pronounce": "hé xīn",
+        "meaning": "trọng tâm"
+      },
+      {
+        "word": "恨",
+        "pronounce": "hèn",
+        "meaning": "hận"
+      },
+      {
+        "word": "猴子",
+        "pronounce": "hóu zi",
+        "meaning": "khỉ"
+      },
+      {
+        "word": "后背",
+        "pronounce": "hòu bèi",
+        "meaning": "phía sau"
+      },
+      {
+        "word": "后果",
+        "pronounce": "hòu guǒ",
+        "meaning": "hậu quả"
+      },
+      {
+        "word": "呼吸",
+        "pronounce": "hū xī",
+        "meaning": "hít thở"
+      },
+      {
+        "word": "忽然",
+        "pronounce": "hū rán",
+        "meaning": "bỗng nhiên"
+      },
+      {
+        "word": "忽视",
+        "pronounce": "hū shì",
+        "meaning": "không coi trọng (kinh tế, ngành nghề, vấn đề nhỏ, nghiên cứu)"
+      },
+      {
+        "word": "胡说",
+        "pronounce": "hú shuō",
+        "meaning": "nói nhăng quậy"
+      },
+      {
+        "word": "胡同",
+        "pronounce": "hú tòng",
+        "meaning": "ngõ, hẻm"
+      },
+      {
+        "word": "壶",
+        "pronounce": "hú",
+        "meaning": "bình, ấm"
+      },
+      {
+        "word": "蝴蝶",
+        "pronounce": "hú dié",
+        "meaning": "con bướm"
+      },
+      {
+        "word": "糊涂",
+        "pronounce": "hú tú",
+        "meaning": "hồ đồ"
+      },
+      {
+        "word": "花生",
+        "pronounce": "huā shēng",
+        "meaning": "lạc, đậu phộng"
+      },
+      {
+        "word": "划",
+        "pronounce": "huá",
+        "meaning": "chèo (thuyền)"
+      },
+      {
+        "word": "华裔",
+        "pronounce": "huá yì",
+        "meaning": "hoa kiều"
+      },
+      {
+        "word": "滑",
+        "pronounce": "huá",
+        "meaning": "trượt, trơn"
+      },
+      {
+        "word": "化学",
+        "pronounce": "huà xué",
+        "meaning": "hóa học"
+      },
+      {
+        "word": "话题",
+        "pronounce": "huà tí",
+        "meaning": "chủ đề"
+      },
+      {
+        "word": "怀念",
+        "pronounce": "huái niàn",
+        "meaning": "hoài niệm"
+      },
+      {
+        "word": "怀孕",
+        "pronounce": "huái yùn",
+        "meaning": "mang bầu"
+      },
+      {
+        "word": "缓解",
+        "pronounce": "huǎn jiě",
+        "meaning": "thả lỏng, giảm"
+      },
+      {
+        "word": "幻想",
+        "pronounce": "huàn xiǎng",
+        "meaning": "ảo tưởng, giả tưởng"
+      },
+      {
+        "word": "慌张",
+        "pronounce": "huāng zhāng",
+        "meaning": "hoảng sợ, rối rắm, rối"
+      },
+      {
+        "word": "黄金",
+        "pronounce": "huáng jīn",
+        "meaning": "vàng"
+      },
+      {
+        "word": "灰",
+        "pronounce": "huī",
+        "meaning": "màu xám"
+      },
+      {
+        "word": "灰尘",
+        "pronounce": "huī chén",
+        "meaning": "tro bụi"
+      },
+      {
+        "word": "灰心",
+        "pronounce": "huī xīn",
+        "meaning": "nản lòng"
+      },
+      {
+        "word": "挥",
+        "pronounce": "huī",
+        "meaning": "vẫy"
+      },
+      {
+        "word": "恢复",
+        "pronounce": "huī fù",
+        "meaning": "hồi phục, khôi phục"
+      },
+      {
+        "word": "汇率",
+        "pronounce": "huì lǜ",
+        "meaning": "tỷ giá"
+      },
+      {
+        "word": "婚礼",
+        "pronounce": "hūn lǐ",
+        "meaning": "hôn lễ"
+      },
+      {
+        "word": "婚姻",
+        "pronounce": "hūn yīn",
+        "meaning": "hôn nhân"
+      },
+      {
+        "word": "活跃",
+        "pronounce": "huó yuè",
+        "meaning": "sôi nổi"
+      },
+      {
+        "word": "火柴",
+        "pronounce": "huǒ chái",
+        "meaning": "diêm"
+      },
+      {
+        "word": "伙伴",
+        "pronounce": "huǒ bàn",
+        "meaning": "bạn đồng hành"
+      },
+      {
+        "word": "或许",
+        "pronounce": "huò xǔ",
+        "meaning": "có lẽ"
+      },
+      {
+        "word": "机器",
+        "pronounce": "jī qì",
+        "meaning": "máy móc"
+      },
+      {
+        "word": "肌肉",
+        "pronounce": "jī ròu",
+        "meaning": "cơ bắp"
+      },
+      {
+        "word": "基本",
+        "pronounce": "jī běn",
+        "meaning": "cơ bản, căn bản"
+      },
+      {
+        "word": "激烈",
+        "pronounce": "jī liè",
+        "meaning": "khốc liệt, kịch liệt"
+      },
+      {
+        "word": "及格",
+        "pronounce": "jí gé",
+        "meaning": "đạt điểm qua"
+      },
+      {
+        "word": "极其",
+        "pronounce": "jí qí",
+        "meaning": "cực kì"
+      },
+      {
+        "word": "急忙",
+        "pronounce": "jí máng",
+        "meaning": "vội vàng"
+      },
+      {
+        "word": "急诊",
+        "pronounce": "jí zhěn",
+        "meaning": "cấp cứu"
+      },
+      {
+        "word": "集合",
+        "pronounce": "jí hé",
+        "meaning": "tập hợp"
+      },
+      {
+        "word": "集体",
+        "pronounce": "jí tǐ",
+        "meaning": "tập thể"
+      },
+      {
+        "word": "集中",
+        "pronounce": "jí zhōng",
+        "meaning": "tập trung"
+      },
+      {
+        "word": "计算",
+        "pronounce": "jì suàn",
+        "meaning": "tính toán"
+      },
+      {
+        "word": "记录",
+        "pronounce": "jì lù",
+        "meaning": "ghi chép"
+      },
+      {
+        "word": "记忆",
+        "pronounce": "jì yì",
+        "meaning": "ký ức"
+      },
+      {
+        "word": "纪录",
+        "pronounce": "jì lù",
+        "meaning": "kỷ lục"
+      },
+      {
+        "word": "纪律",
+        "pronounce": "jì lǜ",
+        "meaning": "kỷ luật"
+      },
+      {
+        "word": "纪念",
+        "pronounce": "jì niàn",
+        "meaning": "kỉ niệm"
+      },
+      {
+        "word": "系领带",
+        "pronounce": "jì lǐng dài",
+        "meaning": "thắt cà vạt"
+      },
+      {
+        "word": "寂寞",
+        "pronounce": "jì mò",
+        "meaning": "cô đơn"
+      },
+      {
+        "word": "夹子",
+        "pronounce": "jiā zi",
+        "meaning": "cái kẹp"
+      },
+      {
+        "word": "家庭",
+        "pronounce": "jiā tíng",
+        "meaning": "gia đình"
+      },
+      {
+        "word": "家务",
+        "pronounce": "jiā wù",
+        "meaning": "việc nhà"
+      },
+      {
+        "word": "家乡",
+        "pronounce": "jiā xiāng",
+        "meaning": "quê hương"
+      },
+      {
+        "word": "嘉宾",
+        "pronounce": "jiā bīn",
+        "meaning": "khách mời"
+      },
+      {
+        "word": "甲",
+        "pronounce": "jiǎ",
+        "meaning": "giáp"
+      },
+      {
+        "word": "假如",
+        "pronounce": "jiǎ rú",
+        "meaning": "giả dụ"
+      },
+      {
+        "word": "假设",
+        "pronounce": "jiǎ shè",
+        "meaning": "giả thuyết"
+      },
+      {
+        "word": "假装",
+        "pronounce": "jiǎ zhuāng",
+        "meaning": "giả vờ"
+      },
+      {
+        "word": "价值",
+        "pronounce": "jià zhí",
+        "meaning": "giá trị"
+      },
+      {
+        "word": "驾驶",
+        "pronounce": "jià shǐ",
+        "meaning": "lái xe"
+      },
+      {
+        "word": "嫁",
+        "pronounce": "jià",
+        "meaning": "gả chồng"
+      },
+      {
+        "word": "坚决",
+        "pronounce": "jiān jué",
+        "meaning": "kiên quyết"
+      },
+      {
+        "word": "坚强",
+        "pronounce": "jiān qiáng",
+        "meaning": "kiên cường"
+      },
+      {
+        "word": "肩膀",
+        "pronounce": "jiān bǎng",
+        "meaning": "bờ vai"
+      },
+      {
+        "word": "艰巨",
+        "pronounce": "jiān jù",
+        "meaning": "khó khăn (công việc, nhiệm vụ)"
+      },
+      {
+        "word": "艰苦",
+        "pronounce": "jiān kǔ",
+        "meaning": "gian khổ, gian khóa"
+      },
+      {
+        "word": "兼职",
+        "pronounce": "jiān zhí",
+        "meaning": "kiêm nhiệm"
+      },
+      {
+        "word": "捡",
+        "pronounce": "jiǎn",
+        "meaning": "nhặt"
+      },
+      {
+        "word": "剪刀",
+        "pronounce": "jiǎn dāo",
+        "meaning": "cái kéo"
+      },
+      {
+        "word": "简历",
+        "pronounce": "jiǎn lì",
+        "meaning": "sơ yếu lý lịch"
+      },
+      {
+        "word": "简直",
+        "pronounce": "jiǎn zhí",
+        "meaning": "gần như"
+      },
+      {
+        "word": "建立",
+        "pronounce": "jiàn lì",
+        "meaning": "thành lập (tổ chức, trường học), thiết lập (quan hệ)"
+      },
+      {
+        "word": "建设",
+        "pronounce": "jiàn shè",
+        "meaning": "dựng xây, xây dựng"
+      },
+      {
+        "word": "建筑",
+        "pronounce": "jiàn zhù",
+        "meaning": "công trình xây dưng, (công ty) xây dựng, (ngành) xây dựng"
+      },
+      {
+        "word": "健身",
+        "pronounce": "jiàn shēn",
+        "meaning": "tập thể dục"
+      },
+      {
+        "word": "键盘",
+        "pronounce": "jiàn pán",
+        "meaning": "bàn phím"
+      },
+      {
+        "word": "讲究",
+        "pronounce": "jiǎng jiū",
+        "meaning": "coi trọng"
+      },
+      {
+        "word": "讲座",
+        "pronounce": "jiǎng zuò",
+        "meaning": "buổi diễn thuyết"
+      },
+      {
+        "word": "酱油",
+        "pronounce": "jiàng yóu",
+        "meaning": "xì dầu"
+      },
+      {
+        "word": "交换",
+        "pronounce": "jiāo huàn",
+        "meaning": "trao đổi"
+      },
+      {
+        "word": "交际",
+        "pronounce": "jiāo jì",
+        "meaning": "giao tiếp"
+      },
+      {
+        "word": "交往",
+        "pronounce": "jiāo wǎng",
+        "meaning": "đi lại, giao thiệp"
+      },
+      {
+        "word": "浇",
+        "pronounce": "jiāo",
+        "meaning": "tưới nước"
+      },
+      {
+        "word": "胶水",
+        "pronounce": "jiāo shuǐ",
+        "meaning": "keo dán"
+      },
+      {
+        "word": "角度",
+        "pronounce": "jiǎo dù",
+        "meaning": "góc độ"
+      },
+      {
+        "word": "狡猾",
+        "pronounce": "jiǎo huá",
+        "meaning": "giảo hoạt"
+      },
+      {
+        "word": "教材",
+        "pronounce": "jiào cái",
+        "meaning": "giao trình"
+      },
+      {
+        "word": "教练",
+        "pronounce": "jiào liàn",
+        "meaning": "huấn luyện viên"
+      },
+      {
+        "word": "教训",
+        "pronounce": "jiào xùn",
+        "meaning": "giáo huấn, bài học"
+      },
+      {
+        "word": "阶段",
+        "pronounce": "jiē duàn",
+        "meaning": "giai đoạn"
+      },
+      {
+        "word": "结实",
+        "pronounce": "jiē shi",
+        "meaning": "chắc chắn"
+      },
+      {
+        "word": "接触",
+        "pronounce": "jiē chù",
+        "meaning": "tiếp xúc"
+      },
+      {
+        "word": "接待",
+        "pronounce": "jiē dài",
+        "meaning": "tiếp đãi"
+      },
+      {
+        "word": "接近",
+        "pronounce": "jiē jìn",
+        "meaning": "tiếp cận"
+      },
+      {
+        "word": "节省",
+        "pronounce": "jié shěng",
+        "meaning": "tiết kiệm"
+      },
+      {
+        "word": "结构",
+        "pronounce": "jié gòu",
+        "meaning": "kết cấu"
+      },
+      {
+        "word": "结合",
+        "pronounce": "jié hé",
+        "meaning": "kết hợp"
+      },
+      {
+        "word": "结论",
+        "pronounce": "jié lùn",
+        "meaning": "kết luận"
+      },
+      {
+        "word": "结账",
+        "pronounce": "jié zhàng",
+        "meaning": "thanh toán"
+      },
+      {
+        "word": "戒",
+        "pronounce": "jiè",
+        "meaning": "cai (thuốc, rượu, nghiện)"
+      },
+      {
+        "word": "戒指",
+        "pronounce": "jiè zhǐ",
+        "meaning": "nhẫn"
+      },
+      {
+        "word": "届",
+        "pronounce": "jiè",
+        "meaning": "khóa"
+      },
+      {
+        "word": "借口",
+        "pronounce": "jiè kǒu",
+        "meaning": "cớ, lí do"
+      },
+      {
+        "word": "金属",
+        "pronounce": "jīn shǔ",
+        "meaning": "kim loại"
+      },
+      {
+        "word": "尽快",
+        "pronounce": "jǐn kuài",
+        "meaning": "mau chóng"
+      },
+      {
+        "word": "尽量",
+        "pronounce": "jǐn liàng",
+        "meaning": "cố gắng"
+      },
+      {
+        "word": "紧急",
+        "pronounce": "jǐn jí",
+        "meaning": "cấp bách"
+      },
+      {
+        "word": "谨慎",
+        "pronounce": "jǐn shèn",
+        "meaning": "cẩn thận, thận trọng"
+      },
+      {
+        "word": "尽力",
+        "pronounce": "jìn lì",
+        "meaning": "dốc hết sức"
+      },
+      {
+        "word": "进步",
+        "pronounce": "jìn bù",
+        "meaning": "tiến bộ"
+      },
+      {
+        "word": "进口",
+        "pronounce": "jìn kǒu",
+        "meaning": "nhập khẩu"
+      },
+      {
+        "word": "近代",
+        "pronounce": "jìn dài",
+        "meaning": "cận đại"
+      },
+      {
+        "word": "经典",
+        "pronounce": "jīng diǎn",
+        "meaning": "kinh điển"
+      },
+      {
+        "word": "经商",
+        "pronounce": "jīng shāng",
+        "meaning": "kinh doanh"
+      },
+      {
+        "word": "经营",
+        "pronounce": "jīng yíng",
+        "meaning": "kinh doanh (cửa hàng), vận hành (công ty)"
+      },
+      {
+        "word": "精力",
+        "pronounce": "jīng lì",
+        "meaning": "tinh lực"
+      },
+      {
+        "word": "精神",
+        "pronounce": "jīng shén",
+        "meaning": "tinh thần"
+      },
+      {
+        "word": "酒吧",
+        "pronounce": "jiǔ bā",
+        "meaning": "quán ba"
+      },
+      {
+        "word": "救",
+        "pronounce": "jiù",
+        "meaning": "cứu"
+      },
+      {
+        "word": "救护车",
+        "pronounce": "jiù hù chē",
+        "meaning": "xe cứu thương"
+      },
+      {
+        "word": "舅舅",
+        "pronounce": "jiù jiù",
+        "meaning": "cậu (em mẹ)"
+      },
+      {
+        "word": "居然",
+        "pronounce": "jū rán",
+        "meaning": "không ngờ lại"
+      },
+      {
+        "word": "桔子",
+        "pronounce": "jú zi",
+        "meaning": "quýt"
+      },
+      {
+        "word": "巨大",
+        "pronounce": "jù dà",
+        "meaning": "lớn (thành tựu, thay đổi, ảnh hưởng, tác hại)"
+      },
+      {
+        "word": "具备",
+        "pronounce": "jù bèi",
+        "meaning": "chuẩn bị đủ, có đủ (tư cách, điều kiện, tinh lực)"
+      },
+      {
+        "word": "具体",
+        "pronounce": "jù tǐ",
+        "meaning": "cụ thể"
+      },
+      {
+        "word": "俱乐部",
+        "pronounce": "jù lè bù",
+        "meaning": "câu lạc bộ"
+      },
+      {
+        "word": "据说",
+        "pronounce": "jù shuō",
+        "meaning": "nghe nói, nghe đồn"
+      },
+      {
+        "word": "捐",
+        "pronounce": "juān",
+        "meaning": "quyên góp"
+      },
+      {
+        "word": "决赛",
+        "pronounce": "jué sài",
+        "meaning": "trận chung kết"
+      },
+      {
+        "word": "决心",
+        "pronounce": "jué xīn",
+        "meaning": "quyết tâm"
+      },
+      {
+        "word": "角色",
+        "pronounce": "jué sè",
+        "meaning": "nhân vật"
+      },
+      {
+        "word": "绝对",
+        "pronounce": "jué duì",
+        "meaning": "tuyệt đối"
+      },
+      {
+        "word": "军事",
+        "pronounce": "jūn shì",
+        "meaning": "quân sự"
+      },
+      {
+        "word": "均匀",
+        "pronounce": "jūn yún",
+        "meaning": "bình quân, trung bình"
+      },
+      {
+        "word": "卡车",
+        "pronounce": "kǎ chē",
+        "meaning": "xe tải"
+      },
+      {
+        "word": "开发",
+        "pronounce": "kāi fā",
+        "meaning": "phát triển (hệ thống, ngành nghề, kĩ thuật, sản phẩm)"
+      },
+      {
+        "word": "开放",
+        "pronounce": "kāi fàng",
+        "meaning": "mở cửa"
+      },
+      {
+        "word": "开幕式",
+        "pronounce": "kāi mù shì",
+        "meaning": "lễ khai mạc"
+      },
+      {
+        "word": "开水",
+        "pronounce": "kāi shuǐ",
+        "meaning": "nước sôi"
+      },
+      {
+        "word": "砍",
+        "pronounce": "kǎn",
+        "meaning": "chặt, chém"
+      },
+      {
+        "word": "看不起",
+        "pronounce": "kàn bù qǐ",
+        "meaning": "coi khinh"
+      },
+      {
+        "word": "看望",
+        "pronounce": "kàn wàng",
+        "meaning": "đi thăm"
+      },
+      {
+        "word": "靠",
+        "pronounce": "kào",
+        "meaning": "dựa dẫm, dựa vào"
+      },
+      {
+        "word": "颗",
+        "pronounce": "kē",
+        "meaning": "quả (lượng từ)"
+      },
+      {
+        "word": "可见",
+        "pronounce": "kě jiàn",
+        "meaning": "cho thấy (đứng đầu vế câu thứ hai)"
+      },
+      {
+        "word": "可靠",
+        "pronounce": "kě kào",
+        "meaning": "đáng tin cậy"
+      },
+      {
+        "word": "可怕",
+        "pronounce": "kě pà",
+        "meaning": "đáng sợ"
+      },
+      {
+        "word": "克",
+        "pronounce": "kè",
+        "meaning": "gram"
+      },
+      {
+        "word": "克服",
+        "pronounce": "kè fú",
+        "meaning": "khắc phục"
+      },
+      {
+        "word": "刻苦",
+        "pronounce": "kè kǔ",
+        "meaning": "khắc khổ, chịu khó"
+      },
+      {
+        "word": "客观",
+        "pronounce": "kè guān",
+        "meaning": "khách quan"
+      },
+      {
+        "word": "课程",
+        "pronounce": "kè chéng",
+        "meaning": "môn học"
+      },
+      {
+        "word": "空间",
+        "pronounce": "kōng jiān",
+        "meaning": "không gian"
+      },
+      {
+        "word": "空闲",
+        "pronounce": "kòng xián",
+        "meaning": "rảnh rỗi (thời gian)"
+      },
+      {
+        "word": "控制",
+        "pronounce": "kòng zhì",
+        "meaning": "kiềm chế (cảm xúc, tình cảm), kiểm soát"
+      },
+      {
+        "word": "口味",
+        "pronounce": "kǒu wèi",
+        "meaning": "khẩu vị"
+      },
+      {
+        "word": "夸",
+        "pronounce": "kuā",
+        "meaning": "khen"
+      },
+      {
+        "word": "夸张",
+        "pronounce": "kuā zhāng",
+        "meaning": "phóng đại"
+      },
+      {
+        "word": "会计",
+        "pronounce": "kuàì jì",
+        "meaning": "kế toán"
+      },
+      {
+        "word": "宽",
+        "pronounce": "kuān",
+        "meaning": "rộng"
+      },
+      {
+        "word": "昆虫",
+        "pronounce": "kūn chóng",
+        "meaning": "côn trùng"
+      },
+      {
+        "word": "扩大",
+        "pronounce": "kuò dà",
+        "meaning": "mở rộng (phạm vi, khoảng cách, thị trường)"
+      },
+      {
+        "word": "辣椒",
+        "pronounce": "là jiāo",
+        "meaning": "ớt"
+      },
+      {
+        "word": "拦",
+        "pronounce": "lán",
+        "meaning": "ngăn, chặn"
+      },
+      {
+        "word": "烂",
+        "pronounce": "làn",
+        "meaning": "nát, loét, rách, thối rữa"
+      },
+      {
+        "word": "朗读",
+        "pronounce": "lǎng dú",
+        "meaning": "đọc to"
+      },
+      {
+        "word": "劳动",
+        "pronounce": "láo dòng",
+        "meaning": "lao động"
+      },
+      {
+        "word": "劳驾",
+        "pronounce": "láo jià",
+        "meaning": "làm ơn, xin phiền"
+      },
+      {
+        "word": "老百姓",
+        "pronounce": "lǎo bǎi xìng",
+        "meaning": "lão bách tính"
+      },
+      {
+        "word": "老板",
+        "pronounce": "lǎo bǎn",
+        "meaning": "ông chủ"
+      },
+      {
+        "word": "老婆",
+        "pronounce": "lǎo pó",
+        "meaning": "bà xã"
+      },
+      {
+        "word": "老实",
+        "pronounce": "lǎo shí",
+        "meaning": "thật thà"
+      },
+      {
+        "word": "老鼠",
+        "pronounce": "lǎo shǔ",
+        "meaning": "con chuột"
+      },
+      {
+        "word": "姥姥",
+        "pronounce": "lǎo lǎo",
+        "meaning": "bà ngoại"
+      },
+      {
+        "word": "乐观",
+        "pronounce": "lè guān",
+        "meaning": "lạc quan"
+      },
+      {
+        "word": "雷",
+        "pronounce": "léi",
+        "meaning": "sấm"
+      },
+      {
+        "word": "类型",
+        "pronounce": "lèi xíng",
+        "meaning": "loại hình"
+      },
+      {
+        "word": "冷淡",
+        "pronounce": "lěng dàn",
+        "meaning": "lãnh đạm, lạnh nhạt, lạnh lùng"
+      },
+      {
+        "word": "厘米",
+        "pronounce": "lí mǐ",
+        "meaning": "cm"
+      },
+      {
+        "word": "离婚",
+        "pronounce": "lí hūn",
+        "meaning": "li hôn"
+      },
+      {
+        "word": "梨",
+        "pronounce": "lí",
+        "meaning": "quả lê"
+      },
+      {
+        "word": "理论",
+        "pronounce": "lǐ lùn",
+        "meaning": "lý luận"
+      },
+      {
+        "word": "理由",
+        "pronounce": "lǐ yóu",
+        "meaning": "lí do"
+      },
+      {
+        "word": "力量",
+        "pronounce": "lì liàng",
+        "meaning": "sức mạnh"
+      },
+      {
+        "word": "立即",
+        "pronounce": "lì jí",
+        "meaning": "lập tức"
+      },
+      {
+        "word": "立刻",
+        "pronounce": "lì kè",
+        "meaning": "lập tức"
+      },
+      {
+        "word": "利润",
+        "pronounce": "lì rùn",
+        "meaning": "lợi nhuận"
+      },
+      {
+        "word": "利息",
+        "pronounce": "lì xī",
+        "meaning": "lợi tức"
+      },
+      {
+        "word": "利益",
+        "pronounce": "lì yì",
+        "meaning": "lợi ích"
+      },
+      {
+        "word": "利用",
+        "pronounce": "lì yòng",
+        "meaning": "tận dụng, lợi dụng"
+      },
+      {
+        "word": "连忙",
+        "pronounce": "lián máng",
+        "meaning": "vội vã"
+      },
+      {
+        "word": "连续",
+        "pronounce": "lián xù",
+        "meaning": "liên tục"
+      },
+      {
+        "word": "联合",
+        "pronounce": "lián hé",
+        "meaning": "liên hiệp"
+      },
+      {
+        "word": "恋爱",
+        "pronounce": "liàn ài",
+        "meaning": "yêu đương"
+      },
+      {
+        "word": "良好",
+        "pronounce": "liáng hǎo",
+        "meaning": "tốt đẹp"
+      },
+      {
+        "word": "粮食",
+        "pronounce": "liáng shí",
+        "meaning": "lương thực"
+      },
+      {
+        "word": "亮",
+        "pronounce": "liàng",
+        "meaning": "sáng"
+      },
+      {
+        "word": "了不起",
+        "pronounce": "liǎo bù qǐ",
+        "meaning": "giỏi giang"
+      },
+      {
+        "word": "列车",
+        "pronounce": "liè chē",
+        "meaning": "tàu hỏa"
+      },
+      {
+        "word": "临时",
+        "pronounce": "lín shí",
+        "meaning": "lâm thời, thời vụ, tạm thời"
+      },
+      {
+        "word": "灵活",
+        "pronounce": "líng huó",
+        "meaning": "linh hoạt"
+      },
+      {
+        "word": "铃",
+        "pronounce": "líng",
+        "meaning": "chuông"
+      },
+      {
+        "word": "零件",
+        "pronounce": "líng jiàn",
+        "meaning": "linh kiện"
+      },
+      {
+        "word": "零食",
+        "pronounce": "líng shí",
+        "meaning": "đồ ăn vặt"
+      },
+      {
+        "word": "领导",
+        "pronounce": "lǐng dǎo",
+        "meaning": "lãnh đạo"
+      },
+      {
+        "word": "领域",
+        "pronounce": "lǐng yù",
+        "meaning": "lĩnh vực"
+      },
+      {
+        "word": "浏览",
+        "pronounce": "liú lǎn",
+        "meaning": "đọc lướt"
+      },
+      {
+        "word": "流传",
+        "pronounce": "liú chuán",
+        "meaning": "lưu truyền, lan truyền"
+      },
+      {
+        "word": "流泪",
+        "pronounce": "liú lèi",
+        "meaning": "rơi lệ"
+      },
+      {
+        "word": "龙",
+        "pronounce": "lóng",
+        "meaning": "rồng"
+      },
+      {
+        "word": "漏",
+        "pronounce": "lòu",
+        "meaning": "dột"
+      },
+      {
+        "word": "陆地",
+        "pronounce": "lù dì",
+        "meaning": "lục địa, đất liền"
+      },
+      {
+        "word": "陆续",
+        "pronounce": "lù xù",
+        "meaning": "lục tục, liên tiếp"
+      },
+      {
+        "word": "录取",
+        "pronounce": "lù qǔ",
+        "meaning": "tuyển chọn"
+      },
+      {
+        "word": "录音",
+        "pronounce": "lù yīn",
+        "meaning": "ghi âm"
+      },
+      {
+        "word": "轮流",
+        "pronounce": "lún liú",
+        "meaning": "luân lưu, thay phiên"
+      },
+      {
+        "word": "论文",
+        "pronounce": "lùn wén",
+        "meaning": "luận văn"
+      },
+      {
+        "word": "逻辑",
+        "pronounce": "luó jí",
+        "meaning": "logic"
+      },
+      {
+        "word": "落后",
+        "pronounce": "luò hòu",
+        "meaning": "lạc hậu"
+      },
+      {
+        "word": "骂",
+        "pronounce": "mà",
+        "meaning": "mắng mỏ"
+      },
+      {
+        "word": "麦克风",
+        "pronounce": "mài kè fēng",
+        "meaning": "microphone"
+      },
+      {
+        "word": "馒头",
+        "pronounce": "mán tóu",
+        "meaning": "bánh bao không nhân, màn thầu"
+      },
+      {
+        "word": "满足",
+        "pronounce": "mǎn zú",
+        "meaning": "đáp ứng (yêu cầu, điều kiện, tính tò mò, lòng tham)"
+      },
+      {
+        "word": "毛病",
+        "pronounce": "máo bìng",
+        "meaning": "tật xấu, lỗi"
+      },
+      {
+        "word": "矛盾",
+        "pronounce": "máo dùn",
+        "meaning": "mâu thuẫn"
+      },
+      {
+        "word": "冒险",
+        "pronounce": "mào xiǎn",
+        "meaning": "mạo hiểm"
+      },
+      {
+        "word": "贸易",
+        "pronounce": "mào yì",
+        "meaning": "thương mại"
+      },
+      {
+        "word": "眉毛",
+        "pronounce": "méi máo",
+        "meaning": "lông mày"
+      },
+      {
+        "word": "媒体",
+        "pronounce": "méi tǐ",
+        "meaning": "truyền thông, báo chí"
+      },
+      {
+        "word": "煤炭",
+        "pronounce": "méi tàn",
+        "meaning": "than"
+      },
+      {
+        "word": "美术",
+        "pronounce": "měi shù",
+        "meaning": "mỹ thuật"
+      },
+      {
+        "word": "魅力",
+        "pronounce": "mèi lì",
+        "meaning": "sức hút"
+      },
+      {
+        "word": "梦想",
+        "pronounce": "mèng xiǎng",
+        "meaning": "ước mơ"
+      },
+      {
+        "word": "秘密",
+        "pronounce": "mì mì",
+        "meaning": "bí mật"
+      },
+      {
+        "word": "秘书",
+        "pronounce": "mì shū",
+        "meaning": "thư ký"
+      },
+      {
+        "word": "密切",
+        "pronounce": "mì qiè",
+        "meaning": "mật thiết"
+      },
+      {
+        "word": "蜜蜂",
+        "pronounce": "mì fēng",
+        "meaning": "con ong"
+      },
+      {
+        "word": "面对",
+        "pronounce": "miàn duì",
+        "meaning": "đối mặt (chứng cứ, tương lai, khủng hoảng, thách thức), đối diện"
+      },
+      {
+        "word": "面积",
+        "pronounce": "miàn jī",
+        "meaning": "diện tích"
+      },
+      {
+        "word": "面临",
+        "pronounce": "miàn lín",
+        "meaning": "đứng trước (khó khăn, nguy hiểm, thách thức)"
+      },
+      {
+        "word": "苗条",
+        "pronounce": "miáo tiáo",
+        "meaning": "thon thả"
+      },
+      {
+        "word": "描写",
+        "pronounce": "miáo xiě",
+        "meaning": "miêu tả"
+      },
+      {
+        "word": "敏感",
+        "pronounce": "mǐn gǎn",
+        "meaning": "nhạy cảm"
+      },
+      {
+        "word": "名牌",
+        "pronounce": "míng pái",
+        "meaning": "thương hiệu nổi tiếng"
+      },
+      {
+        "word": "名片",
+        "pronounce": "míng piàn",
+        "meaning": "danh thiếp"
+      },
+      {
+        "word": "名胜古迹",
+        "pronounce": "míng shèng gǔ jì",
+        "meaning": "danh lam thắng cảnh"
+      },
+      {
+        "word": "明确",
+        "pronounce": "míng què",
+        "meaning": "rõ ràng, rành mạch"
+      },
+      {
+        "word": "明显",
+        "pronounce": "míng xiǎn",
+        "meaning": "rõ ràng"
+      },
+      {
+        "word": "明星",
+        "pronounce": "míng xīng",
+        "meaning": "minh tinh"
+      },
+      {
+        "word": "命令",
+        "pronounce": "mìng lìng",
+        "meaning": "mệnh lệnh"
+      },
+      {
+        "word": "命运",
+        "pronounce": "mìng yùn",
+        "meaning": "vận mệnh"
+      },
+      {
+        "word": "摸",
+        "pronounce": "mō",
+        "meaning": "sờ"
+      },
+      {
+        "word": "模仿",
+        "pronounce": "mó fǎng",
+        "meaning": "bắt chước"
+      },
+      {
+        "word": "模糊",
+        "pronounce": "mó hu",
+        "meaning": "mơ hồ"
+      },
+      {
+        "word": "模特",
+        "pronounce": "mó tè",
+        "meaning": "người mẫu"
+      },
+      {
+        "word": "摩托车",
+        "pronounce": "mó tuō chē",
+        "meaning": "xe máy"
+      },
+      {
+        "word": "陌生",
+        "pronounce": "mò shēng",
+        "meaning": "lạ lẫm"
+      },
+      {
+        "word": "某",
+        "pronounce": "mǒu",
+        "meaning": "nào đó"
+      },
+      {
+        "word": "木头",
+        "pronounce": "mù tóu",
+        "meaning": "khúc gỗ"
+      },
+      {
+        "word": "目标",
+        "pronounce": "mù biāo",
+        "meaning": "mục tiêu"
+      },
+      {
+        "word": "目录",
+        "pronounce": "mù lù",
+        "meaning": "mục lục"
+      },
+      {
+        "word": "目前",
+        "pronounce": "mù qián",
+        "meaning": "trước mắt, hiện nay"
+      },
+      {
+        "word": "哪怕",
+        "pronounce": "nǎ pà",
+        "meaning": "cho dù"
+      },
+      {
+        "word": "难怪",
+        "pronounce": "nán guài",
+        "meaning": "chẳng trách"
+      },
+      {
+        "word": "难免",
+        "pronounce": "nán miǎn",
+        "meaning": "khó tránh"
+      },
+      {
+        "word": "脑袋",
+        "pronounce": "nǎo dài",
+        "meaning": "não"
+      },
+      {
+        "word": "内部",
+        "pronounce": "nèi bù",
+        "meaning": "nội bộ"
+      },
+      {
+        "word": "内科",
+        "pronounce": "nèi kē",
+        "meaning": "khoa nội"
+      },
+      {
+        "word": "嫩",
+        "pronounce": "nèn",
+        "meaning": "mềm, non"
+      },
+      {
+        "word": "能干",
+        "pronounce": "néng gàn",
+        "meaning": "được việc"
+      },
+      {
+        "word": "能源",
+        "pronounce": "néng yuán",
+        "meaning": "tài nguyên"
+      },
+      {
+        "word": "嗯",
+        "pronounce": "ēn",
+        "meaning": "ừ, ừm"
+      },
+      {
+        "word": "年代",
+        "pronounce": "nián dài",
+        "meaning": "thời đại"
+      },
+      {
+        "word": "年纪",
+        "pronounce": "nián jì",
+        "meaning": "tuổi tác"
+      },
+      {
+        "word": "念",
+        "pronounce": "niàn",
+        "meaning": "đọc"
+      },
+      {
+        "word": "宁可",
+        "pronounce": "nìng kě",
+        "meaning": "thà"
+      },
+      {
+        "word": "牛仔裤",
+        "pronounce": "niú zǎi kù",
+        "meaning": "quần bò"
+      },
+      {
+        "word": "农村",
+        "pronounce": "nóng cūn",
+        "meaning": "nông thôn"
+      },
+      {
+        "word": "农民",
+        "pronounce": "nóng mín",
+        "meaning": "nông dân"
+      },
+      {
+        "word": "农业",
+        "pronounce": "nóng yè",
+        "meaning": "nông nghiệp"
+      },
+      {
+        "word": "浓",
+        "pronounce": "nóng",
+        "meaning": "nồng, đậm"
+      },
+      {
+        "word": "女士",
+        "pronounce": "nǚ shì",
+        "meaning": "quý cô, quý bà"
+      },
+      {
+        "word": "欧洲",
+        "pronounce": "ōu zhōu",
+        "meaning": "châu Âu"
+      },
+      {
+        "word": "偶然",
+        "pronounce": "ǒu rán",
+        "meaning": "ngẫu nhiên"
+      },
+      {
+        "word": "拍",
+        "pronounce": "pāi",
+        "meaning": "vỗ"
+      },
+      {
+        "word": "派",
+        "pronounce": "pài",
+        "meaning": "cử, phái"
+      },
+      {
+        "word": "盼望",
+        "pronounce": "pàn wàng",
+        "meaning": "mong chờ"
+      },
+      {
+        "word": "培训",
+        "pronounce": "péi xùn",
+        "meaning": "bồi dưỡng, tập huấn"
+      },
+      {
+        "word": "培养",
+        "pronounce": "péi yǎng",
+        "meaning": "nuôi dưỡng, hình thành"
+      },
+      {
+        "word": "赔偿",
+        "pronounce": "péi cháng",
+        "meaning": "bồi thường"
+      },
+      {
+        "word": "佩服",
+        "pronounce": "pèi fú",
+        "meaning": "khâm phục"
+      },
+      {
+        "word": "配合",
+        "pronounce": "pèi hé",
+        "meaning": "phối hợp"
+      },
+      {
+        "word": "盆",
+        "pronounce": "pén",
+        "meaning": "chậu"
+      },
+      {
+        "word": "碰",
+        "pronounce": "pèng",
+        "meaning": "gặp phải, đụng phải"
+      },
+      {
+        "word": "批",
+        "pronounce": "pī",
+        "meaning": "loạt, lô (lượng từ)"
+      },
+      {
+        "word": "批准",
+        "pronounce": "pī zhǔn",
+        "meaning": "phê chuẩn, đồng ý"
+      },
+      {
+        "word": "披",
+        "pronounce": "pī",
+        "meaning": "khoác"
+      },
+      {
+        "word": "疲劳",
+        "pronounce": "pí láo",
+        "meaning": "mệt mỏi"
+      },
+      {
+        "word": "匹",
+        "pronounce": "pǐ",
+        "meaning": "con (lượng từ cho ngựa)"
+      },
+      {
+        "word": "片",
+        "pronounce": "piàn",
+        "meaning": "chiếc, lát, mảnh (lượng từ cho lá, bánh mì, đất đai )"
+      },
+      {
+        "word": "片面",
+        "pronounce": "piàn miàn",
+        "meaning": "phiến diện"
+      },
+      {
+        "word": "飘",
+        "pronounce": "piāo",
+        "meaning": "bay"
+      },
+      {
+        "word": "拼音",
+        "pronounce": "pīn yīn",
+        "meaning": "phiên âm"
+      },
+      {
+        "word": "频道",
+        "pronounce": "pín dào",
+        "meaning": "kênh"
+      },
+      {
+        "word": "平",
+        "pronounce": "píng",
+        "meaning": "bằng, đều"
+      },
+      {
+        "word": "平安",
+        "pronounce": "píng ān",
+        "meaning": "bình an"
+      },
+      {
+        "word": "平常",
+        "pronounce": "píng cháng",
+        "meaning": "bình thường"
+      },
+      {
+        "word": "平等",
+        "pronounce": "píng děng",
+        "meaning": "bình đẳng"
+      },
+      {
+        "word": "平方",
+        "pronounce": "píng fāng",
+        "meaning": "bình phương"
+      },
+      {
+        "word": "平衡",
+        "pronounce": "píng héng",
+        "meaning": "cân bằng"
+      },
+      {
+        "word": "平静",
+        "pronounce": "píng jìng",
+        "meaning": "bình tĩnh, tĩnh lặng, yên tĩnh"
+      },
+      {
+        "word": "平均",
+        "pronounce": "píng jūn",
+        "meaning": "trung bình, bình quân"
+      },
+      {
+        "word": "评价",
+        "pronounce": "píng jià",
+        "meaning": "đánh giá"
+      },
+      {
+        "word": "凭",
+        "pronounce": "píng",
+        "meaning": "dựa vào"
+      },
+      {
+        "word": "迫切",
+        "pronounce": "pò qiè",
+        "meaning": "cấp bách"
+      },
+      {
+        "word": "破产",
+        "pronounce": "pò chǎn",
+        "meaning": "phá sản"
+      },
+      {
+        "word": "破坏",
+        "pronounce": "pò huài",
+        "meaning": "phá hoại"
+      },
+      {
+        "word": "期待",
+        "pronounce": "qī dài",
+        "meaning": "kỳ vọng"
+      },
+      {
+        "word": "期间",
+        "pronounce": "qī jiān",
+        "meaning": "khoảng thời gian"
+      },
+      {
+        "word": "其余",
+        "pronounce": "qí yú",
+        "meaning": "còn lại"
+      },
+      {
+        "word": "奇迹",
+        "pronounce": "qí jì",
+        "meaning": "kỳ tích"
+      },
+      {
+        "word": "企业",
+        "pronounce": "qǐ yè",
+        "meaning": "nhà máy, xí nghiệp"
+      },
+      {
+        "word": "启发",
+        "pronounce": "qǐ fā",
+        "meaning": "gợi mở, gợi ý"
+      },
+      {
+        "word": "气氛",
+        "pronounce": "qì fēn",
+        "meaning": "không khí (cuộc họp, buổi tiệc)"
+      },
+      {
+        "word": "汽油",
+        "pronounce": "qì yóu",
+        "meaning": "xăng"
+      },
+      {
+        "word": "谦虚",
+        "pronounce": "qiān xū",
+        "meaning": "khiêm tốn"
+      },
+      {
+        "word": "签",
+        "pronounce": "qiān",
+        "meaning": "ký (tên)"
+      },
+      {
+        "word": "前途",
+        "pronounce": "qián tú",
+        "meaning": "tiền đồ"
+      },
+      {
+        "word": "浅",
+        "pronounce": "qiǎn",
+        "meaning": "nông"
+      },
+      {
+        "word": "欠",
+        "pronounce": "qiàn",
+        "meaning": "nợ"
+      },
+      {
+        "word": "枪",
+        "pronounce": "qiāng",
+        "meaning": "súng"
+      },
+      {
+        "word": "强调",
+        "pronounce": "qiáng diào",
+        "meaning": "nhấn mạnh"
+      },
+      {
+        "word": "强烈",
+        "pronounce": "qiáng liè",
+        "meaning": "mãnh liệt, mạnh mẽ"
+      },
+      {
+        "word": "墙",
+        "pronounce": "qiáng",
+        "meaning": "tường"
+      },
+      {
+        "word": "抢",
+        "pronounce": "qiǎng",
+        "meaning": "cướp"
+      },
+      {
+        "word": "悄悄",
+        "pronounce": "qiāo qiāo",
+        "meaning": "lặng lẽ"
+      },
+      {
+        "word": "瞧",
+        "pronounce": "qiáo",
+        "meaning": "liếc nhìn"
+      },
+      {
+        "word": "巧妙",
+        "pronounce": "qiǎo miào",
+        "meaning": "khéo léo"
+      },
+      {
+        "word": "切",
+        "pronounce": "qiè",
+        "meaning": "cắt"
+      },
+      {
+        "word": "亲爱",
+        "pronounce": "qīn ài",
+        "meaning": "thân yêu"
+      },
+      {
+        "word": "亲切",
+        "pronounce": "qīn qiè",
+        "meaning": "thân thiết"
+      },
+      {
+        "word": "亲自",
+        "pronounce": "qīn zì",
+        "meaning": "tự thân"
+      },
+      {
+        "word": "勤奋",
+        "pronounce": "qín fèn",
+        "meaning": "cần cù"
+      },
+      {
+        "word": "青",
+        "pronounce": "qīng",
+        "meaning": "màu xanh non"
+      },
+      {
+        "word": "青春",
+        "pronounce": "qīng chūn",
+        "meaning": "thanh xuân"
+      },
+      {
+        "word": "青少年",
+        "pronounce": "qīng shào nián",
+        "meaning": "thanh thiếu niên"
+      },
+      {
+        "word": "轻视",
+        "pronounce": "qīng shì",
+        "meaning": "coi khinh, khinh thường"
+      },
+      {
+        "word": "轻易",
+        "pronounce": "qīng yì",
+        "meaning": "dễ dàng (làm trạng ngữ), khinh suất"
+      },
+      {
+        "word": "清淡",
+        "pronounce": "qīng dàn",
+        "meaning": "thanh đạm"
+      },
+      {
+        "word": "情景",
+        "pronounce": "qíng jǐng",
+        "meaning": "cảnh tượng"
+      },
+      {
+        "word": "情绪",
+        "pronounce": "qíng xù",
+        "meaning": "tâm trạng"
+      },
+      {
+        "word": "请求",
+        "pronounce": "qǐng qiú",
+        "meaning": "thỉnh cầu"
+      },
+      {
+        "word": "庆祝",
+        "pronounce": "qìng zhù",
+        "meaning": "chúc mừng"
+      },
+      {
+        "word": "球迷",
+        "pronounce": "qiú mí",
+        "meaning": "người hâm mộ bóng"
+      },
+      {
+        "word": "趋势",
+        "pronounce": "qū shì",
+        "meaning": "xu thế"
+      },
+      {
+        "word": "取消",
+        "pronounce": "qǔ xiāo",
+        "meaning": "hủy bỏ"
+      },
+      {
+        "word": "娶",
+        "pronounce": "qǔ",
+        "meaning": "lấy (vợ)"
+      },
+      {
+        "word": "去世",
+        "pronounce": "qù shì",
+        "meaning": "tạ thế"
+      },
+      {
+        "word": "圈",
+        "pronounce": "quān",
+        "meaning": "vòng"
+      },
+      {
+        "word": "权力",
+        "pronounce": "quán lì",
+        "meaning": "quyền lực"
+      },
+      {
+        "word": "权利",
+        "pronounce": "quán lì",
+        "meaning": "quyền lợi"
+      },
+      {
+        "word": "全面",
+        "pronounce": "quán miàn",
+        "meaning": "toàn diện"
+      },
+      {
+        "word": "劝",
+        "pronounce": "quàn",
+        "meaning": "khuyên"
+      },
+      {
+        "word": "缺乏",
+        "pronounce": "quē fá",
+        "meaning": "thiếu"
+      },
+      {
+        "word": "确定",
+        "pronounce": "què dìng",
+        "meaning": "xác định"
+      },
+      {
+        "word": "确认",
+        "pronounce": "què rèn",
+        "meaning": "xác nhận"
+      },
+      {
+        "word": "群",
+        "pronounce": "qún",
+        "meaning": "đám, nhóm"
+      },
+      {
+        "word": "燃烧",
+        "pronounce": "rán shāo",
+        "meaning": "đốt cháy"
+      },
+      {
+        "word": "绕",
+        "pronounce": "rào",
+        "meaning": "vòng vèo"
+      },
+      {
+        "word": "热爱",
+        "pronounce": "rè ài",
+        "meaning": "yêu (cuộc sống, học sinh, thiên nhiên, âm nhạc, bạn bè, người thân)"
+      },
+      {
+        "word": "热烈",
+        "pronounce": "rè liè",
+        "meaning": "nhiệt liệt"
+      },
+      {
+        "word": "热心",
+        "pronounce": "rè xīn",
+        "meaning": "nhiệt tình (người, người bạn), nhiệt huyết"
+      },
+      {
+        "word": "人才",
+        "pronounce": "rén cái",
+        "meaning": "nhân tài"
+      },
+      {
+        "word": "人口",
+        "pronounce": "rén kǒu",
+        "meaning": "dân số"
+      },
+      {
+        "word": "人类",
+        "pronounce": "rén lèi",
+        "meaning": "loài người"
+      },
+      {
+        "word": "人民币",
+        "pronounce": "rén mín bì",
+        "meaning": "nhân dân tệ"
+      },
+      {
+        "word": "人生",
+        "pronounce": "rén shēng",
+        "meaning": "đời người"
+      },
+      {
+        "word": "人事",
+        "pronounce": "rén shì",
+        "meaning": "nhân sự"
+      },
+      {
+        "word": "人物",
+        "pronounce": "rén wù",
+        "meaning": "nhân vật"
+      },
+      {
+        "word": "人员",
+        "pronounce": "rén yuán",
+        "meaning": "nhân viên"
+      },
+      {
+        "word": "忍不住",
+        "pronounce": "rěn bù zhù",
+        "meaning": "không nhịn được"
+      },
+      {
+        "word": "日常",
+        "pronounce": "rì cháng",
+        "meaning": "thường ngày"
+      },
+      {
+        "word": "日程",
+        "pronounce": "rì chéng",
+        "meaning": "lịch trình"
+      },
+      {
+        "word": "日历",
+        "pronounce": "rì lì",
+        "meaning": "quyển lịch"
+      },
+      {
+        "word": "日期",
+        "pronounce": "rì qī",
+        "meaning": "ngày tháng"
+      },
+      {
+        "word": "日用品",
+        "pronounce": "rì yòng pǐn",
+        "meaning": "đồ dùng"
+      },
+      {
+        "word": "日子",
+        "pronounce": "rì zi",
+        "meaning": "ngày"
+      },
+      {
+        "word": "如何",
+        "pronounce": "rú hé",
+        "meaning": "như thế nào"
+      },
+      {
+        "word": "如今",
+        "pronounce": "rú jīn",
+        "meaning": "hiện nay"
+      },
+      {
+        "word": "软",
+        "pronounce": "ruǎn",
+        "meaning": "mềm"
+      },
+      {
+        "word": "软件",
+        "pronounce": "ruǎn jiàn",
+        "meaning": "phần mềm"
+      },
+      {
+        "word": "弱",
+        "pronounce": "ruò",
+        "meaning": "yếu ớt"
+      },
+      {
+        "word": "洒",
+        "pronounce": "sǎ",
+        "meaning": "vãi, vung"
+      },
+      {
+        "word": "嗓子",
+        "pronounce": "sǎng zi",
+        "meaning": "cổ họng"
+      },
+      {
+        "word": "色彩",
+        "pronounce": "sè cǎi",
+        "meaning": "màu sắc"
+      },
+      {
+        "word": "杀",
+        "pronounce": "shā",
+        "meaning": "giết"
+      },
+      {
+        "word": "沙漠",
+        "pronounce": "shā mò",
+        "meaning": "sa mạc"
+      },
+      {
+        "word": "沙滩",
+        "pronounce": "shā tān",
+        "meaning": "bãi cát"
+      },
+      {
+        "word": "傻",
+        "pronounce": "shǎ",
+        "meaning": "ngốc nghếch"
+      },
+      {
+        "word": "晒",
+        "pronounce": "shài",
+        "meaning": "phơi, tắm nắng"
+      },
+      {
+        "word": "删除",
+        "pronounce": "shān chú",
+        "meaning": "xóa bỏ"
+      },
+      {
+        "word": "闪电",
+        "pronounce": "shǎn diàn",
+        "meaning": "chớp"
+      },
+      {
+        "word": "扇子",
+        "pronounce": "shàn zi",
+        "meaning": "cái quạt"
+      },
+      {
+        "word": "善良",
+        "pronounce": "shàn liáng",
+        "meaning": "lương thiện, hiền lành"
+      },
+      {
+        "word": "善于",
+        "pronounce": "shàn yú",
+        "meaning": "giỏi về việc gì đó"
+      },
+      {
+        "word": "伤害",
+        "pronounce": "shāng hài",
+        "meaning": "làm hại"
+      },
+      {
+        "word": "商品",
+        "pronounce": "shāng pǐn",
+        "meaning": "sản phẩm"
+      },
+      {
+        "word": "商务",
+        "pronounce": "shāng wù",
+        "meaning": "thương gia (hạng, khoang),"
+      },
+      {
+        "word": "商业",
+        "pronounce": "shāng yè",
+        "meaning": "thương mại"
+      },
+      {
+        "word": "上当",
+        "pronounce": "shàng dàng",
+        "meaning": "mắc lừa"
+      },
+      {
+        "word": "蛇",
+        "pronounce": "shé",
+        "meaning": "rắn"
+      },
+      {
+        "word": "舍不得",
+        "pronounce": "shě bù dé",
+        "meaning": "không nỡ lòng"
+      },
+      {
+        "word": "设备",
+        "pronounce": "shè bèi",
+        "meaning": "thiết bị"
+      },
+      {
+        "word": "设计",
+        "pronounce": "shè jì",
+        "meaning": "thiết kế"
+      },
+      {
+        "word": "设施",
+        "pronounce": "shè shī",
+        "meaning": "cơ sở vật chất"
+      },
+      {
+        "word": "射击",
+        "pronounce": "shè jī",
+        "meaning": "bắn"
+      },
+      {
+        "word": "摄影",
+        "pronounce": "shè yǐng",
+        "meaning": "quay phim, chụp ảnh"
+      },
+      {
+        "word": "伸",
+        "pronounce": "shēn",
+        "meaning": "vươn, duỗi, kéo dài"
+      },
+      {
+        "word": "身材",
+        "pronounce": "shēn cái",
+        "meaning": "cơ thể, dáng"
+      },
+      {
+        "word": "身份",
+        "pronounce": "shēn fèn",
+        "meaning": "thân phận"
+      },
+      {
+        "word": "深刻",
+        "pronounce": "shēn kè",
+        "meaning": "sâu sắc"
+      },
+      {
+        "word": "神话",
+        "pronounce": "shén huà",
+        "meaning": "thần thoại"
+      },
+      {
+        "word": "神秘",
+        "pronounce": "shén mì",
+        "meaning": "thần bí"
+      },
+      {
+        "word": "升",
+        "pronounce": "shēng",
+        "meaning": "thăng, lên, lít (đơn vị đo thể tích)"
+      },
+      {
+        "word": "生产",
+        "pronounce": "shēng chǎn",
+        "meaning": "sản xuất"
+      },
+      {
+        "word": "生动",
+        "pronounce": "shēng dòng",
+        "meaning": "sinh động"
+      },
+      {
+        "word": "生长",
+        "pronounce": "shēng zhǎng",
+        "meaning": "sinh trưởng, lớn"
+      },
+      {
+        "word": "声调",
+        "pronounce": "shēng diào",
+        "meaning": "thanh điệu"
+      },
+      {
+        "word": "绳子",
+        "pronounce": "shéng zi",
+        "meaning": "dây thừng"
+      },
+      {
+        "word": "省略",
+        "pronounce": "shěng lüè",
+        "meaning": "tỉnh lược"
+      },
+      {
+        "word": "胜利",
+        "pronounce": "shèng lì",
+        "meaning": "thắng lợi"
+      },
+      {
+        "word": "失眠",
+        "pronounce": "shī mián",
+        "meaning": "mất ngủ"
+      },
+      {
+        "word": "失去",
+        "pronounce": "shī qù",
+        "meaning": "mất đi"
+      },
+      {
+        "word": "失业",
+        "pronounce": "shī yè",
+        "meaning": "thất nghiệp"
+      },
+      {
+        "word": "诗",
+        "pronounce": "shī",
+        "meaning": "thơ"
+      },
+      {
+        "word": "狮子",
+        "pronounce": "shī zi",
+        "meaning": "sư tử"
+      },
+      {
+        "word": "湿润",
+        "pronounce": "shī rùn",
+        "meaning": "ẩm ướt"
+      },
+      {
+        "word": "石头",
+        "pronounce": "shí tou",
+        "meaning": "hòn đá"
+      },
+      {
+        "word": "时差",
+        "pronounce": "shí chā",
+        "meaning": "lệch múi giờ"
+      },
+      {
+        "word": "时代",
+        "pronounce": "shí dài",
+        "meaning": "thời đại"
+      },
+      {
+        "word": "时刻",
+        "pronounce": "shí kè",
+        "meaning": "khoảnh khắc"
+      },
+      {
+        "word": "时髦",
+        "pronounce": "shí máo",
+        "meaning": "mốt"
+      },
+      {
+        "word": "时期",
+        "pronounce": "shí qī",
+        "meaning": "thời kì"
+      },
+      {
+        "word": "时尚",
+        "pronounce": "shí shàng",
+        "meaning": "thời thượng"
+      },
+      {
+        "word": "实话",
+        "pronounce": "shí huà",
+        "meaning": "lời nói thật"
+      },
+      {
+        "word": "实践",
+        "pronounce": "shí jiàn",
+        "meaning": "thực tiễn"
+      },
+      {
+        "word": "实习",
+        "pronounce": "shí xí",
+        "meaning": "thực tập"
+      },
+      {
+        "word": "实现",
+        "pronounce": "shí xiàn",
+        "meaning": "thực hiện (kế hoạch, nguyện vọng, ước mơ)"
+      },
+      {
+        "word": "实验",
+        "pronounce": "shí yàn",
+        "meaning": "thí nghiệm"
+      },
+      {
+        "word": "实用",
+        "pronounce": "shí yòng",
+        "meaning": "hữu ích"
+      },
+      {
+        "word": "食物",
+        "pronounce": "shí wù",
+        "meaning": "đồ ăn"
+      },
+      {
+        "word": "使劲儿",
+        "pronounce": "shǐ jìn ér",
+        "meaning": "ra sức, lấy sức"
+      },
+      {
+        "word": "始终",
+        "pronounce": "shǐ zhōng",
+        "meaning": "từ đầu đến cuối"
+      },
+      {
+        "word": "士兵",
+        "pronounce": "shì bīng",
+        "meaning": "binh sĩ"
+      },
+      {
+        "word": "市场",
+        "pronounce": "shì chǎng",
+        "meaning": "chợ"
+      },
+      {
+        "word": "似的",
+        "pronounce": "shì de",
+        "meaning": "giống như…."
+      },
+      {
+        "word": "事实",
+        "pronounce": "shì shí",
+        "meaning": "sự thật"
+      },
+      {
+        "word": "事物",
+        "pronounce": "shì wù",
+        "meaning": "sự vật"
+      },
+      {
+        "word": "事先",
+        "pronounce": "shì xiān",
+        "meaning": "trước khi việc xảy ra"
+      },
+      {
+        "word": "试卷",
+        "pronounce": "shì juàn",
+        "meaning": "bài thi"
+      },
+      {
+        "word": "收获",
+        "pronounce": "shōu huò",
+        "meaning": "thu hoạch"
+      },
+      {
+        "word": "收据",
+        "pronounce": "shōu jù",
+        "meaning": "giấy biên nhận"
+      },
+      {
+        "word": "手工",
+        "pronounce": "shǒu gōng",
+        "meaning": "thủ công"
+      },
+      {
+        "word": "手术",
+        "pronounce": "shǒu shù",
+        "meaning": "phẫu thuật"
+      },
+      {
+        "word": "手套",
+        "pronounce": "shǒu tào",
+        "meaning": "găng tay"
+      },
+      {
+        "word": "手续",
+        "pronounce": "shǒu xù",
+        "meaning": "thủ tục"
+      },
+      {
+        "word": "手指",
+        "pronounce": "shǒu zhǐ",
+        "meaning": "ngón tay"
+      },
+      {
+        "word": "首",
+        "pronounce": "shǒu",
+        "meaning": "đầu"
+      },
+      {
+        "word": "寿命",
+        "pronounce": "shòu mìng",
+        "meaning": "tuổi thọ"
+      },
+      {
+        "word": "受伤",
+        "pronounce": "shòu shāng",
+        "meaning": "bị thương"
+      },
+      {
+        "word": "书架",
+        "pronounce": "shū jià",
+        "meaning": "giá sách"
+      },
+      {
+        "word": "梳子",
+        "pronounce": "shū zi",
+        "meaning": "cái lược"
+      },
+      {
+        "word": "舒适",
+        "pronounce": "shū shì",
+        "meaning": "thoải mái"
+      },
+      {
+        "word": "输入",
+        "pronounce": "shū rù",
+        "meaning": "nhập"
+      },
+      {
+        "word": "蔬菜",
+        "pronounce": "shū cài",
+        "meaning": "rau xanh"
+      },
+      {
+        "word": "熟练",
+        "pronounce": "shú liàn",
+        "meaning": "thành thục"
+      },
+      {
+        "word": "属于",
+        "pronounce": "shǔ yú",
+        "meaning": "thuộc về"
+      },
+      {
+        "word": "鼠标",
+        "pronounce": "shǔ biāo",
+        "meaning": "chuột máy tính"
+      },
+      {
+        "word": "数",
+        "pronounce": "shǔ",
+        "meaning": "đếm"
+      },
+      {
+        "word": "数据",
+        "pronounce": "shù jù",
+        "meaning": "số liệu"
+      },
+      {
+        "word": "数码",
+        "pronounce": "shù mǎ",
+        "meaning": "kỹ thuật số"
+      },
+      {
+        "word": "摔倒",
+        "pronounce": "shuāi dǎo",
+        "meaning": "ngã nhào"
+      },
+      {
+        "word": "甩",
+        "pronounce": "shuǎi",
+        "meaning": "vung, hất, bỏ lại"
+      },
+      {
+        "word": "双方",
+        "pronounce": "shuāng fāng",
+        "meaning": "hai bên, song phương"
+      },
+      {
+        "word": "税",
+        "pronounce": "shuì",
+        "meaning": "thuế"
+      },
+      {
+        "word": "说不定",
+        "pronounce": "shuō bù dìng",
+        "meaning": "chưa biết chừng"
+      },
+      {
+        "word": "说服",
+        "pronounce": "shuō fú",
+        "meaning": "thuyết phục"
+      },
+      {
+        "word": "丝绸",
+        "pronounce": "sī chóu",
+        "meaning": "tơ lụa"
+      },
+      {
+        "word": "丝毫",
+        "pronounce": "sī háo",
+        "meaning": "một chút (dùng dạng phủ định)"
+      },
+      {
+        "word": "私人",
+        "pronounce": "sī rén",
+        "meaning": "tư nhân"
+      },
+      {
+        "word": "思考",
+        "pronounce": "sī kǎo",
+        "meaning": "suy nghĩ"
+      },
+      {
+        "word": "思想",
+        "pronounce": "sī xiǎng",
+        "meaning": "tư tưởng"
+      },
+      {
+        "word": "撕",
+        "pronounce": "sī",
+        "meaning": "xé"
+      },
+      {
+        "word": "似乎",
+        "pronounce": "sì hū",
+        "meaning": "dường như"
+      },
+      {
+        "word": "搜索",
+        "pronounce": "sōu suǒ",
+        "meaning": "tìm kiếm"
+      },
+      {
+        "word": "宿舍",
+        "pronounce": "sù shè",
+        "meaning": "ký túc xá"
+      },
+      {
+        "word": "随身",
+        "pronounce": "suí shēn",
+        "meaning": "mang theo người"
+      },
+      {
+        "word": "随时",
+        "pronounce": "suí shí",
+        "meaning": "bất cứ lúc nào"
+      },
+      {
+        "word": "随手",
+        "pronounce": "suí shǒu",
+        "meaning": "tiện tay"
+      },
+      {
+        "word": "碎",
+        "pronounce": "suì",
+        "meaning": "vỡ vụn"
+      },
+      {
+        "word": "损失",
+        "pronounce": "sǔn shī",
+        "meaning": "tổn thất"
+      },
+      {
+        "word": "缩短",
+        "pronounce": "suō duǎn",
+        "meaning": "thu hẹp (khoảng cách), rút ngắn (thời gian), cắt ngắn (câu chuyện)"
+      },
+      {
+        "word": "所",
+        "pronounce": "suǒ",
+        "meaning": "trợ từ"
+      },
+      {
+        "word": "锁",
+        "pronounce": "suǒ",
+        "meaning": "khóa"
+      },
+      {
+        "word": "台阶",
+        "pronounce": "tái jiē",
+        "meaning": "bậc thềm, bậc"
+      },
+      {
+        "word": "太极拳",
+        "pronounce": "tài jí quán",
+        "meaning": "thái cực quyền"
+      },
+      {
+        "word": "太太",
+        "pronounce": "tài tai",
+        "meaning": "vợ"
+      },
+      {
+        "word": "谈判",
+        "pronounce": "tán pàn",
+        "meaning": "đàm phán"
+      },
+      {
+        "word": "坦率",
+        "pronounce": "tǎn shuài",
+        "meaning": "thẳng thắn"
+      },
+      {
+        "word": "烫",
+        "pronounce": "tàng",
+        "meaning": "bỏng, là, ủi"
+      },
+      {
+        "word": "逃",
+        "pronounce": "táo",
+        "meaning": "chạy trốn"
+      },
+      {
+        "word": "逃避",
+        "pronounce": "táo bì",
+        "meaning": "trốn tránh"
+      },
+      {
+        "word": "桃",
+        "pronounce": "táo",
+        "meaning": "đào"
+      },
+      {
+        "word": "淘气",
+        "pronounce": "táo qì",
+        "meaning": "tinh nghịch"
+      },
+      {
+        "word": "讨价还价",
+        "pronounce": "tǎo jià huán jià",
+        "meaning": "mặc cả"
+      },
+      {
+        "word": "套",
+        "pronounce": "tào",
+        "meaning": "bộ (quần áo), căn (nhà)"
+      },
+      {
+        "word": "特色",
+        "pronounce": "tè sè",
+        "meaning": "đặc sắc, đặc điểm đặc sắc"
+      },
+      {
+        "word": "特殊",
+        "pronounce": "tè shū",
+        "meaning": "đặc biệt, đặc thù (quan hệ, nghi lễ, yêu cầu, đãi ngộ)"
+      },
+      {
+        "word": "特征",
+        "pronounce": "tè zhēng",
+        "meaning": "đặc trưng"
+      },
+      {
+        "word": "疼爱",
+        "pronounce": "téng ài",
+        "meaning": "chiều chuộng, yêu chiều"
+      },
+      {
+        "word": "提倡",
+        "pronounce": "tí chàng",
+        "meaning": "đề xướng"
+      },
+      {
+        "word": "提纲",
+        "pronounce": "tí gāng",
+        "meaning": "đề cương"
+      },
+      {
+        "word": "提问",
+        "pronounce": "tí wèn",
+        "meaning": "hỏi"
+      },
+      {
+        "word": "题目",
+        "pronounce": "tí mù",
+        "meaning": "đề mục"
+      },
+      {
+        "word": "体会",
+        "pronounce": "tǐ huì",
+        "meaning": "cảm nhận"
+      },
+      {
+        "word": "体贴",
+        "pronounce": "tǐ tiē",
+        "meaning": "sống tình cảm, chu đáo"
+      },
+      {
+        "word": "体现",
+        "pronounce": "tǐ xiàn",
+        "meaning": "thể hiện"
+      },
+      {
+        "word": "体验",
+        "pronounce": "tǐ yàn",
+        "meaning": "trải nghiệm"
+      },
+      {
+        "word": "天空",
+        "pronounce": "tiān kōng",
+        "meaning": "bầu trời"
+      },
+      {
+        "word": "天真",
+        "pronounce": "tiān zhēn",
+        "meaning": "hồn nhiên"
+      },
+      {
+        "word": "调皮",
+        "pronounce": "tiáo pí",
+        "meaning": "nghịch ngợm"
+      },
+      {
+        "word": "调整",
+        "pronounce": "tiáo zhěng",
+        "meaning": "điều chỉnh"
+      },
+      {
+        "word": "挑战",
+        "pronounce": "tiǎo zhàn",
+        "meaning": "thách thức, thử thách, thách"
+      },
+      {
+        "word": "通常",
+        "pronounce": "tōng cháng",
+        "meaning": "thông thường"
+      },
+      {
+        "word": "统一",
+        "pronounce": "tǒng yī",
+        "meaning": "thống nhất"
+      },
+      {
+        "word": "痛苦",
+        "pronounce": "tòng kǔ",
+        "meaning": "đau khổ"
+      },
+      {
+        "word": "痛快",
+        "pronounce": "tòng kuài",
+        "meaning": "sung sướng"
+      },
+      {
+        "word": "偷",
+        "pronounce": "tōu",
+        "meaning": "ăn trộm"
+      },
+      {
+        "word": "投入",
+        "pronounce": "tóu rù",
+        "meaning": "đút vào, đầu tư vào,"
+      },
+      {
+        "word": "投资",
+        "pronounce": "tóu zī",
+        "meaning": "đầu tư"
+      },
+      {
+        "word": "透明",
+        "pronounce": "tòu míng",
+        "meaning": "trong suốt"
+      },
+      {
+        "word": "突出",
+        "pronounce": "tū chū",
+        "meaning": "làm nổi bật"
+      },
+      {
+        "word": "土地",
+        "pronounce": "tǔ dì",
+        "meaning": "đất đai"
+      },
+      {
+        "word": "土豆",
+        "pronounce": "tǔ dòu",
+        "meaning": "khoai tây"
+      },
+      {
+        "word": "吐",
+        "pronounce": "tǔ/tù",
+        "meaning": "nhổ, nôn"
+      },
+      {
+        "word": "兔子",
+        "pronounce": "tù zi",
+        "meaning": "con thỏ"
+      },
+      {
+        "word": "团",
+        "pronounce": "tuán",
+        "meaning": "cuộn (danh từ)"
+      },
+      {
+        "word": "推辞",
+        "pronounce": "tuī cí",
+        "meaning": "từ chối"
+      },
+      {
+        "word": "推广",
+        "pronounce": "tuī guǎng",
+        "meaning": "quảng bá"
+      },
+      {
+        "word": "推荐",
+        "pronounce": "tuī jiàn",
+        "meaning": "tiến cử"
+      },
+      {
+        "word": "退",
+        "pronounce": "tuì",
+        "meaning": "lùi"
+      },
+      {
+        "word": "退步",
+        "pronounce": "tuì bù",
+        "meaning": "lùi bước"
+      },
+      {
+        "word": "退休",
+        "pronounce": "tuì xiū",
+        "meaning": "nghỉ hưu"
+      },
+      {
+        "word": "歪",
+        "pronounce": "wāi",
+        "meaning": "xiên (nghiêng)"
+      },
+      {
+        "word": "外公",
+        "pronounce": "wài gōng",
+        "meaning": "ông ngoại"
+      },
+      {
+        "word": "外交",
+        "pronounce": "wài jiāo",
+        "meaning": "ngoại giao"
+      },
+      {
+        "word": "完美",
+        "pronounce": "wán měi",
+        "meaning": "hoàn hảo"
+      },
+      {
+        "word": "完善",
+        "pronounce": "wán shàn",
+        "meaning": "hoàn thiện"
+      },
+      {
+        "word": "完整",
+        "pronounce": "wán zhěng",
+        "meaning": "hoàn chỉnh"
+      },
+      {
+        "word": "玩具",
+        "pronounce": "wán jù",
+        "meaning": "đồ chơi"
+      },
+      {
+        "word": "万一",
+        "pronounce": "wàn yī",
+        "meaning": "vạn nhất, nhỡ"
+      },
+      {
+        "word": "王子",
+        "pronounce": "wáng zǐ",
+        "meaning": "vua"
+      },
+      {
+        "word": "网络",
+        "pronounce": "wǎng luò",
+        "meaning": "mạng internet"
+      },
+      {
+        "word": "往返",
+        "pronounce": "wǎng fǎn",
+        "meaning": "khứ hồi"
+      },
+      {
+        "word": "危害",
+        "pronounce": "wēi hài",
+        "meaning": "nguy hại"
+      },
+      {
+        "word": "威胁",
+        "pronounce": "wēi xié",
+        "meaning": "uy hiếp"
+      },
+      {
+        "word": "微笑",
+        "pronounce": "wēi xiào",
+        "meaning": "mỉm cười"
+      },
+      {
+        "word": "违反",
+        "pronounce": "wéi fǎn",
+        "meaning": "vi phạm"
+      },
+      {
+        "word": "围巾",
+        "pronounce": "wéi jīn",
+        "meaning": "khăn"
+      },
+      {
+        "word": "围绕",
+        "pronounce": "wéi rào",
+        "meaning": "xoay quanh, bao quanh, quay quanh"
+      },
+      {
+        "word": "唯一",
+        "pronounce": "wéi yī",
+        "meaning": "duy nhất"
+      },
+      {
+        "word": "维修",
+        "pronounce": "wéi xiū",
+        "meaning": "sửa chữa"
+      },
+      {
+        "word": "伟大",
+        "pronounce": "wěi dà",
+        "meaning": "vĩ đại"
+      },
+      {
+        "word": "尾巴",
+        "pronounce": "wěi bā",
+        "meaning": "cái đuôi"
+      },
+      {
+        "word": "委屈",
+        "pronounce": "wěi qu",
+        "meaning": "tủi thân"
+      },
+      {
+        "word": "未必",
+        "pronounce": "wèi bì",
+        "meaning": "chưa chắc"
+      },
+      {
+        "word": "未来",
+        "pronounce": "wèi lái",
+        "meaning": "tương lai"
+      },
+      {
+        "word": "位于",
+        "pronounce": "wèi yú",
+        "meaning": "nằm ở (vị trí địa lý)"
+      },
+      {
+        "word": "位置",
+        "pronounce": "wèi zhì",
+        "meaning": "vị trí"
+      },
+      {
+        "word": "胃",
+        "pronounce": "wèi",
+        "meaning": "dạ dày"
+      },
+      {
+        "word": "胃口",
+        "pronounce": "wèi kǒu",
+        "meaning": "khẩu vị"
+      },
+      {
+        "word": "温暖",
+        "pronounce": "wēn nuǎn",
+        "meaning": "ấm áp"
+      },
+      {
+        "word": "温柔",
+        "pronounce": "wēn róu",
+        "meaning": "hiền dịu"
+      },
+      {
+        "word": "文件",
+        "pronounce": "wén jiàn",
+        "meaning": "tài liệu"
+      },
+      {
+        "word": "文具",
+        "pronounce": "wén jù",
+        "meaning": "đồ dùng học tập"
+      },
+      {
+        "word": "文明",
+        "pronounce": "wén míng",
+        "meaning": "văn minh"
+      },
+      {
+        "word": "文学",
+        "pronounce": "wén xué",
+        "meaning": "văn học"
+      },
+      {
+        "word": "文字",
+        "pronounce": "wén zì",
+        "meaning": "văn tự"
+      },
+      {
+        "word": "闻",
+        "pronounce": "wén",
+        "meaning": "ngửi"
+      },
+      {
+        "word": "吻",
+        "pronounce": "wěn",
+        "meaning": "hôn"
+      },
+      {
+        "word": "稳定",
+        "pronounce": "wěn dìng",
+        "meaning": "ổn định"
+      },
+      {
+        "word": "问候",
+        "pronounce": "wèn hòu",
+        "meaning": "hỏi thăm"
+      },
+      {
+        "word": "卧室",
+        "pronounce": "wò shì",
+        "meaning": "phòng ngủ"
+      },
+      {
+        "word": "握手",
+        "pronounce": "wò shǒu",
+        "meaning": "bắt tay"
+      },
+      {
+        "word": "屋子",
+        "pronounce": "wū zi",
+        "meaning": "căn nhà"
+      },
+      {
+        "word": "无奈",
+        "pronounce": "wú nài",
+        "meaning": "bó tay, không có cách nào, bất lực"
+      },
+      {
+        "word": "无数",
+        "pronounce": "wú shù",
+        "meaning": "vô số"
+      },
+      {
+        "word": "无所谓",
+        "pronounce": "wú suǒ wèi",
+        "meaning": "không quan tâm, không để ý"
+      },
+      {
+        "word": "武术",
+        "pronounce": "wǔ shù",
+        "meaning": "võ thuật"
+      },
+      {
+        "word": "勿",
+        "pronounce": "wù",
+        "meaning": "đừng"
+      },
+      {
+        "word": "物理",
+        "pronounce": "wù lǐ",
+        "meaning": "vật lý"
+      },
+      {
+        "word": "物质",
+        "pronounce": "wù zhì",
+        "meaning": "vật chất"
+      },
+      {
+        "word": "雾",
+        "pronounce": "wù",
+        "meaning": "sương mù"
+      },
+      {
+        "word": "吸取",
+        "pronounce": "xī qǔ",
+        "meaning": "hút, rút ra (bài học kinh nghiệm)"
+      },
+      {
+        "word": "吸收",
+        "pronounce": "xī shōu",
+        "meaning": "thẩm thấu, ngấm"
+      },
+      {
+        "word": "戏剧",
+        "pronounce": "xì jù",
+        "meaning": "kịch"
+      },
+      {
+        "word": "系",
+        "pronounce": "xì",
+        "meaning": "thắt, buộc"
+      },
+      {
+        "word": "系统",
+        "pronounce": "xì tǒng",
+        "meaning": "hệ thống"
+      },
+      {
+        "word": "细节",
+        "pronounce": "xì jié",
+        "meaning": "tình tiết"
+      },
+      {
+        "word": "瞎",
+        "pronounce": "xiā",
+        "meaning": "mù"
+      },
+      {
+        "word": "下载",
+        "pronounce": "xià zǎi",
+        "meaning": "tải"
+      },
+      {
+        "word": "吓",
+        "pronounce": "xià",
+        "meaning": "dọa"
+      },
+      {
+        "word": "夏令营",
+        "pronounce": "xià lìng yíng",
+        "meaning": "trại"
+      },
+      {
+        "word": "鲜艳",
+        "pronounce": "xiān yàn",
+        "meaning": "tươi tắn"
+      },
+      {
+        "word": "显得",
+        "pronounce": "xiǎn dé",
+        "meaning": "lộ rõ"
+      },
+      {
+        "word": "显然",
+        "pronounce": "xiǎn rán",
+        "meaning": "hiển nhiên, rõ ràng"
+      },
+      {
+        "word": "显示",
+        "pronounce": "xiǎn shì",
+        "meaning": "hiển thị, cho thấy, tôn lên"
+      },
+      {
+        "word": "县",
+        "pronounce": "xiàn",
+        "meaning": "huyện"
+      },
+      {
+        "word": "现代",
+        "pronounce": "xiàn dài",
+        "meaning": "hiện đại"
+      },
+      {
+        "word": "现实",
+        "pronounce": "xiàn shí",
+        "meaning": "hiện thực"
+      },
+      {
+        "word": "现象",
+        "pronounce": "xiàn xiàng",
+        "meaning": "hiện tượng"
+      },
+      {
+        "word": "限制",
+        "pronounce": "xiàn zhì",
+        "meaning": "hạn chế, giới hạn"
+      },
+      {
+        "word": "相处",
+        "pronounce": "xiāng chǔ",
+        "meaning": "ở cùng nhau, tiếp xúc nhiều"
+      },
+      {
+        "word": "相当",
+        "pronounce": "xiāng dāng",
+        "meaning": "tương đối"
+      },
+      {
+        "word": "相对",
+        "pronounce": "xiāng duì",
+        "meaning": "tương đối"
+      },
+      {
+        "word": "相关",
+        "pronounce": "xiāng guān",
+        "meaning": "liên quan"
+      },
+      {
+        "word": "相似",
+        "pronounce": "xiāng sì",
+        "meaning": "giống"
+      },
+      {
+        "word": "香肠",
+        "pronounce": "xiāng cháng",
+        "meaning": "xúc xích"
+      },
+      {
+        "word": "享受",
+        "pronounce": "xiǎng shòu",
+        "meaning": "hưởng thụ"
+      },
+      {
+        "word": "想念",
+        "pronounce": "xiǎng niàn",
+        "meaning": "nhớ nhung"
+      },
+      {
+        "word": "想象",
+        "pronounce": "xiǎng xiàng",
+        "meaning": "tưởng tượng"
+      },
+      {
+        "word": "项",
+        "pronounce": "xiàng",
+        "meaning": "hạng, môn (thể thao)"
+      },
+      {
+        "word": "项链",
+        "pronounce": "xiàng liàn",
+        "meaning": "dây chuyền"
+      },
+      {
+        "word": "项目",
+        "pronounce": "xiàng mù",
+        "meaning": "hạng mục"
+      },
+      {
+        "word": "象棋",
+        "pronounce": "xiàng qí",
+        "meaning": "cờ tướng"
+      },
+      {
+        "word": "象征",
+        "pronounce": "xiàng zhēng",
+        "meaning": "tượng trưng"
+      },
+      {
+        "word": "消费",
+        "pronounce": "xiāo fèi",
+        "meaning": "tiêu dùng"
+      },
+      {
+        "word": "消化",
+        "pronounce": "xiāo huà",
+        "meaning": "tiêu hóa"
+      },
+      {
+        "word": "消极",
+        "pronounce": "xiāo jí",
+        "meaning": "tiêu cực"
+      },
+      {
+        "word": "消失",
+        "pronounce": "xiāo shī",
+        "meaning": "biến mất"
+      },
+      {
+        "word": "销售",
+        "pronounce": "xiāo shòu",
+        "meaning": "bán"
+      },
+      {
+        "word": "小麦",
+        "pronounce": "xiǎo mài",
+        "meaning": "lúa mạch"
+      },
+      {
+        "word": "小气",
+        "pronounce": "xiǎo qì",
+        "meaning": "keo kiệt"
+      },
+      {
+        "word": "孝顺",
+        "pronounce": "xiào shùn",
+        "meaning": "hiếu thảo"
+      },
+      {
+        "word": "效率",
+        "pronounce": "xiào lǜ",
+        "meaning": "hiệu suất"
+      },
+      {
+        "word": "歇",
+        "pronounce": "xiē",
+        "meaning": "nghỉ ngơi"
+      },
+      {
+        "word": "斜",
+        "pronounce": "xié",
+        "meaning": "nghiêng, chéo"
+      },
+      {
+        "word": "写作",
+        "pronounce": "xiě zuò",
+        "meaning": "viết"
+      },
+      {
+        "word": "血",
+        "pronounce": "xiě",
+        "meaning": "máu"
+      },
+      {
+        "word": "心理",
+        "pronounce": "xīn lǐ",
+        "meaning": "tâm lý"
+      },
+      {
+        "word": "心脏",
+        "pronounce": "xīn zàng",
+        "meaning": "tim"
+      },
+      {
+        "word": "欣赏",
+        "pronounce": "xīn shǎng",
+        "meaning": "thưởng thức, đánh giá cao"
+      },
+      {
+        "word": "信号",
+        "pronounce": "xìn hào",
+        "meaning": "tín hiệu"
+      },
+      {
+        "word": "信任",
+        "pronounce": "xìn rèn",
+        "meaning": "tín nhiệm"
+      },
+      {
+        "word": "行动",
+        "pronounce": "xíng dòng",
+        "meaning": "hành động"
+      },
+      {
+        "word": "行人",
+        "pronounce": "xíng rén",
+        "meaning": "người đi đường"
+      },
+      {
+        "word": "行为",
+        "pronounce": "xíng wéi",
+        "meaning": "hành vi"
+      },
+      {
+        "word": "形成",
+        "pronounce": "xíng chéng",
+        "meaning": "hình thành"
+      },
+      {
+        "word": "形容",
+        "pronounce": "xíng róng",
+        "meaning": "hình dung"
+      },
+      {
+        "word": "形式",
+        "pronounce": "xíng shì",
+        "meaning": "hình thức"
+      },
+      {
+        "word": "形势",
+        "pronounce": "xíng shì",
+        "meaning": "tình hình"
+      },
+      {
+        "word": "形象",
+        "pronounce": "xíng xiàng",
+        "meaning": "hình tượng"
+      },
+      {
+        "word": "形状",
+        "pronounce": "xíng zhuàng",
+        "meaning": "hình dáng, dáng"
+      },
+      {
+        "word": "幸亏",
+        "pronounce": "xìng kuī",
+        "meaning": "may mà"
+      },
+      {
+        "word": "幸运",
+        "pronounce": "xìng yùn",
+        "meaning": "may mắn"
+      },
+      {
+        "word": "性质",
+        "pronounce": "xìng zhì",
+        "meaning": "tính chất"
+      },
+      {
+        "word": "兄弟",
+        "pronounce": "xiōng dì",
+        "meaning": "huynh đệ"
+      },
+      {
+        "word": "胸",
+        "pronounce": "xiōng",
+        "meaning": "ngực"
+      },
+      {
+        "word": "休闲",
+        "pronounce": "xiū xián",
+        "meaning": "nhàn hạ, thoải mái"
+      },
+      {
+        "word": "修改",
+        "pronounce": "xiū gǎi",
+        "meaning": "sửa lỗi (văn bản)"
+      },
+      {
+        "word": "虚心",
+        "pronounce": "xū xīn",
+        "meaning": "khiêm tốn"
+      },
+      {
+        "word": "叙述",
+        "pronounce": "xù shù",
+        "meaning": "kể, thuật"
+      },
+      {
+        "word": "宣布",
+        "pronounce": "xuān bù",
+        "meaning": "tuyên bố"
+      },
+      {
+        "word": "宣传",
+        "pronounce": "xuān chuán",
+        "meaning": "tuyên truyền"
+      },
+      {
+        "word": "学历",
+        "pronounce": "xué lì",
+        "meaning": "trình độ"
+      },
+      {
+        "word": "学术",
+        "pronounce": "xué shù",
+        "meaning": "học thuật"
+      },
+      {
+        "word": "学问",
+        "pronounce": "xué wèn",
+        "meaning": "học vấn"
+      },
+      {
+        "word": "寻找",
+        "pronounce": "xún zhǎo",
+        "meaning": "tìm kiếm"
+      },
+      {
+        "word": "询问",
+        "pronounce": "xún wèn",
+        "meaning": "hỏi han"
+      },
+      {
+        "word": "训练",
+        "pronounce": "xùn liàn",
+        "meaning": "huấn luyện"
+      },
+      {
+        "word": "迅速",
+        "pronounce": "xùn sù",
+        "meaning": "nhanh chóng, nhanh"
+      },
+      {
+        "word": "押金",
+        "pronounce": "yā jīn",
+        "meaning": "tiền cọc"
+      },
+      {
+        "word": "牙齿",
+        "pronounce": "yá chǐ",
+        "meaning": "răng"
+      },
+      {
+        "word": "延长",
+        "pronounce": "yán cháng",
+        "meaning": "kéo dài (thời gian)"
+      },
+      {
+        "word": "严肃",
+        "pronounce": "yán sù",
+        "meaning": "nghiêm túc"
+      },
+      {
+        "word": "演讲",
+        "pronounce": "yǎn jiǎng",
+        "meaning": "diễn thuyết"
+      },
+      {
+        "word": "宴会",
+        "pronounce": "yàn huì",
+        "meaning": "yến tiệc"
+      },
+      {
+        "word": "阳台",
+        "pronounce": "yáng tái",
+        "meaning": "ban công"
+      },
+      {
+        "word": "痒",
+        "pronounce": "yǎng",
+        "meaning": "ngứa"
+      },
+      {
+        "word": "样式",
+        "pronounce": "yàng shì",
+        "meaning": "kiểu dáng"
+      },
+      {
+        "word": "腰",
+        "pronounce": "yāo",
+        "meaning": "lưng"
+      },
+      {
+        "word": "摇",
+        "pronounce": "yáo",
+        "meaning": "lắc"
+      },
+      {
+        "word": "咬",
+        "pronounce": "yǎo",
+        "meaning": "cắn"
+      },
+      {
+        "word": "要不",
+        "pronounce": "yào bù",
+        "meaning": "nếu không thì"
+      },
+      {
+        "word": "业务",
+        "pronounce": "yè wù",
+        "meaning": "nghiệp vụ"
+      },
+      {
+        "word": "业余",
+        "pronounce": "yè yú",
+        "meaning": "nghiệp dư"
+      },
+      {
+        "word": "夜",
+        "pronounce": "yè",
+        "meaning": "đêm"
+      },
+      {
+        "word": "一辈子",
+        "pronounce": "yí bèi zi",
+        "meaning": "một đời người"
+      },
+      {
+        "word": "一旦",
+        "pronounce": "yí dàn",
+        "meaning": "một khi"
+      },
+      {
+        "word": "一律",
+        "pronounce": "yí lǜ",
+        "meaning": "nhất loạt"
+      },
+      {
+        "word": "一再",
+        "pronounce": "yí zài",
+        "meaning": "nhiều lần"
+      },
+      {
+        "word": "一致",
+        "pronounce": "yí zhì",
+        "meaning": "thống nhất"
+      },
+      {
+        "word": "依然",
+        "pronounce": "yī rán",
+        "meaning": "vẫn như xưa"
+      },
+      {
+        "word": "移动",
+        "pronounce": "yí dòng",
+        "meaning": "di động"
+      },
+      {
+        "word": "移民",
+        "pronounce": "yí mín",
+        "meaning": "di dân"
+      },
+      {
+        "word": "遗憾",
+        "pronounce": "yí hàn",
+        "meaning": "hối tiếc"
+      },
+      {
+        "word": "疑问",
+        "pronounce": "yí wèn",
+        "meaning": "nghi vấn, nghi ngờ"
+      },
+      {
+        "word": "乙",
+        "pronounce": "yǐ",
+        "meaning": "ất"
+      },
+      {
+        "word": "以及",
+        "pronounce": "yǐ jí",
+        "meaning": "và"
+      },
+      {
+        "word": "以来",
+        "pronounce": "yǐ lái",
+        "meaning": "trở lại đây (thời gian)"
+      },
+      {
+        "word": "亿",
+        "pronounce": "yì",
+        "meaning": "trăm triệu"
+      },
+      {
+        "word": "义务",
+        "pronounce": "yì wù",
+        "meaning": "nghĩa vụ"
+      },
+      {
+        "word": "议论",
+        "pronounce": "yì lùn",
+        "meaning": "nghị luận"
+      },
+      {
+        "word": "意外",
+        "pronounce": "yì wài",
+        "meaning": "ngoài ý muốn"
+      },
+      {
+        "word": "意义",
+        "pronounce": "yì yì",
+        "meaning": "ý nghĩa"
+      },
+      {
+        "word": "因而",
+        "pronounce": "yīn ér",
+        "meaning": "cho nên"
+      },
+      {
+        "word": "因素",
+        "pronounce": "yīn sù",
+        "meaning": "nhân tố"
+      },
+      {
+        "word": "银",
+        "pronounce": "yín",
+        "meaning": "bạc"
+      },
+      {
+        "word": "印刷",
+        "pronounce": "yìn shuā",
+        "meaning": "in ấn"
+      },
+      {
+        "word": "英俊",
+        "pronounce": "yīng jùn",
+        "meaning": "tuấn tú"
+      },
+      {
+        "word": "英雄",
+        "pronounce": "yīng xióng",
+        "meaning": "anh hùng"
+      },
+      {
+        "word": "迎接",
+        "pronounce": "yíng jiē",
+        "meaning": "nghênh đón"
+      },
+      {
+        "word": "营养",
+        "pronounce": "yíng yǎng",
+        "meaning": "dinh dưỡng"
+      },
+      {
+        "word": "营业",
+        "pronounce": "yíng yè",
+        "meaning": "kinh doanh"
+      },
+      {
+        "word": "影子",
+        "pronounce": "yǐng zi",
+        "meaning": "cái bóng"
+      },
+      {
+        "word": "应付",
+        "pronounce": "yìng fù",
+        "meaning": "ứng phó"
+      },
+      {
+        "word": "应用",
+        "pronounce": "yìng yòng",
+        "meaning": "ứng dụng"
+      },
+      {
+        "word": "硬",
+        "pronounce": "yìng",
+        "meaning": "cứng"
+      },
+      {
+        "word": "硬件",
+        "pronounce": "yìng jiàn",
+        "meaning": "phần cứng"
+      },
+      {
+        "word": "拥抱",
+        "pronounce": "yōng bào",
+        "meaning": "ôm, ôm ấp"
+      },
+      {
+        "word": "拥挤",
+        "pronounce": "yōng jǐ",
+        "meaning": "chen chúc, đông đúc"
+      },
+      {
+        "word": "勇气",
+        "pronounce": "yǒng qì",
+        "meaning": "dũng khí"
+      },
+      {
+        "word": "用功",
+        "pronounce": "yòng gōng",
+        "meaning": "dụng công, công phu"
+      },
+      {
+        "word": "用途",
+        "pronounce": "yòng tú",
+        "meaning": "cách dùng"
+      },
+      {
+        "word": "优惠",
+        "pronounce": "yōu huì",
+        "meaning": "ưu đãi"
+      },
+      {
+        "word": "优美",
+        "pronounce": "yōu měi",
+        "meaning": "trang nhã, thanh lịch, thanh nhã, đẹp, xinh xắn"
+      },
+      {
+        "word": "优势",
+        "pronounce": "yōu shì",
+        "meaning": "ưu thế"
+      },
+      {
+        "word": "悠久",
+        "pronounce": "yōu jiǔ",
+        "meaning": "lâu đời"
+      },
+      {
+        "word": "犹豫",
+        "pronounce": "yóu yù",
+        "meaning": "do dự"
+      },
+      {
+        "word": "油炸",
+        "pronounce": "yóu zhá",
+        "meaning": "chiên giòn"
+      },
+      {
+        "word": "游览",
+        "pronounce": "yóu lǎn",
+        "meaning": "du ngoạn, thưởng ngoạn"
+      },
+      {
+        "word": "有利",
+        "pronounce": "yǒu lì",
+        "meaning": "có lợi"
+      },
+      {
+        "word": "幼儿园",
+        "pronounce": "yòu ér yuán",
+        "meaning": "nhà trẻ"
+      },
+      {
+        "word": "娱乐",
+        "pronounce": "yú lè",
+        "meaning": "giải trí"
+      },
+      {
+        "word": "与其",
+        "pronounce": "yǔ qí",
+        "meaning": "thay vì"
+      },
+      {
+        "word": "语气",
+        "pronounce": "yǔ qì",
+        "meaning": "ngữ khí"
+      },
+      {
+        "word": "玉米",
+        "pronounce": "yù mǐ",
+        "meaning": "ngô"
+      },
+      {
+        "word": "预报",
+        "pronounce": "yù bào",
+        "meaning": "dự báo"
+      },
+      {
+        "word": "预订",
+        "pronounce": "yù dìng",
+        "meaning": "đặt trước, dự định trước"
+      },
+      {
+        "word": "预防",
+        "pronounce": "yù fáng",
+        "meaning": "phòng, phòng chống"
+      },
+      {
+        "word": "元旦",
+        "pronounce": "yuán dàn",
+        "meaning": "nguyên đán"
+      },
+      {
+        "word": "员工",
+        "pronounce": "yuán gōng",
+        "meaning": "nhân công"
+      },
+      {
+        "word": "原料",
+        "pronounce": "yuán liào",
+        "meaning": "nguyên liệu"
+      },
+      {
+        "word": "原则",
+        "pronounce": "yuán zé",
+        "meaning": "nguyên tắc"
+      },
+      {
+        "word": "圆",
+        "pronounce": "yuán",
+        "meaning": "hình tròn"
+      },
+      {
+        "word": "愿望",
+        "pronounce": "yuàn wàng",
+        "meaning": "nguyện vọng"
+      },
+      {
+        "word": "乐器",
+        "pronounce": "yuè qì",
+        "meaning": "nhạc cụ"
+      },
+      {
+        "word": "晕",
+        "pronounce": "yūn",
+        "meaning": "say (xe)"
+      },
+      {
+        "word": "运气",
+        "pronounce": "yùn qì",
+        "meaning": "vận may"
+      },
+      {
+        "word": "运输",
+        "pronounce": "yùn shū",
+        "meaning": "vận tải"
+      },
+      {
+        "word": "运用",
+        "pronounce": "yùn yòng",
+        "meaning": "vận dụng"
+      },
+      {
+        "word": "灾害",
+        "pronounce": "zāi hài",
+        "meaning": "thiên tai"
+      },
+      {
+        "word": "再三",
+        "pronounce": "zài sān",
+        "meaning": "hết lần này đến lần khác"
+      },
+      {
+        "word": "在乎",
+        "pronounce": "zài hū",
+        "meaning": "để ý"
+      },
+      {
+        "word": "在于",
+        "pronounce": "zài yú",
+        "meaning": "ở chỗ"
+      },
+      {
+        "word": "赞成",
+        "pronounce": "zàn chéng",
+        "meaning": "tán thành"
+      },
+      {
+        "word": "赞美",
+        "pronounce": "zàn měi",
+        "meaning": "ca tụng"
+      },
+      {
+        "word": "糟糕",
+        "pronounce": "zāo gāo",
+        "meaning": "tồi tệ"
+      },
+      {
+        "word": "造成",
+        "pronounce": "zào chéng",
+        "meaning": "gây nên"
+      },
+      {
+        "word": "则",
+        "pronounce": "zé",
+        "meaning": "nhưng"
+      },
+      {
+        "word": "责备",
+        "pronounce": "zé bèi",
+        "meaning": "trách cứ"
+      },
+      {
+        "word": "摘",
+        "pronounce": "zhāi",
+        "meaning": "hái"
+      },
+      {
+        "word": "窄",
+        "pronounce": "zhǎi",
+        "meaning": "hẹp"
+      },
+      {
+        "word": "粘贴",
+        "pronounce": "zhān tiē",
+        "meaning": "dính, dán"
+      },
+      {
+        "word": "展开",
+        "pronounce": "zhǎn kāi",
+        "meaning": "xòe ra, triển khai"
+      },
+      {
+        "word": "展览",
+        "pronounce": "zhǎn lǎn",
+        "meaning": "triển lãm"
+      },
+      {
+        "word": "占",
+        "pronounce": "zhàn",
+        "meaning": "chiếm"
+      },
+      {
+        "word": "战争",
+        "pronounce": "zhàn zhēng",
+        "meaning": "chiến tranh"
+      },
+      {
+        "word": "长辈",
+        "pronounce": "zhǎng bèi",
+        "meaning": "tiền bối"
+      },
+      {
+        "word": "涨",
+        "pronounce": "zhàng",
+        "meaning": "tăng lên (giá cả, lương)"
+      },
+      {
+        "word": "掌握",
+        "pronounce": "zhǎng wò",
+        "meaning": "nắm vững"
+      },
+      {
+        "word": "账户",
+        "pronounce": "zhàng hù",
+        "meaning": "tài khoản"
+      },
+      {
+        "word": "招待",
+        "pronounce": "zhāo dài",
+        "meaning": "chiêu đãi"
+      },
+      {
+        "word": "着火",
+        "pronounce": "zháo huǒ",
+        "meaning": "bắt lửa, bén lửa"
+      },
+      {
+        "word": "着凉",
+        "pronounce": "zháo liáng",
+        "meaning": "nhiễm lạnh"
+      },
+      {
+        "word": "召开",
+        "pronounce": "zhào kāi",
+        "meaning": "triệu tập (cuộc họp)"
+      },
+      {
+        "word": "照常",
+        "pronounce": "zhào cháng",
+        "meaning": "như thường lệ"
+      },
+      {
+        "word": "哲学",
+        "pronounce": "zhé xué",
+        "meaning": "triết học"
+      },
+      {
+        "word": "针对",
+        "pronounce": "zhēn duì",
+        "meaning": "nhằm (tổ chức, người, vấn đề)"
+      },
+      {
+        "word": "珍惜",
+        "pronounce": "zhēn xī",
+        "meaning": "trân trọng"
+      },
+      {
+        "word": "真实",
+        "pronounce": "zhēn shí",
+        "meaning": "chân thực"
+      },
+      {
+        "word": "诊断",
+        "pronounce": "zhěn duàn",
+        "meaning": "chẩn đoán"
+      },
+      {
+        "word": "阵",
+        "pronounce": "zhèn",
+        "meaning": "trận (chiến đấu, chiến tranh), khoảng thời gian, mùi hương"
+      },
+      {
+        "word": "振动",
+        "pronounce": "zhèn dòng",
+        "meaning": "trấn động"
+      },
+      {
+        "word": "争论",
+        "pronounce": "zhēng lùn",
+        "meaning": "tranh luận"
+      },
+      {
+        "word": "争取",
+        "pronounce": "zhēng qǔ",
+        "meaning": "tranh thủ (ủng hộ, ý kiến)"
+      },
+      {
+        "word": "征求",
+        "pronounce": "zhēng qiú",
+        "meaning": "trưng cầu (ý kiến, ý kiến phản hồi), xin (ý kiến lãnh đạo, đồng ý)"
+      },
+      {
+        "word": "睁",
+        "pronounce": "zhēng",
+        "meaning": "mở to mắt, trợn mắt"
+      },
+      {
+        "word": "整个",
+        "pronounce": "zhěng gè",
+        "meaning": "cả, toàn bộ"
+      },
+      {
+        "word": "整齐",
+        "pronounce": "zhěng qí",
+        "meaning": "gọn gàng, ngăn nắp"
+      },
+      {
+        "word": "整体",
+        "pronounce": "zhěng tǐ",
+        "meaning": "tổng thể"
+      },
+      {
+        "word": "正",
+        "pronounce": "zhèng",
+        "meaning": "đứng (trái )"
+      },
+      {
+        "word": "证件",
+        "pronounce": "zhèng jiàn",
+        "meaning": "giấy tờ"
+      },
+      {
+        "word": "证据",
+        "pronounce": "zhèng jù",
+        "meaning": "chứng cứ"
+      },
+      {
+        "word": "政府",
+        "pronounce": "zhèng fǔ",
+        "meaning": "chính phủ"
+      },
+      {
+        "word": "政治",
+        "pronounce": "zhèng zhì",
+        "meaning": "chính trị"
+      },
+      {
+        "word": "挣",
+        "pronounce": "zhèng",
+        "meaning": "tranh, giành"
+      },
+      {
+        "word": "支",
+        "pronounce": "zhī",
+        "meaning": "chiếc (lượng từ cho bút…)"
+      },
+      {
+        "word": "支票",
+        "pronounce": "zhī piào",
+        "meaning": "ngân phiếu"
+      },
+      {
+        "word": "执照",
+        "pronounce": "zhí zhào",
+        "meaning": "giấy phép"
+      },
+      {
+        "word": "直",
+        "pronounce": "zhí",
+        "meaning": "thẳng"
+      },
+      {
+        "word": "指导",
+        "pronounce": "zhǐ dǎo",
+        "meaning": "chỉ đạo"
+      },
+      {
+        "word": "指挥",
+        "pronounce": "zhǐ huī",
+        "meaning": "chỉ huy"
+      },
+      {
+        "word": "至今",
+        "pronounce": "zhì jīn",
+        "meaning": "đến nay"
+      },
+      {
+        "word": "至于",
+        "pronounce": "zhì yú",
+        "meaning": "còn như….."
+      },
+      {
+        "word": "志愿者",
+        "pronounce": "zhì yuàn zhě",
+        "meaning": "tình nguyện viên"
+      },
+      {
+        "word": "制定",
+        "pronounce": "zhì dìng",
+        "meaning": "lập ra, thiết lập, xây dựng, lập (chính sách, qui định, kế hoạch, sách lược, phương án)"
+      },
+      {
+        "word": "制度",
+        "pronounce": "zhì dù",
+        "meaning": "chế độ, chính sách"
+      },
+      {
+        "word": "制造",
+        "pronounce": "zhì zào",
+        "meaning": "sản xuất"
+      },
+      {
+        "word": "制作",
+        "pronounce": "zhì zuò",
+        "meaning": "làm, chế tạo"
+      },
+      {
+        "word": "治疗",
+        "pronounce": "zhì liáo",
+        "meaning": "điều trị"
+      },
+      {
+        "word": "秩序",
+        "pronounce": "zhì xù",
+        "meaning": "trật tự"
+      },
+      {
+        "word": "智慧",
+        "pronounce": "zhì huì",
+        "meaning": "trí tuệ"
+      },
+      {
+        "word": "中介",
+        "pronounce": "zhōng jiè",
+        "meaning": "môi giới, trung gian"
+      },
+      {
+        "word": "中心",
+        "pronounce": "zhōng xīn",
+        "meaning": "trung tâm"
+      },
+      {
+        "word": "中旬",
+        "pronounce": "zhōng xún",
+        "meaning": "trung tuần"
+      },
+      {
+        "word": "种类",
+        "pronounce": "zhǒng lèi",
+        "meaning": "chủng loại"
+      },
+      {
+        "word": "重大",
+        "pronounce": "zhòng dà",
+        "meaning": "trọng đại, lớn"
+      },
+      {
+        "word": "重量",
+        "pronounce": "zhòng liàng",
+        "meaning": "trọng lượng"
+      },
+      {
+        "word": "周到",
+        "pronounce": "zhōu dào",
+        "meaning": "chu đáo"
+      },
+      {
+        "word": "猪",
+        "pronounce": "zhū",
+        "meaning": "con lợn"
+      },
+      {
+        "word": "竹子",
+        "pronounce": "zhú zi",
+        "meaning": "cây trúc"
+      },
+      {
+        "word": "逐步",
+        "pronounce": "zhú bù",
+        "meaning": "từng bước"
+      },
+      {
+        "word": "逐渐",
+        "pronounce": "zhú jiàn",
+        "meaning": "dần dần"
+      },
+      {
+        "word": "主持",
+        "pronounce": "zhǔ chí",
+        "meaning": "dẫn (chương trình),"
+      },
+      {
+        "word": "主动",
+        "pronounce": "zhǔ dòng",
+        "meaning": "chủ động"
+      },
+      {
+        "word": "主观",
+        "pronounce": "zhǔ guān",
+        "meaning": "chủ quan"
+      },
+      {
+        "word": "主人",
+        "pronounce": "zhǔ rén",
+        "meaning": "chủ nhân"
+      },
+      {
+        "word": "主任",
+        "pronounce": "zhǔ rèn",
+        "meaning": "chủ nhiệm"
+      },
+      {
+        "word": "主题",
+        "pronounce": "zhǔ tí",
+        "meaning": "chủ đề"
+      },
+      {
+        "word": "主席",
+        "pronounce": "zhǔ xí",
+        "meaning": "chủ tịch"
+      },
+      {
+        "word": "主张",
+        "pronounce": "zhǔ zhāng",
+        "meaning": "ý tưởng, ý kiến"
+      },
+      {
+        "word": "煮",
+        "pronounce": "zhǔ",
+        "meaning": "luộc, đun"
+      },
+      {
+        "word": "注册",
+        "pronounce": "zhù cè",
+        "meaning": "đăng kí"
+      },
+      {
+        "word": "祝福",
+        "pronounce": "zhù fú",
+        "meaning": "chúc phúc"
+      },
+      {
+        "word": "抓",
+        "pronounce": "zhuā",
+        "meaning": "bắt, véo"
+      },
+      {
+        "word": "抓紧",
+        "pronounce": "zhuā jǐn",
+        "meaning": "(tay) nắm chắc, tranh thủ (thời gian)"
+      },
+      {
+        "word": "专家",
+        "pronounce": "zhuān jiā",
+        "meaning": "chuyên gia"
+      },
+      {
+        "word": "专心",
+        "pronounce": "zhuān xīn",
+        "meaning": "chuyên tâm"
+      },
+      {
+        "word": "转变",
+        "pronounce": "zhuǎn biàn",
+        "meaning": "chuyển biến"
+      },
+      {
+        "word": "转告",
+        "pronounce": "zhuǎn gào",
+        "meaning": "chuyển lời"
+      },
+      {
+        "word": "装",
+        "pronounce": "zhuāng",
+        "meaning": "đựng, chứa"
+      },
+      {
+        "word": "装饰",
+        "pronounce": "zhuāng shì",
+        "meaning": "trang hoàng, trang trí"
+      },
+      {
+        "word": "装修",
+        "pronounce": "zhuāng xiū",
+        "meaning": "sửa nội thất"
+      },
+      {
+        "word": "状况",
+        "pronounce": "zhuàng kuàng",
+        "meaning": "tình trạng"
+      },
+      {
+        "word": "状态",
+        "pronounce": "zhuàng tài",
+        "meaning": "trạng thái"
+      },
+      {
+        "word": "撞",
+        "pronounce": "zhuàng",
+        "meaning": "va vào, đâm vào"
+      },
+      {
+        "word": "追",
+        "pronounce": "zhuī",
+        "meaning": "đuổi theo"
+      },
+      {
+        "word": "追求",
+        "pronounce": "zhuī qiú",
+        "meaning": "theo đuổi"
+      },
+      {
+        "word": "咨询",
+        "pronounce": "zī xún",
+        "meaning": "tư vấn"
+      },
+      {
+        "word": "姿势",
+        "pronounce": "zī shì",
+        "meaning": "tư thế"
+      },
+      {
+        "word": "资格",
+        "pronounce": "zī gé",
+        "meaning": "tư cách"
+      },
+      {
+        "word": "资金",
+        "pronounce": "zī jīn",
+        "meaning": "vốn (tiền)"
+      },
+      {
+        "word": "资料",
+        "pronounce": "zī liào",
+        "meaning": "tư liệu"
+      },
+      {
+        "word": "资源",
+        "pronounce": "zī yuán",
+        "meaning": "nguồn tài nguyên"
+      },
+      {
+        "word": "紫",
+        "pronounce": "zǐ",
+        "meaning": "màu tím"
+      },
+      {
+        "word": "自从",
+        "pronounce": "zì cóng",
+        "meaning": "từ khi…."
+      },
+      {
+        "word": "自动",
+        "pronounce": "zì dòng",
+        "meaning": "tự động"
+      },
+      {
+        "word": "自豪",
+        "pronounce": "zì háo",
+        "meaning": "tự hào, kiêu ngạo"
+      },
+      {
+        "word": "自觉",
+        "pronounce": "zì jué",
+        "meaning": "tự giác"
+      },
+      {
+        "word": "自私",
+        "pronounce": "zì sī",
+        "meaning": "ích kỉ"
+      },
+      {
+        "word": "自由",
+        "pronounce": "zì yóu",
+        "meaning": "tự do"
+      },
+      {
+        "word": "自愿",
+        "pronounce": "zì yuàn",
+        "meaning": "tình nguyện, tự nguyện"
+      },
+      {
+        "word": "字母",
+        "pronounce": "zì mǔ",
+        "meaning": "chữ cái"
+      },
+      {
+        "word": "字幕",
+        "pronounce": "zì mù",
+        "meaning": "phụ đề"
+      },
+      {
+        "word": "综合",
+        "pronounce": "zōng hé",
+        "meaning": "tổng hợp"
+      },
+      {
+        "word": "总裁",
+        "pronounce": "zǒng cái",
+        "meaning": "giám đốc"
+      },
+      {
+        "word": "总共",
+        "pronounce": "zǒng gòng",
+        "meaning": "tổng cộng"
+      },
+      {
+        "word": "总理",
+        "pronounce": "zǒng lǐ",
+        "meaning": "thủ tướng"
+      },
+      {
+        "word": "总算",
+        "pronounce": "zǒng suàn",
+        "meaning": "rốt cuộc"
+      },
+      {
+        "word": "总统",
+        "pronounce": "zǒng tǒng",
+        "meaning": "tổng thống"
+      },
+      {
+        "word": "总之",
+        "pronounce": "zǒng zhī",
+        "meaning": "tóm lại"
+      },
+      {
+        "word": "阻止",
+        "pronounce": "zǔ zhī",
+        "meaning": "ngăn chặn, ngăn cản"
+      },
+      {
+        "word": "组",
+        "pronounce": "zǔ",
+        "meaning": "tổ, cụm, nhóm"
+      },
+      {
+        "word": "组成",
+        "pronounce": "zǔ chéng",
+        "meaning": "tổ thành"
+      },
+      {
+        "word": "组合",
+        "pronounce": "zǔ hé",
+        "meaning": "tổ hợp, tổ hợp thành, nhóm"
+      },
+      {
+        "word": "组织",
+        "pronounce": "zǔ zhī",
+        "meaning": "tổ chức"
+      },
+      {
+        "word": "最初",
+        "pronounce": "zuì chū",
+        "meaning": "ban đầu"
+      },
+      {
+        "word": "醉",
+        "pronounce": "zuì",
+        "meaning": "say, say đắm"
+      },
+      {
+        "word": "尊敬",
+        "pronounce": "zūn jìng",
+        "meaning": "tôn kính, kính trọng"
+      },
+      {
+        "word": "遵守",
+        "pronounce": "zūn shǒu",
+        "meaning": "tuân thủ"
+      },
+      {
+        "word": "作品",
+        "pronounce": "zuò pǐn",
+        "meaning": "tác phẩm"
+      },
+      {
+        "word": "作为",
+        "pronounce": "zuò wéi",
+        "meaning": "coi là, làm, là"
+      },
+      {
+        "word": "作文",
+        "pronounce": "zuò wén",
+        "meaning": "bài viết"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4040 @@
+{
+  "title": "B1 Vocabulary",
+  "language": "en",
+  "type": "vocab",
+  "level": "b1",
+  "content": {
+    "words": [
+      {
+        "word": "admire",
+        "meaning": "ngưỡng mộ",
+        "pronounce": "ædˈmaɪr"
+      },
+      {
+        "word": "ad",
+        "meaning": "quảng cáo",
+        "pronounce": "æd"
+      },
+      {
+        "word": "absolutely",
+        "meaning": "tuyệt đối",
+        "pronounce": "ˌæbsəˈlutli"
+      },
+      {
+        "word": "administration",
+        "meaning": "sự quản lý",
+        "pronounce": "ædˌmɪnɪˈstreɪʃən"
+      },
+      {
+        "word": "act",
+        "meaning": "hành động",
+        "pronounce": "ækt"
+      },
+      {
+        "word": "academic",
+        "meaning": "học thuật",
+        "pronounce": "ˌækəˈdɛmɪk"
+      },
+      {
+        "word": "access",
+        "meaning": "truy cập",
+        "pronounce": "ˈækˌsɛs"
+      },
+      {
+        "word": "achievement",
+        "meaning": "thành tích",
+        "pronounce": "əˈʧivmənt"
+      },
+      {
+        "word": "account",
+        "meaning": "tài khoản",
+        "pronounce": "əˈkaʊnt"
+      },
+      {
+        "word": "addition",
+        "meaning": "phép cộng",
+        "pronounce": "əˈdɪʃən"
+      },
+      {
+        "word": "agreement",
+        "meaning": "hiệp định",
+        "pronounce": "əˈgrimənt"
+      },
+      {
+        "word": "afford",
+        "meaning": "đủ khả năng",
+        "pronounce": "əˈfɔrd"
+      },
+      {
+        "word": "advise",
+        "meaning": "khuyên nhủ",
+        "pronounce": "ədˈvaɪz"
+      },
+      {
+        "word": "admit",
+        "meaning": "thừa nhận",
+        "pronounce": "ədˈmɪt"
+      },
+      {
+        "word": "agent",
+        "meaning": "đại lý",
+        "pronounce": "ˈeɪʤənt"
+      },
+      {
+        "word": "age",
+        "meaning": "tuổi",
+        "pronounce": "eɪʤ"
+      },
+      {
+        "word": "ahead",
+        "meaning": "phía trước",
+        "pronounce": "əˈhɛd"
+      },
+      {
+        "word": "advanced",
+        "meaning": "trình độ cao",
+        "pronounce": "ədˈvænst"
+      },
+      {
+        "word": "aim",
+        "meaning": "mục tiêu",
+        "pronounce": "eɪm"
+      },
+      {
+        "word": "alarm",
+        "meaning": "báo thức",
+        "pronounce": "əˈlɑrm"
+      },
+      {
+        "word": "alcohol",
+        "meaning": "rượu bia",
+        "pronounce": "ˈælkəˌhɑl"
+      },
+      {
+        "word": "alcoholic",
+        "meaning": "rượu",
+        "pronounce": "ˌælkəˈhɑlɪk"
+      },
+      {
+        "word": "amazed",
+        "meaning": "kinh ngạc",
+        "pronounce": "əˈmeɪzd"
+      },
+      {
+        "word": "ambition",
+        "meaning": "tham vọng",
+        "pronounce": "æmˈbɪʃən"
+      },
+      {
+        "word": "album",
+        "meaning": "album",
+        "pronounce": "ˈælbəm"
+      },
+      {
+        "word": "alternative",
+        "meaning": "thay thế",
+        "pronounce": "ɔlˈtərnətɪv"
+      },
+      {
+        "word": "announce",
+        "meaning": "thông báo",
+        "pronounce": "əˈnaʊns"
+      },
+      {
+        "word": "analysis",
+        "meaning": "phân tích",
+        "pronounce": "æˈnælɪsɪs"
+      },
+      {
+        "word": "announcement",
+        "meaning": "thông báo",
+        "pronounce": "əˈnaʊnsmɛnt"
+      },
+      {
+        "word": "annoy",
+        "meaning": "làm phiền",
+        "pronounce": "əˈnɔɪ"
+      },
+      {
+        "word": "apologize",
+        "meaning": "xin lỗi",
+        "pronounce": "əˈpɑləˌʤaɪz"
+      },
+      {
+        "word": "annoying",
+        "meaning": "khó chịu",
+        "pronounce": "əˈnɔɪɪŋ"
+      },
+      {
+        "word": "annoyed",
+        "meaning": "khó chịu",
+        "pronounce": "əˈnɔɪd"
+      },
+      {
+        "word": "apart",
+        "meaning": "riêng biệt",
+        "pronounce": "əˈpɑrt"
+      },
+      {
+        "word": "application",
+        "meaning": "ứng dụng",
+        "pronounce": "ˌæpləˈkeɪʃən"
+      },
+      {
+        "word": "appointment",
+        "meaning": "cuộc hẹn",
+        "pronounce": "əˈpɔɪntmənt"
+      },
+      {
+        "word": "approximately",
+        "meaning": "khoảng",
+        "pronounce": "əˈprɑksəmətli"
+      },
+      {
+        "word": "appreciate",
+        "meaning": "đánh giá",
+        "pronounce": "əˈpriʃiˌeɪt"
+      },
+      {
+        "word": "arrest",
+        "meaning": "bắt giữ",
+        "pronounce": "ərˈɛst"
+      },
+      {
+        "word": "arrival",
+        "meaning": "đến",
+        "pronounce": "ərˈaɪvəl"
+      },
+      {
+        "word": "assignment",
+        "meaning": "phân công",
+        "pronounce": "əˈsaɪnmənt"
+      },
+      {
+        "word": "atmosphere",
+        "meaning": "bầu không khí",
+        "pronounce": "ˈætməsˌfɪr"
+      },
+      {
+        "word": "attach",
+        "meaning": "gắn",
+        "pronounce": "əˈtæʧ"
+      },
+      {
+        "word": "assist",
+        "meaning": "hỗ trợ",
+        "pronounce": "əˈsɪst"
+      },
+      {
+        "word": "attract",
+        "meaning": "thu hút",
+        "pronounce": "əˈtrækt"
+      },
+      {
+        "word": "attitude",
+        "meaning": "thái độ",
+        "pronounce": "ˈætəˌtud"
+      },
+      {
+        "word": "authority",
+        "meaning": "thẩm quyền",
+        "pronounce": "əˈθɔrəti"
+      },
+      {
+        "word": "attraction",
+        "meaning": "sự thu hút",
+        "pronounce": "əˈtrækʃən"
+      },
+      {
+        "word": "automatically",
+        "meaning": "tự động",
+        "pronounce": "ˌɔtəˈmætɪkli"
+      },
+      {
+        "word": "award",
+        "meaning": "phần thưởng",
+        "pronounce": "əˈwɔrd"
+      },
+      {
+        "word": "automatic",
+        "meaning": "tự động",
+        "pronounce": "ˌɔtəˈmætɪk"
+      },
+      {
+        "word": "backward",
+        "meaning": "lạc hậu",
+        "pronounce": "ˈbækwərd"
+      },
+      {
+        "word": "aware",
+        "meaning": "nhận thức",
+        "pronounce": "əˈwɛr"
+      },
+      {
+        "word": "average",
+        "meaning": "trung bình",
+        "pronounce": "ˈævərɪʤ"
+      },
+      {
+        "word": "balance",
+        "meaning": "thăng bằng",
+        "pronounce": "ˈbæləns"
+      },
+      {
+        "word": "bake",
+        "meaning": "nướng",
+        "pronounce": "beɪk"
+      },
+      {
+        "word": "bank",
+        "meaning": "ngân hàng",
+        "pronounce": "bæŋk"
+      },
+      {
+        "word": "ban",
+        "meaning": "cấm",
+        "pronounce": "bæn"
+      },
+      {
+        "word": "base",
+        "meaning": "căn cứ",
+        "pronounce": "beɪs"
+      },
+      {
+        "word": "basis",
+        "meaning": "cơ sở",
+        "pronounce": "ˈbeɪsɪs"
+      },
+      {
+        "word": "basic",
+        "meaning": "nền tảng",
+        "pronounce": "ˈbeɪsɪk"
+      },
+      {
+        "word": "battery",
+        "meaning": "ắc quy",
+        "pronounce": "ˈbætəri"
+      },
+      {
+        "word": "battle",
+        "meaning": "trận đánh",
+        "pronounce": "ˈbætəl"
+      },
+      {
+        "word": "beauty",
+        "meaning": "sắc đẹp",
+        "pronounce": "ˈbjuti"
+      },
+      {
+        "word": "belief",
+        "meaning": "sự tin tưởng",
+        "pronounce": "bɪˈlif"
+      },
+      {
+        "word": "bell",
+        "meaning": "chuông",
+        "pronounce": "bɛl"
+      },
+      {
+        "word": "bend",
+        "meaning": "uốn cong",
+        "pronounce": "bɛnd"
+      },
+      {
+        "word": "bee",
+        "meaning": "con ong",
+        "pronounce": "bi"
+      },
+      {
+        "word": "benefit",
+        "meaning": "lợi ích",
+        "pronounce": "ˈbɛnəfɪt"
+      },
+      {
+        "word": "block",
+        "meaning": "khối",
+        "pronounce": "blɑk"
+      },
+      {
+        "word": "bite",
+        "meaning": "cắn",
+        "pronounce": "baɪt"
+      },
+      {
+        "word": "better",
+        "meaning": "tốt hơn",
+        "pronounce": "ˈbɛtər"
+      },
+      {
+        "word": "bomb",
+        "meaning": "bom",
+        "pronounce": "bɔm"
+      },
+      {
+        "word": "bother",
+        "meaning": "làm phiền",
+        "pronounce": "ˈbɑðər"
+      },
+      {
+        "word": "border",
+        "meaning": "ranh giới",
+        "pronounce": "ˈbɔrdər"
+      },
+      {
+        "word": "board",
+        "meaning": "cái bảng",
+        "pronounce": "bɔrd"
+      },
+      {
+        "word": "branch",
+        "meaning": "chi nhánh",
+        "pronounce": "brænʧ"
+      },
+      {
+        "word": "brand",
+        "meaning": "thương hiệu",
+        "pronounce": "brænd"
+      },
+      {
+        "word": "brave",
+        "meaning": "can đảm",
+        "pronounce": "breɪv"
+      },
+      {
+        "word": "breathe",
+        "meaning": "thở",
+        "pronounce": "brið"
+      },
+      {
+        "word": "breath",
+        "meaning": "hơi thở",
+        "pronounce": "brɛθ"
+      },
+      {
+        "word": "breathing",
+        "meaning": "thở",
+        "pronounce": "ˈbriðɪŋ"
+      },
+      {
+        "word": "bubble",
+        "meaning": "bong bóng",
+        "pronounce": "ˈbəbəl"
+      },
+      {
+        "word": "bride",
+        "meaning": "cô dâu",
+        "pronounce": "braɪd"
+      },
+      {
+        "word": "bury",
+        "meaning": "chôn",
+        "pronounce": "ˈbɛri"
+      },
+      {
+        "word": "by",
+        "meaning": "qua",
+        "pronounce": "baɪ"
+      },
+      {
+        "word": "cable",
+        "meaning": "cáp",
+        "pronounce": "ˈkeɪbəl"
+      },
+      {
+        "word": "calm",
+        "meaning": "điềm tĩnh",
+        "pronounce": "kɑm"
+      },
+      {
+        "word": "cap",
+        "meaning": "nắp",
+        "pronounce": "kæp"
+      },
+      {
+        "word": "campaign",
+        "meaning": "chiến dịch",
+        "pronounce": "kæmˈpeɪn"
+      },
+      {
+        "word": "candidate",
+        "meaning": "ứng viên",
+        "pronounce": "ˈkænədɪt"
+      },
+      {
+        "word": "careless",
+        "meaning": "bất cẩn",
+        "pronounce": "ˈkɛrlɛs"
+      },
+      {
+        "word": "ceiling",
+        "meaning": "trần nhà",
+        "pronounce": "ˈsilɪŋ"
+      },
+      {
+        "word": "category",
+        "meaning": "loại",
+        "pronounce": "ˈkætəˌgɔri"
+      },
+      {
+        "word": "captain",
+        "meaning": "đội trưởng",
+        "pronounce": "ˈkæptən"
+      },
+      {
+        "word": "center",
+        "meaning": "trung tâm",
+        "pronounce": "ˈsɛnər"
+      },
+      {
+        "word": "celebration",
+        "meaning": "lễ ăn mừng",
+        "pronounce": "ˌsɛləˈbreɪʃən"
+      },
+      {
+        "word": "ceremony",
+        "meaning": "lễ",
+        "pronounce": "ˈsɛrəˌmoʊni"
+      },
+      {
+        "word": "central",
+        "meaning": "trung tâm",
+        "pronounce": "ˈsɛntrəl"
+      },
+      {
+        "word": "chain",
+        "meaning": "xích",
+        "pronounce": "ʧeɪn"
+      },
+      {
+        "word": "chapter",
+        "meaning": "chương",
+        "pronounce": "ˈʧæptər"
+      },
+      {
+        "word": "channel",
+        "meaning": "kênh",
+        "pronounce": "ˈʧænəl"
+      },
+      {
+        "word": "challenge",
+        "meaning": "thử thách",
+        "pronounce": "ˈʧælənʤ"
+      },
+      {
+        "word": "charge",
+        "meaning": "thù lao",
+        "pronounce": "ʧɑrʤ"
+      },
+      {
+        "word": "cheat",
+        "meaning": "gian lận",
+        "pronounce": "ʧit"
+      },
+      {
+        "word": "cheap",
+        "meaning": "rẻ",
+        "pronounce": "ʧip"
+      },
+      {
+        "word": "cheerful",
+        "meaning": "vui vẻ",
+        "pronounce": "ˈʧɪrfəl"
+      },
+      {
+        "word": "chemical",
+        "meaning": "hóa chất",
+        "pronounce": "ˈkɛmɪkəl"
+      },
+      {
+        "word": "chest",
+        "meaning": "ngực",
+        "pronounce": "ʧɛst"
+      },
+      {
+        "word": "childhood",
+        "meaning": "thời thơ ấu",
+        "pronounce": "ˈʧaɪlˌdhʊd"
+      },
+      {
+        "word": "claim",
+        "meaning": "khẳng định",
+        "pronounce": "kleɪm"
+      },
+      {
+        "word": "champion",
+        "meaning": "nhà vô địch",
+        "pronounce": "ˈʧæmpiən"
+      },
+      {
+        "word": "clause",
+        "meaning": "mệnh đề",
+        "pronounce": "klɔz"
+      },
+      {
+        "word": "clear",
+        "meaning": "thông thoáng",
+        "pronounce": "klɪr"
+      },
+      {
+        "word": "click",
+        "meaning": "nhấp",
+        "pronounce": "klɪk"
+      },
+      {
+        "word": "client",
+        "meaning": "khách hàng",
+        "pronounce": "klaɪənt"
+      },
+      {
+        "word": "climb",
+        "meaning": "leo",
+        "pronounce": "klaɪm"
+      },
+      {
+        "word": "clever",
+        "meaning": "thông minh",
+        "pronounce": "ˈklɛvər"
+      },
+      {
+        "word": "clue",
+        "meaning": "manh mối",
+        "pronounce": "klu"
+      },
+      {
+        "word": "close",
+        "meaning": "đóng",
+        "pronounce": "kloʊz"
+      },
+      {
+        "word": "coach",
+        "meaning": "huấn luyện viên",
+        "pronounce": "koʊʧ"
+      },
+      {
+        "word": "coal",
+        "meaning": "than",
+        "pronounce": "koʊl"
+      },
+      {
+        "word": "coin",
+        "meaning": "tiền xu",
+        "pronounce": "kɔɪn"
+      },
+      {
+        "word": "collection",
+        "meaning": "bộ sưu tập",
+        "pronounce": "kəˈlɛkʃən"
+      },
+      {
+        "word": "cloth",
+        "meaning": "vải",
+        "pronounce": "klɔθ"
+      },
+      {
+        "word": "colored",
+        "meaning": "màu",
+        "pronounce": "ˈkələrd"
+      },
+      {
+        "word": "combine",
+        "meaning": "kết hợp",
+        "pronounce": "ˈkɑmbaɪn"
+      },
+      {
+        "word": "comment",
+        "meaning": "bình luận",
+        "pronounce": "ˈkɑmɛnt"
+      },
+      {
+        "word": "commercial",
+        "meaning": "thuộc về thương mại",
+        "pronounce": "kəˈmərʃəl"
+      },
+      {
+        "word": "comparison",
+        "meaning": "so sánh",
+        "pronounce": "kəmˈpɛrəsən"
+      },
+      {
+        "word": "commit",
+        "meaning": "làm",
+        "pronounce": "kəˈmɪt"
+      },
+      {
+        "word": "communication",
+        "meaning": "giao tiếp",
+        "pronounce": "kəmˌjunəˈkeɪʃən"
+      },
+      {
+        "word": "competitive",
+        "meaning": "cạnh tranh",
+        "pronounce": "kəmˈpɛtɪtɪv"
+      },
+      {
+        "word": "competitor",
+        "meaning": "đối thủ cạnh tranh",
+        "pronounce": "kəmˈpɛtɪtər"
+      },
+      {
+        "word": "concentrate",
+        "meaning": "tập trung",
+        "pronounce": "ˈkɑnsənˌtreɪt"
+      },
+      {
+        "word": "complaint",
+        "meaning": "lời phàn nàn",
+        "pronounce": "kəmˈpleɪnt"
+      },
+      {
+        "word": "complex",
+        "meaning": "tổ hợp",
+        "pronounce": "ˈkɑmplɛks"
+      },
+      {
+        "word": "conclusion",
+        "meaning": "phần kết luận",
+        "pronounce": "kənˈkluʒən"
+      },
+      {
+        "word": "conclude",
+        "meaning": "kết luận",
+        "pronounce": "kənˈklud"
+      },
+      {
+        "word": "confident",
+        "meaning": "tự tin",
+        "pronounce": "ˈkɑnfədənt"
+      },
+      {
+        "word": "confirm",
+        "meaning": "xác nhận",
+        "pronounce": "kənˈfərm"
+      },
+      {
+        "word": "confuse",
+        "meaning": "bối rối",
+        "pronounce": "kənfˈjuz"
+      },
+      {
+        "word": "connection",
+        "meaning": "sự liên quan",
+        "pronounce": "kəˈnɛkʃən"
+      },
+      {
+        "word": "confused",
+        "meaning": "bối rối",
+        "pronounce": "kənfˈjuzd"
+      },
+      {
+        "word": "consequence",
+        "meaning": "kết quả",
+        "pronounce": "ˈkɑnsəkwəns"
+      },
+      {
+        "word": "consume",
+        "meaning": "tiêu thụ",
+        "pronounce": "kənˈsum"
+      },
+      {
+        "word": "consist",
+        "meaning": "bao gồm",
+        "pronounce": "kənˈsɪst"
+      },
+      {
+        "word": "container",
+        "meaning": "container",
+        "pronounce": "kənˈteɪnər"
+      },
+      {
+        "word": "contact",
+        "meaning": "liên hệ",
+        "pronounce": "ˈkɑnˌtækt"
+      },
+      {
+        "word": "content",
+        "meaning": "nội dung",
+        "pronounce": "ˈkɑntɛnt"
+      },
+      {
+        "word": "continuous",
+        "meaning": "liên tục",
+        "pronounce": "kənˈtɪnjuəs"
+      },
+      {
+        "word": "consumer",
+        "meaning": "người tiêu dùng",
+        "pronounce": "kənˈsumər"
+      },
+      {
+        "word": "contrast",
+        "meaning": "sự tương phản",
+        "pronounce": "ˈkɑntræst"
+      },
+      {
+        "word": "convenient",
+        "meaning": "thuận lợi",
+        "pronounce": "kənˈvinjənt"
+      },
+      {
+        "word": "convince",
+        "meaning": "thuyết phục",
+        "pronounce": "kənˈvɪns"
+      },
+      {
+        "word": "cool",
+        "meaning": "mát mẻ",
+        "pronounce": "kul"
+      },
+      {
+        "word": "corn",
+        "meaning": "ngô",
+        "pronounce": "kɔrn"
+      },
+      {
+        "word": "cotton",
+        "meaning": "bông",
+        "pronounce": "ˈkɔtən"
+      },
+      {
+        "word": "costume",
+        "meaning": "trang phục",
+        "pronounce": "ˈkɑstum"
+      },
+      {
+        "word": "countryside",
+        "meaning": "nông thôn",
+        "pronounce": "ˈkəntriˌsaɪd"
+      },
+      {
+        "word": "court",
+        "meaning": "tòa án",
+        "pronounce": "kɔrt"
+      },
+      {
+        "word": "count",
+        "meaning": "đếm",
+        "pronounce": "kaʊnt"
+      },
+      {
+        "word": "cover",
+        "meaning": "che phủ",
+        "pronounce": "ˈkəvər"
+      },
+      {
+        "word": "cream",
+        "meaning": "kem",
+        "pronounce": "krim"
+      },
+      {
+        "word": "criminal",
+        "meaning": "tội phạm",
+        "pronounce": "ˈkrɪmənəl"
+      },
+      {
+        "word": "cultural",
+        "meaning": "thuộc văn hóa",
+        "pronounce": "ˈkəlʧərəl"
+      },
+      {
+        "word": "cruel",
+        "meaning": "tàn nhẫn",
+        "pronounce": "kruəl"
+      },
+      {
+        "word": "covered",
+        "meaning": "bao phủ",
+        "pronounce": "ˈkəvərd"
+      },
+      {
+        "word": "currency",
+        "meaning": "tiền tệ",
+        "pronounce": "ˈkərənsi"
+      },
+      {
+        "word": "cupboard",
+        "meaning": "cái tủ",
+        "pronounce": "ˈkəbərd"
+      },
+      {
+        "word": "currently",
+        "meaning": "hiện nay",
+        "pronounce": "ˈkərəntli"
+      },
+      {
+        "word": "current",
+        "meaning": "hiện hành",
+        "pronounce": "ˈkɑrənt"
+      },
+      {
+        "word": "curtain",
+        "meaning": "tấm màn",
+        "pronounce": "ˈkərtən"
+      },
+      {
+        "word": "cut",
+        "meaning": "cắt",
+        "pronounce": "kət"
+      },
+      {
+        "word": "damage",
+        "meaning": "hư hại",
+        "pronounce": "ˈdæmɪʤ"
+      },
+      {
+        "word": "deal",
+        "meaning": "thỏa thuận",
+        "pronounce": "dil"
+      },
+      {
+        "word": "daily",
+        "meaning": "hằng ngày",
+        "pronounce": "ˈdeɪli"
+      },
+      {
+        "word": "define",
+        "meaning": "định nghĩa",
+        "pronounce": "dɪˈfaɪn"
+      },
+      {
+        "word": "decade",
+        "meaning": "thập kỷ",
+        "pronounce": "ˈdɛkeɪd"
+      },
+      {
+        "word": "deep",
+        "meaning": "sâu",
+        "pronounce": "dip"
+      },
+      {
+        "word": "definite",
+        "meaning": "chắc chắn",
+        "pronounce": "ˈdɛfənət"
+      },
+      {
+        "word": "custom",
+        "meaning": "phong tục",
+        "pronounce": "ˈkəstəm"
+      },
+      {
+        "word": "definition",
+        "meaning": "sự định nghĩa",
+        "pronounce": "ˌdɛfəˈnɪʃən"
+      },
+      {
+        "word": "deliver",
+        "meaning": "giao",
+        "pronounce": "dɪˈlɪvər"
+      },
+      {
+        "word": "departure",
+        "meaning": "sự khởi hành",
+        "pronounce": "dɪˈpɑrʧər"
+      },
+      {
+        "word": "destination",
+        "meaning": "điểm đến",
+        "pronounce": "ˌdɛstɪˈneɪʃən"
+      },
+      {
+        "word": "determined",
+        "meaning": "xác định",
+        "pronounce": "dɪˈtərmənd"
+      },
+      {
+        "word": "determine",
+        "meaning": "quyết tâm",
+        "pronounce": "dɪˈtərmən"
+      },
+      {
+        "word": "development",
+        "meaning": "phát triển",
+        "pronounce": "dɪˈvɛləpmənt"
+      },
+      {
+        "word": "diamond",
+        "meaning": "kim cương",
+        "pronounce": "ˈdaɪmənd"
+      },
+      {
+        "word": "diagram",
+        "meaning": "sơ đồ",
+        "pronounce": "ˈdaɪəˌgræm"
+      },
+      {
+        "word": "difficulty",
+        "meaning": "khó khăn",
+        "pronounce": "ˈdɪfɪˌkəlti"
+      },
+      {
+        "word": "direct",
+        "meaning": "trực tiếp",
+        "pronounce": "dɪˈrɛkt"
+      },
+      {
+        "word": "despite",
+        "meaning": "cho dù",
+        "pronounce": "dɪˈspaɪt"
+      },
+      {
+        "word": "directly",
+        "meaning": "trực tiếp",
+        "pronounce": "dɪˈrɛkli"
+      },
+      {
+        "word": "disappointed",
+        "meaning": "thất vọng",
+        "pronounce": "ˌdɪsəˈpɔɪnɪd"
+      },
+      {
+        "word": "disappointing",
+        "meaning": "thất vọng",
+        "pronounce": "ˌdɪsəˈpɔɪnɪŋ"
+      },
+      {
+        "word": "dirt",
+        "meaning": "bụi bẩn",
+        "pronounce": "dərt"
+      },
+      {
+        "word": "disadvantage",
+        "meaning": "điều bất lợi",
+        "pronounce": "ˌdɪsədˈvænɪʤ"
+      },
+      {
+        "word": "discount",
+        "meaning": "giảm giá",
+        "pronounce": "ˈdɪskaʊnt"
+      },
+      {
+        "word": "dislike",
+        "meaning": "không thích",
+        "pronounce": "dɪsˈlaɪk"
+      },
+      {
+        "word": "divide",
+        "meaning": "chia",
+        "pronounce": "dɪˈvaɪd"
+      },
+      {
+        "word": "district",
+        "meaning": "huyện",
+        "pronounce": "ˈdɪstrɪkt"
+      },
+      {
+        "word": "documentary",
+        "meaning": "phim tài liệu",
+        "pronounce": "ˌdɑkjəˈmɛnəri"
+      },
+      {
+        "word": "donate",
+        "meaning": "quyên tặng",
+        "pronounce": "ˈdoʊˌneɪt"
+      },
+      {
+        "word": "double",
+        "meaning": "gấp đôi",
+        "pronounce": "ˈdəbəl"
+      },
+      {
+        "word": "dressed",
+        "meaning": "mặc quần áo",
+        "pronounce": "drɛst"
+      },
+      {
+        "word": "doubt",
+        "meaning": "nghi ngờ",
+        "pronounce": "daʊt"
+      },
+      {
+        "word": "drop",
+        "meaning": "làm rơi",
+        "pronounce": "drɔp"
+      },
+      {
+        "word": "drum",
+        "meaning": "cái trống",
+        "pronounce": "drəm"
+      },
+      {
+        "word": "drunk",
+        "meaning": "say rượu",
+        "pronounce": "drəŋk"
+      },
+      {
+        "word": "dust",
+        "meaning": "bụi",
+        "pronounce": "dəst"
+      },
+      {
+        "word": "duty",
+        "meaning": "nhiệm vụ",
+        "pronounce": "ˈduti"
+      },
+      {
+        "word": "earthquake",
+        "meaning": "động đất",
+        "pronounce": "ˈərθkˌweɪk"
+      },
+      {
+        "word": "due",
+        "meaning": "quá hạn",
+        "pronounce": "du"
+      },
+      {
+        "word": "economic",
+        "meaning": "thuộc kinh tế",
+        "pronounce": "ˌɛkəˈnɑmɪk"
+      },
+      {
+        "word": "eastern",
+        "meaning": "phía đông",
+        "pronounce": "ˈistərn"
+      },
+      {
+        "word": "economy",
+        "meaning": "kinh tế",
+        "pronounce": "ɪˈkɑnəmi"
+      },
+      {
+        "word": "edge",
+        "meaning": "bờ rìa",
+        "pronounce": "ɛʤ"
+      },
+      {
+        "word": "editor",
+        "meaning": "biên tập viên",
+        "pronounce": "ˈɛdɪtər"
+      },
+      {
+        "word": "educate",
+        "meaning": "giáo dục",
+        "pronounce": "ˈɛʤəˌkeɪt"
+      },
+      {
+        "word": "educational",
+        "meaning": "giáo dục",
+        "pronounce": "ˌɛʤəˈkeɪʃənəl"
+      },
+      {
+        "word": "effective",
+        "meaning": "hiệu quả",
+        "pronounce": "ˈifɛktɪv"
+      },
+      {
+        "word": "educated",
+        "meaning": "được giáo dục",
+        "pronounce": "ˈɛʤəˌkeɪtɪd"
+      },
+      {
+        "word": "effectively",
+        "meaning": "có hiệu quả",
+        "pronounce": "ˈifɛktɪvli"
+      },
+      {
+        "word": "election",
+        "meaning": "bầu cử",
+        "pronounce": "ɪˈlɛkʃən"
+      },
+      {
+        "word": "effort",
+        "meaning": "cố gắng",
+        "pronounce": "ˈɛfərt"
+      },
+      {
+        "word": "embarrassing",
+        "meaning": "xấu hổ",
+        "pronounce": "ɪmˈbɛrəsɪŋ"
+      },
+      {
+        "word": "element",
+        "meaning": "yếu tố",
+        "pronounce": "ˈɛləmənt"
+      },
+      {
+        "word": "embarrassed",
+        "meaning": "lúng túng",
+        "pronounce": "ɪmˈbɛrəst"
+      },
+      {
+        "word": "emergency",
+        "meaning": "khẩn cấp",
+        "pronounce": "ˈimərʤənsi"
+      },
+      {
+        "word": "emotion",
+        "meaning": "cảm xúc",
+        "pronounce": "ˈiˌmoʊʃən"
+      },
+      {
+        "word": "employment",
+        "meaning": "thuê người làm",
+        "pronounce": "ɪmˈplɔɪmənt"
+      },
+      {
+        "word": "empty",
+        "meaning": "trống",
+        "pronounce": "ˈɛmti"
+      },
+      {
+        "word": "encourage",
+        "meaning": "khuyến khích",
+        "pronounce": "ɪnˈkərəʤ"
+      },
+      {
+        "word": "enemy",
+        "meaning": "kẻ thù",
+        "pronounce": "ˈɛnəmi"
+      },
+      {
+        "word": "entertain",
+        "meaning": "giải trí",
+        "pronounce": "ˌɛnərˈteɪn"
+      },
+      {
+        "word": "engaged",
+        "meaning": "đính hôn",
+        "pronounce": "ɪnˈgeɪʤd"
+      },
+      {
+        "word": "engineering",
+        "meaning": "kỹ thuật",
+        "pronounce": "ˈɛnʤəˈnɪrɪŋ"
+      },
+      {
+        "word": "entrance",
+        "meaning": "cổng vào",
+        "pronounce": "ˈɛntrəns"
+      },
+      {
+        "word": "entertainment",
+        "meaning": "sự giải trí",
+        "pronounce": "ˌɛnərˈteɪnmənt"
+      },
+      {
+        "word": "entry",
+        "meaning": "lối vào",
+        "pronounce": "ˈɛntri"
+      },
+      {
+        "word": "environmental",
+        "meaning": "môi trường",
+        "pronounce": "ɪnˌvaɪrənˈmɛnəl"
+      },
+      {
+        "word": "episode",
+        "meaning": "tập",
+        "pronounce": "ˈɛpɪˌsoʊd"
+      },
+      {
+        "word": "equally",
+        "meaning": "công bằng",
+        "pronounce": "ˈikwəli"
+      },
+      {
+        "word": "essential",
+        "meaning": "thiết yếu",
+        "pronounce": "ɛˈsɛnʃəl"
+      },
+      {
+        "word": "escape",
+        "meaning": "bỏ trốn",
+        "pronounce": "ɪˈskeɪp"
+      },
+      {
+        "word": "equal",
+        "meaning": "bình đẳng",
+        "pronounce": "ˈikwəl"
+      },
+      {
+        "word": "eventually",
+        "meaning": "sau cùng",
+        "pronounce": "ɪˈvɛnʧəwəli"
+      },
+      {
+        "word": "examine",
+        "meaning": "nghiên cứu",
+        "pronounce": "ɪgˈzæmɪn"
+      },
+      {
+        "word": "exchange",
+        "meaning": "trao đổi",
+        "pronounce": "ɪksˈʧeɪnʤ"
+      },
+      {
+        "word": "except",
+        "meaning": "ngoại trừ",
+        "pronounce": "ɪkˈsɛpt"
+      },
+      {
+        "word": "excitement",
+        "meaning": "sự phấn khích",
+        "pronounce": "ɪkˈsaɪtmənt"
+      },
+      {
+        "word": "exit",
+        "meaning": "ra",
+        "pronounce": "ˈɛksət"
+      },
+      {
+        "word": "exhibition",
+        "meaning": "triển lãm",
+        "pronounce": "ˌɛksəˈbɪʃən"
+      },
+      {
+        "word": "expected",
+        "meaning": "hy vọng",
+        "pronounce": "ɪkˈspɛktɪd"
+      },
+      {
+        "word": "experienced",
+        "meaning": "có kinh nghiệm",
+        "pronounce": "ɪkˈspɪriənst"
+      },
+      {
+        "word": "expand",
+        "meaning": "mở rộng",
+        "pronounce": "ɪkˈspænd"
+      },
+      {
+        "word": "experience",
+        "meaning": "kinh nghiệm",
+        "pronounce": "ɪkˈspɪriəns"
+      },
+      {
+        "word": "experiment",
+        "meaning": "cuộc thí nghiệm",
+        "pronounce": "ɪkˈspɛrəmənt"
+      },
+      {
+        "word": "explode",
+        "meaning": "nổ tung",
+        "pronounce": "ɪkˈsploʊd"
+      },
+      {
+        "word": "explore",
+        "meaning": "khám phá",
+        "pronounce": "ɪkˈsplɔr"
+      },
+      {
+        "word": "explosion",
+        "meaning": "vụ nổ",
+        "pronounce": "ɪkˈsploʊʒən"
+      },
+      {
+        "word": "face",
+        "meaning": "khuôn mặt",
+        "pronounce": "feɪs"
+      },
+      {
+        "word": "extra",
+        "meaning": "thêm",
+        "pronounce": "ˈɛkstrə"
+      },
+      {
+        "word": "export",
+        "meaning": "xuất khẩu",
+        "pronounce": "ˈɛkspɔrt"
+      },
+      {
+        "word": "fairly",
+        "meaning": "công bằng",
+        "pronounce": "ˈfɛrli"
+      },
+      {
+        "word": "far",
+        "meaning": "xa",
+        "pronounce": "fɑr"
+      },
+      {
+        "word": "familiar",
+        "meaning": "thân thuộc",
+        "pronounce": "fəˈmɪljər"
+      },
+      {
+        "word": "fascinating",
+        "meaning": "lôi cuốn",
+        "pronounce": "ˈfæsəˌneɪtɪŋ"
+      },
+      {
+        "word": "fashionable",
+        "meaning": "thời trang",
+        "pronounce": "ˈfæʃənəbəl"
+      },
+      {
+        "word": "fancy",
+        "meaning": "si mê",
+        "pronounce": "ˈfænsi"
+      },
+      {
+        "word": "fasten",
+        "meaning": "buộc chặt",
+        "pronounce": "ˈfæsən"
+      },
+      {
+        "word": "fear",
+        "meaning": "nỗi sợ",
+        "pronounce": "fɪr"
+      },
+      {
+        "word": "federal",
+        "meaning": "liên bang",
+        "pronounce": "ˈfɛdərəl"
+      },
+      {
+        "word": "feature",
+        "meaning": "tính năng",
+        "pronounce": "ˈfiʧər"
+      },
+      {
+        "word": "favor",
+        "meaning": "ưu ái",
+        "pronounce": "ˈfeɪvər"
+      },
+      {
+        "word": "fighting",
+        "meaning": "chiến đấu",
+        "pronounce": "ˈfaɪtɪŋ"
+      },
+      {
+        "word": "file",
+        "meaning": "tài liệu",
+        "pronounce": "faɪl"
+      },
+      {
+        "word": "financial",
+        "meaning": "tài chính",
+        "pronounce": "ˌfaɪˈnænʃəl"
+      },
+      {
+        "word": "fitness",
+        "meaning": "sự thích hợp",
+        "pronounce": "ˈfɪtnəs"
+      },
+      {
+        "word": "fixed",
+        "meaning": "đã sửa",
+        "pronounce": "fɪkst"
+      },
+      {
+        "word": "flag",
+        "meaning": "lá cờ",
+        "pronounce": "flæg"
+      },
+      {
+        "word": "fence",
+        "meaning": "hàng rào",
+        "pronounce": "fɛns"
+      },
+      {
+        "word": "flood",
+        "meaning": "lụt",
+        "pronounce": "fləd"
+      },
+      {
+        "word": "flow",
+        "meaning": "chảy",
+        "pronounce": "floʊ"
+      },
+      {
+        "word": "fold",
+        "meaning": "nếp gấp",
+        "pronounce": "foʊld"
+      },
+      {
+        "word": "flour",
+        "meaning": "bột mì",
+        "pronounce": "flaʊər"
+      },
+      {
+        "word": "folk",
+        "meaning": "dân gian",
+        "pronounce": "foʊk"
+      },
+      {
+        "word": "force",
+        "meaning": "lực lượng",
+        "pronounce": "fɔrs"
+      },
+      {
+        "word": "following",
+        "meaning": "tiếp theo",
+        "pronounce": "ˈfɑloʊɪŋ"
+      },
+      {
+        "word": "forever",
+        "meaning": "mãi mãi",
+        "pronounce": "fərˈɛvər"
+      },
+      {
+        "word": "frame",
+        "meaning": "khung",
+        "pronounce": "freɪm"
+      },
+      {
+        "word": "frequently",
+        "meaning": "thường xuyên",
+        "pronounce": "ˈfrikwɛntli"
+      },
+      {
+        "word": "freeze",
+        "meaning": "đông cứng",
+        "pronounce": "friz"
+      },
+      {
+        "word": "friendship",
+        "meaning": "tình bạn",
+        "pronounce": "ˈfrɛndʃɪp"
+      },
+      {
+        "word": "frighten",
+        "meaning": "sợ hãi",
+        "pronounce": "ˈfraɪtən"
+      },
+      {
+        "word": "frightening",
+        "meaning": "đáng sợ",
+        "pronounce": "ˈfraɪtənɪŋ"
+      },
+      {
+        "word": "frightened",
+        "meaning": "sợ sệt",
+        "pronounce": "ˈfraɪtənd"
+      },
+      {
+        "word": "frozen",
+        "meaning": "đóng băng",
+        "pronounce": "ˈfroʊzən"
+      },
+      {
+        "word": "fry",
+        "meaning": "chiên rán",
+        "pronounce": "fraɪ"
+      },
+      {
+        "word": "fuel",
+        "meaning": "nhiên liệu",
+        "pronounce": "fjuəl"
+      },
+      {
+        "word": "function",
+        "meaning": "chức năng",
+        "pronounce": "ˈfəŋkʃən"
+      },
+      {
+        "word": "garage",
+        "meaning": "ga-ra",
+        "pronounce": "gərɑʒ"
+      },
+      {
+        "word": "fur",
+        "meaning": "lông thú",
+        "pronounce": "fər"
+      },
+      {
+        "word": "further",
+        "meaning": "hơn nữa",
+        "pronounce": "ˈfərðər"
+      },
+      {
+        "word": "gather",
+        "meaning": "tập trung",
+        "pronounce": "ˈgæðər"
+      },
+      {
+        "word": "generally",
+        "meaning": "nói chung là",
+        "pronounce": "ˈʤɛnərəli"
+      },
+      {
+        "word": "generous",
+        "meaning": "hào phóng",
+        "pronounce": "ˈʤɛnərəs"
+      },
+      {
+        "word": "gentle",
+        "meaning": "dịu dàng",
+        "pronounce": "ˈʤɛnəl"
+      },
+      {
+        "word": "gentleman",
+        "meaning": "quý ông",
+        "pronounce": "ˈʤɛnəlmən"
+      },
+      {
+        "word": "ghost",
+        "meaning": "bóng ma",
+        "pronounce": "goʊst"
+      },
+      {
+        "word": "giant",
+        "meaning": "người khổng lồ",
+        "pronounce": "ʤaɪənt"
+      },
+      {
+        "word": "glove",
+        "meaning": "găng tay",
+        "pronounce": "gləv"
+      },
+      {
+        "word": "global",
+        "meaning": "toàn cầu",
+        "pronounce": "ˈgloʊbəl"
+      },
+      {
+        "word": "go",
+        "meaning": "đi",
+        "pronounce": "goʊ"
+      },
+      {
+        "word": "glad",
+        "meaning": "vui mừng",
+        "pronounce": "glæd"
+      },
+      {
+        "word": "grade",
+        "meaning": "cấp",
+        "pronounce": "greɪd"
+      },
+      {
+        "word": "generation",
+        "meaning": "thế hệ",
+        "pronounce": "ˌʤɛnərˈeɪʃən"
+      },
+      {
+        "word": "graduate",
+        "meaning": "tốt nghiệp",
+        "pronounce": "ˈgræʤəˌweɪt"
+      },
+      {
+        "word": "grain",
+        "meaning": "ngũ cốc",
+        "pronounce": "greɪn"
+      },
+      {
+        "word": "grateful",
+        "meaning": "tri ân",
+        "pronounce": "ˈgreɪtfəl"
+      },
+      {
+        "word": "growth",
+        "meaning": "sự phát triển",
+        "pronounce": "groʊθ"
+      },
+      {
+        "word": "guard",
+        "meaning": "bảo vệ",
+        "pronounce": "gɑrd"
+      },
+      {
+        "word": "guilty",
+        "meaning": "tội lỗi",
+        "pronounce": "ˈgɪlti"
+      },
+      {
+        "word": "hand",
+        "meaning": "tay",
+        "pronounce": "hænd"
+      },
+      {
+        "word": "happiness",
+        "meaning": "niềm hạnh phúc",
+        "pronounce": "ˈhæpinəs"
+      },
+      {
+        "word": "hang",
+        "meaning": "treo",
+        "pronounce": "hæŋ"
+      },
+      {
+        "word": "hate",
+        "meaning": "ghét",
+        "pronounce": "heɪt"
+      },
+      {
+        "word": "hardly",
+        "meaning": "khắc nghiệt",
+        "pronounce": "ˈhɑrdli"
+      },
+      {
+        "word": "head",
+        "meaning": "cái đầu",
+        "pronounce": "hɛd"
+      },
+      {
+        "word": "headline",
+        "meaning": "tiêu đề",
+        "pronounce": "ˈhɛˌdlaɪn"
+      },
+      {
+        "word": "heating",
+        "meaning": "sưởi ấm",
+        "pronounce": "ˈhitɪŋ"
+      },
+      {
+        "word": "heavily",
+        "meaning": "nặng nề",
+        "pronounce": "ˈhɛvəli"
+      },
+      {
+        "word": "highlight",
+        "meaning": "điểm nổi bật",
+        "pronounce": "ˈhaɪˌlaɪt"
+      },
+      {
+        "word": "highly",
+        "meaning": "rất cao",
+        "pronounce": "ˈhaɪli"
+      },
+      {
+        "word": "helicopter",
+        "meaning": "trực thăng",
+        "pronounce": "ˈhɛlɪˌkɑptər"
+      },
+      {
+        "word": "highway",
+        "meaning": "đường cao tốc",
+        "pronounce": "ˈhaɪˌweɪ"
+      },
+      {
+        "word": "historical",
+        "meaning": "lịch sử",
+        "pronounce": "hɪˈstɔrɪkəl"
+      },
+      {
+        "word": "hire",
+        "meaning": "thuê",
+        "pronounce": "haɪər"
+      },
+      {
+        "word": "honest",
+        "meaning": "trung thực",
+        "pronounce": "ˈɑnəst"
+      },
+      {
+        "word": "horrible",
+        "meaning": "tệ hại",
+        "pronounce": "ˈhɔrəbəl"
+      },
+      {
+        "word": "horror",
+        "meaning": "kinh dị",
+        "pronounce": "ˈhɔrər"
+      },
+      {
+        "word": "host",
+        "meaning": "chủ nhà",
+        "pronounce": "hoʊst"
+      },
+      {
+        "word": "hunt",
+        "meaning": "đi săn",
+        "pronounce": "hənt"
+      },
+      {
+        "word": "historic",
+        "meaning": "lịch sử",
+        "pronounce": "hɪˈstɔrɪk"
+      },
+      {
+        "word": "hurricane",
+        "meaning": "bão",
+        "pronounce": "ˈhərəˌkeɪnz"
+      },
+      {
+        "word": "hurry",
+        "meaning": "sự vội vàng",
+        "pronounce": "ˈhəri"
+      },
+      {
+        "word": "identity",
+        "meaning": "danh tính",
+        "pronounce": "aɪˈdɛntəˌti"
+      },
+      {
+        "word": "illegal",
+        "meaning": "bất hợp pháp",
+        "pronounce": "ˌɪˈligəl"
+      },
+      {
+        "word": "ignore",
+        "meaning": "phớt lờ",
+        "pronounce": "ˌɪgˈnɔr"
+      },
+      {
+        "word": "imaginary",
+        "meaning": "tưởng tượng",
+        "pronounce": "ˌɪˈmæʤəˌnɛri"
+      },
+      {
+        "word": "impact",
+        "meaning": "sự va chạm",
+        "pronounce": "ˌɪmˈpækt"
+      },
+      {
+        "word": "immigrant",
+        "meaning": "người nhập cư",
+        "pronounce": "ˈɪməgrənt"
+      },
+      {
+        "word": "impression",
+        "meaning": "ấn tượng",
+        "pronounce": "ˌɪmˈprɛʃən"
+      },
+      {
+        "word": "import",
+        "meaning": "nhập khẩu",
+        "pronounce": "ˌɪmˈpɔrt"
+      },
+      {
+        "word": "impressive",
+        "meaning": "ấn tượng",
+        "pronounce": "ˌɪmˈprɛsɪv"
+      },
+      {
+        "word": "importance",
+        "meaning": "tầm quan trọng",
+        "pronounce": "ˌɪmˈpɔrtəns"
+      },
+      {
+        "word": "immediate",
+        "meaning": "ngay lập tức",
+        "pronounce": "ˌɪˈmiˌdiət"
+      },
+      {
+        "word": "improvement",
+        "meaning": "sự cải tiến",
+        "pronounce": "ˌɪmˈpruvmənt"
+      },
+      {
+        "word": "incredibly",
+        "meaning": "vô cùng",
+        "pronounce": "ˌɪnˈkrɛdəbli"
+      },
+      {
+        "word": "indeed",
+        "meaning": "thực vậy",
+        "pronounce": "ˌɪnˈdid"
+      },
+      {
+        "word": "indicate",
+        "meaning": "biểu thị",
+        "pronounce": "ˈɪndəˌkeɪt"
+      },
+      {
+        "word": "indirect",
+        "meaning": "gián tiếp",
+        "pronounce": "ˌɪndərˈɛkt"
+      },
+      {
+        "word": "indoor",
+        "meaning": "trong nhà",
+        "pronounce": "ˈɪnˌdɔr"
+      },
+      {
+        "word": "indoors",
+        "meaning": "trong nhà",
+        "pronounce": "ˈɪnˌdɔrz"
+      },
+      {
+        "word": "ingredient",
+        "meaning": "nguyên liệu",
+        "pronounce": "ˌɪnˈgridiənt"
+      },
+      {
+        "word": "influence",
+        "meaning": "ảnh hưởng",
+        "pronounce": "ˈɪnfluəns"
+      },
+      {
+        "word": "injure",
+        "meaning": "làm bị thương",
+        "pronounce": "ˈɪnʤər"
+      },
+      {
+        "word": "injured",
+        "meaning": "bị thương",
+        "pronounce": "ˈɪnʤərd"
+      },
+      {
+        "word": "intelligence",
+        "meaning": "trí thông minh",
+        "pronounce": "ˌɪnˈtɛləʤəns"
+      },
+      {
+        "word": "innocent",
+        "meaning": "vô tội",
+        "pronounce": "ˈɪnəsənt"
+      },
+      {
+        "word": "intend",
+        "meaning": "có ý định",
+        "pronounce": "ˌɪnˈtɛnd"
+      },
+      {
+        "word": "invest",
+        "meaning": "đầu tư",
+        "pronounce": "ˌɪnˈvɛst"
+      },
+      {
+        "word": "intention",
+        "meaning": "chủ đích",
+        "pronounce": "ˌɪnˈtɛnʧən"
+      },
+      {
+        "word": "investigate",
+        "meaning": "khảo sát",
+        "pronounce": "ˌɪnˈvɛstəˌgeɪt"
+      },
+      {
+        "word": "iron",
+        "meaning": "sắt",
+        "pronounce": "aɪərn"
+      },
+      {
+        "word": "involved",
+        "meaning": "có liên quan",
+        "pronounce": "ˌɪnˈvɑlvd"
+      },
+      {
+        "word": "issue",
+        "meaning": "vấn đề",
+        "pronounce": "ˈɪʃu"
+      },
+      {
+        "word": "IT",
+        "meaning": "nó",
+        "pronounce": "ɪt"
+      },
+      {
+        "word": "journey",
+        "meaning": "hành trình",
+        "pronounce": "ˈʤərni"
+      },
+      {
+        "word": "judge",
+        "meaning": "phán xét",
+        "pronounce": "ʤəʤ"
+      },
+      {
+        "word": "journal",
+        "meaning": "tạp chí",
+        "pronounce": "ˈʤərnəl"
+      },
+      {
+        "word": "key",
+        "meaning": "chìa khóa",
+        "pronounce": "ki"
+      },
+      {
+        "word": "keyboard",
+        "meaning": "bàn phím",
+        "pronounce": "ˈkiˌbɔrd"
+      },
+      {
+        "word": "kick",
+        "meaning": "đá",
+        "pronounce": "kɪk"
+      },
+      {
+        "word": "killing",
+        "meaning": "giết người",
+        "pronounce": "ˈkɪlɪŋ"
+      },
+      {
+        "word": "kind",
+        "meaning": "loại",
+        "pronounce": "kaɪnd"
+      },
+      {
+        "word": "knock",
+        "meaning": "cú đánh",
+        "pronounce": "nɑk"
+      },
+      {
+        "word": "kiss",
+        "meaning": "hôn",
+        "pronounce": "kɪs"
+      },
+      {
+        "word": "laboratory",
+        "meaning": "phòng thí nghiệm",
+        "pronounce": "ˈlæbrəˌtɔri"
+      },
+      {
+        "word": "lack",
+        "meaning": "thiếu",
+        "pronounce": "læk"
+      },
+      {
+        "word": "label",
+        "meaning": "nhãn",
+        "pronounce": "ˈleɪbəl"
+      },
+      {
+        "word": "latest",
+        "meaning": "mới nhất",
+        "pronounce": "ˈleɪtəst"
+      },
+      {
+        "word": "lay",
+        "meaning": "đặt nằm",
+        "pronounce": "leɪ"
+      },
+      {
+        "word": "lead",
+        "meaning": "chỉ huy",
+        "pronounce": "lɛd"
+      },
+      {
+        "word": "leading",
+        "meaning": "dẫn đầu",
+        "pronounce": "ˈlidɪŋ"
+      },
+      {
+        "word": "leaf",
+        "meaning": "lá cây",
+        "pronounce": "lif"
+      },
+      {
+        "word": "legal",
+        "meaning": "hợp pháp",
+        "pronounce": "ˈligəl"
+      },
+      {
+        "word": "layer",
+        "meaning": "lớp",
+        "pronounce": "leɪər"
+      },
+      {
+        "word": "leather",
+        "meaning": "da thú",
+        "pronounce": "ˈlɛðər"
+      },
+      {
+        "word": "leisure",
+        "meaning": "thời gian rảnh rỗi",
+        "pronounce": "ˈlɛʒər"
+      },
+      {
+        "word": "level",
+        "meaning": "mức độ",
+        "pronounce": "ˈlɛvəl"
+      },
+      {
+        "word": "lie",
+        "meaning": "nói dối",
+        "pronounce": "laɪ"
+      },
+      {
+        "word": "length",
+        "meaning": "chiều dài",
+        "pronounce": "lɛŋθ"
+      },
+      {
+        "word": "limit",
+        "meaning": "giới hạn",
+        "pronounce": "ˈlɪmət"
+      },
+      {
+        "word": "like",
+        "meaning": "giống",
+        "pronounce": "laɪk"
+      },
+      {
+        "word": "lip",
+        "meaning": "môi",
+        "pronounce": "lɪp"
+      },
+      {
+        "word": "liquid",
+        "meaning": "chất lỏng",
+        "pronounce": "ˈlɪkwɪd"
+      },
+      {
+        "word": "literature",
+        "meaning": "văn học",
+        "pronounce": "ˈlɪtərəʧər"
+      },
+      {
+        "word": "living",
+        "meaning": "cuộc sống",
+        "pronounce": "ˈlɪvɪŋ"
+      },
+      {
+        "word": "live",
+        "meaning": "sống",
+        "pronounce": "lɪv"
+      },
+      {
+        "word": "local",
+        "meaning": "địa phương",
+        "pronounce": "ˈloʊkəl"
+      },
+      {
+        "word": "locate",
+        "meaning": "định vị",
+        "pronounce": "ˈloʊˌkeɪt"
+      },
+      {
+        "word": "location",
+        "meaning": "vị trí",
+        "pronounce": "loʊˈkeɪʃən"
+      },
+      {
+        "word": "loss",
+        "meaning": "sự mất mát",
+        "pronounce": "lɔs"
+      },
+      {
+        "word": "located",
+        "meaning": "xác định vị trí",
+        "pronounce": "ˈloʊˌkeɪtəd"
+      },
+      {
+        "word": "lonely",
+        "meaning": "cô đơn",
+        "pronounce": "ˈloʊnli"
+      },
+      {
+        "word": "luxury",
+        "meaning": "sang trọng",
+        "pronounce": "ˈləgʒəri"
+      },
+      {
+        "word": "magic",
+        "meaning": "ảo thuật",
+        "pronounce": "ˈmæʤɪk"
+      },
+      {
+        "word": "mad",
+        "meaning": "điên rồ",
+        "pronounce": "mæd"
+      },
+      {
+        "word": "mainly",
+        "meaning": "chủ yếu",
+        "pronounce": "ˈmeɪnli"
+      },
+      {
+        "word": "management",
+        "meaning": "sự quản lý",
+        "pronounce": "ˈmænɪʤmənt"
+      },
+      {
+        "word": "market",
+        "meaning": "chợ",
+        "pronounce": "ˈmɑrkɪt"
+      },
+      {
+        "word": "marketing",
+        "meaning": "tiếp thị",
+        "pronounce": "ˈmɑrkətɪŋ"
+      },
+      {
+        "word": "medium",
+        "meaning": "trung bình",
+        "pronounce": "ˈmidiəm"
+      },
+      {
+        "word": "measure",
+        "meaning": "đo lường",
+        "pronounce": "ˈmɛʒər"
+      },
+      {
+        "word": "meanwhile",
+        "meaning": "trong khi đó",
+        "pronounce": "ˈminˌwaɪl"
+      },
+      {
+        "word": "marriage",
+        "meaning": "kết hôn",
+        "pronounce": "ˈmɛrɪʤ"
+      },
+      {
+        "word": "mental",
+        "meaning": "tâm thần",
+        "pronounce": "ˈmɛntəl"
+      },
+      {
+        "word": "mention",
+        "meaning": "đề cập đến",
+        "pronounce": "ˈmɛnʃən"
+      },
+      {
+        "word": "mild",
+        "meaning": "nhẹ",
+        "pronounce": "maɪld"
+      },
+      {
+        "word": "mine",
+        "meaning": "của tôi",
+        "pronounce": "maɪn"
+      },
+      {
+        "word": "mess",
+        "meaning": "sự lộn xộn",
+        "pronounce": "mɛs"
+      },
+      {
+        "word": "mix",
+        "meaning": "trộn",
+        "pronounce": "mɪks"
+      },
+      {
+        "word": "mixture",
+        "meaning": "hỗn hợp",
+        "pronounce": "ˈmɪksʧər"
+      },
+      {
+        "word": "move",
+        "meaning": "di chuyển",
+        "pronounce": "muv"
+      },
+      {
+        "word": "mood",
+        "meaning": "tâm trạng",
+        "pronounce": "mud"
+      },
+      {
+        "word": "mud",
+        "meaning": "bùn",
+        "pronounce": "məd"
+      },
+      {
+        "word": "murder",
+        "meaning": "giết người",
+        "pronounce": "ˈmərdər"
+      },
+      {
+        "word": "muscle",
+        "meaning": "cơ bắp",
+        "pronounce": "ˈməsəl"
+      },
+      {
+        "word": "mystery",
+        "meaning": "bí ẩn",
+        "pronounce": "ˈmɪstəri"
+      },
+      {
+        "word": "musical",
+        "meaning": "âm nhạc",
+        "pronounce": "mˈjuzɪkəl"
+      },
+      {
+        "word": "nail",
+        "meaning": "móng tay",
+        "pronounce": "neɪl"
+      },
+      {
+        "word": "necessarily",
+        "meaning": "nhất thiết",
+        "pronounce": "ˌnɛsəˈsɛrəli"
+      },
+      {
+        "word": "narrative",
+        "meaning": "chuyện kể",
+        "pronounce": "ˈnɛrətɪv"
+      },
+      {
+        "word": "neat",
+        "meaning": "gọn gàng",
+        "pronounce": "nit"
+      },
+      {
+        "word": "nation",
+        "meaning": "quốc gia",
+        "pronounce": "ˈneɪʃən"
+      },
+      {
+        "word": "native",
+        "meaning": "tự nhiên",
+        "pronounce": "ˈneɪtɪv"
+      },
+      {
+        "word": "naturally",
+        "meaning": "tự nhiên",
+        "pronounce": "ˈnæʧərəli"
+      },
+      {
+        "word": "need",
+        "meaning": "nhu cầu",
+        "pronounce": "nid"
+      },
+      {
+        "word": "needle",
+        "meaning": "cây kim",
+        "pronounce": "ˈnidəl"
+      },
+      {
+        "word": "net",
+        "meaning": "mạng lưới",
+        "pronounce": "nɛt"
+      },
+      {
+        "word": "neither",
+        "meaning": "không",
+        "pronounce": "ˈniðər"
+      },
+      {
+        "word": "nor",
+        "meaning": "cũng không",
+        "pronounce": "nɔr"
+      },
+      {
+        "word": "next",
+        "meaning": "kế tiếp",
+        "pronounce": "nɛkst"
+      },
+      {
+        "word": "now",
+        "meaning": "hiện nay",
+        "pronounce": "naʊ"
+      },
+      {
+        "word": "northern",
+        "meaning": "phía bắc",
+        "pronounce": "ˈnɔrðərn"
+      },
+      {
+        "word": "nuclear",
+        "meaning": "hạt nhân",
+        "pronounce": "ˈnukliər"
+      },
+      {
+        "word": "note",
+        "meaning": "ghi chú",
+        "pronounce": "noʊt"
+      },
+      {
+        "word": "normal",
+        "meaning": "bình thường",
+        "pronounce": "ˈnɔrməl"
+      },
+      {
+        "word": "obvious",
+        "meaning": "rõ ràng",
+        "pronounce": "ˈɑbviəs"
+      },
+      {
+        "word": "obviously",
+        "meaning": "rõ ràng",
+        "pronounce": "ˈɑbviəsli"
+      },
+      {
+        "word": "occasion",
+        "meaning": "dịp",
+        "pronounce": "əˈkeɪʒən"
+      },
+      {
+        "word": "odd",
+        "meaning": "số lẻ",
+        "pronounce": "ɑd"
+      },
+      {
+        "word": "occur",
+        "meaning": "xảy ra",
+        "pronounce": "əˈkər"
+      },
+      {
+        "word": "once",
+        "meaning": "một lần",
+        "pronounce": "wəns"
+      },
+      {
+        "word": "old-fashioned",
+        "meaning": "theo xưa",
+        "pronounce": "ˌoʊldˈfæʃənd"
+      },
+      {
+        "word": "official",
+        "meaning": "chính thức",
+        "pronounce": "əˈfɪʃəl"
+      },
+      {
+        "word": "operation",
+        "meaning": "hoạt động",
+        "pronounce": "ˌɑpərˈeɪʃən"
+      },
+      {
+        "word": "organized",
+        "meaning": "được tổ chức",
+        "pronounce": "ˈɔrgəˌnaɪzd"
+      },
+      {
+        "word": "original",
+        "meaning": "nguyên bản",
+        "pronounce": "ərˈɪʤənəl"
+      },
+      {
+        "word": "organizer",
+        "meaning": "người tổ chức",
+        "pronounce": "ˈɔrgəˌnaɪzər"
+      },
+      {
+        "word": "originally",
+        "meaning": "ban đầu",
+        "pronounce": "ərˈɪʤənəli"
+      },
+      {
+        "word": "ought",
+        "meaning": "nên",
+        "pronounce": "ɔt"
+      },
+      {
+        "word": "outdoor",
+        "meaning": "ngoài trời",
+        "pronounce": "ˈaʊtˌdɔr"
+      },
+      {
+        "word": "pack",
+        "meaning": "đóng gói",
+        "pronounce": "pæk"
+      },
+      {
+        "word": "package",
+        "meaning": "bưu kiện",
+        "pronounce": "ˈpækɪʤ"
+      },
+      {
+        "word": "overseas",
+        "meaning": "ở nước ngoài",
+        "pronounce": "ˈoʊvərˈsiz"
+      },
+      {
+        "word": "outdoors",
+        "meaning": "ngoài trời",
+        "pronounce": "ˈaʊtˈdɔrz"
+      },
+      {
+        "word": "pale",
+        "meaning": "tái nhợt",
+        "pronounce": "peɪl"
+      },
+      {
+        "word": "painful",
+        "meaning": "đau đớn",
+        "pronounce": "ˈpeɪnfəl"
+      },
+      {
+        "word": "ours",
+        "meaning": "của chúng ta",
+        "pronounce": "ɑrz"
+      },
+      {
+        "word": "participate",
+        "meaning": "tham gia",
+        "pronounce": "pɑrˈtɪsəˌpeɪt"
+      },
+      {
+        "word": "payment",
+        "meaning": "sự chi trả",
+        "pronounce": "ˈpeɪmənt"
+      },
+      {
+        "word": "pass",
+        "meaning": "vượt qua",
+        "pronounce": "pæs"
+      },
+      {
+        "word": "particularly",
+        "meaning": "cụ thể",
+        "pronounce": "ˌpɑrˈtɪkjələrli"
+      },
+      {
+        "word": "path",
+        "meaning": "con đường",
+        "pronounce": "pæθ"
+      },
+      {
+        "word": "passion",
+        "meaning": "niềm đam mê",
+        "pronounce": "ˈpæʃən"
+      },
+      {
+        "word": "pan",
+        "meaning": "chảo",
+        "pronounce": "pæn"
+      },
+      {
+        "word": "peaceful",
+        "meaning": "hoà bình",
+        "pronounce": "ˈpisfəl"
+      },
+      {
+        "word": "percentage",
+        "meaning": "tỷ lệ phần trăm",
+        "pronounce": "pərˈsɛnɪʤ"
+      },
+      {
+        "word": "performance",
+        "meaning": "hiệu suất",
+        "pronounce": "pərˈfɔrməns"
+      },
+      {
+        "word": "personally",
+        "meaning": "cá nhân",
+        "pronounce": "ˈpərsənəli"
+      },
+      {
+        "word": "persuade",
+        "meaning": "thuyết phục",
+        "pronounce": "pərsˈweɪd"
+      },
+      {
+        "word": "photographer",
+        "meaning": "nhiếp ảnh gia",
+        "pronounce": "fəˈtɑgrəfər"
+      },
+      {
+        "word": "pin",
+        "meaning": "ghim",
+        "pronounce": "pɪn"
+      },
+      {
+        "word": "place",
+        "meaning": "địa điểm",
+        "pronounce": "pleɪs"
+      },
+      {
+        "word": "pipe",
+        "meaning": "đường ống",
+        "pronounce": "paɪp"
+      },
+      {
+        "word": "photography",
+        "meaning": "nhiếp ảnh",
+        "pronounce": "fəˈtɑgrəfi"
+      },
+      {
+        "word": "perfectly",
+        "meaning": "hoàn hảo",
+        "pronounce": "ˈpərfəktli"
+      },
+      {
+        "word": "pleasant",
+        "meaning": "dễ thương",
+        "pronounce": "ˈplɛzənt"
+      },
+      {
+        "word": "planning",
+        "meaning": "lập kế hoạch",
+        "pronounce": "ˈplænɪŋ"
+      },
+      {
+        "word": "pleasure",
+        "meaning": "vinh hạnh",
+        "pronounce": "ˈplɛʒər"
+      },
+      {
+        "word": "plus",
+        "meaning": "thêm vào đó",
+        "pronounce": "pləs"
+      },
+      {
+        "word": "plenty",
+        "meaning": "nhiều",
+        "pronounce": "ˈplɛnti"
+      },
+      {
+        "word": "plot",
+        "meaning": "kịch bản",
+        "pronounce": "plɑt"
+      },
+      {
+        "word": "poem",
+        "meaning": "bài thơ",
+        "pronounce": "poʊəm"
+      },
+      {
+        "word": "poet",
+        "meaning": "nhà thơ",
+        "pronounce": "poʊət"
+      },
+      {
+        "word": "poetry",
+        "meaning": "thơ",
+        "pronounce": "ˈpoʊətri"
+      },
+      {
+        "word": "point",
+        "meaning": "điểm",
+        "pronounce": "pɔɪnt"
+      },
+      {
+        "word": "poison",
+        "meaning": "chất độc",
+        "pronounce": "ˈpɔɪzən"
+      },
+      {
+        "word": "poisonous",
+        "meaning": "độc",
+        "pronounce": "ˈpɔɪzənəs"
+      },
+      {
+        "word": "political",
+        "meaning": "thuộc về chính trị",
+        "pronounce": "pəˈlɪtɪkəl"
+      },
+      {
+        "word": "policy",
+        "meaning": "chính sách",
+        "pronounce": "ˈpɑləsi"
+      },
+      {
+        "word": "politician",
+        "meaning": "chính trị gia",
+        "pronounce": "ˌpɑləˈtɪʃən"
+      },
+      {
+        "word": "port",
+        "meaning": "cổng",
+        "pronounce": "pɔrt"
+      },
+      {
+        "word": "politics",
+        "meaning": "chính trị",
+        "pronounce": "ˈpɑləˌtɪks"
+      },
+      {
+        "word": "portrait",
+        "meaning": "chân dung",
+        "pronounce": "ˈpɔrtrət"
+      },
+      {
+        "word": "possibly",
+        "meaning": "có thể",
+        "pronounce": "ˈpɑsəbli"
+      },
+      {
+        "word": "pot",
+        "meaning": "nồi",
+        "pronounce": "pɑt"
+      },
+      {
+        "word": "poverty",
+        "meaning": "nghèo",
+        "pronounce": "ˈpɑvərti"
+      },
+      {
+        "word": "practical",
+        "meaning": "thực tế",
+        "pronounce": "ˈpræktɪkəl"
+      },
+      {
+        "word": "pray",
+        "meaning": "cầu nguyện",
+        "pronounce": "preɪ"
+      },
+      {
+        "word": "pour",
+        "meaning": "đổ",
+        "pronounce": "pɔr"
+      },
+      {
+        "word": "powder",
+        "meaning": "bột",
+        "pronounce": "ˈpaʊdər"
+      },
+      {
+        "word": "powerful",
+        "meaning": "mạnh mẽ",
+        "pronounce": "ˈpaʊərfəl"
+      },
+      {
+        "word": "prediction",
+        "meaning": "dự đoán",
+        "pronounce": "priˈdɪkʃən"
+      },
+      {
+        "word": "prayer",
+        "meaning": "cầu nguyện",
+        "pronounce": "prɛr"
+      },
+      {
+        "word": "prepared",
+        "meaning": "chuẩn bị",
+        "pronounce": "priˈpɛrd"
+      },
+      {
+        "word": "presentation",
+        "meaning": "bài thuyết trình",
+        "pronounce": "ˌprɛzənˈteɪʃən"
+      },
+      {
+        "word": "press",
+        "meaning": "nhấn",
+        "pronounce": "prɛs"
+      },
+      {
+        "word": "pressure",
+        "meaning": "áp lực",
+        "pronounce": "ˈprɛʃər"
+      },
+      {
+        "word": "pretend",
+        "meaning": "giả vờ",
+        "pronounce": "priˈtɛnd"
+      },
+      {
+        "word": "priest",
+        "meaning": "linh mục",
+        "pronounce": "prist"
+      },
+      {
+        "word": "previous",
+        "meaning": "trước",
+        "pronounce": "ˈpriviəs"
+      },
+      {
+        "word": "previously",
+        "meaning": "trước đây",
+        "pronounce": "ˈpriviəsli"
+      },
+      {
+        "word": "primary",
+        "meaning": "sơ đẳng",
+        "pronounce": "ˈpraɪˌmɛri"
+      },
+      {
+        "word": "prince",
+        "meaning": "hoàng tử",
+        "pronounce": "prɪns"
+      },
+      {
+        "word": "princess",
+        "meaning": "công chúa",
+        "pronounce": "ˈprɪnsɛs"
+      },
+      {
+        "word": "principal",
+        "meaning": "hiệu trưởng",
+        "pronounce": "ˈprɪnsəpəl"
+      },
+      {
+        "word": "printing",
+        "meaning": "in",
+        "pronounce": "ˈprɪnɪŋ"
+      },
+      {
+        "word": "prisoner",
+        "meaning": "tù nhân",
+        "pronounce": "ˈprɪzənər"
+      },
+      {
+        "word": "private",
+        "meaning": "riêng tư",
+        "pronounce": "ˈpraɪvət"
+      },
+      {
+        "word": "producer",
+        "meaning": "nhà sản xuất",
+        "pronounce": "prəˈdusər"
+      },
+      {
+        "word": "profession",
+        "meaning": "nghề nghiệp",
+        "pronounce": "prəˈfɛʃən"
+      },
+      {
+        "word": "production",
+        "meaning": "sản xuất",
+        "pronounce": "pərˈdəkʃən"
+      },
+      {
+        "word": "promote",
+        "meaning": "khuyến khích",
+        "pronounce": "prəˈmoʊt"
+      },
+      {
+        "word": "program",
+        "meaning": "chương trình",
+        "pronounce": "ˈproʊˌgræm"
+      },
+      {
+        "word": "profit",
+        "meaning": "lợi nhuận",
+        "pronounce": "ˈprɑfɪt"
+      },
+      {
+        "word": "proper",
+        "meaning": "thích hợp",
+        "pronounce": "ˈprɑpər"
+      },
+      {
+        "word": "properly",
+        "meaning": "đúng cách",
+        "pronounce": "ˈprɑpərli"
+      },
+      {
+        "word": "protest",
+        "meaning": "phản kháng",
+        "pronounce": "ˈproʊˌtɛst"
+      },
+      {
+        "word": "property",
+        "meaning": "tài sản",
+        "pronounce": "ˈprɑpərti"
+      },
+      {
+        "word": "proud",
+        "meaning": "tự hào",
+        "pronounce": "praʊd"
+      },
+      {
+        "word": "pull",
+        "meaning": "sự lôi kéo",
+        "pronounce": "pʊl"
+      },
+      {
+        "word": "prove",
+        "meaning": "chứng minh",
+        "pronounce": "pruv"
+      },
+      {
+        "word": "push",
+        "meaning": "xô",
+        "pronounce": "pʊʃ"
+      },
+      {
+        "word": "punish",
+        "meaning": "trừng phạt",
+        "pronounce": "ˈpənɪʃ"
+      },
+      {
+        "word": "punishment",
+        "meaning": "hình phạt",
+        "pronounce": "ˈpənɪʃmənt"
+      },
+      {
+        "word": "qualification",
+        "meaning": "trình độ chuyên môn",
+        "pronounce": "kˌwɑləfəˈkeɪʃən"
+      },
+      {
+        "word": "qualified",
+        "meaning": "đạt tiêu chuẩn",
+        "pronounce": "kˈwɑləˌfaɪd"
+      },
+      {
+        "word": "quit",
+        "meaning": "từ bỏ",
+        "pronounce": "kwɪt"
+      },
+      {
+        "word": "qualify",
+        "meaning": "đủ điều kiện",
+        "pronounce": "kˈwɑləˌfaɪ"
+      },
+      {
+        "word": "quotation",
+        "meaning": "trích dẫn",
+        "pronounce": "kwoʊˈteɪʃən"
+      },
+      {
+        "word": "range",
+        "meaning": "phạm vi",
+        "pronounce": "reɪnʤ"
+      },
+      {
+        "word": "racing",
+        "meaning": "đua xe",
+        "pronounce": "ˈreɪsɪŋ"
+      },
+      {
+        "word": "quote",
+        "meaning": "trích dẫn",
+        "pronounce": "kwoʊt"
+      },
+      {
+        "word": "raise",
+        "meaning": "nâng lên",
+        "pronounce": "reɪz"
+      },
+      {
+        "word": "race",
+        "meaning": "loài",
+        "pronounce": "reɪs"
+      },
+      {
+        "word": "rare",
+        "meaning": "hiếm",
+        "pronounce": "rɛr"
+      },
+      {
+        "word": "rarely",
+        "meaning": "hiếm khi",
+        "pronounce": "ˈrɛrli"
+      },
+      {
+        "word": "reaction",
+        "meaning": "sự phản ứng lại",
+        "pronounce": "riˈækʃən"
+      },
+      {
+        "word": "recommendation",
+        "meaning": "sự giới thiệu",
+        "pronounce": "ˌrɛkəmənˈdeɪʃən"
+      },
+      {
+        "word": "receipt",
+        "meaning": "biên lai",
+        "pronounce": "rɪˈsit"
+      },
+      {
+        "word": "reality",
+        "meaning": "thực tế",
+        "pronounce": "ˌriˈæləˌti"
+      },
+      {
+        "word": "reflect",
+        "meaning": "phản ánh",
+        "pronounce": "rɪˈflɛkt"
+      },
+      {
+        "word": "reference",
+        "meaning": "thẩm quyền giải quyết",
+        "pronounce": "ˈrɛfərəns"
+      },
+      {
+        "word": "regularly",
+        "meaning": "thường xuyên",
+        "pronounce": "ˈrɛgjələrli"
+      },
+      {
+        "word": "reject",
+        "meaning": "từ chối",
+        "pronounce": "ˈriʤɛkt"
+      },
+      {
+        "word": "relation",
+        "meaning": "mối quan hệ",
+        "pronounce": "riˈleɪʃən"
+      },
+      {
+        "word": "related",
+        "meaning": "có liên quan",
+        "pronounce": "rɪˈleɪtɪd"
+      },
+      {
+        "word": "relaxed",
+        "meaning": "thư giãn",
+        "pronounce": "rɪˈlækst"
+      },
+      {
+        "word": "relative",
+        "meaning": "liên quan đến",
+        "pronounce": "ˈrɛlətɪv"
+      },
+      {
+        "word": "relaxing",
+        "meaning": "thư giãn",
+        "pronounce": "rɪˈlæksɪŋ"
+      },
+      {
+        "word": "relate",
+        "meaning": "liên quan",
+        "pronounce": "rɪˈleɪt"
+      },
+      {
+        "word": "religion",
+        "meaning": "tôn giáo",
+        "pronounce": "rɪˈlɪʤən"
+      },
+      {
+        "word": "reliable",
+        "meaning": "đáng tin cậy",
+        "pronounce": "rɪˈlaɪəbəl"
+      },
+      {
+        "word": "religious",
+        "meaning": "tôn giáo",
+        "pronounce": "rɪˈlɪʤəs"
+      },
+      {
+        "word": "release",
+        "meaning": "giải phóng",
+        "pronounce": "riˈlis"
+      },
+      {
+        "word": "remain",
+        "meaning": "duy trì",
+        "pronounce": "rɪˈmeɪn"
+      },
+      {
+        "word": "remind",
+        "meaning": "nhắc lại",
+        "pronounce": "riˈmaɪnd"
+      },
+      {
+        "word": "repeat",
+        "meaning": "lặp lại",
+        "pronounce": "rɪˈpit"
+      },
+      {
+        "word": "repair",
+        "meaning": "sửa chữa",
+        "pronounce": "rɪˈpɛr"
+      },
+      {
+        "word": "represent",
+        "meaning": "đại diện",
+        "pronounce": "ˌrɛprɪˈzɛnt"
+      },
+      {
+        "word": "repeated",
+        "meaning": "lặp đi lặp lại",
+        "pronounce": "rɪˈpitɪd"
+      },
+      {
+        "word": "require",
+        "meaning": "yêu cầu",
+        "pronounce": "ˌrikˈwaɪər"
+      },
+      {
+        "word": "rent",
+        "meaning": "thuê",
+        "pronounce": "rɛnt"
+      },
+      {
+        "word": "request",
+        "meaning": "lời yêu cầu",
+        "pronounce": "rɪkˈwɛst"
+      },
+      {
+        "word": "remote",
+        "meaning": "xa",
+        "pronounce": "rɪˈmoʊt"
+      },
+      {
+        "word": "resource",
+        "meaning": "tài nguyên",
+        "pronounce": "ˈrisɔrs"
+      },
+      {
+        "word": "reservation",
+        "meaning": "sự đặt chỗ",
+        "pronounce": "ˌrɛzərˈveɪʃən"
+      },
+      {
+        "word": "responsible",
+        "meaning": "chịu trách nhiệm",
+        "pronounce": "riˈspɑnsəbəl"
+      },
+      {
+        "word": "responsibility",
+        "meaning": "trách nhiệm",
+        "pronounce": "riˌspɑnsəˈbɪləti"
+      },
+      {
+        "word": "respect",
+        "meaning": "sự tôn trọng",
+        "pronounce": "rɪˈspɛkt"
+      },
+      {
+        "word": "result",
+        "meaning": "kết quả",
+        "pronounce": "rɪˈzəlt"
+      },
+      {
+        "word": "retire",
+        "meaning": "về hưu",
+        "pronounce": "ˌriˈtaɪər"
+      },
+      {
+        "word": "revise",
+        "meaning": "ôn lại",
+        "pronounce": "rɪˈvaɪz"
+      },
+      {
+        "word": "robot",
+        "meaning": "robot",
+        "pronounce": "ˈroʊˌbət"
+      },
+      {
+        "word": "retired",
+        "meaning": "đã nghỉ hưu",
+        "pronounce": "rɪˈtaɪrd"
+      },
+      {
+        "word": "ring",
+        "meaning": "nhẫn",
+        "pronounce": "rɪŋ"
+      },
+      {
+        "word": "roll",
+        "meaning": "cuộn",
+        "pronounce": "roʊl"
+      },
+      {
+        "word": "romantic",
+        "meaning": "lãng mạn",
+        "pronounce": "roʊˈmæntɪk"
+      },
+      {
+        "word": "risk",
+        "meaning": "rủi ro",
+        "pronounce": "rɪsk"
+      },
+      {
+        "word": "rope",
+        "meaning": "dây thừng",
+        "pronounce": "roʊp"
+      },
+      {
+        "word": "rough",
+        "meaning": "thô",
+        "pronounce": "rəf"
+      },
+      {
+        "word": "royal",
+        "meaning": "hoàng gia",
+        "pronounce": "rɔɪəl"
+      },
+      {
+        "word": "row",
+        "meaning": "hàng ngang",
+        "pronounce": "roʊ"
+      },
+      {
+        "word": "rule",
+        "meaning": "luật lệ",
+        "pronounce": "rul"
+      },
+      {
+        "word": "safety",
+        "meaning": "sự an toàn",
+        "pronounce": "ˈseɪfti"
+      },
+      {
+        "word": "sample",
+        "meaning": "vật mẫu",
+        "pronounce": "ˈsæmpəl"
+      },
+      {
+        "word": "sail",
+        "meaning": "chèo",
+        "pronounce": "seɪl"
+      },
+      {
+        "word": "sand",
+        "meaning": "cát",
+        "pronounce": "sænd"
+      },
+      {
+        "word": "scan",
+        "meaning": "quét",
+        "pronounce": "skæn"
+      },
+      {
+        "word": "sailor",
+        "meaning": "thủy thủ",
+        "pronounce": "ˈseɪlər"
+      },
+      {
+        "word": "scientific",
+        "meaning": "có tính khoa học",
+        "pronounce": "ˌsaɪənˈtɪfɪk"
+      },
+      {
+        "word": "script",
+        "meaning": "kịch bản",
+        "pronounce": "skrɪpt"
+      },
+      {
+        "word": "sculpture",
+        "meaning": "điêu khắc",
+        "pronounce": "ˈskəlpʧər"
+      },
+      {
+        "word": "secondary",
+        "meaning": "sơ trung",
+        "pronounce": "ˈsɛkənˌdɛri"
+      },
+      {
+        "word": "sensible",
+        "meaning": "hợp lý",
+        "pronounce": "ˈsɛnsəbəl"
+      },
+      {
+        "word": "seriously",
+        "meaning": "nghiêm túc",
+        "pronounce": "ˈsɪriəsli"
+      },
+      {
+        "word": "seed",
+        "meaning": "hạt giống",
+        "pronounce": "sid"
+      },
+      {
+        "word": "separate",
+        "meaning": "chia",
+        "pronounce": "ˈsɛpərˌeɪt"
+      },
+      {
+        "word": "security",
+        "meaning": "bảo vệ",
+        "pronounce": "sɪˈkjʊrəti"
+      },
+      {
+        "word": "servant",
+        "meaning": "người hầu",
+        "pronounce": "ˈsərvənt"
+      },
+      {
+        "word": "set",
+        "meaning": "bộ",
+        "pronounce": "sɛt"
+      },
+      {
+        "word": "setting",
+        "meaning": "cài đặt",
+        "pronounce": "ˈsɛtɪŋ"
+      },
+      {
+        "word": "sex",
+        "meaning": "tình dục",
+        "pronounce": "sɛks"
+      },
+      {
+        "word": "sexual",
+        "meaning": "tình dục",
+        "pronounce": "ˈsɛkʃuəl"
+      },
+      {
+        "word": "share",
+        "meaning": "chia sẻ",
+        "pronounce": "ʃɛr"
+      },
+      {
+        "word": "shift",
+        "meaning": "sự thay đổi",
+        "pronounce": "ʃɪft"
+      },
+      {
+        "word": "shake",
+        "meaning": "lắc",
+        "pronounce": "ʃeɪk"
+      },
+      {
+        "word": "shelf",
+        "meaning": "cái kệ",
+        "pronounce": "ʃɛlf"
+      },
+      {
+        "word": "shell",
+        "meaning": "vỏ bọc",
+        "pronounce": "ʃɛl"
+      },
+      {
+        "word": "shiny",
+        "meaning": "sáng bóng",
+        "pronounce": "ˈʃaɪni"
+      },
+      {
+        "word": "sharp",
+        "meaning": "sắc",
+        "pronounce": "ʃɑrp"
+      },
+      {
+        "word": "shoot",
+        "meaning": "bắn",
+        "pronounce": "ʃut"
+      },
+      {
+        "word": "shine",
+        "meaning": "chiếu sáng",
+        "pronounce": "ʃaɪn"
+      },
+      {
+        "word": "shy",
+        "meaning": "xấu hổ",
+        "pronounce": "ʃaɪ"
+      },
+      {
+        "word": "sight",
+        "meaning": "thị giác",
+        "pronounce": "saɪt"
+      },
+      {
+        "word": "silent",
+        "meaning": "im lặng",
+        "pronounce": "ˈsaɪlənt"
+      },
+      {
+        "word": "signal",
+        "meaning": "tín hiệu",
+        "pronounce": "ˈsɪgnəl"
+      },
+      {
+        "word": "silly",
+        "meaning": "ngớ ngẩn",
+        "pronounce": "ˈsɪli"
+      },
+      {
+        "word": "similarity",
+        "meaning": "sự tương đồng",
+        "pronounce": "ˌsɪməˈlɛrəti"
+      },
+      {
+        "word": "similarly",
+        "meaning": "tương tự",
+        "pronounce": "ˈsɪmələrli"
+      },
+      {
+        "word": "simply",
+        "meaning": "đơn giản",
+        "pronounce": "ˈsɪmpli"
+      },
+      {
+        "word": "since",
+        "meaning": "từ",
+        "pronounce": "sɪns"
+      },
+      {
+        "word": "sink",
+        "meaning": "bồn rửa",
+        "pronounce": "sɪŋk"
+      },
+      {
+        "word": "slave",
+        "meaning": "nô lệ",
+        "pronounce": "sleɪv"
+      },
+      {
+        "word": "slice",
+        "meaning": "lát cắt",
+        "pronounce": "slaɪs"
+      },
+      {
+        "word": "software",
+        "meaning": "phần mềm",
+        "pronounce": "ˈsɔfˌwɛr"
+      },
+      {
+        "word": "smooth",
+        "meaning": "trơn tru",
+        "pronounce": "smuð"
+      },
+      {
+        "word": "slightly",
+        "meaning": "nhẹ nhàng",
+        "pronounce": "sˈlaɪtli"
+      },
+      {
+        "word": "slow",
+        "meaning": "chậm",
+        "pronounce": "sloʊ"
+      },
+      {
+        "word": "solid",
+        "meaning": "chất rắn",
+        "pronounce": "ˈsɑləd"
+      },
+      {
+        "word": "sort",
+        "meaning": "loại",
+        "pronounce": "sɔrt"
+      },
+      {
+        "word": "soil",
+        "meaning": "đất",
+        "pronounce": "sɔɪl"
+      },
+      {
+        "word": "southern",
+        "meaning": "miền nam",
+        "pronounce": "ˈsəðərn"
+      },
+      {
+        "word": "specifically",
+        "meaning": "cụ thể",
+        "pronounce": "spəˈsɪfɪkli"
+      },
+      {
+        "word": "spending",
+        "meaning": "chi tiêu",
+        "pronounce": "ˈspɛndɪŋ"
+      },
+      {
+        "word": "spicy",
+        "meaning": "cay",
+        "pronounce": "ˈspaɪsi"
+      },
+      {
+        "word": "spirit",
+        "meaning": "tinh thần",
+        "pronounce": "ˈspɪrɪt"
+      },
+      {
+        "word": "spread",
+        "meaning": "lây lan",
+        "pronounce": "sprɛd"
+      },
+      {
+        "word": "spot",
+        "meaning": "điểm",
+        "pronounce": "spɑt"
+      },
+      {
+        "word": "spoken",
+        "meaning": "nói",
+        "pronounce": "ˈspoʊkən"
+      },
+      {
+        "word": "spring",
+        "meaning": "mùa xuân",
+        "pronounce": "spərɪŋ"
+      },
+      {
+        "word": "stadium",
+        "meaning": "sân vận động",
+        "pronounce": "ˈsteɪdiəm"
+      },
+      {
+        "word": "staff",
+        "meaning": "nhân viên",
+        "pronounce": "stæf"
+      },
+      {
+        "word": "statue",
+        "meaning": "bức tượng",
+        "pronounce": "ˈstæˌʧu"
+      },
+      {
+        "word": "standard",
+        "meaning": "tiêu chuẩn",
+        "pronounce": "ˈstændərd"
+      },
+      {
+        "word": "state",
+        "meaning": "tình trạng",
+        "pronounce": "steɪt"
+      },
+      {
+        "word": "store",
+        "meaning": "cửa hàng",
+        "pronounce": "stɔr"
+      },
+      {
+        "word": "stick",
+        "meaning": "dán",
+        "pronounce": "stɪk"
+      },
+      {
+        "word": "still",
+        "meaning": "vẫn",
+        "pronounce": "stɪl"
+      },
+      {
+        "word": "statistic",
+        "meaning": "thống kê",
+        "pronounce": "stəˈtɪstɪk"
+      },
+      {
+        "word": "stranger",
+        "meaning": "người lạ",
+        "pronounce": "ˈstreɪnʤər"
+      },
+      {
+        "word": "string",
+        "meaning": "sợi dây",
+        "pronounce": "strɪŋ"
+      },
+      {
+        "word": "strength",
+        "meaning": "sức mạnh",
+        "pronounce": "strɛŋθ"
+      },
+      {
+        "word": "strongly",
+        "meaning": "mạnh mẽ",
+        "pronounce": "ˈstrɔŋli"
+      },
+      {
+        "word": "stuff",
+        "meaning": "chất liệu",
+        "pronounce": "stəf"
+      },
+      {
+        "word": "studio",
+        "meaning": "phòng thu",
+        "pronounce": "ˈstudiˌoʊ"
+      },
+      {
+        "word": "substance",
+        "meaning": "chất",
+        "pronounce": "ˈsəbstəns"
+      },
+      {
+        "word": "successfully",
+        "meaning": "thành công",
+        "pronounce": "səkˈsɛsfəli"
+      },
+      {
+        "word": "suffer",
+        "meaning": "chịu đựng",
+        "pronounce": "ˈsəfər"
+      },
+      {
+        "word": "suit",
+        "meaning": "bộ đồ",
+        "pronounce": "sut"
+      },
+      {
+        "word": "suitable",
+        "meaning": "thích hợp",
+        "pronounce": "ˈsutəbəl"
+      },
+      {
+        "word": "summarize",
+        "meaning": "tóm tắt",
+        "pronounce": "ˈsəmərˌaɪz"
+      },
+      {
+        "word": "summary",
+        "meaning": "bản tóm tắt",
+        "pronounce": "ˈsəməri"
+      },
+      {
+        "word": "supporter",
+        "meaning": "người ủng hộ",
+        "pronounce": "səˈpɔrtər"
+      },
+      {
+        "word": "sudden",
+        "meaning": "đột nhiên",
+        "pronounce": "ˈsədən"
+      },
+      {
+        "word": "supply",
+        "meaning": "cung cấp",
+        "pronounce": "səˈplaɪ"
+      },
+      {
+        "word": "surface",
+        "meaning": "bề mặt",
+        "pronounce": "ˈsərfəs"
+      },
+      {
+        "word": "surely",
+        "meaning": "chắc chắn",
+        "pronounce": "ˈʃʊrli"
+      },
+      {
+        "word": "swim",
+        "meaning": "bơi",
+        "pronounce": "swɪm"
+      },
+      {
+        "word": "switch",
+        "meaning": "công tắc",
+        "pronounce": "swɪʧ"
+      },
+      {
+        "word": "survive",
+        "meaning": "tồn tại",
+        "pronounce": "sərˈvaɪv"
+      },
+      {
+        "word": "talent",
+        "meaning": "tài năng",
+        "pronounce": "ˈtælənt"
+      },
+      {
+        "word": "symptom",
+        "meaning": "triệu chứng",
+        "pronounce": "ˈsɪmptəm"
+      },
+      {
+        "word": "talented",
+        "meaning": "tài năng",
+        "pronounce": "ˈtæləntɪd"
+      },
+      {
+        "word": "tail",
+        "meaning": "đuôi",
+        "pronounce": "teɪl"
+      },
+      {
+        "word": "tape",
+        "meaning": "băng",
+        "pronounce": "teɪp"
+      },
+      {
+        "word": "tax",
+        "meaning": "thuế",
+        "pronounce": "tæks"
+      },
+      {
+        "word": "technical",
+        "meaning": "kỹ thuật",
+        "pronounce": "ˈtɛknɪkəl"
+      },
+      {
+        "word": "technique",
+        "meaning": "kỹ thuật",
+        "pronounce": "tɛkˈnik"
+      },
+      {
+        "word": "tent",
+        "meaning": "lều",
+        "pronounce": "tɛnt"
+      },
+      {
+        "word": "tend",
+        "meaning": "có khuynh hướng",
+        "pronounce": "tɛnd"
+      },
+      {
+        "word": "theirs",
+        "meaning": "của họ",
+        "pronounce": "ðɛrz"
+      },
+      {
+        "word": "theme",
+        "meaning": "chủ đề",
+        "pronounce": "θim"
+      },
+      {
+        "word": "that",
+        "meaning": "cái đó",
+        "pronounce": "ðət"
+      },
+      {
+        "word": "theory",
+        "meaning": "lý thuyết",
+        "pronounce": "ˈθɪri"
+      },
+      {
+        "word": "this",
+        "meaning": "cái này",
+        "pronounce": "ðɪs"
+      },
+      {
+        "word": "therefore",
+        "meaning": "vì vậy",
+        "pronounce": "ˈðɛrˌfɔr"
+      },
+      {
+        "word": "throat",
+        "meaning": "cổ họng",
+        "pronounce": "θroʊt"
+      },
+      {
+        "word": "throughout",
+        "meaning": "khắp",
+        "pronounce": "θruaʊt"
+      },
+      {
+        "word": "though",
+        "meaning": "mặc dù",
+        "pronounce": "ðoʊ"
+      },
+      {
+        "word": "tight",
+        "meaning": "chặt",
+        "pronounce": "taɪt"
+      },
+      {
+        "word": "till",
+        "meaning": "cho đến khi",
+        "pronounce": "tɪl"
+      },
+      {
+        "word": "tiny",
+        "meaning": "nhỏ xíu",
+        "pronounce": "ˈtaɪni"
+      },
+      {
+        "word": "tip",
+        "meaning": "mẹo",
+        "pronounce": "tɪp"
+      },
+      {
+        "word": "toe",
+        "meaning": "ngón chân",
+        "pronounce": "toʊ"
+      },
+      {
+        "word": "ton",
+        "meaning": "tấn",
+        "pronounce": "tən"
+      },
+      {
+        "word": "tire",
+        "meaning": "lốp xe",
+        "pronounce": "taɪər"
+      },
+      {
+        "word": "total",
+        "meaning": "tổng cộng",
+        "pronounce": "ˈtoʊtəl"
+      },
+      {
+        "word": "tongue",
+        "meaning": "lưỡi",
+        "pronounce": "təŋ"
+      },
+      {
+        "word": "totally",
+        "meaning": "hoàn toàn",
+        "pronounce": "ˈtoʊtəli"
+      },
+      {
+        "word": "touch",
+        "meaning": "chạm",
+        "pronounce": "təʧ"
+      },
+      {
+        "word": "tour",
+        "meaning": "chuyến du lịch",
+        "pronounce": "tʊr"
+      },
+      {
+        "word": "trade",
+        "meaning": "buôn bán",
+        "pronounce": "treɪd"
+      },
+      {
+        "word": "trainer",
+        "meaning": "huấn luyện viên",
+        "pronounce": "ˈtreɪnər"
+      },
+      {
+        "word": "translate",
+        "meaning": "dịch",
+        "pronounce": "trænzˈleɪt"
+      },
+      {
+        "word": "transport",
+        "meaning": "chuyên chở",
+        "pronounce": "ˈtrænspɔrt"
+      },
+      {
+        "word": "translation",
+        "meaning": "dịch",
+        "pronounce": "trænzˈleɪʃən"
+      },
+      {
+        "word": "treat",
+        "meaning": "đối xử",
+        "pronounce": "trit"
+      },
+      {
+        "word": "treatment",
+        "meaning": "sự đối đãi",
+        "pronounce": "ˈtritmənt"
+      },
+      {
+        "word": "trend",
+        "meaning": "xu hướng",
+        "pronounce": "trɛnd"
+      },
+      {
+        "word": "tube",
+        "meaning": "ống",
+        "pronounce": "tub"
+      },
+      {
+        "word": "trick",
+        "meaning": "lừa",
+        "pronounce": "trɪk"
+      },
+      {
+        "word": "truth",
+        "meaning": "sự thật",
+        "pronounce": "truθ"
+      },
+      {
+        "word": "type",
+        "meaning": "kiểu",
+        "pronounce": "taɪp"
+      },
+      {
+        "word": "typically",
+        "meaning": "tiêu biểu",
+        "pronounce": "ˈtɪpɪkəli"
+      },
+      {
+        "word": "ugly",
+        "meaning": "xấu xí",
+        "pronounce": "ˈəgli"
+      },
+      {
+        "word": "underwear",
+        "meaning": "đồ lót",
+        "pronounce": "ˈəndərˌwɛr"
+      },
+      {
+        "word": "uncomfortable",
+        "meaning": "không thoải mái",
+        "pronounce": "ənˈkəmfərtəbəl"
+      },
+      {
+        "word": "unable",
+        "meaning": "không thể",
+        "pronounce": "əˈneɪbəl"
+      },
+      {
+        "word": "unemployed",
+        "meaning": "thất nghiệp",
+        "pronounce": "ˌənɛmˈplɔɪd"
+      },
+      {
+        "word": "unemployment",
+        "meaning": "nạn thất nghiệp",
+        "pronounce": "ˌənɪmˈplɔɪmənt"
+      },
+      {
+        "word": "unfair",
+        "meaning": "không công bằng",
+        "pronounce": "ˌɔnˈfɛr"
+      },
+      {
+        "word": "union",
+        "meaning": "liên minh",
+        "pronounce": "ˈjunjən"
+      },
+      {
+        "word": "unless",
+        "meaning": "trừ khi",
+        "pronounce": "ənˈlɛs"
+      },
+      {
+        "word": "unlike",
+        "meaning": "không giống như",
+        "pronounce": "ənˈlaɪk"
+      },
+      {
+        "word": "unlikely",
+        "meaning": "không thể",
+        "pronounce": "ənˈlaɪkli"
+      },
+      {
+        "word": "upon",
+        "meaning": "trên",
+        "pronounce": "əˈpɑn"
+      },
+      {
+        "word": "unnecessary",
+        "meaning": "không cần thiết",
+        "pronounce": "ənˈnɛsəˌsɛri"
+      },
+      {
+        "word": "upset",
+        "meaning": "buồn bã",
+        "pronounce": "ˈəpˌsɛt"
+      },
+      {
+        "word": "unpleasant",
+        "meaning": "khó chịu",
+        "pronounce": "ənˈplɛzənt"
+      },
+      {
+        "word": "update",
+        "meaning": "cập nhật",
+        "pronounce": "ˈəpˌdeɪt"
+      },
+      {
+        "word": "used",
+        "meaning": "đã sử dụng",
+        "pronounce": "juzd"
+      },
+      {
+        "word": "valuable",
+        "meaning": "có giá trị lớn",
+        "pronounce": "ˈvæljəbəl"
+      },
+      {
+        "word": "various",
+        "meaning": "nhiều",
+        "pronounce": "ˈvɛriəs"
+      },
+      {
+        "word": "value",
+        "meaning": "giá trị",
+        "pronounce": "ˈvælju"
+      },
+      {
+        "word": "victim",
+        "meaning": "nạn nhân",
+        "pronounce": "ˈvɪktɪm"
+      },
+      {
+        "word": "version",
+        "meaning": "phiên bản",
+        "pronounce": "ˈvərʒən"
+      },
+      {
+        "word": "view",
+        "meaning": "xem",
+        "pronounce": "vju"
+      },
+      {
+        "word": "violent",
+        "meaning": "hung bạo",
+        "pronounce": "ˈvaɪələnt"
+      },
+      {
+        "word": "viewer",
+        "meaning": "người xem",
+        "pronounce": "vjuər"
+      },
+      {
+        "word": "volunteer",
+        "meaning": "tình nguyện viên",
+        "pronounce": "ˌvɑlənˈtɪr"
+      },
+      {
+        "word": "vote",
+        "meaning": "bỏ phiếu",
+        "pronounce": "voʊt"
+      },
+      {
+        "word": "warm",
+        "meaning": "ấm",
+        "pronounce": "wɔrm"
+      },
+      {
+        "word": "warn",
+        "meaning": "cảnh báo",
+        "pronounce": "wɔrn"
+      },
+      {
+        "word": "warning",
+        "meaning": "cảnh báo",
+        "pronounce": "ˈwɔrnɪŋ"
+      },
+      {
+        "word": "weapon",
+        "meaning": "vũ khí",
+        "pronounce": "ˈwɛpən"
+      },
+      {
+        "word": "water",
+        "meaning": "nước",
+        "pronounce": "ˈwɔtər"
+      },
+      {
+        "word": "weigh",
+        "meaning": "cân",
+        "pronounce": "weɪ"
+      },
+      {
+        "word": "waste",
+        "meaning": "rác thải",
+        "pronounce": "weɪst"
+      },
+      {
+        "word": "wave",
+        "meaning": "sóng",
+        "pronounce": "weɪv"
+      },
+      {
+        "word": "whatever",
+        "meaning": "bất cứ điều gì",
+        "pronounce": "ˌwəˈtɛvər"
+      },
+      {
+        "word": "western",
+        "meaning": "phương tây",
+        "pronounce": "ˈwɛstərn"
+      },
+      {
+        "word": "whenever",
+        "meaning": "bất cứ khi nào",
+        "pronounce": "wɛˈnɛvər"
+      },
+      {
+        "word": "whether",
+        "meaning": "liệu",
+        "pronounce": "ˈwɛðər"
+      },
+      {
+        "word": "while",
+        "meaning": "trong khi",
+        "pronounce": "waɪl"
+      },
+      {
+        "word": "will",
+        "meaning": "sẽ",
+        "pronounce": "wɪl"
+      },
+      {
+        "word": "whole",
+        "meaning": "trọn",
+        "pronounce": "hoʊl"
+      },
+      {
+        "word": "win",
+        "meaning": "thắng",
+        "pronounce": "wɪn"
+      },
+      {
+        "word": "within",
+        "meaning": "ở trong",
+        "pronounce": "wɪˈθɪn"
+      },
+      {
+        "word": "wing",
+        "meaning": "cánh",
+        "pronounce": "wɪŋ"
+      },
+      {
+        "word": "wonder",
+        "meaning": "thắc mắc",
+        "pronounce": "ˈwəndər"
+      },
+      {
+        "word": "wool",
+        "meaning": "len",
+        "pronounce": "wʊl"
+      },
+      {
+        "word": "worldwide",
+        "meaning": "trên toàn thế giới",
+        "pronounce": "ˈwərldˈwaɪd"
+      },
+      {
+        "word": "worry",
+        "meaning": "lo lắng",
+        "pronounce": "ˈwəri"
+      },
+      {
+        "word": "worse",
+        "meaning": "tệ hơn",
+        "pronounce": "wərs"
+      },
+      {
+        "word": "worst",
+        "meaning": "tồi tệ nhất",
+        "pronounce": "wərst"
+      },
+      {
+        "word": "worth",
+        "meaning": "đáng giá",
+        "pronounce": "wərθ"
+      },
+      {
+        "word": "wrong",
+        "meaning": "sai",
+        "pronounce": "rɔŋ"
+      },
+      {
+        "word": "written",
+        "meaning": "viết",
+        "pronounce": "ˈrɪtən"
+      },
+      {
+        "word": "young",
+        "meaning": "trẻ",
+        "pronounce": "jəŋ"
+      },
+      {
+        "word": "youth",
+        "meaning": "thiếu niên",
+        "pronounce": "juθ"
+      }
+    ]
+  }
+}

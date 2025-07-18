@@ -1,0 +1,755 @@
+{
+  "title": "HSK1 词汇",
+  "language": "zh",
+  "type": "vocab",
+  "level": "h1",
+  "content": {
+    "words": [
+      {
+        "word": "爱",
+        "pronounce": "ài",
+        "meaning": "yêu"
+      },
+      {
+        "word": "八",
+        "pronounce": "bā",
+        "meaning": "tám"
+      },
+      {
+        "word": "爸爸",
+        "pronounce": "bàba",
+        "meaning": "bố"
+      },
+      {
+        "word": "杯子",
+        "pronounce": "bēizi",
+        "meaning": "cốc"
+      },
+      {
+        "word": "北京",
+        "pronounce": "Běijīng",
+        "meaning": "Bắc Kinh"
+      },
+      {
+        "word": "本",
+        "pronounce": "běn",
+        "meaning": "cuốn (dùng cho sách)"
+      },
+      {
+        "word": "不客气",
+        "pronounce": "bú kèqì",
+        "meaning": "không có gì (đáp lại lời cảm ơn)"
+      },
+      {
+        "word": "不",
+        "pronounce": "bù",
+        "meaning": "không"
+      },
+      {
+        "word": "菜",
+        "pronounce": "cài",
+        "meaning": "món ăn, rau củ"
+      },
+      {
+        "word": "茶",
+        "pronounce": "chá",
+        "meaning": "trà"
+      },
+      {
+        "word": "吃",
+        "pronounce": "chī",
+        "meaning": "ăn"
+      },
+      {
+        "word": "出租车",
+        "pronounce": "chūzūchē",
+        "meaning": "taxi"
+      },
+      {
+        "word": "打电话",
+        "pronounce": "dǎ diànhuà",
+        "meaning": "gọi điện thoại"
+      },
+      {
+        "word": "大",
+        "pronounce": "dà",
+        "meaning": "lớn, to"
+      },
+      {
+        "word": "的",
+        "pronounce": "de",
+        "meaning": "của (thuộc tính)"
+      },
+      {
+        "word": "点",
+        "pronounce": "diǎn",
+        "meaning": "giờ (trong thời gian)"
+      },
+      {
+        "word": "电脑",
+        "pronounce": "diànnǎo",
+        "meaning": "máy tính"
+      },
+      {
+        "word": "电视",
+        "pronounce": "diànshì",
+        "meaning": "ti vi"
+      },
+      {
+        "word": "电影",
+        "pronounce": "diànyǐng",
+        "meaning": "phim"
+      },
+      {
+        "word": "东西",
+        "pronounce": "dōngxī",
+        "meaning": "đồ vật, thứ"
+      },
+      {
+        "word": "都",
+        "pronounce": "dōu",
+        "meaning": "đều"
+      },
+      {
+        "word": "读",
+        "pronounce": "dú",
+        "meaning": "đọc"
+      },
+      {
+        "word": "对不起",
+        "pronounce": "duìbùqǐ",
+        "meaning": "xin lỗi"
+      },
+      {
+        "word": "多",
+        "pronounce": "duō",
+        "meaning": "nhiều"
+      },
+      {
+        "word": "多少",
+        "pronounce": "duōshǎo",
+        "meaning": "bao nhiêu"
+      },
+      {
+        "word": "儿子",
+        "pronounce": "érzi",
+        "meaning": "con trai"
+      },
+      {
+        "word": "二",
+        "pronounce": "èr",
+        "meaning": "hai"
+      },
+      {
+        "word": "饭馆",
+        "pronounce": "fànguǎn",
+        "meaning": "nhà hàng"
+      },
+      {
+        "word": "飞机",
+        "pronounce": "fēijī",
+        "meaning": "máy bay"
+      },
+      {
+        "word": "分钟",
+        "pronounce": "fēnzhōng",
+        "meaning": "phút"
+      },
+      {
+        "word": "高兴",
+        "pronounce": "gāoxìng",
+        "meaning": "vui"
+      },
+      {
+        "word": "个",
+        "pronounce": "gè",
+        "meaning": "cái (đơn vị lượng từ)"
+      },
+      {
+        "word": "工作",
+        "pronounce": "gōngzuò",
+        "meaning": "công việc"
+      },
+      {
+        "word": "狗",
+        "pronounce": "gǒu",
+        "meaning": "chó"
+      },
+      {
+        "word": "汉语",
+        "pronounce": "Hànyǔ",
+        "meaning": "tiếng Hán"
+      },
+      {
+        "word": "好",
+        "pronounce": "hǎo",
+        "meaning": "tốt, khỏe"
+      },
+      {
+        "word": "喝",
+        "pronounce": "hē",
+        "meaning": "uống"
+      },
+      {
+        "word": "和",
+        "pronounce": "hé",
+        "meaning": "và"
+      },
+      {
+        "word": "很",
+        "pronounce": "hěn",
+        "meaning": "rất"
+      },
+      {
+        "word": "后面",
+        "pronounce": "hòumiàn",
+        "meaning": "phía sau"
+      },
+      {
+        "word": "回",
+        "pronounce": "huí",
+        "meaning": "quay lại, về"
+      },
+      {
+        "word": "会",
+        "pronounce": "huì",
+        "meaning": "sẽ, biết (kỹ năng)"
+      },
+      {
+        "word": "火车站",
+        "pronounce": "huǒchēzhàn",
+        "meaning": "ga tàu"
+      },
+      {
+        "word": "几",
+        "pronounce": "jǐ",
+        "meaning": "mấy"
+      },
+      {
+        "word": "家",
+        "pronounce": "jiā",
+        "meaning": "gia đình, nhà"
+      },
+      {
+        "word": "叫",
+        "pronounce": "jiào",
+        "meaning": "gọi, tên gọi"
+      },
+      {
+        "word": "今天",
+        "pronounce": "jīntiān",
+        "meaning": "hôm nay"
+      },
+      {
+        "word": "九",
+        "pronounce": "jiǔ",
+        "meaning": "chín"
+      },
+      {
+        "word": "开",
+        "pronounce": "kāi",
+        "meaning": "mở, khởi động"
+      },
+      {
+        "word": "看",
+        "pronounce": "kàn",
+        "meaning": "xem"
+      },
+      {
+        "word": "看见",
+        "pronounce": "kànjiàn",
+        "meaning": "nhìn thấy"
+      },
+      {
+        "word": "块",
+        "pronounce": "kuài",
+        "meaning": "miếng, đồng (tiền)"
+      },
+      {
+        "word": "来",
+        "pronounce": "lái",
+        "meaning": "đến"
+      },
+      {
+        "word": "老师",
+        "pronounce": "lǎoshī",
+        "meaning": "giáo viên"
+      },
+      {
+        "word": "了",
+        "pronounce": "le",
+        "meaning": "đã (dùng để chỉ sự thay đổi)"
+      },
+      {
+        "word": "冷",
+        "pronounce": "lěng",
+        "meaning": "lạnh"
+      },
+      {
+        "word": "里",
+        "pronounce": "lǐ",
+        "meaning": "trong"
+      },
+      {
+        "word": "零",
+        "pronounce": "líng",
+        "meaning": "không (số 0)"
+      },
+      {
+        "word": "六",
+        "pronounce": "liù",
+        "meaning": "sáu"
+      },
+      {
+        "word": "妈妈",
+        "pronounce": "māma",
+        "meaning": "mẹ"
+      },
+      {
+        "word": "吗",
+        "pronounce": "ma",
+        "meaning": "không (dùng trong câu hỏi)"
+      },
+      {
+        "word": "买",
+        "pronounce": "mǎi",
+        "meaning": "mua"
+      },
+      {
+        "word": "猫",
+        "pronounce": "māo",
+        "meaning": "mèo"
+      },
+      {
+        "word": "没",
+        "pronounce": "méi",
+        "meaning": "không có, chưa"
+      },
+      {
+        "word": "没关系",
+        "pronounce": "méi guānxi",
+        "meaning": "không sao, không có gì"
+      },
+      {
+        "word": "米饭",
+        "pronounce": "mǐfàn",
+        "meaning": "cơm"
+      },
+      {
+        "word": "明天",
+        "pronounce": "míngtiān",
+        "meaning": "ngày mai"
+      },
+      {
+        "word": "名字",
+        "pronounce": "míngzi",
+        "meaning": "tên"
+      },
+      {
+        "word": "哪里 (哪儿)",
+        "pronounce": "nǎlǐ (nǎr)",
+        "meaning": "đâu, chỗ nào"
+      },
+      {
+        "word": "那",
+        "pronounce": "nà",
+        "meaning": "đó, kia"
+      },
+      {
+        "word": "呢",
+        "pronounce": "ne",
+        "meaning": "thì sao? (dùng để hỏi thêm)"
+      },
+      {
+        "word": "能",
+        "pronounce": "néng",
+        "meaning": "có thể"
+      },
+      {
+        "word": "你",
+        "pronounce": "nǐ",
+        "meaning": "bạn"
+      },
+      {
+        "word": "年",
+        "pronounce": "nián",
+        "meaning": "năm"
+      },
+      {
+        "word": "女儿",
+        "pronounce": "nǚ'ér",
+        "meaning": "con gái"
+      },
+      {
+        "word": "朋友",
+        "pronounce": "péngyou",
+        "meaning": "bạn"
+      },
+      {
+        "word": "漂亮",
+        "pronounce": "piàoliang",
+        "meaning": "đẹp"
+      },
+      {
+        "word": "苹果",
+        "pronounce": "píngguǒ",
+        "meaning": "táo"
+      },
+      {
+        "word": "七",
+        "pronounce": "qī",
+        "meaning": "bảy"
+      },
+      {
+        "word": "钱",
+        "pronounce": "qián",
+        "meaning": "tiền"
+      },
+      {
+        "word": "前面",
+        "pronounce": "qiánmiàn",
+        "meaning": "phía trước"
+      },
+      {
+        "word": "请",
+        "pronounce": "qǐng",
+        "meaning": "xin vui lòng, mời"
+      },
+      {
+        "word": "去",
+        "pronounce": "qù",
+        "meaning": "đi"
+      },
+      {
+        "word": "热",
+        "pronounce": "rè",
+        "meaning": "nóng"
+      },
+      {
+        "word": "人",
+        "pronounce": "rén",
+        "meaning": "người"
+      },
+      {
+        "word": "认识",
+        "pronounce": "rènshi",
+        "meaning": "quen biết"
+      },
+      {
+        "word": "日",
+        "pronounce": "rì",
+        "meaning": "ngày"
+      },
+      {
+        "word": "三",
+        "pronounce": "sān",
+        "meaning": "ba"
+      },
+      {
+        "word": "商店",
+        "pronounce": "shāngdiàn",
+        "meaning": "cửa hàng"
+      },
+      {
+        "word": "上",
+        "pronounce": "shàng",
+        "meaning": "lên"
+      },
+      {
+        "word": "上午",
+        "pronounce": "shàngwǔ",
+        "meaning": "buổi sáng"
+      },
+      {
+        "word": "少",
+        "pronounce": "shǎo",
+        "meaning": "ít"
+      },
+      {
+        "word": "谁",
+        "pronounce": "shuí/ shéi",
+        "meaning": "ai"
+      },
+      {
+        "word": "什么",
+        "pronounce": "shénme",
+        "meaning": "cái gì"
+      },
+      {
+        "word": "十",
+        "pronounce": "shí",
+        "meaning": "mười"
+      },
+      {
+        "word": "时候",
+        "pronounce": "shíhòu",
+        "meaning": "lúc, khi"
+      },
+      {
+        "word": "是",
+        "pronounce": "shì",
+        "meaning": "là, thì"
+      },
+      {
+        "word": "书",
+        "pronounce": "shū",
+        "meaning": "sách"
+      },
+      {
+        "word": "水",
+        "pronounce": "shuǐ",
+        "meaning": "nước"
+      },
+      {
+        "word": "水果",
+        "pronounce": "shuǐguǒ",
+        "meaning": "trái cây"
+      },
+      {
+        "word": "睡觉",
+        "pronounce": "shuìjiào",
+        "meaning": "ngủ"
+      },
+      {
+        "word": "说话",
+        "pronounce": "shuōhuà",
+        "meaning": "nói chuyện"
+      },
+      {
+        "word": "四",
+        "pronounce": "sì",
+        "meaning": "bốn"
+      },
+      {
+        "word": "岁",
+        "pronounce": "suì",
+        "meaning": "tuổi"
+      },
+      {
+        "word": "他",
+        "pronounce": "tā",
+        "meaning": "anh ấy, ông ấy"
+      },
+      {
+        "word": "她",
+        "pronounce": "tā",
+        "meaning": "cô ấy, bà ấy"
+      },
+      {
+        "word": "太",
+        "pronounce": "tài",
+        "meaning": "quá"
+      },
+      {
+        "word": "天气",
+        "pronounce": "tiānqì",
+        "meaning": "thời tiết"
+      },
+      {
+        "word": "听",
+        "pronounce": "tīng",
+        "meaning": "nghe"
+      },
+      {
+        "word": "同学",
+        "pronounce": "tóngxué",
+        "meaning": "bạn học"
+      },
+      {
+        "word": "喂",
+        "pronounce": "wèi",
+        "meaning": "alo"
+      },
+      {
+        "word": "我",
+        "pronounce": "wǒ",
+        "meaning": "tôi"
+      },
+      {
+        "word": "我们",
+        "pronounce": "wǒmen",
+        "meaning": "chúng tôi"
+      },
+      {
+        "word": "五",
+        "pronounce": "wǔ",
+        "meaning": "năm"
+      },
+      {
+        "word": "喜欢",
+        "pronounce": "xǐhuān",
+        "meaning": "thích"
+      },
+      {
+        "word": "下",
+        "pronounce": "xià",
+        "meaning": "xuống"
+      },
+      {
+        "word": "下午",
+        "pronounce": "xiàwǔ",
+        "meaning": "buổi chiều"
+      },
+      {
+        "word": "下雨",
+        "pronounce": "xià yǔ",
+        "meaning": "mưa"
+      },
+      {
+        "word": "先生",
+        "pronounce": "xiānshēng",
+        "meaning": "ông, ngài"
+      },
+      {
+        "word": "现在",
+        "pronounce": "xiànzài",
+        "meaning": "bây giờ"
+      },
+      {
+        "word": "想",
+        "pronounce": "xiǎng",
+        "meaning": "nghĩ, muốn"
+      },
+      {
+        "word": "小",
+        "pronounce": "xiǎo",
+        "meaning": "nhỏ"
+      },
+      {
+        "word": "小姐",
+        "pronounce": "xiǎojiě",
+        "meaning": "cô (trong cách gọi)"
+      },
+      {
+        "word": "些",
+        "pronounce": "xiē",
+        "meaning": "vài"
+      },
+      {
+        "word": "写",
+        "pronounce": "xiě",
+        "meaning": "viết"
+      },
+      {
+        "word": "谢谢",
+        "pronounce": "xièxiè",
+        "meaning": "cảm ơn"
+      },
+      {
+        "word": "星期",
+        "pronounce": "xīngqī",
+        "meaning": "tuần"
+      },
+      {
+        "word": "学生",
+        "pronounce": "xuéshēng",
+        "meaning": "học sinh"
+      },
+      {
+        "word": "学习",
+        "pronounce": "xuéxí",
+        "meaning": "học tập"
+      },
+      {
+        "word": "学校",
+        "pronounce": "xuéxiào",
+        "meaning": "trường học"
+      },
+      {
+        "word": "一",
+        "pronounce": "yī",
+        "meaning": "một"
+      },
+      {
+        "word": "衣服",
+        "pronounce": "yīfu",
+        "meaning": "quần áo"
+      },
+      {
+        "word": "医生",
+        "pronounce": "yīshēng",
+        "meaning": "bác sĩ"
+      },
+      {
+        "word": "医院",
+        "pronounce": "yīyuàn",
+        "meaning": "bệnh viện"
+      },
+      {
+        "word": "椅子",
+        "pronounce": "yǐzi",
+        "meaning": "ghế"
+      },
+      {
+        "word": "月",
+        "pronounce": "yuè",
+        "meaning": "tháng, mặt trăng"
+      },
+      {
+        "word": "在",
+        "pronounce": "zài",
+        "meaning": "ở, tại"
+      },
+      {
+        "word": "再见",
+        "pronounce": "zàijiàn",
+        "meaning": "tạm biệt"
+      },
+      {
+        "word": "怎么",
+        "pronounce": "zěnme",
+        "meaning": "làm sao"
+      },
+      {
+        "word": "怎么样",
+        "pronounce": "zěnmeyàng",
+        "meaning": "như thế nào"
+      },
+      {
+        "word": "这",
+        "pronounce": "zhè",
+        "meaning": "Đây, này"
+      },
+      {
+        "word": "中国",
+        "pronounce": "Zhōngguó",
+        "meaning": "Trung Quốc"
+      },
+      {
+        "word": "中午",
+        "pronounce": "zhōngwǔ",
+        "meaning": "buổi trưa"
+      },
+      {
+        "word": "住",
+        "pronounce": "zhù",
+        "meaning": "sống, cư trú"
+      },
+      {
+        "word": "桌子",
+        "pronounce": "zhuōzi",
+        "meaning": "bàn"
+      },
+      {
+        "word": "字",
+        "pronounce": "zì",
+        "meaning": "chữ"
+      },
+      {
+        "word": "昨天",
+        "pronounce": "zuótiān",
+        "meaning": "hôm qua"
+      },
+      {
+        "word": "坐",
+        "pronounce": "zuò",
+        "meaning": "ngồi"
+      },
+      {
+        "word": "做",
+        "pronounce": "zuò",
+        "meaning": "làm"
+      }
+    ]
+  }
+}
