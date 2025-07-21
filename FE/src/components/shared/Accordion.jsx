@@ -2,14 +2,13 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
-// Đặt tên export rõ ràng
 export const Accordion = ({ title, children, defaultOpen = false }) => {
     const [isOpen, setIsOpen] = useState(defaultOpen);
 
     return (
         <div className="bg-gray-50 border rounded-lg overflow-hidden">
             <button
-                type="button" // Luôn thêm type="button" cho button không submit form
+                type="button" 
                 onClick={() => setIsOpen(!isOpen)}
                 className="w-full p-4 font-semibold cursor-pointer flex justify-between items-center hover:bg-gray-100 transition-colors"
                 aria-expanded={isOpen}
@@ -38,9 +37,8 @@ export const Accordion = ({ title, children, defaultOpen = false }) => {
                             collapsed: { opacity: 0, height: 0 }
                         }}
                         transition={{ duration: 0.4, ease: [0.04, 0.62, 0.23, 0.98] }}
-                        className="overflow-hidden" // Không cần border ở đây vì div cha đã có
+                        className="overflow-hidden"
                     >
-                        {/* Thêm một div padding bên trong để nội dung không bị cắt khi animation */}
                         <div className="p-4 border-t border-gray-200">
                             {children}
                         </div>

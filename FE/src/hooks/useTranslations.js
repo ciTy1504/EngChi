@@ -1,3 +1,4 @@
+// src/hooks/useTranslations.js
 import { useContext } from 'react';
 import { LanguageContext } from '../contexts/LanguageContext';
 import { translations } from '../constants/translations';

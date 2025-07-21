@@ -1,0 +1,318 @@
+{
+  "title": "Parts of Speech",
+  "description": "Learn the building blocks of sentences: nouns, verbs, adjectives, and more.",
+  "language": "en",
+  "type": "grammar",
+  "order": 1,
+  "level": "Beginner",
+  "content": {
+    "grammarTheory": [
+      {
+        "_id": "en_theory_nouns",
+        "title": "Nouns",
+        "order": 1,
+        "children": [
+          {
+            "_id": "en_theory_nouns_common_proper",
+            "title": "Common and Proper Nouns",
+            "order": 1,
+            "contentHTML": "<h2>Common and Proper Nouns</h2><hr><h3>Definition</h3><p>Nouns are words used to name people, things, or ideas. They can function as subjects or objects in a sentence.</p><ul><li><strong>Common Nouns:</strong> Refer to general groups of people, things, or phenomena. <em>(e.g., a camera, a river, a city)</em></li><li><strong>Proper Nouns:</strong> Refer to the specific name of a person, place, or thing. Proper nouns must always be capitalized. <em>(e.g., Canon, Paris, John)</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_nouns_concrete_abstract",
+            "title": "Concrete and Abstract Nouns",
+            "order": 2,
+            "contentHTML": "<h2>Concrete and Abstract Nouns</h2><hr><ul><li><strong>Concrete Nouns:</strong> Refer to a person, place, or thing that is tangible and can be perceived through the senses (sight, sound, touch, taste, smell).<br><em>Example: Tom just gave me some <strong>apples</strong>.</em></li><li><strong>Abstract Nouns:</strong> Refer to concepts, ideas, or phenomena that are intangible and cannot be perceived by the senses.<br><em>Example: Jane's childhood memory has always been her <strong>fear</strong>.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_nouns_countable_uncountable",
+            "title": "Countable and Uncountable Nouns",
+            "order": 3,
+            "contentHTML": "<h2>Countable and Uncountable Nouns</h2><hr><ul><li><strong>Countable Nouns:</strong> Refer to people, things, etc., that can be counted and expressed with a specific number. They have singular and plural forms.<br><em>Examples: one book (singular), two books (plural); a man, many men.</em></li><li><strong>Uncountable Nouns:</strong> Refer to things or concepts that cannot be counted with specific numbers. They do not have a plural form.<br><em>Examples: water, food, information, sand, hope.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_nouns_compound",
+            "title": "Compound Nouns",
+            "order": 4,
+            "contentHTML": "<h2>Compound Nouns</h2><hr><p>A compound noun is formed by combining two or more separate words to create a new noun. They can be categorized into three types:</p><ul><li><strong>Open/Spaced:</strong> Words are separate. <em>(e.g., bus stop, ice cream)</em></li><li><strong>Hyphenated:</strong> Words are joined by a hyphen. <em>(e.g., mother-in-law, warm-up)</em></li><li><strong>Closed/Solid:</strong> Words are merged into one. <em>(e.g., haircut, police officer)</em></li></ul>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_pronouns",
+        "title": "Pronouns",
+        "order": 2,
+        "children": [
+          {
+            "_id": "en_theory_pronouns_personal",
+            "title": "Personal Pronouns",
+            "order": 1,
+            "contentHTML": "<h2>Personal Pronouns</h2><hr><p>Personal pronouns replace nouns referring to specific people or things to avoid repetition. They have two forms based on their role in a sentence.</p><table><thead><tr><th>Subject Pronouns</th><th>Object Pronouns</th></tr></thead><tbody><tr><td>I</td><td>me</td></tr><tr><td>You</td><td>you</td></tr><tr><td>They</td><td>them</td></tr><tr><td>We</td><td>us</td></tr><tr><td>He</td><td>him</td></tr><tr><td>She</td><td>her</td></tr><tr><td>It</td><td>it</td></tr></tbody></table><p><em>Example: <strong>My mother</strong> is a good doctor. <strong>She</strong> has done many successful surgeries.</em></p>"
+          },
+          {
+            "_id": "en_theory_pronouns_possessive",
+            "title": "Possessive Pronouns",
+            "order": 2,
+            "contentHTML": "<h2>Possessive Pronouns</h2><hr><p>Possessive pronouns indicate ownership and replace a noun phrase (e.g., 'my book' becomes 'mine').</p><ul><li><strong>mine:</strong> <em>Her dress is black, <strong>mine</strong> is pink.</em></li><li><strong>yours:</strong> <em>I've got my pen. Where is <strong>yours</strong>?</em></li><li><strong>ours:</strong> <em>That house is <strong>ours</strong>.</em></li><li><strong>hers:</strong> <em>He got his certificate a year ago, but she just got <strong>hers</strong>.</em></li><li><strong>his:</strong> <em>My car is white; <strong>his</strong> is blue.</em></li><li><strong>theirs:</strong> <em>My notebook looks the same as <strong>theirs</strong>.</em></li><li><strong>its:</strong> <em>The cat has a toy. The ball is <strong>its</strong>.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_pronouns_relative",
+            "title": "Relative Pronouns",
+            "order": 3,
+            "contentHTML": "<h2>Relative Pronouns</h2><hr><p>Relative pronouns connect a clause or phrase to a noun or pronoun. They introduce a relative clause, which provides more information about the noun.</p><ul><li><strong>who:</strong> Refers to people. <em>(The woman <strong>who</strong> called you is my boss.)</em></li><li><strong>whom:</strong> Refers to people (as an object). <em>(The girl <strong>whom</strong> I met is my best friend.)</em></li><li><strong>which:</strong> Refers to things. <em>(This is the comic <strong>which</strong> he bought 3 years ago.)</em></li><li><strong>whose:</strong> Refers to possession for people or things. <em>(The woman <strong>whose</strong> name is Lona is my teacher.)</em></li><li><strong>that:</strong> Refers to people or things. <em>(This is the book <strong>that</strong> belongs to Jane.)</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_pronouns_interrogative",
+            "title": "Interrogative Pronouns",
+            "order": 4,
+            "contentHTML": "<h2>Interrogative Pronouns</h2><hr><p>Interrogative pronouns are used to ask questions. The answer to the question is typically a noun or noun phrase. They usually appear at the beginning of a question.</p><ul><li><strong>What:</strong> <em><strong>What</strong> did he do in Japan?</em></li><li><strong>Which:</strong> <em><strong>Which</strong> sport does she like better, badminton or basketball?</em></li><li><strong>Who:</strong> <em><strong>Who</strong> is at the door?</em></li><li><strong>Whom:</strong> <em><strong>Whom</strong> did you invite to the party?</em></li><li><strong>Whose:</strong> <em><strong>Whose</strong> jacket is this?</em></li></ul>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_adjectives",
+        "title": "Adjectives",
+        "order": 3,
+        "children": [
+          {
+            "_id": "en_theory_adjectives_possessive",
+            "title": "Possessive Adjectives",
+            "order": 1,
+            "contentHTML": "<h2>Possessive Adjectives</h2><hr><p>Possessive adjectives are used to show ownership or possession. They come before a noun. They are different from possessive pronouns.</p><table><thead><tr><th>Personal Pronoun</th><th>Possessive Adjective</th></tr></thead><tbody><tr><td>I</td><td>my</td></tr><tr><td>You</td><td>your</td></tr><tr><td>We</td><td>our</td></tr><tr><td>They</td><td>their</td></tr><tr><td>He</td><td>his</td></tr><tr><td>She</td><td>her</td></tr><tr><td>It</td><td>its</td></tr></tbody></table><p><em>Example: That is <strong>her</strong> book. (The book belongs to her).</em></p>"
+          },
+          {
+            "_id": "en_theory_adjectives_ing_ed",
+            "title": "-ing and -ed Adjectives",
+            "order": 2,
+            "contentHTML": "<h2>-ing and -ed Adjectives</h2><hr><p>These adjectives are formed from verbs but describe nouns.</p><ul><li><strong>-ing Adjectives:</strong> Describe the quality or characteristic of a person, thing, or situation that causes a feeling. They describe the source.<br><em>Example: This old game is <strong>boring</strong>. (The game causes boredom.)</em></li><li><strong>-ed Adjectives:</strong> Describe a person's feeling or emotion as a result of something. They describe the effect.<br><em>Example: I am <strong>bored</strong> because this game is boring. (I feel boredom.)</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_adjectives_order",
+            "title": "Order of Adjectives",
+            "order": 3,
+            "contentHTML": "<h2>Order of Adjectives</h2><hr><p>When multiple adjectives are used before a noun, they usually follow a specific order in English. This helps sentences sound natural.</p><p>The typical order is:</p><ol><li><strong>Quantity or number</strong> (e.g., two, several)</li><li><strong>Opinion</strong> (e.g., beautiful, boring)</li><li><strong>Size</strong> (e.g., big, small)</li><li><strong>Age</strong> (e.g., young, old)</li><li><strong>Shape</strong> (e.g., round, square)</li><li><strong>Color</strong> (e.g., red, blue)</li><li><strong>Origin</strong> (e.g., Japanese, American)</li><li><strong>Material</strong> (e.g., wooden, metal)</li><li><strong>Purpose</strong> (e.g., sleeping [as in \"sleeping bag\"])</li></ol><p><strong>Example:</strong> A beautiful small old round red Italian wooden jewelry box.</p><p><em>Note: Native speakers sometimes bend the rules, but this is the standard order.</em></p>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_verbs",
+        "title": "Verbs",
+        "order": 4,
+        "children": [
+          {
+            "_id": "en_theory_verbs_action",
+            "title": "Action Verbs",
+            "order": 1,
+            "contentHTML": "<h2>Action Verbs</h2><hr><p>Action verbs express a physical or mental action. They describe what the subject of the sentence is doing.</p><ul><li><strong>Physical Actions:</strong> <em>run, jump, crash, cook</em></li><li><strong>Mental Actions:</strong> <em>think, miss, learn, believe</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_verbs_irregular",
+            "title": "Irregular Verbs",
+            "order": 2,
+            "contentHTML": "<h2>Irregular Verbs</h2><hr><p>Irregular verbs do not follow the standard rule of adding '-ed' to form the past simple and past participle forms. You must memorize them.</p><table><thead><tr><th>Base Form</th><th>Past Simple</th><th>Past Participle</th></tr></thead><tbody><tr><td>begin</td><td>began</td><td>begun</td></tr><tr><td>bring</td><td>brought</td><td>brought</td></tr><tr><td>eat</td><td>ate</td><td>eaten</td></tr></tbody></table>"
+          },
+          {
+            "_id": "en_theory_verbs_modal",
+            "title": "Modal Verbs",
+            "order": 3,
+            "contentHTML": "<h2>Modal Verbs</h2><hr><p>Modal verbs are auxiliary (helping) verbs that express ability, possibility, permission, or obligation. The main verb that follows a modal is always in its base form.</p><ul><li><strong>Can / Could / Be able to (Ability):</strong> <em>Jane <strong>can</strong> play badminton.</em></li><li><strong>Must / Have to (Obligation):</strong> <em>He <strong>must</strong> be tired.</em></li><li><strong>May / Might (Possibility):</strong> <em>It <strong>may</strong> be cold.</em></li><li><strong>Will / Would / Shall (Future/Intention):</strong> <em>John <strong>will</strong> win this game.</em></li><li><strong>Should / Ought to (Advice):</strong> <em>You <strong>should</strong> lock the doors.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_verbs_tobe",
+            "title": "Verb 'to be'",
+            "order": 4,
+            "contentHTML": "<h2>Verb 'to be'</h2><hr><p>The verb 'to be' (am, is, are, was, were) can act as a main verb to describe a state or characteristic, or as an auxiliary verb in continuous tenses and the passive voice.</p><ul><li><strong>As a Main Verb:</strong> <em>Jane <strong>is</strong> very beautiful.</em></li><li><strong>As an Auxiliary Verb:</strong> <em>This beautiful house <strong>was</strong> built in 2000.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_verbs_auxiliary",
+            "title": "Auxiliary Verbs (Helping Verbs)",
+            "order": 5,
+            "contentHTML": "<h2>Auxiliary Verbs (Helping Verbs)</h2><hr><p>Auxiliary verbs (like 'be', 'do', 'have') help the main verb to show tense, mood, or voice. They are used to form questions, negative sentences, and complex tenses.</p><ul><li><strong>'do' for negatives/questions:</strong> <em>Henry <strong>does</strong> his housework well. He <strong>does not</strong> like it.</em></li><li><strong>'have' for perfect tenses:</strong> <em>I <strong>have</strong> finished my work.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_verbs_phrasal",
+            "title": "Phrasal Verbs",
+            "order": 6,
+            "contentHTML": "<h2>Phrasal Verbs</h2><hr><p>A phrasal verb is a combination of a verb and a preposition or adverb, creating a meaning different from the original verb.</p><em>Example: Don't <strong>bank on</strong> Henry to do that. ('Bank on' means 'to rely on').</em>"
+          },
+          {
+            "_id": "en_theory_verbs_transitive_intransitive",
+            "title": "Transitive and Intransitive Verbs",
+            "order": 7,
+            "contentHTML": "<h2>Transitive and Intransitive Verbs</h2><hr><ul><li><strong>Intransitive Verbs:</strong> Express an action that does not have a direct object. The action is complete on its own.<br><em>Example: She <strong>agreed</strong>. The sun <strong>rises</strong>.</em></li><li><strong>Transitive Verbs:</strong> Express an action that has a direct object. The verb 'transfers' its action to something or someone.<br><em>Example: He <strong>owed</strong> Jane a lot of money. (The object is 'Jane').</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_verbs_linking",
+            "title": "Linking Verbs",
+            "order": 8,
+            "contentHTML": "<h2>Linking Verbs</h2><hr><p>Linking verbs connect the subject of a sentence to a subject complement (a noun or adjective that describes the subject). They don't show action; they show a state of being.</p><p>Common linking verbs: <em>be, feel, look, sound, smell, taste, seem, become, appear, remain.</em></p><em>Example: Jane <strong>seems</strong> happy. The biscuit <strong>tastes</strong> sweet.</em>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_adverbs",
+        "title": "Adverbs",
+        "order": 5,
+        "children": [
+          {
+            "_id": "en_theory_adverbs_place",
+            "title": "Adverbs of Place",
+            "order": 1,
+            "contentHTML": "<h2>Adverbs of Place</h2><hr><p>Adverbs of place describe where an action happens. They answer the question 'Where?'.</p><p>Common examples: <em>here, there, somewhere, inside, outside, downstairs, between.</em></p><em>Example: Jane is cooking <strong>downstairs</strong>.</em>"
+          },
+          {
+            "_id": "en_theory_adverbs_degree",
+            "title": "Adverbs of Degree",
+            "order": 2,
+            "contentHTML": "<h2>Adverbs of Degree</h2><hr><p>Adverbs of degree describe the intensity or extent of an action, adjective, or another adverb. They answer the question 'To what extent?'.</p><p>Common examples: <em>hardly, little, fully, very, extremely, quite.</em></p><em>Example: I need <strong>hardly</strong> say that I was very happy.</em>"
+          },
+          {
+            "_id": "en_theory_adverbs_time",
+            "title": "Adverbs of Time",
+            "order": 3,
+            "contentHTML": "<h2>Adverbs of Time</h2><hr><p>Adverbs of time describe when an action happens. They answer the question 'When?'.</p><p>Common examples: <em>early, now, soon, finally, last year, yesterday, today.</em></p><em>Example: I went to Dubai with my family <strong>last year</strong>.</em>"
+          },
+          {
+            "_id": "en_theory_adverbs_manner",
+            "title": "Adverbs of Manner",
+            "order": 4,
+            "contentHTML": "<h2>Adverbs of Manner</h2><hr><p>Adverbs of manner describe how an action happens. They answer the question 'How?'. Many end in '-ly'.</p><p>Common examples: <em>noisily, unfortunately, carefully, slowly, happily.</em></p><em>Example: My sister is chewing the food <strong>noisily</strong>.</em>"
+          },
+          {
+            "_id": "en_theory_adverbs_frequency",
+            "title": "Adverbs of Frequency",
+            "order": 5,
+            "contentHTML": "<h2>Adverbs of Frequency</h2><hr><p>Adverbs of frequency describe how often an action happens. They answer the question 'How often?'.</p><p>Common examples: <em>always, usually, sometimes, rarely, never.</em></p><em>Example: Jane <strong>always</strong> goes to school on time.</em>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_quantifiers",
+        "title": "Quantifiers",
+        "order": 6,
+        "children": [
+          {
+            "_id": "en_theory_quantifiers_few_little",
+            "title": "Few, a few, little, a little",
+            "order": 1,
+            "contentHTML": "<h2>Few, a few, little, a little</h2><hr><ul><li><strong>A few / Few:</strong> Used with plural countable nouns.</li><ul><li><strong>A few:</strong> A small number (positive, 'some'). <em>(I have <strong>a few</strong> friends.)</em></li><li><strong>Few:</strong> Not many (negative, 'almost none'). <em>(<strong>Few</strong> people came to the party.)</em></li></ul><li><strong>A little / Little:</strong> Used with uncountable nouns.</li><ul><li><strong>A little:</strong> A small amount (positive, 'some'). <em>(I have <strong>a little</strong> money.)</em></li><li><strong>Little:</strong> Not much (negative, 'almost none'). <em>(There is <strong>little</strong> hope.)</em></li></ul></ul>"
+          },
+          {
+            "_id": "en_theory_quantifiers_some_any",
+            "title": "Some and Any",
+            "order": 2,
+            "contentHTML": "<h2>Some and Any</h2><hr><p>Both are used with plural countable nouns and uncountable nouns.</p><ul><li><strong>Some:</strong> Used in positive/affirmative sentences and in offers/requests.<br><em>Example: Henry bought <strong>some</strong> pencils. Would you like <strong>some</strong> tea?</em></li><li><strong>Any:</strong> Used in negative sentences and most questions.<br><em>Example: There aren't <strong>any</strong> tomatoes in the kitchen. Do you have <strong>any</strong> questions?</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_quantifiers_much_many",
+            "title": "Much and Many",
+            "order": 3,
+            "contentHTML": "<h2>Much and Many</h2><hr><p>Both mean 'a large amount/number' and are often used in questions and negative sentences. 'A lot of' is more common in positive sentences.</p><ul><li><strong>Many:</strong> Used with plural countable nouns.<br><em>Example: <strong>Many</strong> of my friends like playing badminton.</em></li><li><strong>Much:</strong> Used with uncountable nouns.<br><em>Example: How <strong>much</strong> time does she have left?</em></li></ul>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_prepositions",
+        "title": "Prepositions",
+        "order": 7,
+        "children": [
+          {
+            "_id": "en_theory_prepositions_place",
+            "title": "Prepositions of Place",
+            "order": 1,
+            "contentHTML": "<h2>Prepositions of Place</h2><hr><p>These prepositions clarify information about a location or position.</p><p>Common examples: <em>in, on, at, under, between, behind, in front of.</em></p><em>Example: Jane is <strong>in</strong> her room. The cat is <strong>on</strong> the table.</em>"
+          },
+          {
+            "_id": "en_theory_prepositions_time",
+            "title": "Prepositions of Time",
+            "order": 2,
+            "contentHTML": "<h2>Prepositions of Time</h2><hr><p>These prepositions clarify information about the time an event occurs.</p><ul><li><strong>On:</strong> For days and dates. <em>(<strong>on</strong> Monday, <strong>on</strong> May 5th)</em></li><li><strong>At:</strong> For specific times and certain points in the day. <em>(<strong>at</strong> 9 p.m., <strong>at</strong> noon)</em></li><li><strong>In:</strong> For longer periods like months, years, seasons, and parts of the day. <em>(<strong>in</strong> the evening, <strong>in</strong> 2023, <strong>in</strong> summer)</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_prepositions_other",
+            "title": "Other Prepositions",
+            "order": 3,
+            "contentHTML": "<h2>Other Types of Prepositions</h2><hr><ul><li><strong>Direction/Movement:</strong> <em>to, from, up, down, across, along</em></li><li><strong>Agent/Instrument:</strong> <em>by, with, on</em></li><li><strong>Reason/Purpose:</strong> <em>for, because of, from, through</em></li></ul>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_articles",
+        "title": "Articles",
+        "order": 8,
+        "children": [
+          {
+            "_id": "en_theory_articles_definite_indefinite",
+            "title": "Definite and Indefinite Articles",
+            "order": 1,
+            "contentHTML": "<h2>Definite and Indefinite Articles</h2><hr><p>Articles are words that come before a noun to specify whether the noun is general or specific.</p><ul><li><strong>The (Definite Article):</strong> Used to refer to a specific, unique, or previously mentioned noun that both the speaker and listener know.<br><em>Example: Can you pass me <strong>the</strong> salt? (The specific salt on the table).</em></li><li><strong>A / An (Indefinite Article):</strong> Used to refer to a general or non-specific noun. 'A' is used before consonant sounds, and 'An' is used before vowel sounds.<br><em>Example: I need to buy <strong>a</strong> car. I saw <strong>an</strong> elephant.</em></li></ul>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_conjunctions",
+        "title": "Conjunctions",
+        "order": 9,
+        "children": [
+          {
+            "_id": "en_theory_conjunctions_coordinating",
+            "title": "Coordinating Conjunctions",
+            "order": 1,
+            "contentHTML": "<h2>Coordinating Conjunctions</h2><hr><p>Coordinating conjunctions connect words, phrases, or independent clauses of equal grammatical rank. You can remember them with the acronym FANBOYS.</p><ul><li><strong>F</strong>or - <em>(presents a reason)</em></li><li><strong>A</strong>nd - <em>(adds information)</em></li><li><strong>N</strong>or - <em>(presents a negative alternative)</em></li><li><strong>B</strong>ut - <em>(shows contrast)</em></li><li><strong>O</strong>r - <em>(presents a choice)</em></li><li><strong>Y</strong>et - <em>(shows contrast, similar to but)</em></li><li><strong>S</strong>o - <em>(presents a result)</em></li></ul><p><em>Example: I want to play badminton <strong>and</strong> handball.</em></p>"
+          },
+          {
+            "_id": "en_theory_conjunctions_subordinating",
+            "title": "Subordinating Conjunctions",
+            "order": 2,
+            "contentHTML": "<h2>Subordinating Conjunctions</h2><hr><p>Subordinating conjunctions connect an independent clause (a complete thought) with a dependent clause (an incomplete thought). The dependent clause cannot stand alone as a sentence.</p><p>Common examples: <em>because, since, as, although, before, after, while, if, unless.</em></p><p><em>Example: <strong>Although</strong> Henry had a broken leg, he still passed the final exam.</em></p>"
+          },
+          {
+            "_id": "en_theory_conjunctions_correlative",
+            "title": "Correlative Conjunctions",
+            "order": 3,
+            "contentHTML": "<h2>Correlative Conjunctions</h2><hr><p>Correlative conjunctions work in pairs to join grammatically equal elements in a sentence.</p><ul><li><strong>either ... or:</strong> <em>You can have <strong>either</strong> tea <strong>or</strong> coffee.</em></li><li><strong>neither ... nor:</strong> <em>He is <strong>neither</strong> a teacher <strong>nor</strong> a student.</em></li><li><strong>both ... and:</strong> <em>She likes <strong>both</strong> cats <strong>and</strong> dogs.</em></li><li><strong>not only ... but also:</strong> <em>We play badminton <strong>not only</strong> on Tuesday <strong>but also</strong> on Sunday.</em></li></ul>"
+          }
+        ]
+      }
+    ],
+    "grammarQuestions": [
+      {
+        "_id": "en_q_pos_001",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_nouns_common_proper",
+        "prompt": "Which of the following is a proper noun?",
+        "explanation": "A proper noun is a specific name and always starts with a capital letter. 'Paris' is the specific name of a city.",
+        "options": [
+          { "_id": "en_q_pos_001_a", "text": "country", "isCorrect": false },
+          { "_id": "en_q_pos_001_b", "text": "Paris", "isCorrect": true },
+          { "_id": "en_q_pos_001_c", "text": "ocean", "isCorrect": false }
+        ]
+      },
+      {
+        "_id": "en_q_pos_002",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_adjectives_order",
+        "prompt": "In the sentence 'The red car is fast', what is the adjective?",
+        "explanation": "'Red' is the word that describes the noun 'car'.",
+        "options": [
+          { "_id": "en_q_pos_002_a", "text": "car", "isCorrect": false },
+          { "_id": "en_q_pos_002_b", "text": "is", "isCorrect": false },
+          { "_id": "en_q_pos_002_c", "text": "red", "isCorrect": true }
+        ]
+      },
+      {
+        "_id": "en_q_pos_00003",
+        "qType": "multiple_choice_multiple",
+        "relatedTheoryId": "en_theory_nouns_countable_uncountable",
+        "prompt": "Which of these is an uncountable noun?",
+        "explanation": "You cannot say 'one water' or 'two waters'. 'Water' is uncountable.",
+        "options": [
+          { "_id": "en_q_pos_003_a", "text": "chair", "isCorrect": false },
+          { "_id": "en_q_pos_003_b", "text": "water", "isCorrect": true },
+          { "_id": "en_q_pos_003_c", "text": "sand", "isCorrect": true }
+        ]
+      }
+    ]
+  },
+  "isActive": true
+}

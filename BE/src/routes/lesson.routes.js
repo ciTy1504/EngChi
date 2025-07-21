@@ -5,7 +5,11 @@ const {
     startLesson, 
     updateProgress,
     getNextTranslationQuestion,
-    submitTranslationAnswer
+    submitTranslationAnswer,
+    getNextArticle,
+    submitReadingAnswers,
+    getGrammarLibrary,
+    getGrammarQuizQuestions
 } = require('../controllers/lesson.controller');
 const { protect } = require('../middleware/auth.middleware');
 
@@ -20,5 +24,10 @@ router.put('/progress/:progressId', updateProgress);
 router.get('/translation/:lessonId/next-question', getNextTranslationQuestion);
 router.post('/translation/submit-answer', submitTranslationAnswer);
 
+router.get('/reading/:lessonId/next-article', getNextArticle);
+router.post('/reading/submit-answers', submitReadingAnswers);
+
+router.get('/grammar/library', getGrammarLibrary);
+router.get('/:lessonId/quiz-questions', getGrammarQuizQuestions);
 
 module.exports = router;

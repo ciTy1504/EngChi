@@ -1,11 +1,11 @@
-// src/pages/Vocab/QuizPage.jsx
+// src/features/vocab/QuizPage.jsx
 import React, { useState, useEffect, useContext, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { checkVocabulary } from '../../api/aiAPI';
 import { LanguageContext } from '../../contexts/LanguageContext';
 import { useTranslations } from '../../hooks/useTranslations';
-import QuestionNavigator from '../../components/quiz/QuestionNavigator.jsx';
-import QuizResults from '../../components/quiz/QuizResults.jsx';
+import QuestionNavigator from './components/QuestionNavigator';
+import QuizResults from './components/QuizResults.jsx';
 import { apiService } from '../../api/apiService';
 
 const shuffleAndPick = (array, count) => {
@@ -16,7 +16,7 @@ const shuffleAndPick = (array, count) => {
 const BATCH_SIZE = 10;
 
 const QuizPage = () => {
-    const { levelId: lessonId } = useParams(); 
+    const { lessonId } = useParams();
     const navigate = useNavigate();
     const { language } = useContext(LanguageContext);
     const t = useTranslations();

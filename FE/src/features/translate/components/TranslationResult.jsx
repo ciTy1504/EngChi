@@ -1,8 +1,7 @@
-// src/components/translate/TranslationResult.jsx
+// src/features/translate/components/TranslationResult.jsx
 import React from 'react';
-import { useTranslations } from '../../hooks/useTranslations';
-// Import từ đường dẫn đúng
-import { Accordion } from '../shared/Accordion';
+import { useTranslations } from '../../../hooks/useTranslations'; 
+import { Accordion } from '../../../components/shared/Accordion'; 
 
 const TranslationResult = ({ result }) => {
     const t = useTranslations();

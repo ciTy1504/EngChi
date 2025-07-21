@@ -1,19 +1,31 @@
 // src/App.jsx
 import React from 'react';
-import { Toaster } from 'react-hot-toast';
 import { Routes, Route, Navigate } from 'react-router-dom';
+
 import HomePage from './pages/HomePage/HomePage';
-import VocabLevelSelectionPage from './pages/Vocab/VocabLevelSelectionPage';
-import QuizPage from './pages/Vocab/QuizPage';
-import TranslateLevelSelectionPage from './pages/Translate/TranslateLevelSelectionPage';
-import TranslatePage from './pages/Translate/TranslatePage';
 import MainLayout from './components/layout/MainLayout';
 import LanguageSetter from './components/layout/LanguageSetter';
-
-// Auth Components
 import LoginPage from './pages/Auth/LoginPage';
 import RegisterPage from './pages/Auth/RegisterPage';
 import ProtectedRoute from './components/auth/ProtectedRoute';
+
+import FeatureLevelSelectionPage from './features/shared/FeatureLevelSelectionPage';
+
+import QuizPage from './features/vocab/QuizPage'; 
+import TranslatePage from './features/translate/TranslatePage';
+import ReadingPage from './features/reading/ReadingPage';
+
+import GrammarLandingPage from './features/grammar/GrammarLandingPage';
+import GrammarTheoryPage from './features/grammar/GrammarTheoryPage';
+import GrammarQuizPage from './features/grammar/GrammarQuizPage';
+
+import { featureConfig } from './constants/appData';
+
+const pageComponents = {
+  QuizPage,
+  TranslatePage,
+  ReadingPage,
+};
 
 function App() {
   return (
@@ -27,12 +39,40 @@ function App() {
           <Route element={<MainLayout />}>
             <Route index element={<HomePage />} />
             
-            <Route path="vocab" element={<VocabLevelSelectionPage />} />
-            <Route path="vocab/:levelId" element={<QuizPage />} />
-            
-            <Route path="translate" element={<TranslateLevelSelectionPage />} />
-            <Route path="translate/:levelId" element={<TranslatePage />} />
-            {/* Các route học tập khác sẽ nằm ở đây */}
+            {featureConfig.map(feature => {
+              const PageComponent = pageComponents[feature.pageComponent];
+              if (!PageComponent) return null; 
+
+              return (
+                <React.Fragment key={feature.id}>
+                  <Route 
+                    path={feature.path.substring(1)} 
+                    element={<FeatureLevelSelectionPage {...feature.selectionProps} />}
+                  />
+                  <Route 
+                    path={`${feature.path.substring(1)}/:lessonId`} 
+                    element={<PageComponent />}
+                  />
+                </React.Fragment>
+              );
+            })}
+
+            <Route path="grammar" element={<GrammarLandingPage />} />
+            <Route path="grammar/theory" element={<GrammarTheoryPage />} />
+            <Route 
+                path="grammar/practice" 
+                element={
+                    <FeatureLevelSelectionPage 
+                        featureType="grammar"
+                        featurePath="/grammar/practice"
+                        pageTitleKey="grammar_practice_title"
+                        pageSubtitleKey="grammar_practice_subtitle"
+                        backButtonPath="/grammar"
+                    />
+                } 
+            />
+            <Route path="grammar/practice/:lessonId" element={<GrammarQuizPage />} />
+
           </Route>
         </Route>
       </Route>

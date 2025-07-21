@@ -1,0 +1,47 @@
+{
+  "title": "常见语法结构",
+  "description": "学习汉语中最常用的语法结构。",
+  "language": "zh",
+  "type": "grammar",
+  "order": 1,
+  "level": "HSK 1-2",
+  "content": {
+    "grammarTheory": [
+      {
+        "_id": "zh_theory_shide",
+        "title": "是...的 (shì...de) Cấu trúc nhấn mạnh",
+        "order": 1,
+        "contentHTML": "<h2>是...的 结构</h2><p>Cấu trúc <strong>是...的</strong> được dùng để nhấn mạnh thời gian, địa điểm, phương thức, hoặc đối tượng của một hành động <strong>đã xảy ra</strong>.</p><p><strong>Công thức:</strong> S + 是 + [Thành phần cần nhấn mạnh] + V + 的。</p><p>Ví dụ:</p><ul><li>Nhấn mạnh thời gian: 我 <strong>是</strong> 昨天 来 的。(Wǒ <strong>shì</strong> zuótiān lái <strong>de</strong>.) - <em>Tôi đến vào hôm qua.</em></li><li>Nhấn mạnh địa điểm: 我 <strong>是</strong> 在 北京 出生 的。(Wǒ <strong>shì</strong> zài Běijīng chūshēng <strong>de</strong>.) - <em>Tôi được sinh ra ở Bắc Kinh.</em></li></ul>"
+      },
+      {
+        "_id": "zh_theory_yinweisuoyi",
+        "title": "因为...所以... (yīnwèi...suǒyǐ)",
+        "order": 2,
+        "contentHTML": "<h2>因为...所以... 结构</h2><p>Cấu trúc này biểu thị mối quan hệ nguyên nhân - kết quả, tương đương với 'bởi vì...cho nên...' trong tiếng Việt.</p><p><strong>Công thức:</strong> 因为 + [Nguyên nhân], 所以 + [Kết quả].</p><p>Ví dụ: <strong>因为</strong> 下雨了，<strong>所以</strong> 我们没去公园。(<strong>Yīnwèi</strong> xià yǔ le, <strong>suǒyǐ</strong> wǒmen méi qù gōngyuán.) - <em>Bởi vì trời mưa rồi, cho nên chúng tôi không đi công viên.</em></p>"
+      }
+    ],
+    "grammarQuestions": [
+      {
+        "_id": "zh_q_str_001",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "zh_theory_shide",
+        "prompt": "他 是 坐飞机来 ___。",
+        "answers": ["的"],
+        "explanation": "Đây là cấu trúc '是...的' để nhấn mạnh phương thức '坐飞机' (đi bằng máy bay)."
+      },
+      {
+        "_id": "zh_q_str_002",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "zh_theory_yinweisuoyi",
+        "prompt": "___ 天气不好，所以我没出门。",
+        "explanation": "'因为' (yīnwèi) được dùng để chỉ nguyên nhân 'thời tiết không tốt'.",
+        "options": [
+          { "_id": "zh_q_str_002_a", "text": "虽然", "isCorrect": false },
+          { "_id": "zh_q_str_002_b", "text": "不但", "isCorrect": false },
+          { "_id": "zh_q_str_002_c", "text": "因为", "isCorrect": true }
+        ]
+      }
+    ]
+  },
+  "isActive": true
+}

@@ -23,10 +23,10 @@ const Header = () => {
   const { language } = useContext(LanguageContext);
   const location = useLocation();
   const currentBrand = brandInfo[language];
-  const isPracticePage = /\/(vocab|translate)\/.+/.test(location.pathname);
+  const isPracticePage = /\/(vocab|translate|reading|grammar)\/.+/.test(location.pathname);
 
   return (
-    <header className="w-full p-4 bg-white shadow-md flex justify-between items-center">
+    <header className="w-full p-4 bg-slate-50 border-b border-slate-200 flex justify-between items-center">
       <div className="flex items-center gap-3">
         <img src={currentBrand.logo} alt="Brand Logo" className="h-12 w-12" />
         <h1 className="text-xl font-bold text-gray-800">{currentBrand.name}</h1>

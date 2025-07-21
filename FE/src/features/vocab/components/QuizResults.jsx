@@ -1,9 +1,9 @@
-// src/components/quiz/QuizResults.jsx
+// src/features/vocab/components/QuizResults.jsx
 import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useTranslations } from '../../hooks/useTranslations';
+import { useTranslations } from '../../../hooks/useTranslations';
 import QuestionNavigator from './QuestionNavigator';
-import { apiService } from '../../api/apiService';
+import { apiService } from '../../../api/apiService';
 import { toast } from 'react-hot-toast'; // Import toast for better notifications
 
 const QuizResults = ({ results, progressId, lesson, language }) => {

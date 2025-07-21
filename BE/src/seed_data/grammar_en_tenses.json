@@ -1,0 +1,3384 @@
+{
+  "title": "Tenses",
+  "description": "Master the use of present, past, and future tenses in English.",
+  "language": "en",
+  "type": "grammar",
+  "order": 2,
+  "level": "Tenses",
+  "content": {
+    "grammarTheory": [
+      {
+        "_id": "en_theory_present_tenses",
+        "title": "Present Tenses",
+        "order": 1,
+        "children": [
+          {
+            "_id": "en_theory_present_simple",
+            "title": "Present Simple",
+            "order": 1,
+            "contentHTML": "<h2>Present Simple Tense</h2><hr><h3>When to Use</h3><ul><li><strong>Habits and routines:</strong> Actions that happen regularly. <em>(e.g., I drink coffee every morning.)</em></li><li><strong>General facts and truths:</strong> Things that are always true. <em>(e.g., The sun rises in the east.)</em></li><li><strong>Fixed schedules and timetables:</strong> Future events that are part of a schedule. <em>(e.g., The train leaves at 8 PM.)</em></li><li><strong>States, feelings, and opinions:</strong> Verbs that describe a state, not an action. <em>(e.g., He believes in you.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + V(s/es) ...<br><em>Example: She works at a hospital.</em></li><li><strong>(-) Negative:</strong> Subject + do/does + not + V ...<br><em>Example: She does not work at a hospital.</em></li><li><strong>(?) Question:</strong> Do/Does + Subject + V ...?<br><em>Example: Does she work at a hospital?</em></li></ul><h3>Signal Words</h3><p>always, usually, often, sometimes, rarely, never, every day/week/month, on Mondays, etc.</p>"
+          },
+          {
+            "_id": "en_theory_present_continuous",
+            "title": "Present Continuous",
+            "order": 2,
+            "contentHTML": "<h2>Present Continuous Tense</h2><hr><h3>When to Use</h3><ul><li><strong>Actions happening now:</strong> Activities in progress at the moment of speaking. <em>(e.g., Please be quiet, I am studying.)</em></li><li><strong>Temporary situations:</strong> Actions happening around now, but not necessarily at this exact moment. <em>(e.g., He is living in London for a few months.)</em></li><li><strong>Future plans and arrangements:</strong> Definite plans for the near future. <em>(e.g., We are meeting friends tonight.)</em></li><li><strong>Annoying habits (with 'always'):</strong> To complain about something. <em>(e.g., You are always losing your keys!)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + am/is/are + V-ing ...<br><em>Example: They are watching TV.</em></li><li><strong>(-) Negative:</strong> Subject + am/is/are + not + V-ing ...<br><em>Example: They are not watching TV.</em></li><li><strong>(?) Question:</strong> Am/Is/Are + Subject + V-ing ...?<br><em>Example: Are they watching TV?</em></li></ul><h3>Signal Words</h3><p>now, right now, at the moment, today, this week/month, currently.</p>"
+          },
+          {
+            "_id": "en_theory_present_perfect",
+            "title": "Present Perfect",
+            "order": 3,
+            "contentHTML": "<h2>Present Perfect Tense</h2><hr><h3>When to Use</h3><ul><li><strong>Life experiences:</strong> Actions that happened at an unspecified time in the past. <em>(e.g., I have been to Japan.)</em></li><li><strong>Recent past actions with present results:</strong> Actions that just finished and have a result now. <em>(e.g., I've lost my wallet. I can't find it now.)</em></li><li><strong>Actions starting in the past and continuing to the present:</strong> Used with 'for' and 'since'. <em>(e.g., She has lived here for three years.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + have/has + V3 (Past Participle) ...<br><em>Example: He has finished his homework.</em></li><li><strong>(-) Negative:</strong> Subject + have/has + not + V3 ...<br><em>Example: He has not finished his homework yet.</em></li><li><strong>(?) Question:</strong> Have/Has + Subject + V3 ...?<br><em>Example: Has he finished his homework?</em></li></ul><h3>Signal Words</h3><p>for, since, just, already, yet, ever, never, recently, lately.</p>"
+          },
+          {
+            "_id": "en_theory_present_perfect_continuous",
+            "title": "Present Perfect Continuous",
+            "order": 4,
+            "contentHTML": "<h2>Present Perfect Continuous Tense</h2><hr><h3>When to Use</h3><ul><li><strong>To emphasize duration:</strong> For actions that started in the past and are still continuing. <em>(e.g., I have been waiting for you for two hours!)</em></li><li><strong>Recent continuous actions:</strong> For actions that have recently stopped and have a clear result in the present. <em>(e.g., Why are you so tired? - I've been running.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + have/has + been + V-ing ...<br><em>Example: She has been reading all day.</em></li><li><strong>(-) Negative:</strong> Subject + have/has + not + been + V-ing ...<br><em>Example: She has not been reading all day.</em></li><li><strong>(?) Question:</strong> Have/Has + Subject + been + V-ing ...?<br><em>Example: Has she been reading all day?</em></li></ul><h3>Signal Words</h3><p>for, since, all day/morning, the whole week.</p>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_past_tenses",
+        "title": "Past Tenses",
+        "order": 2,
+        "children": [
+          {
+            "_id": "en_theory_past_simple",
+            "title": "Past Simple",
+            "order": 1,
+            "contentHTML": "<h2>Past Simple Tense</h2><hr><h3>When to Use</h3><ul><li><strong>Completed past actions:</strong> Actions that started and finished at a specific time in the past. <em>(e.g., We visited Paris last year.)</em></li><li><strong>A series of past actions:</strong> To describe events in a story. <em>(e.g., He came in, took off his coat, and sat down.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + V2 (Past Simple form) ...<br><em>Example: They watched a movie yesterday.</em></li><li><strong>(-) Negative:</strong> Subject + did + not + V (base form) ...<br><em>Example: They did not watch a movie yesterday.</em></li><li><strong>(?) Question:</strong> Did + Subject + V (base form) ...?<br><em>Example: Did they watch a movie yesterday?</em></li></ul><h3>Signal Words</h3><p>yesterday, last night/week/year, ago, in 1999, the other day.</p>"
+          },
+          {
+            "_id": "en_theory_past_continuous",
+            "title": "Past Continuous",
+            "order": 2,
+            "contentHTML": "<h2>Past Continuous Tense</h2><hr><h3>When to Use</h3><ul><li><strong>Action in progress at a past time:</strong> To describe an action that was happening at a specific moment in the past. <em>(e.g., At 8 PM last night, I was studying.)</em></li><li><strong>Interrupted past action:</strong> A longer background action interrupted by a shorter one. <em>(e.g., He was watching TV when the phone rang.)</em></li><li><strong>Two parallel past actions:</strong> Two actions happening at the same time. <em>(e.g., While I was cooking, my husband was washing the dishes.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + was/were + V-ing ...<br><em>Example: It was raining.</em></li><li><strong>(-) Negative:</strong> Subject + was/were + not + V-ing ...<br><em>Example: It was not raining.</em></li><li><strong>(?) Question:</strong> Was/Were + Subject + V-ing ...?<br><em>Example: Was it raining?</em></li></ul><h3>Signal Words</h3><p>while, when, as, at 8 o'clock last night.</p>"
+          },
+          {
+            "_id": "en_theory_past_perfect",
+            "title": "Past Perfect",
+            "order": 3,
+            "contentHTML": "<h2>Past Perfect Tense</h2><hr><h3>When to Use</h3><ul><li><strong>The 'earlier' past:</strong> To describe an action that happened before another action or time in the past. <em>(e.g., The train had already left when we arrived at the station.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + had + V3 ...<br><em>Example: She had finished her work before she went home.</em></li><li><strong>(-) Negative:</strong> Subject + had + not + V3 ...<br><em>Example: She had not finished her work.</em></li><li><strong>(?) Question:</strong> Had + Subject + V3 ...?<br><em>Example: Had she finished her work?</em></li></ul><h3>Signal Words</h3><p>before, after, already, just, when, by the time.</p>"
+          },
+          {
+            "_id": "en_theory_past_perfect_continuous",
+            "title": "Past Perfect Continuous",
+            "order": 4,
+            "contentHTML": "<h2>Past Perfect Continuous Tense</h2><hr><h3>When to Use</h3><ul><li><strong>Duration before a past event:</strong> To show how long an action had been happening before another event in the past. <em>(e.g., They had been playing tennis for two hours before it started to rain.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + had + been + V-ing ...<br><em>Example: I had been working all day.</em></li><li><strong>(-) Negative:</strong> Subject + had + not + been + V-ing ...<br><em>Example: I had not been working all day.</em></li><li><strong>(?) Question:</strong> Had + Subject + been + V-ing ...?<br><em>Example: Had you been working all day?</em></li></ul><h3>Signal Words</h3><p>for, since, before, until.</p>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_future_tenses",
+        "title": "Future Tenses",
+        "order": 3,
+        "children": [
+          {
+            "_id": "en_theory_future_simple",
+            "title": "Future Simple (will)",
+            "order": 1,
+            "contentHTML": "<h2>Future Simple (will)</h2><hr><h3>When to Use</h3><ul><li><strong>Spontaneous decisions:</strong> Decisions made at the moment of speaking. <em>(e.g., It's cold. I'll close the window.)</em></li><li><strong>Predictions based on opinion:</strong> <em>(e.g., I think it will rain tomorrow.)</em></li><li><strong>Promises, offers, requests:</strong> <em>(e.g., I will help you with your homework.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + will + V ...<br><em>Example: I will call you later.</em></li><li><strong>(-) Negative:</strong> Subject + will not (won't) + V ...<br><em>Example: I won't call you later.</em></li><li><strong>(?) Question:</strong> Will + Subject + V ...?<br><em>Example: Will you call me later?</em></li></ul><h3>Signal Words</h3><p>tomorrow, next week/month, in the future, I think, probably.</p>"
+          },
+          {
+            "_id": "en_theory_be_going_to",
+            "title": "Be Going To",
+            "order": 2,
+            "contentHTML": "<h2>Future with 'Be Going To'</h2><hr><h3>When to Use</h3><ul><li><strong>Future plans and intentions:</strong> Decisions made before the moment of speaking. <em>(e.g., We are going to buy a new car next month.)</em></li><li><strong>Predictions based on evidence:</strong> When you see something that makes you sure about the future. <em>(e.g., Look at those dark clouds! It is going to rain.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + am/is/are + going to + V ...<br><em>Example: She is going to travel to Spain.</em></li><li><strong>(-) Negative:</strong> Subject + am/is/are + not + going to + V ...<br><em>Example: She is not going to travel to Spain.</em></li><li><strong>(?) Question:</strong> Am/Is/Are + Subject + going to + V ...?<br><em>Example: Is she going to travel to Spain?</em></li></ul><h3>Signal Words</h3><p>next week/year, tomorrow, in two days.</p>"
+          },
+          {
+            "_id": "en_theory_future_continuous",
+            "title": "Future Continuous",
+            "order": 3,
+            "contentHTML": "<h2>Future Continuous Tense</h2><hr><h3>When to Use</h3><ul><li><strong>Action in progress at a future time:</strong> To describe an action that will be happening at a specific moment in the future. <em>(e.g., This time tomorrow, I will be flying to New York.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + will be + V-ing ...<br><em>Example: She will be working at 10 AM.</em></li><li><strong>(-) Negative:</strong> Subject + will not be + V-ing ...<br><em>Example: She will not be working at 10 AM.</em></li><li><strong>(?) Question:</strong> Will + Subject + be + V-ing ...?<br><em>Example: Will she be working at 10 AM?</em></li></ul><h3>Signal Words</h3><p>at this time tomorrow, at 5 PM next Sunday.</p>"
+          },
+          {
+            "_id": "en_theory_future_perfect",
+            "title": "Future Perfect",
+            "order": 4,
+            "contentHTML": "<h2>Future Perfect Tense</h2><hr><h3>When to Use</h3><ul><li><strong>Action completed before a future time:</strong> To say that something will be finished before a certain point in the future. <em>(e.g., By 2030, I will have graduated from university.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + will have + V3 ...<br><em>Example: We will have finished the project by Monday.</em></li><li><strong>(-) Negative:</strong> Subject + will not have + V3 ...<br><em>Example: We will not have finished the project by Monday.</em></li><li><strong>(?) Question:</strong> Will + Subject + have + V3 ...?<br><em>Example: Will we have finished the project by Monday?</em></li></ul><h3>Signal Words</h3><p>by the time, by next week, by 2050.</p>"
+          },
+          {
+            "_id": "en_theory_future_perfect_continuous",
+            "title": "Future Perfect Continuous",
+            "order": 5,
+            "contentHTML": "<h2>Future Perfect Continuous Tense</h2><hr><h3>When to Use</h3><ul><li><strong>Duration before a future event:</strong> To emphasize how long an action will have been happening up to a certain point in the future. <em>(e.g., By next year, I will have been living here for ten years.)</em></li></ul><h3>Structure</h3><ul><li><strong>(+) Positive:</strong> Subject + will have been + V-ing ...<br><em>Example: He will have been studying for four hours by the time you arrive.</em></li><li><strong>(-) Negative:</strong> Subject + will not have been + V-ing ...<br><em>Example: He won't have been studying for four hours by then.</em></li><li><strong>(?) Question:</strong> Will + Subject + have been + V-ing ...?<br><em>Example: Will he have been studying for four hours by the time you arrive?</em></li></ul><h3>Signal Words</h3><p>for..., by the time..., by next week/month/year</p>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_future_in_past",
+        "title": "Future in the Past",
+        "order": 4,
+        "contentHTML": "<h2>Future in the Past</h2><hr><h3>When to Use</h3><p>Used to describe an idea that was in the future at a specific point in the past. It's like looking back at a past prediction, plan, or promise from that past viewpoint.</p><h3>Structure</h3><ul><li><strong>(+) Positive:</strong><br>- Subject + would + V (e.g., He said he would help.)<br>- Subject + was/were going to + V (e.g., I was going to leave early.)<br>- Subject + was/were to + V (e.g., He was to speak at 10.)<br>- Subject + was/were about to + V (e.g., She was about to call you.)</li><li><strong>(-) Negative:</strong><br>- Subject + would not (wouldn’t) + V (e.g., He said he wouldn’t come.)<br>- Subject + was/were not going to + V (e.g., We weren’t going to stay.)</li><li><strong>(?) Question:</strong><br>- Would + subject + V ...? (e.g., Would he come?)<br>- Was/Were + subject + going to + V ...? (e.g., Was she going to leave?)</li></ul><h3>Signal Words</h3><p>said (he/she), thought (I), believed, was sure, was going to, would, was about to, was to</p>"
+      }
+    ]
+    ,
+    "grammarQuestions": [
+      {
+        "_id": "en_q_tns_001",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "He usually ___ coffee in the morning.",
+        "answers": ["drinks"],
+        "explanation": "For third-person singular (He, She, It) in the present simple, we add '-s' to the verb for habits."
+      },
+      {
+        "_id": "en_q_tns_002",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "I ___ to the cinema yesterday.",
+        "options": [
+          {"_id": "opt1", "text": "go", "isCorrect": false},
+          {"_id": "opt2", "text": "went", "isCorrect": true},
+          {"_id": "opt3", "text": "have gone", "isCorrect": false}
+        ],
+        "explanation": "Use the Past Simple for a completed action at a specific time in the past ('yesterday')."
+      },
+      {
+        "_id": "en_q_tns_003",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "Look! The children ___ in the garden.",
+        "options": [
+          {"_id": "opt1", "text": "play", "isCorrect": false},
+          {"_id": "opt2", "text": "are playing", "isCorrect": true},
+          {"_id": "opt3", "text": "played", "isCorrect": false}
+        ],
+        "explanation": "Use the Present Continuous for an action happening now ('Look!')."
+      },
+      {
+        "_id": "en_q_tns_004",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "She has lived here ___ 2015.",
+        "answers": ["since"],
+        "explanation": "Use 'since' with the Present Perfect to indicate the starting point of an action that continues to the present."
+      },
+      {
+        "_id": "en_q_tns_005",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "By the time I arrived, they ___.",
+        "options": [
+          {"_id": "opt1", "text": "leave", "isCorrect": false},
+          {"_id": "opt2", "text": "left", "isCorrect": false},
+          {"_id": "opt3", "text": "had left", "isCorrect": true}
+        ],
+        "explanation": "Use the Past Perfect for the action that happened *before* another past action ('I arrived')."
+      },
+      {
+        "_id": "en_q_tns_006",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect_continuous",
+        "prompt": "Next year, I ___ here for five years.",
+        "answers": ["will have been working", "will have been living"],
+        "explanation": "Use Future Perfect Continuous to emphasize the duration ('for five years') of an action leading up to a future point ('Next year')."
+      },
+      {
+        "_id": "en_q_tns_007",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "I didn't go to the party because I ___ to study for my exam.",
+        "options": [
+          {"_id": "opt1", "text": "am going", "isCorrect": false},
+          {"_id": "opt2", "text": "was going", "isCorrect": true},
+          {"_id": "opt3", "text": "will go", "isCorrect": false}
+        ],
+        "explanation": "Use 'was going to' to express a plan in the past that was the reason for another past action (Future in the Past)."
+      },
+      {
+        "_id": "en_q_tns_008",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "The Earth ___ around the Sun. (go)",
+        "answers": ["goes"],
+        "explanation": "We use the Present Simple for general facts and truths. For a third-person singular subject (The Earth), we add '-es' to the verb 'go'."
+      },
+      {
+        "_id": "en_q_tns_009",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "We ___ a delicious meal at the new restaurant last night.",
+        "options": [
+          {"_id": "opt1", "text": "eat", "isCorrect": false},
+          {"_id": "opt2", "text": "have eaten", "isCorrect": false},
+          {"_id": "opt3", "text": "ate", "isCorrect": true}
+        ],
+        "explanation": "'Last night' is a specific time in the past, so we use the Past Simple tense. 'Ate' is the past simple form of 'eat'."
+      },
+      {
+        "_id": "en_q_tns_010",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "Please be quiet. The baby ___. (sleep)",
+        "answers": ["is sleeping"],
+        "explanation": "We use the Present Continuous for an action happening at the moment of speaking."
+      },
+      {
+        "_id": "en_q_tns_011",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_simple",
+        "prompt": "I'm sure they ___ the match.",
+        "options": [
+          {"_id": "opt1", "text": "will win", "isCorrect": true},
+          {"_id": "opt2", "text": "are winning", "isCorrect": false},
+          {"_id": "opt3", "text": "win", "isCorrect": false}
+        ],
+        "explanation": "We use 'will' for predictions based on opinion ('I'm sure', 'I think')."
+      },
+      {
+        "_id": "en_q_tns_012",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "She ___ (not watch) television every day.",
+        "answers": ["doesn't watch", "does not watch"],
+        "explanation": "For negative sentences in the Present Simple with a third-person singular subject (She), we use 'does not' + base verb."
+      },
+      {
+        "_id": "en_q_tns_013",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "___ you see the movie yesterday?",
+        "options": [
+          {"_id": "opt1", "text": "Did", "isCorrect": true},
+          {"_id": "opt2", "text": "Do", "isCorrect": false},
+          {"_id": "opt3", "text": "Have", "isCorrect": false}
+        ],
+        "explanation": "For questions in the Past Simple, we use 'Did' + subject + base form of the verb."
+      },
+      {
+        "_id": "en_q_tns_014",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "What ___ you ___ now? (do)",
+        "answers": ["are doing"],
+        "explanation": "For questions about an action happening now, we use the Present Continuous: 'Are/Is/Am + subject + V-ing'."
+      },
+      {
+        "_id": "en_q_tns_015",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "My flight ___ at 10 AM tomorrow.",
+        "options": [
+          {"_id": "opt1", "text": "is leaving", "isCorrect": false},
+          {"_id": "opt2", "text": "will leave", "isCorrect": false},
+          {"_id": "opt3", "text": "leaves", "isCorrect": true}
+        ],
+        "explanation": "We use the Present Simple for fixed schedules and timetables, even if they refer to the future."
+      },
+      {
+        "_id": "en_q_tns_016",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_be_going_to",
+        "prompt": "Look at the dark clouds! It ___ rain. (go)",
+        "answers": ["is going to"],
+        "explanation": "We use 'be going to' for predictions based on present evidence (the dark clouds)."
+      },
+      {
+        "_id": "en_q_tns_017",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "Mozart ___ more than 600 pieces of music. (write)",
+        "answers": ["wrote"],
+        "explanation": "Mozart's life is finished, so we use the Past Simple for a completed past action."
+      },
+      {
+        "_id": "en_q_tns_018",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "I have never ___ to Asia.",
+        "options": [
+          {"_id": "opt1", "text": "be", "isCorrect": false},
+          {"_id": "opt2", "text": "been", "isCorrect": true},
+          {"_id": "opt3", "text": "was", "isCorrect": false}
+        ],
+        "explanation": "The Present Perfect tense (have/has + V3) is used for life experiences. 'Been' is the past participle (V3) of 'be'."
+      },
+      {
+        "_id": "en_q_tns_019",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "He is a vegetarian. He ___ (not eat) meat.",
+        "answers": ["doesn't eat", "does not eat"],
+        "explanation": "We use the Present Simple for general facts or states. For negative sentences with 'he', we use 'doesn't' + base verb."
+      },
+      {
+        "_id": "en_q_tns_020",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_continuous",
+        "prompt": "At 8 PM last night, I ___ a book.",
+        "options": [
+          {"_id": "opt1", "text": "read", "isCorrect": false},
+          {"_id": "opt2", "text": "was reading", "isCorrect": true},
+          {"_id": "opt3", "text": "have read", "isCorrect": false}
+        ],
+        "explanation": "We use the Past Continuous to describe an action in progress at a specific time in the past."
+      },
+      {
+        "_id": "en_q_tns_021",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_simple",
+        "prompt": "Don't worry, I ___ forget your birthday. (not)",
+        "answers": ["won't", "will not"],
+        "explanation": "We use 'will not' (won't) to make a promise about the future."
+      },
+      {
+        "_id": "en_q_tns_022",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "How often ___ to the gym?",
+        "options": [
+          {"_id": "opt1", "text": "do you go", "isCorrect": true},
+          {"_id": "opt2", "text": "are you going", "isCorrect": false},
+          {"_id": "opt3", "text": "have you gone", "isCorrect": false}
+        ],
+        "explanation": "The phrase 'How often' asks about habits or routines, which requires the Present Simple."
+      },
+      {
+        "_id": "en_q_tns_023",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "I ___ my keys this morning and couldn't find them for an hour. (lose)",
+        "answers": ["lost"],
+        "explanation": "'This morning' can be a finished past time, so Past Simple is appropriate for a completed action."
+      },
+      {
+        "_id": "en_q_tns_024",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "They ___ a new house next month. (buy)",
+        "answers": ["are buying"],
+        "explanation": "We use the Present Continuous for definite future plans and arrangements."
+      },
+      {
+        "_id": "en_q_tns_025",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "He ___ in London from 2005 to 2010.",
+        "options": [
+          {"_id": "opt1", "text": "lived", "isCorrect": true},
+          {"_id": "opt2", "text": "has lived", "isCorrect": false},
+          {"_id": "opt3", "text": "was living", "isCorrect": false}
+        ],
+        "explanation": "A period with a clear start and end in the past ('from 2005 to 2010') requires the Past Simple."
+      },
+      {
+        "_id": "en_q_tns_026",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "___ you ever ___ sushi? (eat)",
+        "answers": ["Have eaten"],
+        "explanation": "We use the Present Perfect ('Have/Has + subject + V3') to ask about life experiences."
+      },
+      {
+        "_id": "en_q_tns_027",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_be_going_to",
+        "prompt": "We've decided. We ___ to Australia next year.",
+        "options": [
+          {"_id": "opt1", "text": "will travel", "isCorrect": false},
+          {"_id": "opt2", "text": "travel", "isCorrect": false},
+          {"_id": "opt3", "text": "are going to travel", "isCorrect": true}
+        ],
+        "explanation": "We use 'be going to' for plans and intentions that were decided before the moment of speaking ('We've decided')."
+      },
+      {
+        "_id": "en_q_tns_028",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_continuous",
+        "prompt": "He was watching TV when the phone ___.",
+        "options": [
+          {"_id": "opt1", "text": "was ringing", "isCorrect": false},
+          {"_id": "opt2", "text": "rang", "isCorrect": true},
+          {"_id": "opt3", "text": "had rung", "isCorrect": false}
+        ],
+        "explanation": "We use the Past Simple for a short action ('rang') that interrupts a longer background action in the Past Continuous ('was watching')."
+      },
+      {
+        "_id": "en_q_tns_029",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "I can't find my wallet. I think I ___ it.",
+        "options": [
+          {"_id": "opt1", "text": "lost", "isCorrect": false},
+          {"_id": "opt2", "text": "have lost", "isCorrect": true},
+          {"_id": "opt3", "text": "had lost", "isCorrect": false}
+        ],
+        "explanation": "We use the Present Perfect for a past action that has a result in the present (the result is 'I can't find my wallet now')."
+      },
+      {
+        "_id": "en_q_tns_030",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "She is tired. She ___ all day. (work)",
+        "answers": ["has been working"],
+        "explanation": "We use the Present Perfect Continuous to talk about a recent continuous action that has a result in the present (she is tired)."
+      },
+      {
+        "_id": "en_q_tns_031",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "She (A) has went to the cinema (B) with her friends (C) last night (D).",
+        "options": [
+          {"_id": "opt1", "text": "(A) has went", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) with her friends", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) last night", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) No error", "isCorrect": false}
+        ],
+        "explanation": "The time marker 'last night' requires the Past Simple. The sentence should be 'She went...'. Also, the V3 of 'go' is 'gone', not 'went'."
+      },
+      {
+        "_id": "en_q_tns_032",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "By the time we arrived at the station, the train ___.",
+        "options": [
+          {"_id": "opt1", "text": "already left", "isCorrect": false},
+          {"_id": "opt2", "text": "was leaving", "isCorrect": false},
+          {"_id": "opt3", "text": "had already left", "isCorrect": true}
+        ],
+        "explanation": "We use the Past Perfect for an action that happened before another action in the past ('we arrived')."
+      },
+      {
+        "_id": "en_q_tns_033",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "I haven't seen him ___.",
+        "options": [
+          {"_id": "opt1", "text": "yesterday", "isCorrect": false},
+          {"_id": "opt2", "text": "lately", "isCorrect": true},
+          {"_id": "opt3", "text": "last week", "isCorrect": false}
+        ],
+        "explanation": "'Lately' (meaning 'recently') is a signal word for the Present Perfect. 'Yesterday' and 'last week' are used with the Past Simple."
+      },
+      {
+        "_id": "en_q_tns_034",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_continuous",
+        "prompt": "This time tomorrow, I ___ on a beach in Spain. (lie)",
+        "answers": ["will be lying"],
+        "explanation": "We use the Future Continuous for an action that will be in progress at a specific time in the future."
+      },
+      {
+        "_id": "en_q_tns_035",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "A: 'The doorbell is ringing!' B: 'Okay, I ___ it!'",
+        "options": [
+          {"_id": "opt1", "text": "am going to get", "isCorrect": false},
+          {"_id": "opt2", "text": "will get", "isCorrect": true},
+          {"_id": "opt3", "text": "am getting", "isCorrect": false}
+        ],
+        "explanation": "We use 'will' for spontaneous decisions made at the moment of speaking."
+      },
+      {
+        "_id": "en_q_tns_036",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "How many books by Stephen King ___?",
+        "options": [
+          {"_id": "opt1", "text": "did you read", "isCorrect": false},
+          {"_id": "opt2", "text": "have you read", "isCorrect": true},
+          {"_id": "opt3", "text": "do you read", "isCorrect": false}
+        ],
+        "explanation": "When asking about experiences over a lifetime up to now, we use the Present Perfect."
+      },
+      {
+        "_id": "en_q_tns_037",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "I ___ this is a bad idea. (think - stative verb)",
+        "answers": ["think"],
+        "explanation": "Verbs of opinion like 'think', 'believe', 'know' are stative verbs and are not usually used in continuous tenses."
+      },
+      {
+        "_id": "en_q_tns_038",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_continuous",
+        "prompt": "While my dad was reading, my mom ___ TV. (watch)",
+        "answers": ["was watching"],
+        "explanation": "We use the Past Continuous for two parallel actions happening at the same time in the past."
+      },
+      {
+        "_id": "en_q_tns_039",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "By next December, we ___ our house.",
+        "options": [
+          {"_id": "opt1", "text": "will sell", "isCorrect": false},
+          {"_id": "opt2", "text": "will have sold", "isCorrect": true},
+          {"_id": "opt3", "text": "will be selling", "isCorrect": false}
+        ],
+        "explanation": "We use the Future Perfect for an action that will be completed before a certain time in the future."
+      },
+      {
+        "_id": "en_q_tns_040",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "He is (A) living in Paris (B) for five years, but now (C) he lives in Rome (D).",
+        "options": [
+          {"_id": "opt1", "text": "(A) is", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) living", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) but now", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) he lives", "isCorrect": false}
+        ],
+        "explanation": "The context refers to a finished period in the past. It should be Past Simple: 'He lived in Paris for five years...'"
+      },
+      {
+        "_id": "en_q_tns_041",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "How long ___ you ___ English? (learn)",
+        "answers": ["have you been learning"],
+        "explanation": "We use the Present Perfect Continuous to ask about the duration of an action that started in the past and is still continuing."
+      },
+      {
+        "_id": "en_q_tns_042",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "He graduated from university two years ___.",
+        "options": [
+          {"_id": "opt1", "text": "since", "isCorrect": false},
+          {"_id": "opt2", "text": "before", "isCorrect": false},
+          {"_id": "opt3", "text": "ago", "isCorrect": true}
+        ],
+        "explanation": "'Ago' is used with the Past Simple to indicate how far back in the past something happened."
+      },
+      {
+        "_id": "en_q_tns_043",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "They were exhausted because they ___ for over eight hours.",
+        "options": [
+          {"_id": "opt1", "text": "drove", "isCorrect": false},
+          {"_id": "opt2", "text": "had been driving", "isCorrect": true},
+          {"_id": "opt3", "text": "were driving", "isCorrect": false}
+        ],
+        "explanation": "We use the Past Perfect Continuous to emphasize the duration of an action that caused a situation in the past ('they were exhausted')."
+      },
+      {
+        "_id": "en_q_tns_044",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "I knew she ___ the secret. (not keep)",
+        "answers": ["would not keep", "wouldn't keep"],
+        "explanation": "This is 'Future in the Past'. We use 'would' to talk about a future prediction from a past perspective ('I knew...')."
+      },
+      {
+        "_id": "en_q_tns_045",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "My brother is an actor. He ___ in several films.",
+        "options": [
+          {"_id": "opt1", "text": "appeared", "isCorrect": false},
+          {"_id": "opt2", "text": "has appeared", "isCorrect": true},
+          {"_id": "opt3", "text": "is appearing", "isCorrect": false}
+        ],
+        "explanation": "The brother is still an actor (present state), so we use Present Perfect to talk about his life experiences up to now."
+      },
+      {
+        "_id": "en_q_tns_046",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "I ___ my homework already. (finish)",
+        "answers": ["have finished"],
+        "explanation": "'Already' is a signal word for the Present Perfect, used to show an action happened sooner than expected."
+      },
+      {
+        "_id": "en_q_tns_047",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "She didn't want to see the movie because she ___ the book.",
+        "options": [
+          {"_id": "opt1", "text": "read", "isCorrect": false},
+          {"_id": "opt2", "text": "was reading", "isCorrect": false},
+          {"_id": "opt3", "text": "had already read", "isCorrect": true}
+        ],
+        "explanation": "Reading the book happened before her decision not to see the movie. Use Past Perfect for the earlier past action."
+      },
+      {
+        "_id": "en_q_tns_048",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "He ___ in the same house since he was a child.",
+        "options": [
+          {"_id": "opt1", "text": "lived", "isCorrect": false},
+          {"_id": "opt2", "text": "has lived", "isCorrect": true},
+          {"_id": "opt3", "text": "is living", "isCorrect": false}
+        ],
+        "explanation": "'Since' indicates a starting point in the past for an action that continues to the present, requiring the Present Perfect."
+      },
+      {
+        "_id": "en_q_tns_049",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "At this time next week, (A) we will (B) lie on (C) a tropical beach (D).",
+        "options": [
+          {"_id": "opt1", "text": "(A) At this time next week", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) we will", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) lie on", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) a tropical beach", "isCorrect": false}
+        ],
+        "explanation": "For an action in progress at a specific future time, we must use the Future Continuous: 'we will be lying'."
+      },
+      {
+        "_id": "en_q_tns_050",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_be_going_to",
+        "prompt": "I'm sorry, I can't come out tonight. I ___ for my exam. (study)",
+        "answers": ["am going to study", "am studying"],
+        "explanation": "Both 'be going to' and Present Continuous can be used for pre-made plans. 'I am going to study' emphasizes the intention."
+      },
+      {
+        "_id": "en_q_tns_051",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "Choose the sentence that has the same meaning: 'The last time I saw her was in 2020.'",
+        "options": [
+          {"_id": "opt1", "text": "I didn't see her in 2020.", "isCorrect": false},
+          {"_id": "opt2", "text": "I haven't seen her since 2020.", "isCorrect": true},
+          {"_id": "opt3", "text": "I had not seen her since 2020.", "isCorrect": false}
+        ],
+        "explanation": "'The last time... was' is equivalent to 'have/has not... since'."
+      },
+      {
+        "_id": "en_q_tns_052",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_continuous",
+        "prompt": "What ___ at 10 PM last night?",
+        "options": [
+          {"_id": "opt1", "text": "did you do", "isCorrect": false},
+          {"_id": "opt2", "text": "were you doing", "isCorrect": true},
+          {"_id": "opt3", "text": "had you done", "isCorrect": false}
+        ],
+        "explanation": "To ask about an action in progress at a specific past time, we use the Past Continuous."
+      },
+      {
+        "_id": "en_q_tns_053",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_simple",
+        "prompt": "I hope you ___ a wonderful time on your vacation next week. (have)",
+        "answers": ["will have"],
+        "explanation": "We often use 'will' after verbs like 'hope', 'think', and 'expect' for future events."
+      },
+      {
+        "_id": "en_q_tns_054",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "You ___ your keys! It's so annoying.",
+        "options": [
+          {"_id": "opt1", "text": "always lose", "isCorrect": false},
+          {"_id": "opt2", "text": "are always losing", "isCorrect": true},
+          {"_id": "opt3", "text": "have always lost", "isCorrect": false}
+        ],
+        "explanation": "We use the Present Continuous with 'always' to complain about an annoying, repeated habit."
+      },
+      {
+        "_id": "en_q_tns_055",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "By the end of this course, you ___ the basics of English grammar. (master)",
+        "answers": ["will have mastered"],
+        "explanation": "Use Future Perfect to describe an action that will be completed by a specific point in the future ('By the end of this course')."
+      },
+      {
+        "_id": "en_q_tns_056",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "After he ___ his work, he went for a walk. (finish)",
+        "answers": ["had finished"],
+        "explanation": "The action of finishing work happened before he went for a walk. Use Past Perfect for the earlier action."
+      },
+      {
+        "_id": "en_q_tns_057",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "When ___ the Roman Empire ___?",
+        "options": [
+          {"_id": "opt1", "text": "has ... fallen", "isCorrect": false},
+          {"_id": "opt2", "text": "did ... fall", "isCorrect": true},
+          {"_id": "opt3", "text": "was ... falling", "isCorrect": false}
+        ],
+        "explanation": "We are asking about a specific, completed event in the distant past. The Past Simple is required."
+      },
+      {
+        "_id": "en_q_tns_058",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "I ___ this movie three times already. (see)",
+        "answers": ["have seen"],
+        "explanation": "The Present Perfect is used to talk about repeated actions in the past that are not tied to a specific time."
+      },
+      {
+        "_id": "en_q_tns_059",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "He promised he ___ late.",
+        "options": [
+          {"_id": "opt1", "text": "won't be", "isCorrect": false},
+          {"_id": "opt2", "text": "wouldn't be", "isCorrect": true},
+          {"_id": "opt3", "text": "isn't going to be", "isCorrect": false}
+        ],
+        "explanation": "The main verb is in the past ('promised'), so the future idea must also be in the past. 'Will' becomes 'would'."
+      },
+      {
+        "_id": "en_q_tns_060",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "I'm sorry, I (A) didn't hear you because I (B) listened to music when you (C) were calling (D).",
+        "options": [
+          {"_id": "opt1", "text": "(A) didn't hear", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) listened", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) when you", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) were calling", "isCorrect": false}
+        ],
+        "explanation": "The longer background action ('listening to music') should be in the Past Continuous. The short interrupting action ('you called') should be in the Past Simple. The sentence should be 'I was listening to music when you called'."
+      },
+      {
+        "_id": "en_q_tns_061",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "Her eyes were red because she ___ all morning. (cry)",
+        "answers": ["had been crying"],
+        "explanation": "Use Past Perfect Continuous for a durational action that caused a result in the past ('her eyes were red')."
+      },
+      {
+        "_id": "en_q_tns_062",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_continuous",
+        "prompt": "Don't phone me between 7 and 8. I ___ dinner then.",
+        "options": [
+          {"_id": "opt1", "text": "will have", "isCorrect": false},
+          {"_id": "opt2", "text": "will be having", "isCorrect": true},
+          {"_id": "opt3", "text": "will have had", "isCorrect": false}
+        ],
+        "explanation": "Future Continuous is used to describe an action that will be in progress over a period of time in the future."
+      },
+      {
+        "_id": "en_q_tns_063",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "The company's profits ___ significantly since the new CEO took over.",
+        "options": [
+          {"_id": "opt1", "text": "increased", "isCorrect": false},
+          {"_id": "opt2", "text": "have increased", "isCorrect": true},
+          {"_id": "opt3", "text": "were increasing", "isCorrect": false}
+        ],
+        "explanation": "'Since' signals an action that started in the past and continues its effect to the present, requiring the Present Perfect."
+      },
+      {
+        "_id": "en_q_tns_064",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect_continuous",
+        "prompt": "By the time he retires, he ___ for this company for 40 years. (work)",
+        "answers": ["will have been working"],
+        "explanation": "Use Future Perfect Continuous to emphasize the duration of an action up to a specific point in the future."
+      },
+      {
+        "_id": "en_q_tns_065",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "I didn't go to the party because I ___ to finish my project.",
+        "options": [
+          {"_id": "opt1", "text": "was going", "isCorrect": true},
+          {"_id": "opt2", "text": "am going", "isCorrect": false},
+          {"_id": "opt3", "text": "would", "isCorrect": false}
+        ],
+        "explanation": "'Was/were going to' is used to talk about a past plan or intention."
+      },
+      {
+        "_id": "en_q_tns_066",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "She has been studying non-stop ___ 8 AM.",
+        "options": [
+          {"_id": "opt1", "text": "for", "isCorrect": false},
+          {"_id": "opt2", "text": "since", "isCorrect": true},
+          {"_id": "opt3", "text": "at", "isCorrect": false}
+        ],
+        "explanation": "'Since' is used with a point in time (8 AM), while 'for' is used with a period of time (e.g., three hours)."
+      },
+      {
+        "_id": "en_q_tns_067",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "Did you remember ___ the door?",
+        "options": [
+          {"_id": "opt1", "text": "locking", "isCorrect": false},
+          {"_id": "opt2", "text": "to lock", "isCorrect": true},
+          {"_id": "opt3", "text": "locked", "isCorrect": false}
+        ],
+        "explanation": "This is a grammar point related to verbs, but often tested with tenses. 'Remember to do something' means you didn't forget a task. 'Remember doing something' means you have a memory of a past action."
+      },
+      {
+        "_id": "en_q_tns_068",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "Choose the sentence that best fits this situation: 'I started waiting at 9 AM. It's 11 AM now and the bus is still not here.'",
+        "options": [
+          {"_id": "opt1", "text": "I waited for the bus for two hours.", "isCorrect": false},
+          {"_id": "opt2", "text": "I am waiting for the bus.", "isCorrect": false},
+          {"_id": "opt3", "text": "I have been waiting for the bus for two hours.", "isCorrect": true}
+        ],
+        "explanation": "The Present Perfect Continuous is the best choice to emphasize the duration of an action that started in the past and is still ongoing."
+      },
+      {
+        "_id": "en_q_tns_069",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect_continuous",
+        "prompt": "They'll be exhausted when they arrive. They ___ for over 20 hours straight.",
+        "options": [
+          {"_id": "opt1", "text": "will travel", "isCorrect": false},
+          {"_id": "opt2", "text": "will be travelling", "isCorrect": false},
+          {"_id": "opt3", "text": "will have been travelling", "isCorrect": true}
+        ],
+        "explanation": "We use the Future Perfect Continuous to talk about the duration of an action that leads up to a future event and explains the result ('they'll be exhausted')."
+      },
+      {
+        "_id": "en_q_tns_070",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "He said he ___ me the money the following week, but he never did. (give)",
+        "answers": ["would give"],
+        "explanation": "This is reported speech (Future in the Past). 'will give' in direct speech becomes 'would give' in reported speech."
+      },
+      {
+        "_id": "en_q_tns_071",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "By the time I (A) had finished my degree, I (B) will have been (C) studying in London (D) for four years.",
+        "options": [
+          {"_id": "opt1", "text": "(A) had finished", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) will have been", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) studying", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) for four years", "isCorrect": false}
+        ],
+        "explanation": "The sentence structure combines a future time clause with a future perfect continuous main clause. The time clause should use the Present Simple: 'By the time I finish...'"
+      },
+      {
+        "_id": "en_q_tns_072",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "It was the first time I ___ such a magnificent castle.",
+        "options": [
+          {"_id": "opt1", "text": "ever saw", "isCorrect": false},
+          {"_id": "opt2", "text": "had ever seen", "isCorrect": true},
+          {"_id": "opt3", "text": "have ever seen", "isCorrect": false}
+        ],
+        "explanation": "The phrase 'It was the first time...' refers to a point in the past. The experience of seeing the castle happened up to that point, so we use the Past Perfect."
+      },
+      {
+        "_id": "en_q_tns_073",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "The Prime Minister ___ to make a statement later that day. (be)",
+        "answers": ["was"],
+        "explanation": "The structure 'was/were to + infinitive' is a formal way of expressing a future plan or arrangement in the past."
+      },
+      {
+        "_id": "en_q_tns_074",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "I'd rather you ___ here yesterday.",
+        "options": [
+          {"_id": "opt1", "text": "came", "isCorrect": true},
+          {"_id": "opt2", "text": "had come", "isCorrect": true},
+          {"_id": "opt3", "text": "come", "isCorrect": false}
+        ],
+        "explanation": "The structure 'I'd rather you...' uses the Past Subjunctive. For a past event ('yesterday'), both Past Simple ('came') and Past Perfect ('had come') can be used, with 'had come' being more formally correct and emphasizing the regret more strongly."
+      },
+      {
+        "_id": "en_q_tns_075",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "When I finally found the house, I ___ around in the rain for nearly an hour.",
+        "options": [
+          {"_id": "opt1", "text": "walked", "isCorrect": false},
+          {"_id": "opt2", "text": "was walking", "isCorrect": false},
+          {"_id": "opt3", "text": "had been walking", "isCorrect": true}
+        ],
+        "explanation": "The Past Perfect Continuous emphasizes the long, continuous action that occurred before the past event ('I finally found the house')."
+      },
+      {
+        "_id": "en_q_tns_076",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "Scarcely ___ I sat down ___ the phone rang. (have / when)",
+        "answers": ["had / when"],
+        "explanation": "This is an inversion structure 'Scarcely had + S + V3 when + S + V2' to emphasize that one action happened immediately after another."
+      },
+      {
+        "_id": "en_q_tns_077",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "Hopefully, by the time she gets this message, she ___ her mind.",
+        "options": [
+          {"_id": "opt1", "text": "won't have changed", "isCorrect": true},
+          {"_id": "opt2", "text": "won't change", "isCorrect": false},
+          {"_id": "opt3", "text": "isn't changing", "isCorrect": false}
+        ],
+        "explanation": "The phrase 'by the time...' indicates a future deadline. The Future Perfect is used to talk about an action's state (completed or not) before that deadline."
+      },
+      {
+        "_id": "en_q_tns_078",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "This is the best pizza I ___.",
+        "options": [
+          {"_id": "opt1", "text": "ever had", "isCorrect": false},
+          {"_id": "opt2", "text": "have ever had", "isCorrect": true},
+          {"_id": "opt3", "text": "was having", "isCorrect": false}
+        ],
+        "explanation": "Superlative + Present Perfect is a common structure to talk about a unique experience up to the present moment."
+      },
+      {
+        "_id": "en_q_tns_079",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_continuous",
+        "prompt": "He ___ at his phone when I saw him, completely oblivious to his surroundings. (stare)",
+        "answers": ["was staring"],
+        "explanation": "This describes a background state/action ('was staring') that was happening at the time of another past action ('I saw him')."
+      },
+      {
+        "_id": "en_q_tns_080",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "She (A) has been knowing him (B) since they (C) were children (D).",
+        "options": [
+          {"_id": "opt1", "text": "(A) has been knowing", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) since", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) they", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) were children", "isCorrect": false}
+        ],
+        "explanation": "The verb 'know' is a stative verb, which describes a state, not an action. It cannot be used in continuous tenses. The correct form is 'She has known him...'"
+      },
+      {
+        "_id": "en_q_tns_081",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "I ___ to call you all morning, but the line was always busy.",
+        "options": [
+          {"_id": "opt1", "text": "tried", "isCorrect": false},
+          {"_id": "opt2", "text": "was trying", "isCorrect": false},
+          {"_id": "opt3", "text": "had been trying", "isCorrect": true}
+        ],
+        "explanation": "Past Perfect Continuous is used here to emphasize the repeated, frustrated action that occurred over a period of time in the past ('all morning')."
+      },
+      {
+        "_id": "en_q_tns_082",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect_continuous",
+        "prompt": "In June, we ___ in this city for a decade. (live)",
+        "answers": ["will have been living"],
+        "explanation": "Use Future Perfect Continuous to highlight the duration of an action up to a specific future point ('In June')."
+      },
+      {
+        "_id": "en_q_tns_083",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "Choose the sentence that means: 'First I finished my homework, then my friends arrived.'",
+        "options": [
+          {"_id": "opt1", "text": "When my friends arrived, I was finishing my homework.", "isCorrect": false},
+          {"_id": "opt2", "text": "I finished my homework after my friends had arrived.", "isCorrect": false},
+          {"_id": "opt3", "text": "When my friends arrived, I had finished my homework.", "isCorrect": true}
+        ],
+        "explanation": "The Past Perfect ('had finished') is used for the action that was completed before another past action ('arrived')."
+      },
+      {
+        "_id": "en_q_tns_084",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "It is vital that he ___ the meeting on time.",
+        "options": [
+          {"_id": "opt1", "text": "attends", "isCorrect": false},
+          {"_id": "opt2", "text": "attend", "isCorrect": true},
+          {"_id": "opt3", "text": "will attend", "isCorrect": false}
+        ],
+        "explanation": "This is the Present Subjunctive. After expressions like 'it is vital that', 'I suggest that', 'they demand that', we use the base form of the verb (infinitive without 'to')."
+      },
+      {
+        "_id": "en_q_tns_085",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "No sooner ___ the door than he realized he'd left his keys inside.",
+        "options": [
+          {"_id": "opt1", "text": "he had closed", "isCorrect": false},
+          {"_id": "opt2", "text": "had he closed", "isCorrect": true},
+          {"_id": "opt3", "text": "did he close", "isCorrect": false}
+        ],
+        "explanation": "When a sentence begins with a negative adverbial like 'No sooner', we use inversion: 'No sooner + had + subject + V3...'"
+      },
+      {
+        "_id": "en_q_tns_086",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "I wish I ___ more about this topic before the exam. (know)",
+        "answers": ["had known"],
+        "explanation": "The structure 'I wish' + Past Perfect expresses a regret about something in the past."
+      },
+      {
+        "_id": "en_q_tns_087",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_continuous",
+        "prompt": "I can't meet you on Friday afternoon. I ___ a very important presentation.",
+        "options": [
+          {"_id": "opt1", "text": "will give", "isCorrect": false},
+          {"_id": "opt2", "text": "will be giving", "isCorrect": true},
+          {"_id": "opt3", "text": "am going to give", "isCorrect": false}
+        ],
+        "explanation": "Future Continuous is often used to politely state that you are unavailable because of a prior arrangement that will be in progress at that time."
+      },
+      {
+        "_id": "en_q_tns_088",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "I could tell from his expression that he ___ for a long time.",
+        "options": [
+          {"_id": "opt1", "text": "wasn't sleeping", "isCorrect": false},
+          {"_id": "opt2", "text": "didn't sleep", "isCorrect": false},
+          {"_id": "opt3", "text": "hadn't been sleeping", "isCorrect": true}
+        ],
+        "explanation": "The Past Perfect Continuous is used to describe the continuous background state that led to a past result ('I could tell from his expression')."
+      },
+      {
+        "_id": "en_q_tns_089",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "By 2050, technology ___ every aspect of our lives. (transform)",
+        "answers": ["will have transformed"],
+        "explanation": "The Future Perfect is used to describe an action that will be completed before a specified time in the future."
+      },
+      {
+        "_id": "en_q_tns_090",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "I was just ___ to leave when the phone rang. (about)",
+        "answers": ["about"],
+        "explanation": "The structure 'was/were about to do something' expresses an action that was going to happen very soon in the past."
+      },
+      {
+        "_id": "en_q_tns_091",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "Hardly (A) had the plane (B) took off when the passengers (C) heard a strange noise (D).",
+        "options": [
+          {"_id": "opt1", "text": "(A) Hardly", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) took off", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) heard", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) strange noise", "isCorrect": false}
+        ],
+        "explanation": "In the inversion structure with 'Hardly', the verb must be in the Past Participle (V3) form. 'Took' is V2; it should be 'taken'."
+      },
+      {
+        "_id": "en_q_tns_092",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "This is only the second time the team ___ this season.",
+        "options": [
+          {"_id": "opt1", "text": "lost", "isCorrect": false},
+          {"_id": "opt2", "text": "has lost", "isCorrect": true},
+          {"_id": "opt3", "text": "had lost", "isCorrect": false}
+        ],
+        "explanation": "The structure 'This is the first/second/third time...' is followed by the Present Perfect to describe an experience up to the present moment."
+      },
+      {
+        "_id": "en_q_tns_093",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "It's high time you ___ taking your responsibilities seriously. (start)",
+        "answers": ["started"],
+        "explanation": "The expression 'It's high time' is followed by the Past Simple to indicate that something should have been done already."
+      },
+      {
+        "_id": "en_q_tns_094",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "Do you realize that by this time next year, you ___ from college?",
+        "options": [
+          {"_id": "opt1", "text": "will be graduating", "isCorrect": false},
+          {"_id": "opt2", "text": "will have graduated", "isCorrect": true},
+          {"_id": "opt3", "text": "are going to graduate", "isCorrect": false}
+        ],
+        "explanation": "The phrase 'by this time next year' sets a future deadline, requiring the Future Perfect to talk about a completed action before that time."
+      },
+      {
+        "_id": "en_q_tns_095",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "He ___ for the company for only a year before he was promoted to manager. (work)",
+        "answers": ["had only been working", "had only worked"],
+        "explanation": "The promotion happened in the past. The work happened before that. Past Perfect ('had worked') or Past Perfect Continuous ('had been working') are both suitable to describe the action leading up to the promotion."
+      },
+      {
+        "_id": "en_q_tns_096",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "I ___ here yesterday, but I was ill.",
+        "options": [
+          {"_id": "opt1", "text": "was supposed to be", "isCorrect": true},
+          {"_id": "opt2", "text": "had to be", "isCorrect": false},
+          {"_id": "opt3", "text": "would be", "isCorrect": false}
+        ],
+        "explanation": "'Was/were supposed to' is used to talk about something that was planned or expected but did not happen."
+      },
+      {
+        "_id": "en_q_tns_097",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_continuous",
+        "prompt": "What do you think you ___ in ten years' time?",
+        "options": [
+          {"_id": "opt1", "text": "will do", "isCorrect": false},
+          {"_id": "opt2", "text": "will have done", "isCorrect": false},
+          {"_id": "opt3", "text": "will be doing", "isCorrect": true}
+        ],
+        "explanation": "Future Continuous is often used to ask about general activities or life situations at a point in the future."
+      },
+      {
+        "_id": "en_q_tns_098",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "He ___ to his mother on the phone for the last hour, and he is still talking. (talk)",
+        "answers": ["has been talking"],
+        "explanation": "Present Perfect Continuous is needed to emphasize the duration of an action ('for the last hour') that is still in progress."
+      },
+      {
+        "_id": "en_q_tns_099",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "She looked as if she ___ a ghost.",
+        "options": [
+          {"_id": "opt1", "text": "saw", "isCorrect": false},
+          {"_id": "opt2", "text": "has seen", "isCorrect": false},
+          {"_id": "opt3", "text": "had seen", "isCorrect": true}
+        ],
+        "explanation": "After 'as if' or 'as though', we use the Past Perfect to talk about an unreal past situation related to a past observation ('She looked...')."
+      },
+      {
+        "_id": "en_q_tns_100",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "The weather forecast said it ___ sunny, but it's raining now. (be)",
+        "answers": ["would be"],
+        "explanation": "This is a Future in the Past situation. The forecast ('said') was a prediction about the future from a past viewpoint. 'Will be' becomes 'would be'."
+      },
+      {
+        "_id": "en_q_tns_101",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "Your clothes are covered in paint. What ___?",
+        "options": [
+          {"_id": "opt1", "text": "did you do", "isCorrect": false},
+          {"_id": "opt2", "text": "have you been doing", "isCorrect": true},
+          {"_id": "opt3", "text": "were you doing", "isCorrect": false}
+        ],
+        "explanation": "We use the Present Perfect Continuous to ask about a recent activity that has a clear result in the present (clothes covered in paint)."
+      },
+      {
+        "_id": "en_q_tns_102",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect_continuous",
+        "prompt": "Next month, I ___ my novel for two years.",
+        "options": [
+          {"_id": "opt1", "text": "will have written", "isCorrect": false},
+          {"_id": "opt2", "text": "will be writing", "isCorrect": false},
+          {"_id": "opt3", "text": "will have been writing", "isCorrect": true}
+        ],
+        "explanation": "The Future Perfect Continuous emphasizes the duration ('for two years') of the writing process up to a future point ('Next month')."
+      },
+      {
+        "_id": "en_q_tns_103",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "I didn't recognize him at first because he ___ so much. (change)",
+        "answers": ["had changed"],
+        "explanation": "The change happened before the moment I didn't recognize him. Use Past Perfect for the earlier past action that caused the later past situation."
+      },
+      {
+        "_id": "en_q_tns_104",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "If he (A) would have studied harder, he (B) would have passed (C) the exam (D) easily.",
+        "options": [
+          {"_id": "opt1", "text": "(A) would have studied", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) would have passed", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) the exam", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) easily", "isCorrect": false}
+        ],
+        "explanation": "This is a Third Conditional sentence. The 'if' clause must use the Past Perfect ('if he had studied'), not 'would have'."
+      },
+      {
+        "_id": "en_q_tns_105",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "The ground was wet. It ___ all night.",
+        "options": [
+          {"_id": "opt1", "text": "was raining", "isCorrect": false},
+          {"_id": "opt2", "text": "had been raining", "isCorrect": true},
+          {"_id": "opt3", "text": "rained", "isCorrect": false}
+        ],
+        "explanation": "Past Perfect Continuous is used to describe a long action in the past that caused a result in the past ('The ground was wet')."
+      },
+      {
+        "_id": "en_q_tns_106",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "I promise I ___ everything by the time you get back. (finish)",
+        "answers": ["will have finished"],
+        "explanation": "The phrase 'by the time you get back' sets a future deadline, requiring the Future Perfect to describe an action that will be completed before that time."
+      },
+      {
+        "_id": "en_q_tns_107",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "I thought I ___ the door, but when I got downstairs, it was open.",
+        "options": [
+          {"_id": "opt1", "text": "locked", "isCorrect": false},
+          {"_id": "opt2", "text": "have locked", "isCorrect": false},
+          {"_id": "opt3", "text": "had locked", "isCorrect": true}
+        ],
+        "explanation": "The action of locking (or thinking you locked) the door happened before the past action of getting downstairs. Use Past Perfect for the earlier action."
+      },
+      {
+        "_id": "en_q_tns_108",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "Water ___ at 100 degrees Celsius. (boil)",
+        "answers": ["boils"],
+        "explanation": "We use the Present Simple for scientific facts. For a third-person singular subject (Water), we add '-s' to the verb."
+      },
+      {
+        "_id": "en_q_tns_109",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "He ___ his leg in a skiing accident last winter.",
+        "options": [
+          {"_id": "opt1", "text": "break", "isCorrect": false},
+          {"_id": "opt2", "text": "broke", "isCorrect": true},
+          {"_id": "opt3", "text": "has broken", "isCorrect": false}
+        ],
+        "explanation": "The phrase 'last winter' indicates a specific, finished time in the past, which requires the Past Simple."
+      },
+      {
+        "_id": "en_q_tns_110",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "I can't talk now, I ___ dinner. (cook)",
+        "answers": ["am cooking"],
+        "explanation": "Present Continuous is used for actions happening at the moment of speaking."
+      },
+      {
+        "_id": "en_q_tns_111",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_simple",
+        "prompt": "Perhaps she ___ you later.",
+        "options": [
+          {"_id": "opt1", "text": "will call", "isCorrect": true},
+          {"_id": "opt2", "text": "is calling", "isCorrect": false},
+          {"_id": "opt3", "text": "calls", "isCorrect": false}
+        ],
+        "explanation": "'Will' is often used for future predictions that are not certain, indicated here by 'perhaps'."
+      },
+      {
+        "_id": "en_q_tns_112",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "My parents ___ in a small apartment. (live)",
+        "answers": ["live"],
+        "explanation": "Present Simple is used to describe a permanent or long-term state."
+      },
+      {
+        "_id": "en_q_tns_113",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "What time ___ you get home last night?",
+        "options": [
+          {"_id": "opt1", "text": "did", "isCorrect": true},
+          {"_id": "opt2", "text": "do", "isCorrect": false},
+          {"_id": "opt3", "text": "were", "isCorrect": false}
+        ],
+        "explanation": "For questions in the Past Simple, we use 'Did' + subject + base verb ('get')."
+      },
+      {
+        "_id": "en_q_tns_114",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "She ___ a new book this month. (read)",
+        "answers": ["is reading"],
+        "explanation": "Present Continuous can be used for temporary actions happening 'around now' (e.g., this month)."
+      },
+      {
+        "_id": "en_q_tns_115",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "The sun ___ in the west.",
+        "options": [
+          {"_id": "opt1", "text": "is setting", "isCorrect": false},
+          {"_id": "opt2", "text": "will set", "isCorrect": false},
+          {"_id": "opt3", "text": "sets", "isCorrect": true}
+        ],
+        "explanation": "Present Simple is used for general truths and facts of nature."
+      },
+      {
+        "_id": "en_q_tns_116",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_be_going_to",
+        "prompt": "I've saved enough money. I ___ a new phone. (buy)",
+        "answers": ["am going to buy"],
+        "explanation": "'Be going to' is used to talk about a plan or intention that has already been decided."
+      },
+      {
+        "_id": "en_q_tns_117",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "I ___ a strange noise a few minutes ago. (hear)",
+        "answers": ["heard"],
+        "explanation": "'A few minutes ago' refers to a specific, finished time in the past, requiring the Past Simple."
+      },
+      {
+        "_id": "en_q_tns_118",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "They ___ to the new manager yet.",
+        "options": [
+          {"_id": "opt1", "text": "didn't speak", "isCorrect": false},
+          {"_id": "opt2", "text": "haven't spoken", "isCorrect": true},
+          {"_id": "opt3", "text": "don't speak", "isCorrect": false}
+        ],
+        "explanation": "The word 'yet' is a signal word for the Present Perfect, typically used in negative sentences and questions."
+      },
+      {
+        "_id": "en_q_tns_119",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "He ___ (not play) tennis very often.",
+        "answers": ["doesn't play", "does not play"],
+        "explanation": "We use 'doesn't' + base verb for negative sentences in the Present Simple with 'he', 'she', or 'it'."
+      },
+      {
+        "_id": "en_q_tns_120",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_continuous",
+        "prompt": "It ___ heavily when I left the house.",
+        "options": [
+          {"_id": "opt1", "text": "rained", "isCorrect": false},
+          {"_id": "opt2", "text": "was raining", "isCorrect": true},
+          {"_id": "opt3", "text": "had rained", "isCorrect": false}
+        ],
+        "explanation": "The Past Continuous ('was raining') describes the background situation at the time of a past event ('I left')."
+      },
+      {
+        "_id": "en_q_tns_121",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_simple",
+        "prompt": "I promise I ___ tell anyone your secret. (not)",
+        "answers": ["won't", "will not"],
+        "explanation": "We use 'will not' (won't) to make a promise about a future action."
+      },
+      {
+        "_id": "en_q_tns_122",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "What ___ your father do?",
+        "options": [
+          {"_id": "opt1", "text": "does", "isCorrect": true},
+          {"_id": "opt2", "text": "is", "isCorrect": false},
+          {"_id": "opt3", "text": "do", "isCorrect": false}
+        ],
+        "explanation": "When asking about someone's job or regular activities, we use the Present Simple. 'Does' is the auxiliary verb for a third-person singular subject ('your father')."
+      },
+      {
+        "_id": "en_q_tns_123",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "She ___ me a beautiful gift for my birthday last year. (give)",
+        "answers": ["gave"],
+        "explanation": "'Last year' is a finished past time, so the Past Simple is required."
+      },
+      {
+        "_id": "en_q_tns_124",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "Why ___ you ___ at me like that? (look)",
+        "answers": ["are looking"],
+        "explanation": "This question asks about an action happening at the current moment."
+      },
+      {
+        "_id": "en_q_tns_125",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "We didn't ___ TV yesterday.",
+        "options": [
+          {"_id": "opt1", "text": "watched", "isCorrect": false},
+          {"_id": "opt2", "text": "watch", "isCorrect": true},
+          {"_id": "opt3", "text": "watching", "isCorrect": false}
+        ],
+        "explanation": "After the auxiliary 'didn't' in the Past Simple, we use the base form of the verb (infinitive without 'to')."
+      },
+      {
+        "_id": "en_q_tns_126",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "He ___ just ___ home. (arrive)",
+        "answers": ["has arrived"],
+        "explanation": "'Just' is a signal word for the Present Perfect, indicating a very recent past action."
+      },
+      {
+        "_id": "en_q_tns_127",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_simple",
+        "prompt": "A: 'I'm thirsty.' B: 'I ___ you a glass of water.'",
+        "options": [
+          {"_id": "opt1", "text": "am getting", "isCorrect": false},
+          {"_id": "opt2", "text": "am going to get", "isCorrect": false},
+          {"_id": "opt3", "text": "will get", "isCorrect": true}
+        ],
+        "explanation": "We use 'will' for offers and spontaneous decisions made at the moment of speaking."
+      },
+      {
+        "_id": "en_q_tns_128",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "Lions ___ meat. (eat)",
+        "answers": ["eat"],
+        "explanation": "Present Simple is used for general truths or facts about nature."
+      },
+      {
+        "_id": "en_q_tns_129",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "The Titanic ___ in 1912.",
+        "options": [
+          {"_id": "opt1", "text": "sank", "isCorrect": true},
+          {"_id": "opt2", "text": "sunk", "isCorrect": false},
+          {"_id": "opt3", "text": "has sunk", "isCorrect": false}
+        ],
+        "explanation": "'In 1912' is a specific point in the past, so we use the Past Simple."
+      },
+      {
+        "_id": "en_q_tns_130",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "They ___ for their flight at the airport right now. (wait)",
+        "answers": ["are waiting"],
+        "explanation": "'Right now' is a clear indicator for the Present Continuous tense."
+      },
+      {
+        "_id": "en_q_tns_131",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_be_going_to",
+        "prompt": "It's 8:30! You ___ be late for school.",
+        "options": [
+          {"_id": "opt1", "text": "will", "isCorrect": false},
+          {"_id": "opt2", "text": "are going to", "isCorrect": true},
+          {"_id": "opt3", "text": "are", "isCorrect": false}
+        ],
+        "explanation": "We use 'be going to' for a prediction based on present evidence (the current time)."
+      },
+      {
+        "_id": "en_q_tns_132",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "We ___ (not have) a holiday last year.",
+        "answers": ["didn't have", "did not have"],
+        "explanation": "For negative sentences in the Past Simple, we use 'didn't' + base verb."
+      },
+      {
+        "_id": "en_q_tns_133",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "My sister ___ a writer. She has written three novels.",
+        "options": [
+          {"_id": "opt1", "text": "is", "isCorrect": true},
+          {"_id": "opt2", "text": "was", "isCorrect": false},
+          {"_id": "opt3", "text": "has been", "isCorrect": false}
+        ],
+        "explanation": "The first sentence describes her current profession (a state), so we use the Present Simple 'is'."
+      },
+      {
+        "_id": "en_q_tns_134",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "___ he ___ to work by bus every day? (go)",
+        "answers": ["Does go"],
+        "explanation": "For questions about habits in the Present Simple with 'he', we use 'Does + subject + base verb'."
+      },
+
+      {
+        "_id": "en_q_tns_135",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_continuous",
+        "prompt": "The children ___ when their mother came home.",
+        "options": [
+          {"_id": "opt1", "text": "were sleeping", "isCorrect": true},
+          {"_id": "opt2", "text": "slept", "isCorrect": false},
+          {"_id": "opt3", "text": "had slept", "isCorrect": false}
+        ],
+        "explanation": "The Past Continuous describes the longer background action that was in progress when another action happened."
+      },
+      {
+        "_id": "en_q_tns_136",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "I ___ my keys. Can you help me look for them? (lose)",
+        "answers": ["have lost"],
+        "explanation": "Present Perfect is used for a past action with a present result (I can't find them now)."
+      },
+      {
+        "_id": "en_q_tns_137",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_simple",
+        "prompt": "I think the weather ___ nice later.",
+        "options": [
+          {"_id": "opt1", "text": "is going to be", "isCorrect": false},
+          {"_id": "opt2", "text": "will be", "isCorrect": true},
+          {"_id": "opt3", "text": "is", "isCorrect": false}
+        ],
+        "explanation": "We use 'will' for predictions based on our personal opinion ('I think')."
+      },
+      {
+        "_id": "en_q_tns_138",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "Nurses ___ after patients in hospitals. (look)",
+        "answers": ["look"],
+        "explanation": "Present Simple is used to describe jobs and what people do as a routine."
+      },
+      {
+        "_id": "en_q_tns_139",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "Alexander Graham Bell ___ the telephone in 1876.",
+        "options": [
+          {"_id": "opt1", "text": "invents", "isCorrect": false},
+          {"_id": "opt2", "text": "has invented", "isCorrect": false},
+          {"_id": "opt3", "text": "invented", "isCorrect": true}
+        ],
+        "explanation": "We use the Past Simple for historical events that are completed."
+      },
+      {
+        "_id": "en_q_tns_140",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "Where are the kids? They ___ football in the park. (play)",
+        "answers": ["are playing"],
+        "explanation": "Present Continuous is used to describe an action happening at the present moment."
+      },
+      {
+        "_id": "en_q_tns_141",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_simple",
+        "prompt": "Don't lift that box, it's too heavy. I ___ you.",
+        "options": [
+          {"_id": "opt1", "text": "will help", "isCorrect": true},
+          {"_id": "opt2", "text": "am helping", "isCorrect": false},
+          {"_id": "opt3", "text": "am going to help", "isCorrect": false}
+        ],
+        "explanation": "We use 'will' to offer help spontaneously."
+      },
+      {
+        "_id": "en_q_tns_142",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "I ___ very tired, so I went to bed early. (be)",
+        "answers": ["was"],
+        "explanation": "We use Past Simple to describe a state in the past."
+      },
+      {
+        "_id": "en_q_tns_143",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "Have you finished your homework ___?",
+        "options": [
+          {"_id": "opt1", "text": "already", "isCorrect": false},
+          {"_id": "opt2", "text": "yet", "isCorrect": true},
+          {"_id": "opt3", "text": "since", "isCorrect": false}
+        ],
+        "explanation": "'Yet' is used in questions and negative sentences with the Present Perfect to ask if something expected has happened."
+      },
+      {
+        "_id": "en_q_tns_144",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "An atheist ___ (not believe) in God.",
+        "answers": ["doesn't believe", "does not believe"],
+        "explanation": "We use the Present Simple for beliefs and states. For negative sentences with a third-person singular subject, we use 'doesn't' + base verb."
+      },
+      {
+        "_id": "en_q_tns_145",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "I ___ to school yesterday because I was sick.",
+        "options": [
+          {"_id": "opt1", "text": "didn't go", "isCorrect": true},
+          {"_id": "opt2", "text": "haven't gone", "isCorrect": false},
+          {"_id": "opt3", "text": "don't go", "isCorrect": false}
+        ],
+        "explanation": "The time marker 'yesterday' requires the Past Simple. For the negative form, we use 'didn't' + base verb."
+      },
+      {
+        "_id": "en_q_tns_146",
+        "level": "easy",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_be_going_to",
+        "prompt": "We ___ a party next Saturday. We've already invited everyone. (have)",
+        "answers": ["are going to have"],
+        "explanation": "'Be going to' is used for a plan that has already been arranged ('We've already invited everyone')."
+      },
+      {
+        "_id": "en_q_tns_147",
+        "level": "easy",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "What's that noise? What ___?",
+        "options": [
+          {"_id": "opt1", "text": "happens", "isCorrect": false},
+          {"_id": "opt2", "text": "is happening", "isCorrect": true},
+          {"_id": "opt3", "text": "happened", "isCorrect": false}
+        ],
+        "explanation": "We use the Present Continuous to ask about something happening at the moment of speaking."
+      },
+      {
+        "_id": "en_q_tns_148",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "He couldn't get into his apartment because he ___ his keys.",
+        "options": [
+          {"_id": "opt1", "text": "forgot", "isCorrect": false},
+          {"_id": "opt2", "text": "had forgotten", "isCorrect": true},
+          {"_id": "opt3", "text": "was forgetting", "isCorrect": false}
+        ],
+        "explanation": "The action of forgetting the keys happened before he tried to get into his apartment. We use the Past Perfect for the earlier of two past actions."
+      },
+      {
+        "_id": "en_q_tns_149",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "I (A) am not finishing my report (B) yet, so I (C) can't go out (D).",
+        "options": [
+          {"_id": "opt1", "text": "(A) am not finishing", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) yet", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) can't go out", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) No error", "isCorrect": false}
+        ],
+        "explanation": "The signal word 'yet' is used with the Present Perfect. The correct form is 'I have not finished...'"
+      },
+      {
+        "_id": "en_q_tns_150",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "They ___ for two hours, but they still haven't reached their destination. (drive)",
+        "answers": ["have been driving"],
+        "explanation": "The Present Perfect Continuous emphasizes the duration of an action that started in the past and is still in progress."
+      },
+      {
+        "_id": "en_q_tns_151",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "She moved to London ___.",
+        "options": [
+          {"_id": "opt1", "text": "three years ago", "isCorrect": true},
+          {"_id": "opt2", "text": "for three years", "isCorrect": false},
+          {"_id": "opt3", "text": "since three years", "isCorrect": false}
+        ],
+        "explanation": "'Ago' is used with a time period to specify a point in the past, which fits the Past Simple verb 'moved'. 'For' and 'since' are typically used with perfect tenses."
+      },
+      {
+        "_id": "en_q_tns_152",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_continuous",
+        "prompt": "At 3 PM tomorrow, I ___ an exam.",
+        "options": [
+          {"_id": "opt1", "text": "will take", "isCorrect": false},
+          {"_id": "opt2", "text": "will be taking", "isCorrect": true},
+          {"_id": "opt3", "text": "will have taken", "isCorrect": false}
+        ],
+        "explanation": "We use the Future Continuous to describe an action that will be in progress at a specific time in the future."
+      },
+      {
+        "_id": "en_q_tns_153",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_continuous",
+        "prompt": "The power ___ out while we ___ the movie. (go, watch)",
+        "answers": ["went, were watching"],
+        "explanation": "A short action in the Past Simple ('went') interrupted a longer background action in the Past Continuous ('were watching')."
+      },
+      {
+        "_id": "en_q_tns_154",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "Which sentence has a similar meaning? 'He started working here in 2015.'",
+        "options": [
+          {"_id": "opt1", "text": "He has been working here since 2015.", "isCorrect": true},
+          {"_id": "opt2", "text": "He was working here in 2015.", "isCorrect": false},
+          {"_id": "opt3", "text": "He worked here since 2015.", "isCorrect": false}
+        ],
+        "explanation": "Past Simple with 'in + year' can often be rephrased using Present Perfect (or Perfect Continuous) with 'since + year' if the action continues to the present."
+      },
+      {
+        "_id": "en_q_tns_155",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "He's a famous author. He ___ more than 50 books.",
+        "options": [
+          {"_id": "opt1", "text": "wrote", "isCorrect": false},
+          {"_id": "opt2", "text": "has written", "isCorrect": true},
+          {"_id": "opt3", "text": "writes", "isCorrect": false}
+        ],
+        "explanation": "Since he is still alive ('He's a famous author'), we use the Present Perfect to talk about his accomplishments up to now."
+      },
+      {
+        "_id": "en_q_tns_156",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "By the time we get there, the film ___. (start)",
+        "answers": ["will have started"],
+        "explanation": "We use the Future Perfect for an action that will be completed before another future action or time."
+      },
+      {
+        "_id": "en_q_tns_157",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "She (A) told me she (B) has never been (C) to an opera (D) before.",
+        "options": [
+          {"_id": "opt1", "text": "(A) told", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) has never been", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) to an opera", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) before", "isCorrect": false}
+        ],
+        "explanation": "When the main reporting verb is in the past ('told'), the tense in the reported clause usually shifts back. Present Perfect ('has been') becomes Past Perfect ('had been')."
+      },
+      {
+        "_id": "en_q_tns_158",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "His hands were dirty because he ___ in the garden all day.",
+        "options": [
+          {"_id": "opt1", "text": "was working", "isCorrect": false},
+          {"_id": "opt2", "text": "worked", "isCorrect": false},
+          {"_id": "opt3", "text": "had been working", "isCorrect": true}
+        ],
+        "explanation": "The Past Perfect Continuous emphasizes the duration of the past activity that caused a result in the past ('His hands were dirty')."
+      },
+      {
+        "_id": "en_q_tns_159",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "I thought you ___ coming to the party tonight. (be)",
+        "answers": ["were"],
+        "explanation": "This is 'Future in the Past'. A past thought ('I thought') about a future plan uses a past form. 'Are coming' becomes 'were coming'."
+      },
+      {
+        "_id": "en_q_tns_160",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "I ___ what you mean, but I don't agree.",
+        "options": [
+          {"_id": "opt1", "text": "am seeing", "isCorrect": false},
+          {"_id": "opt2", "text": "see", "isCorrect": true},
+          {"_id": "opt3", "text": "have seen", "isCorrect": false}
+        ],
+        "explanation": "When 'see' means 'understand', it is a stative verb and is not used in continuous tenses."
+      },
+      {
+        "_id": "en_q_tns_161",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "This is the first time I ___ a sports car. (drive)",
+        "answers": ["have driven"],
+        "explanation": "The structure 'This is the first time...' is followed by the Present Perfect."
+      },
+      {
+        "_id": "en_q_tns_162",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "He had finished his work ___ everyone else left.",
+        "options": [
+          {"_id": "opt1", "text": "when", "isCorrect": false},
+          {"_id": "opt2", "text": "while", "isCorrect": false},
+          {"_id": "opt3", "text": "by the time", "isCorrect": true}
+        ],
+        "explanation": "'By the time' is a common signal phrase for the Past Perfect, indicating one action was completed before another one started."
+      },
+      {
+        "_id": "en_q_tns_163",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "When ___ you last ___ a haircut?",
+        "options": [
+          {"_id": "opt1", "text": "have ... had", "isCorrect": false},
+          {"_id": "opt2", "text": "did ... have", "isCorrect": true},
+          {"_id": "opt3", "text": "do ... have", "isCorrect": false}
+        ],
+        "explanation": "The word 'last' points to a specific past event, so the question must be in the Past Simple."
+      },
+      {
+        "_id": "en_q_tns_164",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "We ___ (not see) her for ages. I wonder how she is.",
+        "answers": ["haven't seen", "have not seen"],
+        "explanation": "The phrase 'for ages' indicates a period of time continuing up to the present, requiring the Present Perfect."
+      },
+      {
+        "_id": "en_q_tns_165",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "When I (A) arrived home, I discovered that my wife (B) prepared (C) a wonderful (D) candlelight dinner.",
+        "options": [
+          {"_id": "opt1", "text": "(A) arrived", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) prepared", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) a wonderful", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) candlelight dinner", "isCorrect": false}
+        ],
+        "explanation": "The preparation of the dinner happened before the arrival. The earlier past action should be in the Past Perfect: 'had prepared'."
+      },
+      {
+        "_id": "en_q_tns_166",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect_continuous",
+        "prompt": "By the end of the year, she ___ here for ten years.",
+        "options": [
+          {"_id": "opt1", "text": "will be living", "isCorrect": false},
+          {"_id": "opt2", "text": "will live", "isCorrect": false},
+          {"_id": "opt3", "text": "will have been living", "isCorrect": true}
+        ],
+        "explanation": "The Future Perfect Continuous is used to emphasize the duration of an action up to a specific point in the future."
+      },
+      {
+        "_id": "en_q_tns_167",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "The population of the world ___ very fast. (increase)",
+        "answers": ["is increasing"],
+        "explanation": "We can use the Present Continuous to talk about changes happening over a long period that includes the present."
+      },
+      {
+        "_id": "en_q_tns_168",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "The film wasn't very good. I ___ it very much.",
+        "options": [
+          {"_id": "opt1", "text": "didn't enjoy", "isCorrect": true},
+          {"_id": "opt2", "text": "wasn't enjoying", "isCorrect": false},
+          {"_id": "opt3", "text": "haven't enjoyed", "isCorrect": false}
+        ],
+        "explanation": "The sentence describes a completed past event (watching the film). The negative Past Simple is the correct choice."
+      },
+      {
+        "_id": "en_q_tns_169",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "He told me his name, but I ___ it now. (not remember)",
+        "answers": ["don't remember"],
+        "explanation": "Although the first clause is in the past, the second clause describes a present state ('now'), so it requires the Present Simple."
+      },
+      {
+        "_id": "en_q_tns_170",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "How long ___ for me?",
+        "options": [
+          {"_id": "opt1", "text": "did you wait", "isCorrect": false},
+          {"_id": "opt2", "text": "have you been waiting", "isCorrect": true},
+          {"_id": "opt3", "text": "are you waiting", "isCorrect": false}
+        ],
+        "explanation": "The Present Perfect Continuous is used to ask about the duration of an action that started in the past and may still be happening."
+      },
+      {
+        "_id": "en_q_tns_171",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "A: 'My car broke down.' B: 'Don't worry, I ___ you a lift.'",
+        "options": [
+          {"_id": "opt1", "text": "am going to give", "isCorrect": false},
+          {"_id": "opt2", "text": "will give", "isCorrect": true},
+          {"_id": "opt3", "text": "give", "isCorrect": false}
+        ],
+        "explanation": "'Will' is used for spontaneous offers of help made at the moment of speaking."
+      },
+      {
+        "_id": "en_q_tns_172",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "The meeting ___ by the time I got there. (already finish)",
+        "answers": ["had already finished"],
+        "explanation": "The Past Perfect is used for a past action that was completed before another past action."
+      },
+      {
+        "_id": "en_q_tns_173",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "The company's performance ___ better and better this year.",
+        "options": [
+          {"_id": "opt1", "text": "gets", "isCorrect": false},
+          {"_id": "opt2", "text": "is getting", "isCorrect": true},
+          {"_id": "opt3", "text": "has got", "isCorrect": false}
+        ],
+        "explanation": "We use the Present Continuous with comparative adjectives (better and better) to describe a trend or a changing situation."
+      },
+      {
+        "_id": "en_q_tns_174",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "This is the most delicious cake I (A) ever have tasted (B) in my (C) entire life (D).",
+        "options": [
+          {"_id": "opt1", "text": "(A) ever have tasted", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) in", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) entire", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) life", "isCorrect": false}
+        ],
+        "explanation": "The correct word order is 'have ever tasted'. The adverb 'ever' goes between the auxiliary verb 'have' and the main verb."
+      },
+      {
+        "_id": "en_q_tns_175",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_continuous",
+        "prompt": "This time next month, we ___ our final exams. (take)",
+        "answers": ["will be taking"],
+        "explanation": "Future Continuous describes an action that will be in progress at a specific time in the future."
+      },
+      {
+        "_id": "en_q_tns_176",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "I ___ to become a doctor when I was a child.",
+        "options": [
+          {"_id": "opt1", "text": "have wanted", "isCorrect": false},
+          {"_id": "opt2", "text": "wanted", "isCorrect": true},
+          {"_id": "opt3", "text": "was wanting", "isCorrect": false}
+        ],
+        "explanation": "The phrase 'when I was a child' refers to a finished period in the past, so Past Simple is required. 'Want' is also a stative verb."
+      },
+      {
+        "_id": "en_q_tns_177",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "I ___ him for more than ten years. (know)",
+        "answers": ["have known"],
+        "explanation": "Although this describes a long duration, 'know' is a stative verb and cannot be used in the continuous form. Therefore, we use Present Perfect, not Present Perfect Continuous."
+      },
+      {
+        "_id": "en_q_tns_178",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_continuous",
+        "prompt": "As I ___ down the street, I saw an old friend.",
+        "options": [
+          {"_id": "opt1", "text": "walked", "isCorrect": false},
+          {"_id": "opt2", "text": "was walking", "isCorrect": true},
+          {"_id": "opt3", "text": "had been walking", "isCorrect": false}
+        ],
+        "explanation": "Past Continuous ('was walking') is used for the longer background action that was interrupted by a shorter action ('saw')."
+      },
+      {
+        "_id": "en_q_tns_179",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "He ___ for a new job at the moment.",
+        "options": [
+          {"_id": "opt1", "text": "looks", "isCorrect": false},
+          {"_id": "opt2", "text": "is looking", "isCorrect": true},
+          {"_id": "opt3", "text": "has looked", "isCorrect": false}
+        ],
+        "explanation": "'At the moment' is a clear signal for a temporary action happening now, which requires the Present Continuous."
+      },
+      {
+        "_id": "en_q_tns_180",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_simple",
+        "prompt": "If you don't study, you ___ the exam. (not pass)",
+        "answers": ["won't pass", "will not pass"],
+        "explanation": "This is a First Conditional sentence, which uses Present Simple in the 'if' clause and 'will' + base verb in the main clause."
+      },
+      {
+        "_id": "en_q_tns_181",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "The train (A) leaves at 7 PM, so we (B) are having plenty (C) of time to get (D) to the station.",
+        "options": [
+          {"_id": "opt1", "text": "(A) leaves", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) are having", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) of time", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) to the station", "isCorrect": false}
+        ],
+        "explanation": "When 'have' means 'possess', it is a stative verb and is not used in the continuous tense. The correct form is 'we have'."
+      },
+      {
+        "_id": "en_q_tns_182",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "After they ___ the meal, they went for a walk.",
+        "options": [
+          {"_id": "opt1", "text": "finished", "isCorrect": false},
+          {"_id": "opt2", "text": "had finished", "isCorrect": true},
+          {"_id": "opt3", "text": "were finishing", "isCorrect": false}
+        ],
+        "explanation": "'After' introduces the action that happened first. This earlier action must be in the Past Perfect."
+      },
+      {
+        "_id": "en_q_tns_183",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "It ___ all day. I wish it would stop. (rain)",
+        "answers": ["has been raining"],
+        "explanation": "Present Perfect Continuous emphasizes the duration ('all day') of an action that started in the past and is still continuing."
+      },
+      {
+        "_id": "en_q_tns_184",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "Which sentence means the same? 'I had never seen snow before I moved to Canada.'",
+        "options": [
+          {"_id": "opt1", "text": "It was the first time I had seen snow when I moved to Canada.", "isCorrect": true},
+          {"_id": "opt2", "text": "I saw snow when I was moving to Canada.", "isCorrect": false},
+          {"_id": "opt3", "text": "I didn't see snow after I moved to Canada.", "isCorrect": false}
+        ],
+        "explanation": "Saying you had never done something before a past event is the same as saying that past event was the first time you did it."
+      },
+      {
+        "_id": "en_q_tns_185",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "By next week, I ___ all of my exams.",
+        "options": [
+          {"_id": "opt1", "text": "will be finishing", "isCorrect": false},
+          {"_id": "opt2", "text": "will have finished", "isCorrect": true},
+          {"_id": "opt3", "text": "finish", "isCorrect": false}
+        ],
+        "explanation": "'By next week' sets a future deadline, requiring the Future Perfect for a completed action."
+      },
+      {
+        "_id": "en_q_tns_186",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "I was about to leave the office when my boss ___ me to her office. (call)",
+        "answers": ["called"],
+        "explanation": "The structure 'was about to do something' describes a long background action/state that was interrupted by a short action in the Past Simple ('called')."
+      },
+      {
+        "_id": "en_q_tns_187",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "William Shakespeare ___ 37 plays and 154 sonnets.",
+        "options": [
+          {"_id": "opt1", "text": "has written", "isCorrect": false},
+          {"_id": "opt2", "text": "wrote", "isCorrect": true},
+          {"_id": "opt3", "text": "was writing", "isCorrect": false}
+        ],
+        "explanation": "Since William Shakespeare is no longer alive, his life and work are considered a completed period in the past, requiring the Past Simple."
+      },
+      {
+        "_id": "en_q_tns_188",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "I (A) am usually drinking coffee in the morning, (B) but today (C) I am having (D) tea.",
+        "options": [
+          {"_id": "opt1", "text": "(A) am usually drinking", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) but today", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) I am having", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) tea", "isCorrect": false}
+        ],
+        "explanation": "Habits and routines, indicated by 'usually', require the Present Simple ('I usually drink'), not the Present Continuous."
+      },
+      {
+        "_id": "en_q_tns_189",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "He has been playing the guitar ___ he was ten years old.",
+        "options": [
+          {"_id": "opt1", "text": "for", "isCorrect": false},
+          {"_id": "opt2", "text": "since", "isCorrect": true},
+          {"_id": "opt3", "text": "ago", "isCorrect": false}
+        ],
+        "explanation": "'Since' is used with a specific point in time in the past ('he was ten years old') to indicate the start of an action that continues to the present."
+      },
+      {
+        "_id": "en_q_tns_190",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "The streets were flooded because it ___ heavily for three days. (rain)",
+        "answers": ["had been raining"],
+        "explanation": "The Past Perfect Continuous is used to describe a long, continuous action that caused a result in the past ('The streets were flooded')."
+      },
+      {
+        "_id": "en_q_tns_191",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_continuous",
+        "prompt": "Please don't call me at 8 PM. I ___ dinner with my family.",
+        "options": [
+          {"_id": "opt1", "text": "will have", "isCorrect": false},
+          {"_id": "opt2", "text": "will be having", "isCorrect": true},
+          {"_id": "opt3", "text": "am going to have", "isCorrect": false}
+        ],
+        "explanation": "The Future Continuous is used to say that an action will be in progress at a specific time in the future."
+      },
+      {
+        "_id": "en_q_tns_192",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "Choose the sentence that has the same meaning: 'The last time I went to the cinema was two months ago.'",
+        "options": [
+          {"_id": "opt1", "text": "I didn't go to the cinema for two months.", "isCorrect": false},
+          {"_id": "opt2", "text": "I haven't been to the cinema for two months.", "isCorrect": true},
+          {"_id": "opt3", "text": "I had been to the cinema two months ago.", "isCorrect": false}
+        ],
+        "explanation": "'The last time... was...' can be rephrased using 'have not... for/since'."
+      },
+      {
+        "_id": "en_q_tns_193",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "She ___ three reports so far this morning. (write)",
+        "answers": ["has written"],
+        "explanation": "When focusing on the number of completed actions up to the present, we use the Present Perfect, not the continuous form."
+      },
+      {
+        "_id": "en_q_tns_194",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_continuous",
+        "prompt": "He ___ a text message when he tripped and fell.",
+        "options": [
+          {"_id": "opt1", "text": "wrote", "isCorrect": false},
+          {"_id": "opt2", "text": "was writing", "isCorrect": true},
+          {"_id": "opt3", "text": "had written", "isCorrect": false}
+        ],
+        "explanation": "The Past Continuous ('was writing') describes the longer action that was in progress when it was interrupted by a short action ('tripped and fell')."
+      },
+      {
+        "_id": "en_q_tns_195",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "By the time her parents (A) got home, she (B) already cooked dinner and (C) cleaned the (D) entire house.",
+        "options": [
+          {"_id": "opt1", "text": "(A) got", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) already cooked", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) cleaned", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) entire", "isCorrect": false}
+        ],
+        "explanation": "The actions of cooking and cleaning happened before the parents got home. These earlier past actions should be in the Past Perfect: 'had already cooked' and 'had cleaned'."
+      },
+      {
+        "_id": "en_q_tns_196",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "By the end of my trip, I ___ over ten countries. (visit)",
+        "answers": ["will have visited"],
+        "explanation": "The Future Perfect is used to describe an action that will be completed by a specific point in the future."
+      },
+      {
+        "_id": "en_q_tns_197",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "He graduated from university ___.",
+        "options": [
+          {"_id": "opt1", "text": "in 2020", "isCorrect": true},
+          {"_id": "opt2", "text": "since 2020", "isCorrect": false},
+          {"_id": "opt3", "text": "for 2 years", "isCorrect": false}
+        ],
+        "explanation": "The Past Simple verb 'graduated' requires a specific, finished time marker like 'in 2020' or 'two years ago'."
+      },
+      {
+        "_id": "en_q_tns_198",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "Your face is all red. ___ in the sun?",
+        "options": [
+          {"_id": "opt1", "text": "Did you sit", "isCorrect": false},
+          {"_id": "opt2", "text": "Were you sitting", "isCorrect": false},
+          {"_id": "opt3", "text": "Have you been sitting", "isCorrect": true}
+        ],
+        "explanation": "We use the Present Perfect Continuous to ask about a recent continuous action that has a visible result in the present."
+      },
+      {
+        "_id": "en_q_tns_199",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "He promised he ___ the report by Friday, but he was too busy. (finish)",
+        "answers": ["would finish"],
+        "explanation": "When reporting a future promise from a past perspective ('He promised...'), 'will' becomes 'would'."
+      },
+      {
+        "_id": "en_q_tns_200",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "A: 'The team is playing terribly, and the star player just got injured.' B: 'Yes, they ___ lose now.'",
+        "options": [
+          {"_id": "opt1", "text": "will", "isCorrect": false},
+          {"_id": "opt2", "text": "are going to", "isCorrect": true},
+          {"_id": "opt3", "text": "are", "isCorrect": false}
+        ],
+        "explanation": "We use 'be going to' for a prediction based on clear, present evidence (terrible play, injured player)."
+      },
+      {
+        "_id": "en_q_tns_201",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "The computer ___ down in the middle of my presentation. (break)",
+        "answers": ["broke"],
+        "explanation": "This describes a single, completed action that happened in the past."
+      },
+      {
+        "_id": "en_q_tns_202",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "My great-grandmother ___ five children. She passed away ten years ago.",
+        "options": [
+          {"_id": "opt1", "text": "had", "isCorrect": true},
+          {"_id": "opt2", "text": "has had", "isCorrect": false},
+          {"_id": "opt3", "text": "was having", "isCorrect": false}
+        ],
+        "explanation": "Since her life is a finished period, we use the Past Simple to describe events from her life."
+      },
+      {
+        "_id": "en_q_tns_203",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "Look! That man (A) tries to open the (B) door of your car without (C) a key (D)!",
+        "options": [
+          {"_id": "opt1", "text": "(A) tries", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) door", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) a key", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) No error", "isCorrect": false}
+        ],
+        "explanation": "For an action happening at the moment of speaking, signaled by 'Look!', we must use the Present Continuous: 'is trying'."
+      },
+      {
+        "_id": "en_q_tns_204",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "He was angry because his friends ___ for him. (not wait)",
+        "answers": ["hadn't waited", "had not waited"],
+        "explanation": "The action of not waiting happened before he was angry. The Past Perfect is used for the earlier past action that caused a later past state."
+      },
+      {
+        "_id": "en_q_tns_205",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_continuous",
+        "prompt": "I can't join you for dinner on Friday. I ___ my cousins who are visiting from out of town.",
+        "options": [
+          {"_id": "opt1", "text": "will see", "isCorrect": false},
+          {"_id": "opt2", "text": "am seeing", "isCorrect": true},
+          {"_id": "opt3", "text": "see", "isCorrect": false}
+        ],
+        "explanation": "The Present Continuous is used for fixed plans and arrangements in the near future."
+      },
+      {
+        "_id": "en_q_tns_206",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "Choose the best sentence to describe this: 'The rain started two hours ago and it is still raining.'",
+        "options": [
+          {"_id": "opt1", "text": "It was raining for two hours.", "isCorrect": false},
+          {"_id": "opt2", "text": "It has been raining for two hours.", "isCorrect": true},
+          {"_id": "opt3", "text": "It has rained for two hours.", "isCorrect": false}
+        ],
+        "explanation": "The Present Perfect Continuous is the best tense to emphasize the duration of an action that started in the past and is still ongoing."
+      },
+      {
+        "_id": "en_q_tns_207",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_simple",
+        "prompt": "I've left the door open. That's okay, I ___ it.",
+        "options": [
+          {"_id": "opt1", "text": "am going to close", "isCorrect": false},
+          {"_id": "opt2", "text": "will close", "isCorrect": true},
+          {"_id": "opt3", "text": "am closing", "isCorrect": false}
+        ],
+        "explanation": "'Will' is used for a spontaneous decision to do something, made at the moment of speaking."
+      },
+      {
+        "_id": "en_q_tns_208",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "He said that he (A) will call me the (B) next day, but (C) he forgot (D).",
+        "options": [
+          {"_id": "opt1", "text": "(A) will call", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) next day", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) he", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) forgot", "isCorrect": false}
+        ],
+        "explanation": "In reported speech (Future in the Past), 'will' changes to 'would' when the reporting verb ('said') is in the past."
+      },
+      {
+        "_id": "en_q_tns_209",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "We ___ for hours when we finally saw a village. (walk)",
+        "answers": ["had been walking"],
+        "explanation": "Past Perfect Continuous emphasizes the long duration of an activity before another past event occurred."
+      },
+      {
+        "_id": "en_q_tns_210",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "Oh no! I ___ my phone at home!",
+        "options": [
+          {"_id": "opt1", "text": "left", "isCorrect": false},
+          {"_id": "opt2", "text": "have left", "isCorrect": true},
+          {"_id": "opt3", "text": "had left", "isCorrect": false}
+        ],
+        "explanation": "The Present Perfect is used because this past action has a strong result in the present (I don't have my phone now)."
+      },
+      {
+        "_id": "en_q_tns_211",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "She ___ her driving test by the end of the month. (pass)",
+        "answers": ["will have passed"],
+        "explanation": "Future Perfect is used for an action that we expect to be completed before a specific time in the future."
+      },
+      {
+        "_id": "en_q_tns_212",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "She was washing the dishes ___ her husband was watching TV.",
+        "options": [
+          {"_id": "opt1", "text": "when", "isCorrect": false},
+          {"_id": "opt2", "text": "while", "isCorrect": true},
+          {"_id": "opt3", "text": "before", "isCorrect": false}
+        ],
+        "explanation": "'While' is used to connect two long, parallel actions happening at the same time in the past (both are in Past Continuous)."
+      },
+      {
+        "_id": "en_q_tns_213",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "By the time the police arrived, the thieves ___.",
+        "options": [
+          {"_id": "opt1", "text": "disappeared", "isCorrect": false},
+          {"_id": "opt2", "text": "were disappearing", "isCorrect": false},
+          {"_id": "opt3", "text": "had disappeared", "isCorrect": true}
+        ],
+        "explanation": "The action of disappearing happened before the police arrived. The earlier past action takes the Past Perfect."
+      },
+      {
+        "_id": "en_q_tns_214",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "The new shopping mall ___ at 9 AM every day. (open)",
+        "answers": ["opens"],
+        "explanation": "Present Simple is used for fixed schedules and timetables."
+      },
+      {
+        "_id": "en_q_tns_215",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "My dad (A) has worked for the (B) same company (C) for 20 years before he (D) retired last year.",
+        "options": [
+          {"_id": "opt1", "text": "(A) has worked", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) same company", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) for 20 years", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) retired", "isCorrect": false}
+        ],
+        "explanation": "The entire context is in the past (he retired last year). The action of working happened before he retired, so it should be in the Past Perfect: 'had worked'."
+      },
+      {
+        "_id": "en_q_tns_216",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "Sorry I'm late. ___ long?",
+        "options": [
+          {"_id": "opt1", "text": "Were you waiting", "isCorrect": false},
+          {"_id": "opt2", "text": "Have you been waiting", "isCorrect": true},
+          {"_id": "opt3", "text": "Did you wait", "isCorrect": false}
+        ],
+        "explanation": "Present Perfect Continuous is used to ask about the duration of an activity that has just stopped or is still continuing."
+      },
+      {
+        "_id": "en_q_tns_217",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "We were on our way to the airport when we realized we ___ our passports at home. (leave)",
+        "answers": ["had left"],
+        "explanation": "The action of leaving the passports happened before the realization in the past. Use Past Perfect for the earlier event."
+      },
+      {
+        "_id": "en_q_tns_218",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_continuous",
+        "prompt": "This time next year, I ___ my own business.",
+        "options": [
+          {"_id": "opt1", "text": "will be running", "isCorrect": true},
+          {"_id": "opt2", "text": "will run", "isCorrect": false},
+          {"_id": "opt3", "text": "will have run", "isCorrect": false}
+        ],
+        "explanation": "Future Continuous describes a situation that will be in progress at a specific time in the future."
+      },
+      {
+        "_id": "en_q_tns_219",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "A: 'What's the plan for dinner?' B: 'I ___ a reservation at our favorite restaurant.'",
+        "options": [
+          {"_id": "opt1", "text": "made", "isCorrect": false},
+          {"_id": "opt2", "text": "have made", "isCorrect": true},
+          {"_id": "opt3", "text": "make", "isCorrect": false}
+        ],
+        "explanation": "Present Perfect is used to announce recent news or a recent action that is relevant to the present moment."
+      },
+      {
+        "_id": "en_q_tns_220",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "He ___ for the bus, but it never came. (wait)",
+        "answers": ["waited"],
+        "explanation": "This describes a completed past action. The action of waiting is finished."
+      },
+      {
+        "_id": "en_q_tns_221",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "prompt": "She (A) has been living in this city (B) since three years, and she (C) loves it (D) here.",
+        "options": [
+          {"_id": "opt1", "text": "(A) has been living", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) since three years", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) loves", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) here", "isCorrect": false}
+        ],
+        "explanation": "'Since' is used with a point in time (e.g., since 2020). 'For' is used with a period of time (e.g., for three years)."
+      },
+      {
+        "_id": "en_q_tns_222",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "The film ___ when we got to the cinema.",
+        "options": [
+          {"_id": "opt1", "text": "already started", "isCorrect": false},
+          {"_id": "opt2", "text": "had already started", "isCorrect": true},
+          {"_id": "opt3", "text": "was already starting", "isCorrect": false}
+        ],
+        "explanation": "The film started before we arrived. Use the Past Perfect for the action that happened first."
+      },
+      {
+        "_id": "en_q_tns_223",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect_continuous",
+        "prompt": "Next year, we ___ for 25 years. (be married)",
+        "answers": ["will have been married"],
+        "explanation": "Future Perfect is used for states, while Future Perfect Continuous is for actions. 'Be married' acts like a state, but the structure 'will have been' is used to emphasize the duration leading to the future point."
+      },
+      {
+        "_id": "en_q_tns_224",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "She's not here. She ___ to the bank.",
+        "options": [
+          {"_id": "opt1", "text": "has been", "isCorrect": false},
+          {"_id": "opt2", "text": "has gone", "isCorrect": true},
+          {"_id": "opt3", "text": "went", "isCorrect": false}
+        ],
+        "explanation": "'Has gone' means someone went somewhere and has not returned yet. 'Has been' means they went and have already come back."
+      },
+      {
+        "_id": "en_q_tns_225",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_continuous",
+        "prompt": "He ___ a bath when the fire alarm went off. (have)",
+        "answers": ["was having"],
+        "explanation": "Past Continuous describes the longer action ('having a bath') that was interrupted by a short action ('went off')."
+      },
+      {
+        "_id": "en_q_tns_226",
+        "level": "medium",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "I ___ to the dentist tomorrow morning. I have an appointment.",
+        "options": [
+          {"_id": "opt1", "text": "go", "isCorrect": false},
+          {"_id": "opt2", "text": "am going", "isCorrect": true},
+          {"_id": "opt3", "text": "will go", "isCorrect": false}
+        ],
+        "explanation": "Present Continuous is used for fixed future arrangements, like an appointment."
+      },
+      {
+        "_id": "en_q_tns_227",
+        "level": "medium",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "I was sure that my team ___ the match. (win)",
+        "answers": ["would win"],
+        "explanation": "A past belief ('was sure') about a future event uses 'would' (Future in the Past)."
+      },
+      {
+        "_id": "en_q_tns_228",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "Not until he explained the situation ___ the problem.",
+        "options": [
+          {"_id": "opt1", "text": "I understood", "isCorrect": false},
+          {"_id": "opt2", "text": "did I understand", "isCorrect": true},
+          {"_id": "opt3", "text": "I had understood", "isCorrect": false}
+        ],
+        "explanation": "When a sentence starts with 'Not until...', the main clause must use inversion (auxiliary verb + subject + main verb)."
+      },
+      {
+        "_id": "en_q_tns_229",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "I'd rather you ___ so loudly in the library yesterday. (not speak)",
+        "answers": ["hadn't spoken"],
+        "explanation": "The structure 'I'd rather you' + Past Perfect is used to talk about something you wish had happened differently in the past."
+      },
+      {
+        "_id": "en_q_tns_230",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "It's the first time I (A) saw this film, even though I (B) have heard (C) so much about (D) it.",
+        "options": [
+          {"_id": "opt1", "text": "(A) saw", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) have heard", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) so much", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) it", "isCorrect": false}
+        ],
+        "explanation": "The structure 'It's the first time...' requires the Present Perfect. The correct form is 'I have seen'."
+      },
+      {
+        "_id": "en_q_tns_231",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect_continuous",
+        "prompt": "On their next anniversary, they ___ each other for 50 years.",
+        "options": [
+          {"_id": "opt1", "text": "will know", "isCorrect": false},
+          {"_id": "opt2", "text": "will have been knowing", "isCorrect": false},
+          {"_id": "opt3", "text": "will have known", "isCorrect": true}
+        ],
+        "explanation": "To talk about the duration of a state up to a future point, we use the Future Perfect. 'Know' is a stative verb and cannot be used in continuous tenses."
+      },
+      {
+        "_id": "en_q_tns_232",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "The event, which ___ place the following day, was cancelled. (be to take)",
+        "answers": ["was to have taken"],
+        "explanation": "'Was/were to have + V3' is a formal structure used for a planned past event that did not happen."
+      },
+      {
+        "_id": "en_q_tns_233",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "The regulations require that every applicant ___ a form.",
+        "options": [
+          {"_id": "opt1", "text": "submits", "isCorrect": false},
+          {"_id": "opt2", "text": "submit", "isCorrect": true},
+          {"_id": "opt3", "text": "is submitting", "isCorrect": false}
+        ],
+        "explanation": "This is the Present Subjunctive. After verbs of command or request like 'require that', we use the base form of the verb."
+      },
+      {
+        "_id": "en_q_tns_234",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "Which sentence means the same? 'As soon as he finished his speech, the audience started applauding.'",
+        "options": [
+          {"_id": "opt1", "text": "No sooner he had finished his speech, the audience started applauding.", "isCorrect": false},
+          {"_id": "opt2", "text": "Hardly had he finished his speech than the audience started applauding.", "isCorrect": false},
+          {"_id": "opt3", "text": "No sooner had he finished his speech than the audience started applauding.", "isCorrect": true}
+        ],
+        "explanation": "The structure 'No sooner had... than...' is an inverted form used to say that one thing happened immediately after another. 'Hardly' is paired with 'when'."
+      },
+      {
+        "_id": "en_q_tns_235",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "It's about time the government ___ something about this problem. (do)",
+        "answers": ["did"],
+        "explanation": "The structure 'It's about time / It's high time' is followed by a Past Simple verb to express that something should be done now."
+      },
+      {
+        "_id": "en_q_tns_236",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "He spoke as though he ___ everything about the subject.",
+        "options": [
+          {"_id": "opt1", "text": "knows", "isCorrect": false},
+          {"_id": "opt2", "text": "had known", "isCorrect": true},
+          {"_id": "opt3", "text": "has known", "isCorrect": false}
+        ],
+        "explanation": "After 'as though' or 'as if', we use the Past Perfect to talk about an unreal or hypothetical situation related to a past action ('he spoke')."
+      },
+      {
+        "_id": "en_q_tns_237",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "By the time he (A) will return next year, his son (B) will have grown (C) so much that he won't (D) recognize him.",
+        "options": [
+          {"_id": "opt1", "text": "(A) will return", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) will have grown", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) so much", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) recognize", "isCorrect": false}
+        ],
+        "explanation": "In a future time clause starting with 'by the time', 'when', 'after', etc., we use the Present Simple, not a future tense. It should be 'By the time he returns...'"
+      },
+      {
+        "_id": "en_q_tns_238",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "She was out of breath. She ___ to catch the bus. (run)",
+        "answers": ["had been running"],
+        "explanation": "Past Perfect Continuous is used to explain the reason (a continuous past action) for a past state ('was out of breath')."
+      },
+      {
+        "_id": "en_q_tns_239",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "I was going to tell you, but I thought you ___.",
+        "options": [
+          {"_id": "opt1", "text": "already knew", "isCorrect": false},
+          {"_id": "opt2", "text": "had already known", "isCorrect": true},
+          {"_id": "opt3", "text": "have already known", "isCorrect": false}
+        ],
+        "explanation": "The 'knowing' would have happened before the 'thinking' in the past. Therefore, the Past Perfect is required for the earlier past state."
+      },
+      {
+        "_id": "en_q_tns_240",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "If only I ___ the truth earlier. (know)",
+        "answers": ["had known"],
+        "explanation": "The structure 'If only' + Past Perfect is used to express a strong regret about a past situation."
+      },
+      {
+        "_id": "en_q_tns_241",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_continuous",
+        "prompt": "I imagine this time next week, a lot of us ___ for the long weekend.",
+        "options": [
+          {"_id": "opt1", "text": "will be preparing", "isCorrect": true},
+          {"_id": "opt2", "text": "will prepare", "isCorrect": false},
+          {"_id": "opt3", "text": "are preparing", "isCorrect": false}
+        ],
+        "explanation": "Future Continuous is often used to speculate about what will be happening at a future point."
+      },
+      {
+        "_id": "en_q_tns_242",
+        "level": "hard",
+
+        "qType": "multiple_choice_single",
+        "prompt": "Only after I (A) had checked my bank account (B) I did realize (C) how much money I (D) had spent.",
+        "options": [
+          {"_id": "opt1", "text": "(A) had checked", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) I did realize", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) how much money", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) had spent", "isCorrect": false}
+        ],
+        "explanation": "When a sentence starts with 'Only after...', inversion occurs in the main clause. The correct form is 'did I realize'."
+      },
+      {
+        "_id": "en_q_tns_243",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect_continuous",
+        "prompt": "When he retires next month, he ___ as a teacher for 35 years. (work)",
+        "answers": ["will have been working"],
+        "explanation": "Future Perfect Continuous is perfect for emphasizing the total duration of an activity up to a specific point in the future."
+      },
+      {
+        "_id": "en_q_tns_244",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "The car looks clean. ___ it?",
+        "options": [
+          {"_id": "opt1", "text": "Did you wash", "isCorrect": false},
+          {"_id": "opt2", "text": "Have you washed", "isCorrect": true},
+          {"_id": "opt3", "text": "Were you washing", "isCorrect": false}
+        ],
+        "explanation": "The question is about a past action that has a clear, visible result in the present ('The car looks clean'). This requires the Present Perfect."
+      },
+      {
+        "_id": "en_q_tns_245",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "It was the most exciting match he ___.",
+        "options": [
+          {"_id": "opt1", "text": "had ever watched", "isCorrect": true},
+          {"_id": "opt2", "text": "has ever watched", "isCorrect": false},
+          {"_id": "opt3", "text": "ever watched", "isCorrect": false}
+        ],
+        "explanation": "When we use a superlative ('most exciting') to talk about an experience within a past context ('It was...'), we use the Past Perfect."
+      },
+      {
+        "_id": "en_q_tns_246",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "At that moment, I was certain that everything ___ going to be alright. (be)",
+        "answers": ["was"],
+        "explanation": "This sentence describes a past certainty ('I was certain') about a future event from that past perspective, using 'was going to'."
+      },
+      {
+        "_id": "en_q_tns_247",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "Which sentence has a different meaning?",
+        "options": [
+          {"_id": "opt1", "text": "She has gone to Paris.", "isCorrect": false},
+          {"_id": "opt2", "text": "She is in Paris now.", "isCorrect": false},
+          {"_id": "opt3", "text": "She has been to Paris.", "isCorrect": true}
+        ],
+        "explanation": "'Has gone to' means she is still there. 'Has been to' means she went and came back (it's a life experience). Therefore, it has a different meaning."
+      },
+      {
+        "_id": "en_q_tns_248",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "I ___ reading this book by Friday, so you can borrow it then.",
+        "options": [
+          {"_id": "opt1", "text": "am finishing", "isCorrect": false},
+          {"_id": "opt2", "text": "will have finished", "isCorrect": true},
+          {"_id": "opt3", "text": "will be finishing", "isCorrect": false}
+        ],
+        "explanation": "The Future Perfect is used to state that an action will be complete before a specific future time, enabling another action ('you can borrow it')."
+      },
+      {
+        "_id": "en_q_tns_249",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "I didn't need to book a ticket because my friend ___ one for me. (already buy)",
+        "answers": ["had already bought"],
+        "explanation": "The action of buying the ticket happened before the point in the past where 'I didn't need to book'. Use Past Perfect for the earlier action."
+      },
+      {
+        "_id": "en_q_tns_250",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "I suggest that she (A) considers all the options (B) before she (C) makes a final (D) decision.",
+        "options": [
+          {"_id": "opt1", "text": "(A) considers", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) before", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) makes", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) decision", "isCorrect": false}
+        ],
+        "explanation": "This requires the subjunctive mood. After 'I suggest that...', we use the base form of the verb. It should be 'I suggest that she consider...'"
+      },
+      {
+        "_id": "en_q_tns_251",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "He finally passed the exam. He ___ it five times.",
+        "options": [
+          {"_id": "opt1", "text": "was taking", "isCorrect": false},
+          {"_id": "opt2", "text": "took", "isCorrect": false},
+          {"_id": "opt3", "text": "had taken", "isCorrect": true}
+        ],
+        "explanation": "The Past Perfect is used to specify the number of times something happened before another point in the past ('he finally passed'). Past Perfect Continuous would not be used with a number of times."
+      },
+      {
+        "_id": "en_q_tns_252",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "The plan was that we ___ at the cafe at noon, but she was late. (meet)",
+        "answers": ["would meet", "were going to meet"],
+        "explanation": "Future in the Past ('would meet' or 'were going to meet') is used to describe a plan from a past perspective."
+      },
+      {
+        "_id": "en_q_tns_253",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "When you arrive, ___ dinner?",
+        "options": [
+          {"_id": "opt1", "text": "will she cook", "isCorrect": false},
+          {"_id": "opt2", "text": "will she have cooked", "isCorrect": true},
+          {"_id": "opt3", "text": "will she be cooking", "isCorrect": false}
+        ],
+        "explanation": "This question asks if the action of cooking will be finished before the arrival. This requires the Future Perfect."
+      },
+      {
+        "_id": "en_q_tns_254",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "She'd been talking for an hour before she finally ___ the point.",
+        "options": [
+          {"_id": "opt1", "text": "got to", "isCorrect": true},
+          {"_id": "opt2", "text": "had gotten to", "isCorrect": false},
+          {"_id": "opt3", "text": "was getting to", "isCorrect": false}
+        ],
+        "explanation": "The main clause uses Past Perfect Continuous to describe the long action. The 'before' clause describes the later, shorter action, which takes the Past Simple."
+      },
+      {
+        "_id": "en_q_tns_255",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "Under no circumstances ___ I lend him the money again. (will)",
+        "answers": ["will"],
+        "explanation": "This is a future statement, but the structure 'Under no circumstances...' requires inversion of the subject and auxiliary verb: '...will I lend...'"
+      },
+      {
+        "_id": "en_q_tns_256",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "I wish I (A) didn't spend so much money (B) last weekend; now (C) I'm broke (D).",
+        "options": [
+          {"_id": "opt1", "text": "(A) didn't spend", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) last weekend", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) now", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) I'm broke", "isCorrect": false}
+        ],
+        "explanation": "To express a regret about a past action ('last weekend'), the structure 'I wish' must be followed by the Past Perfect. The correct form is 'I wish I hadn't spent...'"
+      },
+      {
+        "_id": "en_q_tns_257",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect_continuous",
+        "prompt": "By the time the course finishes, I ___ every tense in this book.",
+        "options": [
+          {"_id": "opt1", "text": "will have been studying", "isCorrect": false},
+          {"_id": "opt2", "text": "will have studied", "isCorrect": true},
+          {"_id": "opt3", "text": "will be studying", "isCorrect": false}
+        ],
+        "explanation": "Future Perfect is used to emphasize the completion of an action by a future point. Future Perfect Continuous would emphasize the duration, but here the focus is on finishing the study of every tense."
+      },
+      {
+        "_id": "en_q_tns_258",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "He was just on the point of ___ when his boss called him back. (leave)",
+        "answers": ["leaving"],
+        "explanation": "The structure 'on the point of' is followed by a gerund (-ing form) to mean 'about to do something'."
+      },
+      {
+        "_id": "en_q_tns_259",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "If he ___ on time, we will miss the beginning of the movie.",
+        "options": [
+          {"_id": "opt1", "text": "doesn't arrive", "isCorrect": true},
+          {"_id": "opt2", "text": "won't arrive", "isCorrect": false},
+          {"_id": "opt3", "text": "isn't arriving", "isCorrect": false}
+        ],
+        "explanation": "This is a First Conditional sentence. The 'if' clause must be in the Present Simple, not a future tense."
+      },
+      {
+        "_id": "en_q_tns_260",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "She ___ a great deal of experience before she applied for the manager's job.",
+        "options": [
+          {"_id": "opt1", "text": "gained", "isCorrect": false},
+          {"_id": "opt2", "text": "was gaining", "isCorrect": false},
+          {"_id": "opt3", "text": "had gained", "isCorrect": true}
+        ],
+        "explanation": "The 'before' clause indicates a past event. The action of gaining experience happened before that, so it must be in the Past Perfect."
+      },
+      {
+        "_id": "en_q_tns_261",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "He looks exhausted. I bet he ___ all night. (study)",
+        "answers": ["has been studying"],
+        "explanation": "We use the Present Perfect Continuous to infer a recent, continuous action based on present evidence ('He looks exhausted')."
+      },
+      {
+        "_id": "en_q_tns_262",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "I look forward (A) to hear from you (B) as soon as (C) you have made (D) a decision.",
+        "options": [
+          {"_id": "opt1", "text": "(A) look forward", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) to hear from you", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) as soon as", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) you have made", "isCorrect": false}
+        ],
+        "explanation": "The phrasal verb 'look forward to' must be followed by a gerund (-ing form), not an infinitive. The correct form is 'to hearing from you'."
+      },
+      {
+        "_id": "en_q_tns_263",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "The builders say they ___ the roof by the end of the week.",
+        "options": [
+          {"_id": "opt1", "text": "will be repairing", "isCorrect": false},
+          {"_id": "opt2", "text": "will have repaired", "isCorrect": true},
+          {"_id": "opt3", "text": "are repairing", "isCorrect": false}
+        ],
+        "explanation": "Future Perfect is used to express that an action will be completed by a certain future time."
+      },
+      {
+        "_id": "en_q_tns_264",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "Little ___ he know that he was being watched. (do)",
+        "answers": ["did"],
+        "explanation": "When a sentence starts with a negative adverbial like 'Little', we must use inversion: 'Little did he know...'"
+      },
+      {
+        "_id": "en_q_tns_265",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "I realized I ___ a mistake as soon as I sent the email.",
+        "options": [
+          {"_id": "opt1", "text": "made", "isCorrect": false},
+          {"_id": "opt2", "text": "had made", "isCorrect": true},
+          {"_id": "opt3", "text": "was making", "isCorrect": false}
+        ],
+        "explanation": "The mistake was made before or at the exact moment of realizing it. The Past Perfect clearly places the mistake as the earlier event."
+      },
+      {
+        "_id": "en_q_tns_266",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_present_perfect_continuous",
+        "prompt": "She ___ for that company for five years, but now she is looking for a new job. (work)",
+        "answers": ["has been working"],
+        "explanation": "Present Perfect Continuous describes an action that started in the past and has continued until the very recent past or the present."
+      },
+      {
+        "_id": "en_q_tns_267",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "Never before (A) I have seen (B) such chaos in (C) this office (D).",
+        "options": [
+          {"_id": "opt1", "text": "(A) Never before", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) I have seen", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) this office", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) No error", "isCorrect": false}
+        ],
+        "explanation": "When a sentence starts with 'Never before', it requires subject-verb inversion. The correct form is 'have I seen'."
+      },
+      {
+        "_id": "en_q_tns_268",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_continuous",
+        "prompt": "He ___ when you call him; he always takes a nap in the afternoon.",
+        "options": [
+          {"_id": "opt1", "text": "will probably be sleeping", "isCorrect": true},
+          {"_id": "opt2", "text": "will have slept", "isCorrect": false},
+          {"_id": "opt3", "text": "is going to sleep", "isCorrect": false}
+        ],
+        "explanation": "Future Continuous can be used to make a prediction about an activity in progress at a future time, based on a known habit."
+      },
+      {
+        "_id": "en_q_tns_269",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_simple",
+        "prompt": "Supposing you ___ the lottery, what would you do? (win)",
+        "answers": ["won"],
+        "explanation": "This is a Second Conditional structure. After 'supposing' (which works like 'if'), we use the Past Simple for a hypothetical present or future situation."
+      },
+      {
+        "_id": "en_q_tns_270",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "By the time he was 30, he ___ around the world for two years.",
+        "options": [
+          {"_id": "opt1", "text": "travelled", "isCorrect": false},
+          {"_id": "opt2", "text": "was travelling", "isCorrect": false},
+          {"_id": "opt3", "text": "had been travelling", "isCorrect": true}
+        ],
+        "explanation": "Past Perfect Continuous is used to talk about the duration of an activity up to a specific point in the past."
+      },
+      {
+        "_id": "en_q_tns_271",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "The guests are coming at 8 PM. I ___ cooking by then. (finish)",
+        "answers": ["will have finished"],
+        "explanation": "Future Perfect is used for an action that will be completed before a specific future time ('by then')."
+      },
+      {
+        "_id": "en_q_tns_272",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "She was to ___ at the conference, but she fell ill.",
+        "options": [
+          {"_id": "opt1", "text": "have spoken", "isCorrect": true},
+          {"_id": "opt2", "text": "speak", "isCorrect": false},
+          {"_id": "opt3", "text": "be speaking", "isCorrect": false}
+        ],
+        "explanation": "The structure 'was/were to have + V3' is used to talk about a planned event in the past that did not happen."
+      },
+      {
+        "_id": "en_q_tns_273",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "The doctor demanded that the patient (A) stops smoking immediately (B) if he wanted (C) to get (D) better.",
+        "options": [
+          {"_id": "opt1", "text": "(A) stops", "isCorrect": true},
+          {"_id": "opt2", "text": "(B) if", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) wanted", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) better", "isCorrect": false}
+        ],
+        "explanation": "This requires the subjunctive. After a verb of command like 'demanded that', we use the base form of the verb ('stop'), not the -s form."
+      },
+      {
+        "_id": "en_q_tns_274",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "Rarely ___ I seen such an impressive performance. (have)",
+        "answers": ["have"],
+        "explanation": "When a sentence begins with a negative or restrictive adverb like 'Rarely', we use inversion: 'Rarely have I seen...'"
+      },
+      {
+        "_id": "en_q_tns_275",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_perfect",
+        "prompt": "The last time he saw her, she ___ completely different.",
+        "options": [
+          {"_id": "opt1", "text": "looked", "isCorrect": true},
+          {"_id": "opt2", "text": "has looked", "isCorrect": false},
+          {"_id": "opt3", "text": "had looked", "isCorrect": false}
+        ],
+        "explanation": "Both actions ('he saw her' and 'she looked') happened at the same time in the past. Therefore, both should be in the Past Simple."
+      },
+      {
+        "_id": "en_q_tns_276",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect_continuous",
+        "prompt": "By the time we land, we ___ in the air for 12 hours. (be)",
+        "answers": ["will have been"],
+        "explanation": "Future Perfect Continuous emphasizes the duration of the action ('being in the air') up to the point of landing."
+      },
+      {
+        "_id": "en_q_tns_277",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "He said he was going to apply for the job, but I wonder if he ever ___.",
+        "options": [
+          {"_id": "opt1", "text": "did", "isCorrect": true},
+          {"_id": "opt2", "text": "does", "isCorrect": false},
+          {"_id": "opt3", "text": "had", "isCorrect": false}
+        ],
+        "explanation": "The wondering is happening now, but it's about a past intention. We use the Past Simple auxiliary 'did' to refer to the past action of 'applying'."
+      },
+      {
+        "_id": "en_q_tns_278",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "If you (A) had listened to my advice, you (B) won't be in (C) this mess (D) now.",
+        "options": [
+          {"_id": "opt1", "text": "(A) had listened", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) won't be", "isCorrect": true},
+          {"_id": "opt3", "text": "(C) this mess", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) now", "isCorrect": false}
+        ],
+        "explanation": "This is a mixed conditional sentence (past condition, present result). The result clause should use 'would not be', not 'won't be'."
+      },
+      {
+        "_id": "en_q_tns_279",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "It ___ that the company was losing money for years. (emerge)",
+        "answers": ["emerged"],
+        "explanation": "The verb 'emerged' is in the Past Simple as it reports a discovery at a point in the past. The losing of money ('was losing' or 'had been losing') happened over a period before that."
+      },
+      {
+        "_id": "en_q_tns_280",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "By the end of this century, scientists ___ a cure for many more diseases.",
+        "options": [
+          {"_id": "opt1", "text": "will be finding", "isCorrect": false},
+          {"_id": "opt2", "text": "will have found", "isCorrect": true},
+          {"_id": "opt3", "text": "are finding", "isCorrect": false}
+        ],
+        "explanation": "Future Perfect is used to make a prediction about an action that will be completed by a certain future time."
+      },
+      {
+        "_id": "en_q_tns_281",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "The detective asked the suspect where he ___ on the night of the crime. (be)",
+        "answers": ["had been"],
+        "explanation": "In reported questions about a past event, the tense shifts back. 'Where were you?' becomes 'where he had been'."
+      },
+      {
+        "_id": "en_q_tns_282",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_present_simple",
+        "prompt": "Whether you succeed or not ___ entirely on your effort.",
+        "options": [
+          {"_id": "opt1", "text": "depend", "isCorrect": false},
+          {"_id": "opt2", "text": "depends", "isCorrect": true},
+          {"_id": "opt3", "text": "is depending", "isCorrect": false}
+        ],
+        "explanation": "The entire clause 'Whether you succeed or not' acts as a singular subject. Therefore, the verb needs an '-s'. 'Depend' is also a stative verb."
+      },
+      {
+        "_id": "en_q_tns_283",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_in_past",
+        "prompt": "I didn't realize at the time that it ___ the last time I would see her. (be)",
+        "answers": ["was"],
+        "explanation": "The entire context is a reflection on the past. The state of 'being the last time' was a fact at that past moment, so Past Simple is used."
+      },
+      {
+        "_id": "en_q_tns_284",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect",
+        "prompt": "I couldn't believe he ___ the same mistake again.",
+        "options": [
+          {"_id": "opt1", "text": "made", "isCorrect": false},
+          {"_id": "opt2", "text": "had made", "isCorrect": true},
+          {"_id": "opt3", "text": "was making", "isCorrect": false}
+        ],
+        "explanation": "The making of the mistake happened before the disbelief. The Past Perfect is used for the earlier of two past events."
+      },
+      {
+        "_id": "en_q_tns_285",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "prompt": "He (A) has been complaining about his boss (B) for months, so I'm not surprised (C) he had quit (D) his job.",
+        "options": [
+          {"_id": "opt1", "text": "(A) has been complaining", "isCorrect": false},
+          {"_id": "opt2", "text": "(B) for months", "isCorrect": false},
+          {"_id": "opt3", "text": "(C) I'm not surprised", "isCorrect": false},
+          {"_id": "opt4", "text": "(D) he had quit", "isCorrect": true}
+        ],
+        "explanation": "The surprise (or lack thereof) is in the present. The quitting is a recent past action with a present result/relevance. It should be in the Present Perfect: 'he has quit'."
+      },
+      {
+        "_id": "en_q_tns_286",
+        "level": "hard",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_future_perfect",
+        "prompt": "By the time the rescue team arrives, they ___ without food for three days. (be)",
+        "answers": ["will have been"],
+        "explanation": "The Future Perfect ('will have been') is used to describe the duration of a state up to a specific point in the future."
+      },
+      {
+        "_id": "en_q_tns_287",
+        "level": "hard",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_past_perfect_continuous",
+        "prompt": "I felt very tired when I got home. I ___ with customers all day.",
+        "options": [
+          {"_id": "opt1", "text": "dealt", "isCorrect": false},
+          {"_id": "opt2", "text": "had been dealing", "isCorrect": true},
+          {"_id": "opt3", "text": "was dealing", "isCorrect": false}
+        ],
+        "explanation": "Past Perfect Continuous is used to explain the reason (a long, continuous past activity) for a past feeling or state ('I felt very tired')."
+      }
+    ]
+  },
+  "isActive": true
+}

@@ -32,18 +32,11 @@ const Sidebar = ({ isOpen }) => {
   return (
     <>
       <aside
-        // SỬA LẠI CẤU TRÚC
         className={`bg-gray-800 text-white flex flex-col 
                    transition-all duration-300 ease-in-out 
                    ${isOpen ? 'w-64' : 'w-0 overflow-hidden'}`}
       >
-        {/*
-          Bọc toàn bộ nội dung trong một div để có thể áp dụng padding
-          và các hiệu ứng một cách nhất quán.
-        */}
         <div className="flex flex-col justify-between h-full p-4">
-
-          {/* Menu chính, được render từ appData.js */}
           <nav className="flex flex-col space-y-2 mt-4">
             {sidebarMenu.map((item) => (
               <button
@@ -58,7 +51,6 @@ const Sidebar = ({ isOpen }) => {
             ))}
           </nav>
           
-          {/* Nút Logout - Được render độc lập, không phụ thuộc vào appData.js */}
           <div>
             <button
               type="button"

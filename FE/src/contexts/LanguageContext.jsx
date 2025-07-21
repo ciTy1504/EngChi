@@ -1,3 +1,4 @@
+// src/contexts/LanguageContext.jsx
 import React, { createContext, useState, useMemo } from 'react';
 
 // 1. Tạo Context

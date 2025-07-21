@@ -6,7 +6,6 @@ const UserSchema = new mongoose.Schema({
   username: {
     type: String,
     required: [true, 'Please add a username'],
-    unique: true,
   },
   email: {
     type: String,
@@ -19,9 +18,16 @@ const UserSchema = new mongoose.Schema({
   },
   password: {
     type: String,
-    required: [true, 'Please add a password'],
+    // SỬA: Mật khẩu chỉ bắt buộc khi không có googleId
+    required: function() { return !this.googleId; },
     minlength: 6,
-    select: false, // Không trả về password khi query
+    select: false,
+  },
+  // THÊM: trường để lưu ID từ Google
+  googleId: {
+    type: String,
+    unique: true,
+    sparse: true // Cho phép nhiều document có giá trị null, nhưng giá trị có thật thì phải là duy nhất
   },
   createdAt: {
     type: Date,
