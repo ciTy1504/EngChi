@@ -1,5 +1,4 @@
-// src/features/shared/FeatureLevelSelectionPage.jsx
-
+// File: src/features/shared/FeatureLevelSelectionPage.jsx
 import React, { useState, useEffect, useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { LanguageContext } from '../../contexts/LanguageContext';
@@ -7,6 +6,18 @@ import { useTranslations } from '../../hooks/useTranslations';
 import { apiService } from '../../api/apiService';
 import FeaturePageLayout from './FeaturePageLayout';
 
+// Component Nút Ôn tập
+const ReviewModeButton = ({ count, lang }) => (
+    <Link
+        to={`/${lang}/vocab/review`}
+        className="group block bg-gradient-to-r from-purple-500 to-indigo-600 p-6 rounded-lg shadow-lg hover:shadow-2xl hover:-translate-y-1.5 transition-all duration-300 text-center text-white"
+    >
+        <h3 className="text-xl font-bold">Ôn tập</h3>
+        <p className="mt-1 font-semibold">{count} từ đang chờ</p>
+    </Link>
+);
+
+// Component Nút chuyển chế độ dịch
 const TranslationModeToggle = ({ mode, onModeChange }) => {
     const { language } = useContext(LanguageContext);
     const t = useTranslations();
@@ -40,9 +51,8 @@ const FeatureLevelSelectionPage = ({ featureType, featurePath, pageTitleKey, pag
     const [lessons, setLessons] = useState([]);
     const [isLoading, setIsLoading] = useState(true);
     const [error, setError] = useState(null);
-
-    // State cho chế độ dịch, chỉ dùng cho feature 'translation'
     const [translationMode, setTranslationMode] = useState('foreign-to-vi');
+    const [reviewCount, setReviewCount] = useState(0);
 
     useEffect(() => {
         const fetchLevels = async () => {
@@ -58,8 +68,19 @@ const FeatureLevelSelectionPage = ({ featureType, featurePath, pageTitleKey, pag
                 setIsLoading(false);
             }
         };
-
         fetchLevels();
+
+        if (featureType === 'vocab') {
+            const fetchReviewCount = async () => {
+                try {
+                    const res = await apiService('/vocab/review-count');
+                    setReviewCount(res.data.count);
+                } catch (err) {
+                    console.error("Failed to fetch review count:", err);
+                }
+            };
+            fetchReviewCount();
+        }
     }, [language, featureType]);
 
     if (isLoading) return <div className="text-center p-10">{t.loading_levels}</div>;
@@ -76,10 +97,15 @@ const FeatureLevelSelectionPage = ({ featureType, featurePath, pageTitleKey, pag
             )}
             
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
+                {/* SỬA LỖI: Đưa nút Review ra ngoài vòng lặp */}
+                {featureType === 'vocab' && reviewCount > 0 && (
+                    <ReviewModeButton count={reviewCount} lang={language} />
+                )}
+
                 {lessons.map(lesson => (
                     <Link
                         key={lesson._id}
-                        to={`/${language}${featurePath}/${lesson._id}?mode=${translationMode}`}
+                        to={featureType === 'translation' ? `/${language}${featurePath}/${lesson._id}?mode=${translationMode}` : `/${language}${featurePath}/${lesson._id}`}
                         className="group block bg-white p-6 rounded-lg shadow-md hover:shadow-xl hover:-translate-y-1.5 transition-all duration-300 text-center border-t-4 border-transparent hover:border-blue-500"
                     >
                         <h3 className="text-xl font-bold text-gray-800 transition-colors group-hover:text-blue-600">

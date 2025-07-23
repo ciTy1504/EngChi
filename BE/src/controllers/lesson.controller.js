@@ -160,32 +160,6 @@ exports.getGrammarQuizQuestions = async (req, res) => {
     }
 };
 
-exports.updateProgress = async (req, res) => {
-    const { progressId } = req.params;
-    const { action, payload } = req.body;
-    try {
-        const progress = await UserProgress.findById(progressId);
-        if (!progress) return res.status(404).json({ success: false, message: 'Progress not found' });
-        if (progress.user.toString() !== req.user.id) return res.status(401).json({ success: false, message: 'Not authorized' });
-
-        switch (action) {
-            case 'delete_words':
-                progress.progressData.deletedWords.addToSet(...(payload.words || []));
-                break;
-            case 'review_words':
-                progress.progressData.reviewWords.addToSet(...(payload.words || []));
-                break;
-            default:
-                return res.status(400).json({ success: false, message: `Invalid action: ${action}` });
-        }
-        
-        await progress.save();
-        res.status(200).json({ success: true, data: progress });
-    } catch (error) {
-         res.status(500).json({ success: false, message: error.message });
-    }
-};
-
 exports.getNextTranslationQuestion = async (req, res) => {
     const { lessonId } = req.params;
     const userId = req.user.id;
@@ -371,5 +345,50 @@ exports.submitReadingAnswers = async (req, res) => {
     } catch (error) {
         console.error("Submit Reading Answers Error:", error);
         res.status(500).json({ success: false, message: error.message });
+    }
+};
+
+exports.updateProgress = async (req, res) => {
+    const { progressId } = req.params;
+    const { action, payload } = req.body;
+    try {
+        const progress = await UserProgress.findById(progressId);
+        if (!progress) return res.status(404).json({ success: false, message: 'Progress not found' });
+        if (progress.user.toString() !== req.user.id) return res.status(401).json({ success: false, message: 'Not authorized' });
+
+        switch (action) {
+            case 'delete_words':
+                progress.progressData.deletedWords.addToSet(...(payload.words || []));
+                break;
+            
+            case 'review_words':
+                const wordsToReview = payload.words.map(w => ({ 
+                    word: w.word, 
+                    masterLessonId: w.masterLessonId 
+                }));
+
+                wordsToReview.forEach(newWord => {
+                    if (!progress.progressData.reviewWords.some(existing => existing.word === newWord.word)) {
+                        progress.progressData.reviewWords.push(newWord);
+                    }
+                });
+                break;
+
+            case 'remove_review_words':
+                const wordsToRemove = payload.words || [];
+                progress.progressData.reviewWords = progress.progressData.reviewWords.filter(
+                    reviewWord => !wordsToRemove.includes(reviewWord.word)
+                );
+                progress.progressData.deletedWords.addToSet(...wordsToRemove);
+                break;
+
+            default:
+                return res.status(400).json({ success: false, message: `Invalid action: ${action}` });
+        }
+        
+        await progress.save();
+        res.status(200).json({ success: true, data: progress });
+    } catch (error) {
+         res.status(500).json({ success: false, message: error.message });
     }
 };

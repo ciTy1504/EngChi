@@ -39,6 +39,7 @@ function App() {
           <Route element={<MainLayout />}>
             <Route index element={<HomePage />} />
             
+            {/* Route cho các tính năng từ config */}
             {featureConfig.map(feature => {
               const PageComponent = pageComponents[feature.pageComponent];
               if (!PageComponent) return null; 
@@ -57,6 +58,13 @@ function App() {
               );
             })}
 
+            {/* THÊM: Route đặc biệt cho chế độ ôn tập từ vựng */}
+            <Route 
+              path="vocab/review"
+              element={<QuizPage isReviewMode={true} />}
+            />
+
+            {/* Routes cho Grammar */}
             <Route path="grammar" element={<GrammarLandingPage />} />
             <Route path="grammar/theory" element={<GrammarTheoryPage />} />
             <Route 
@@ -65,8 +73,8 @@ function App() {
                     <FeatureLevelSelectionPage 
                         featureType="grammar"
                         featurePath="/grammar/practice"
-                        pageTitleKey="grammar_practice_title"
-                        pageSubtitleKey="grammar_practice_subtitle"
+                        pageTitleKey="grammar_practice_selection_title"
+                        pageSubtitleKey="grammar_practice_selection_subtitle"
                         backButtonPath="/grammar"
                     />
                 } 

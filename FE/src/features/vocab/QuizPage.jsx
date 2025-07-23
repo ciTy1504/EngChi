@@ -1,4 +1,4 @@
-// src/features/vocab/QuizPage.jsx
+// File: src/features/vocab/QuizPage.jsx
 import React, { useState, useEffect, useContext, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { checkVocabulary } from '../../api/aiAPI';
@@ -8,14 +8,11 @@ import QuestionNavigator from './components/QuestionNavigator';
 import QuizResults from './components/QuizResults.jsx';
 import { apiService } from '../../api/apiService';
 
-const shuffleAndPick = (array, count) => {
-    const limit = Math.min(count, array.length);
-    return [...array].sort(() => 0.5 - Math.random()).slice(0, limit);
-};
+const shuffleArray = (array) => [...array].sort(() => 0.5 - Math.random());
 
 const BATCH_SIZE = 10;
 
-const QuizPage = () => {
+const QuizPage = ({ isReviewMode = false }) => {
     const { lessonId } = useParams();
     const navigate = useNavigate();
     const { language } = useContext(LanguageContext);
@@ -28,6 +25,7 @@ const QuizPage = () => {
     const [fetchError, setFetchError] = useState(null);
     const [isRevealingResults, setIsRevealingResults] = useState(false);
     const [isFinished, setIsFinished] = useState(false);
+    const [pageTitle, setPageTitle] = useState('');
 
     const aiCheckQueue = useRef(new Map());
     const isCheckingBatch = useRef(false);
@@ -40,21 +38,32 @@ const QuizPage = () => {
             setIsLoading(true);
             setFetchError(null);
             try {
-                const response = await apiService(`/lessons/${lessonId}/start`);
-                const { masterLesson, userProgress } = response;
-                
-                setMasterLesson(masterLesson);
-                setProgressId(userProgress._id);
+                let quizData = [];
+                if (isReviewMode) {
+                    setPageTitle("Chế độ ôn tập");
+                    const response = await apiService('/vocab/review-words');
+                    quizData = response.data;
+                    setMasterLesson(null);
+                    setProgressId(null);
+                } else {
+                    const response = await apiService(`/lessons/${lessonId}/start`);
+                    const { masterLesson, userProgress } = response;
+                    
+                    setMasterLesson(masterLesson);
+                    setProgressId(userProgress._id);
+                    setPageTitle(t.quiz_title.replace('{level}', masterLesson.level.toUpperCase()));
 
-                const deletedWordsSet = new Set(userProgress.progressData.deletedWords);
-                const wordsToLearn = masterLesson.content.words.filter(
-                    word => !deletedWordsSet.has(word.word)
-                );
+                    const deletedWordsSet = new Set(userProgress.progressData.deletedWords);
+                    const wordsToLearn = masterLesson.content.words.filter(word => !deletedWordsSet.has(word.word));
+                    
+                    const selectedWords = shuffleArray(wordsToLearn).slice(0, 50);
+                    quizData = selectedWords.map(word => ({ wordData: word, masterLessonId: masterLesson._id }));
+                }
 
-                if (wordsToLearn.length > 0) {
-                    const selectedWords = shuffleAndPick(wordsToLearn, 50);
-                    const initialState = selectedWords.map(word => ({
-                        wordData: word,
+                if (quizData.length > 0) {
+                    const initialState = shuffleArray(quizData).map(item => ({
+                        wordData: item.wordData,
+                        masterLessonId: item.masterLessonId, 
                         userAnswer: '',
                         status: 'unanswered',
                         isCorrect: null,
@@ -72,12 +81,13 @@ const QuizPage = () => {
         };
 
         fetchVocabAndInitState();
-    }, [lessonId]);
+    }, [lessonId, isReviewMode, t.quiz_title, language]);
 
     useEffect(() => {
         inputRef.current?.focus();
     }, [currentIndex]);
     
+    // Các hàm xử lý logic (giữ nguyên, không cần sửa)
     const triggerAIBatchCheck = async (force = false) => {
         if (isCheckingBatch.current) return;
         if (aiCheckQueue.current.size === 0) return;
@@ -174,12 +184,14 @@ const QuizPage = () => {
             setCurrentIndex(index);
         }
     };
+
     const handleFinishQuiz = () => {
         triggerAIBatchCheck(true); 
         setIsRevealingResults(true);
     };
 
     const handleGoToSummary = () => setIsFinished(true);
+
 
     if (isLoading) {
         return <div className="text-center p-10">{t.loading}</div>;
@@ -192,35 +204,39 @@ const QuizPage = () => {
     if (isFinished) {
         return <QuizResults 
             results={quizState}
-            progressId={progressId}
-            lesson={masterLesson}
+            progressId={progressId} 
+            lesson={masterLesson} 
             language={language}
+            isReviewMode={isReviewMode}
         />;
     }
 
-    if (!isLoading && quizState.length === 0) {
+    // Xử lý trường hợp không có từ vựng để học/ôn tập
+    if (quizState.length === 0) {
+        const congratsBody = isReviewMode
+            ? "Bạn không có từ nào cần ôn tập. Hãy tiếp tục học bài mới!"
+            : t.quiz_congrats_body.replace('{level}', masterLesson?.level?.toUpperCase() || '');
+
         return (
              <div className="text-center p-10">
                 <h2 className="text-2xl font-bold mb-4">{t.quiz_congrats_title}</h2>
-                <p className="text-gray-600">{t.quiz_congrats_body.replace('{level}', masterLesson?.level?.toUpperCase())}</p>
+                <p className="text-gray-600">{congratsBody}</p>
                 <button onClick={() => navigate(`/${language}/vocab`)} className="mt-6 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">
                     {t.quiz_choose_another_level}
                 </button>
             </div>
         );
     }
-
-    if (!masterLesson || quizState.length === 0) {
-        return <div className="text-center p-10">{t.loading}</div>;
-    }
-
+    
+    // Nếu có quizState, chúng ta chắc chắn có thể render giao diện
     const currentQuestion = quizState[currentIndex];
+    const showPronounce = !isReviewMode && masterLesson && masterLesson.language !== 'zh';
     const allQuestionsAttempted = quizState.every(q => q.status !== 'unanswered');
 
     return (
         <div className="max-w-7xl mx-auto p-4 sm:p-6 lg:p-8 bg-gray-50 min-h-screen">
             <div className="flex flex-col lg:flex-row gap-8">
-                <div className="w-full lg:w-2/5 xl:w-1/3">
+                <div className="w-full lg-w-2/5 xl:w-1/3">
                     <QuestionNavigator 
                         questions={quizState}
                         currentIndex={currentIndex}
@@ -247,8 +263,8 @@ const QuizPage = () => {
                     </div>
                 </div>
 
-                <div className="w-full lg:w-3/5 xl:w-2/3">
-                    <h1 className="text-3xl font-bold text-center mb-6">{t.quiz_title.replace('{level}', masterLesson.level.toUpperCase())}</h1>
+                <div className="w-full lg-w-3/5 xl:w-2/3">
+                    <h1 className="text-3xl font-bold text-center mb-6">{pageTitle}</h1>
                     <div className="bg-white p-6 sm:p-8 rounded-lg shadow-lg text-center sticky top-8">
                         <p className="text-sm font-semibold text-gray-500 mb-2">
                             {t.quiz_question_progress.replace('{current}', currentIndex + 1).replace('{total}', quizState.length)}
@@ -257,7 +273,7 @@ const QuizPage = () => {
                             {currentQuestion.wordData.word}
                         </h2>
 
-                        {masterLesson && masterLesson.language !== 'zh' && (
+                        {showPronounce && (
                             <p className="text-lg sm:text-xl text-gray-500 -mt-6 mb-8">
                                 /{currentQuestion.wordData.pronounce}/
                             </p>
@@ -268,7 +284,7 @@ const QuizPage = () => {
                             type="text"
                             value={currentQuestion.userAnswer}
                             onChange={handleInputChange}
-                            placeholder={t.vocab_placeholder}
+                            placeholder={t.vocab_placeholder || "Type the meaning here..."}
                             className="w-full max-w-md p-3 border-2 border-gray-300 rounded-lg text-lg text-center focus:border-blue-500 focus:ring-blue-500 transition"
                             onKeyDown={(e) => { if (e.key === 'Enter') handleQuestionSubmit(); }}
                             disabled={isRevealingResults}

@@ -1,16 +1,19 @@
-// src/models/userProgress.model.js
+// File: src/models/userProgress.model.js
 const mongoose = require('mongoose');
+
+const ReviewWordSchema = new mongoose.Schema({
+    word: { type: String, required: true },
+    masterLessonId: { type: mongoose.Schema.ObjectId, ref: 'MasterLesson', required: true },
+}, { _id: false });
 
 const UserProgressSchema = new mongoose.Schema({
   user: { type: mongoose.Schema.ObjectId, ref: 'User', required: true },
   lesson: { type: mongoose.Schema.ObjectId, ref: 'MasterLesson', required: true },
   
   progressData: {
-    // Dành cho vocab
     deletedWords: { type: [String], default: [] },
-    reviewWords: { type: [String], default: [] },
+    reviewWords: { type: [ReviewWordSchema], default: [] }, 
 
-    // Dành cho translation, grammar
     items: {
         type: [{
             questionId: { type: String, required: true },
@@ -18,8 +21,6 @@ const UserProgressSchema = new mongoose.Schema({
         }],
         default: undefined 
     },
-
-    // Dành cho reading
     articleProgress: {
         type: [{
             articleId: { type: String, required: true },
