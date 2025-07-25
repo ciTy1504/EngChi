@@ -1,0 +1,114 @@
+{
+  "title": "Question Forms",
+  "description": "Learn how to ask for information using different types of questions in English.",
+  "language": "en",
+  "type": "grammar",
+  "order": 4,
+  "level": "Question Forms",
+  "content": {
+    "grammarTheory": [
+      {
+        "_id": "en_theory_qf_wh",
+        "title": "Wh-Questions",
+        "order": 1,
+        "contentHTML": "<p>Wh-questions are used to ask for specific information. They cannot be answered with a simple 'yes' or 'no'. They begin with a question word.</p><p><strong>Formula:</strong></p><p><code>Wh-word + auxiliary verb + subject + main verb...?</code></p><h4>Common Question Words:</h4><ul><li><strong>What:</strong> Asks for information about things. <em>(<strong>What</strong> is your name?)</em></li><li><strong>When:</strong> Asks about time. <em>(<strong>When</strong> does the meeting start?)</em></li><li><strong>Where:</strong> Asks about a place. <em>(<strong>Where</strong> do you live?)</em></li><li><strong>Who:</strong> Asks about a person (subject). <em>(<strong>Who</strong> opened the door?)</em></li><li><strong>Whom:</strong> Asks about a person (object). <em>(<strong>Whom</strong> did you see?)</em></li><li><strong>Why:</strong> Asks for a reason. <em>(<strong>Why</strong> are you late?)</em></li><li><strong>Which:</strong> Asks about a choice. <em>(<strong>Which</strong> color do you prefer?)</em></li><li><strong>Whose:</strong> Asks about possession. <em>(<strong>Whose</strong> bag is this?)</em></li><li><strong>How:</strong> Asks about manner, condition, or quality. <em>(<strong>How</strong> does this work?)</em></li></ul>"
+      },
+      {
+        "_id": "en_theory_qf_yesno",
+        "title": "Yes/No Questions",
+        "order": 2,
+        "contentHTML": "<p>These questions can be answered with a simple 'yes' or 'no'. They begin with an auxiliary verb (like <em>be, do, have</em>) or a modal verb (like <em>can, should, will</em>).</p><p><strong>Formula:</strong></p><p><code>Auxiliary/Modal Verb + Subject + Main Verb...?</code></p><h4>Examples:</h4><ul><li><strong>Using Auxiliary Verbs:</strong><em><ul><li><strong>Do</strong> you like coffee?</li><li><strong>Have</strong> you finished your homework?</li><li><strong>Is</strong> she your sister?</li></ul></em></li><li><strong>Using Modal Verbs:</strong><em><ul><li><strong>Can</strong> you help me with this?</li><li><strong>Should</strong> I bring my laptop?</li><li><strong>Will</strong> they arrive on time?</li></ul></em></li></ul>"
+      },
+      {
+        "_id": "en_theory_qf_choice",
+        "title": "Choice Questions",
+        "order": 3,
+        "contentHTML": "<p>Choice questions offer a choice between two or more options. They use the word 'or' to separate the choices.</p><p><strong>Examples:</strong></p><ul><li><em>Do you want tea <strong>or</strong> coffee?</em></li><li><em>Which do you like more, the book <strong>or</strong> the movie?</em></li></ul>"
+      },
+      {
+        "_id": "en_theory_qf_tag",
+        "title": "Tag Questions",
+        "order": 4,
+        "contentHTML": "<p>A tag question is a small question added to the end of a statement. We use them to confirm information or to encourage a reply.</p><p><strong>The Rule:</strong> If the main statement is positive, the tag is negative. If the main statement is negative, the tag is positive.</p><p><strong>Formula:</strong></p><p><code>Statement, auxiliary/modal verb (+ not) + pronoun?</code></p><h4>Examples:</h4><ul><li><strong>Positive Statement, Negative Tag:</strong><em><br>She is your sister, <strong>isn't she?</strong></em></li><li><strong>Negative Statement, Positive Tag:</strong><em><br>You don’t like tea, <strong>do you?</strong></em></li></ul>"
+      },
+      {
+        "_id": "en_theory_qf_negative",
+        "title": "Negative Questions",
+        "order": 5,
+        "contentHTML": "<p>Negative questions usually start with a negative form of an auxiliary or modal verb (e.g., Don't, Isn't, Can't). They are used to express surprise, or to check something you believe is true.</p><h4>Examples:</h4><ul><li><strong>Expressing Surprise:</strong><em><br><strong>Don't</strong> you like coffee? I thought everyone did!</em></li><li><strong>Confirming a Belief:</strong><em><br><strong>Didn't</strong> he tell you about the meeting? I'm sure he did.</em></li></ul>"
+      },
+      {
+        "_id": "en_theory_qf_indirect",
+        "title": "Indirect Questions",
+        "order": 6,
+        "contentHTML": "<p>Indirect questions are a more polite way to ask for information. They are often part of a longer sentence, starting with phrases like 'Could you tell me...' or 'I wonder...'.</p><p><strong>Important:</strong> The word order in the question part is like a normal statement (subject before verb), not an inverted question.</p><h4>Examples:</h4><ul><li><strong>Direct Question:</strong> Where <strong>is the</strong> station?</li><li><strong>Indirect Question:</strong> Could you tell me where the station <strong>is</strong>?</li><br><li><strong>Direct Question:</strong> What time <strong>does the</strong> bank open?</li><li><strong>Indirect Question:</strong> Do you know what time the bank <strong>opens</strong>?</li></ul>"
+      }
+    ],
+    "grammarQuestions": [
+      {
+        "_id": "en_q_qf_00001",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_qf_tag",
+        "prompt": "He works in the marketing department, ___?",
+        "answers": [
+          "doesn't he"
+        ],
+        "explanation": "The statement 'He works' is positive (Present Simple), so the tag question must be negative using the auxiliary verb 'do' -> 'doesn't he'."
+      },
+      {
+        "_id": "en_q_qf_00002",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_qf_indirect",
+        "prompt": "Select the grammatically correct sentence.",
+        "options": [
+          {
+            "_id": "opt1",
+            "text": "I'd like to know how much does this cost.",
+            "isCorrect": false
+          },
+          {
+            "_id": "opt2",
+            "text": "I'd like to know how much this costs.",
+            "isCorrect": true
+          },
+          {
+            "_id": "opt3",
+            "text": "I'd like to know how much this does cost.",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "In an indirect question, the word order is like a statement (subject + verb). The auxiliary 'does' is not needed, and the '-s' is added to the main verb 'cost'."
+      },
+      {
+        "_id": "en_q_qf_00003",
+        "qType": "multiple_choice_multiple",
+        "relatedTheoryId": "en_theory_qf_wh",
+        "prompt": "Which of these question words can be used to ask about time?",
+        "explanation": "'When' directly asks about a point in time. 'What time' is a common phrase to ask for a specific time on the clock.",
+        "options": [
+          {
+            "_id": "en_q_qf_003_a",
+            "text": "When",
+            "isCorrect": true
+          },
+          {
+            "_id": "en_q_qf_003_b",
+            "text": "Where",
+            "isCorrect": false
+          },
+          {
+            "_id": "en_q_qf_003_c",
+            "text": "What time",
+            "isCorrect": true
+          },
+          {
+            "_id": "en_q_qf_003_d",
+            "text": "Why",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  "isActive": true
+}

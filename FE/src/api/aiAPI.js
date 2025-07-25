@@ -1,5 +1,5 @@
 // src/api/aiAPI.js
-const API_URL = 'http://localhost:5000/api/ai/check';
+import { apiService } from './apiService';
 
 /**
  * Hàm chung để gửi yêu cầu kiểm tra tới AI thông qua backend.
@@ -8,28 +8,16 @@ const API_URL = 'http://localhost:5000/api/ai/check';
  * @returns {Promise<object>}
  */
 async function performAICheck(checkType, payload) {
-    const token = localStorage.getItem('token');
-    if (!token) {
-        return { error: "Lỗi xác thực: Người dùng chưa đăng nhập." };
-    }
-
     try {
-        const response = await fetch(API_URL, {
+        // Dùng apiService đã có sẵn token và base URL
+        const data = await apiService('/ai/check', {
             method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'Authorization': `Bearer ${token}`
-            },
             body: JSON.stringify({ checkType, payload }),
         });
-
-        const data = await response.json();
-        if (!response.ok) {
-            return { error: data.message || 'Có lỗi xảy ra từ máy chủ.' };
-        }
         return data;
     } catch (error) {
-        return { error: `Lỗi mạng: ${error.message}` };
+        // apiService đã ném lỗi, ta chỉ cần bắt và trả về định dạng mong muốn
+        return { error: error.message || 'An error occurred during the AI check.' };
     }
 }
 

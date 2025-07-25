@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const API_KEY = 'AIzaSyDnl1UW4FfUyq_OuGHJw6GgW1KvutmLImA'; // Thay bằng key của bạn
+const API_KEY = 'AIzaSyDnl1UW4FfUyq_OuGHJw6GgW1KvutmLImA';
 const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 const prompt = "Explain how AI works in a few words.";

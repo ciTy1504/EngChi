@@ -1,0 +1,192 @@
+{
+  "title": "Sentence Structures",
+  "description": "Learn to build complete and complex sentences using comparisons, conditionals, passive voice, and clauses.",
+  "language": "en",
+  "type": "grammar",
+  "order": 3,
+  "level": "Sentence Structures",
+  "content": {
+    "grammarTheory": [
+      {
+        "_id": "en_theory_comparisons",
+        "title": "Comparisons",
+        "order": 1,
+        "children": [
+          {
+            "_id": "en_theory_comp_equality",
+            "title": "Comparison of Equality",
+            "order": 1,
+            "contentHTML": "<p>Used to show that two people or things are the same in a particular way.</p><p><strong>Formula:</strong></p><p><code>S + V + as + adjective/adverb + as + noun/pronoun</code></p><p><em>Example: She is <strong>as tall as</strong> her brother.</em></p>"
+          },
+          {
+            "_id": "en_theory_comp_comparative",
+            "title": "Comparative",
+            "order": 2,
+            "contentHTML": "<p>Used to compare differences between two people or things.</p><h4>For short adjectives/adverbs (1-2 syllables):</h4><p><strong>Formula:</strong></p><p><code>S + V + adj/adv + -er + than + noun/pronoun</code></p><p><em>Example: He runs <strong>faster than</strong> me.</em></p><h4>For long adjectives/adverbs (2+ syllables):</h4><p><strong>Formula:</strong></p><p><code>S + V + more + adj/adv + than + noun/pronoun</code></p><p><em>Example: This book is <strong>more interesting than</strong> the last one.</em></p>"
+          },
+          {
+            "_id": "en_theory_comp_superlative",
+            "title": "Superlative",
+            "order": 3,
+            "contentHTML": "<p>Used to describe something which is at the upper or lower limit of a quality (the tallest, the smallest, etc.). It's used in comparisons of three or more things.</p><h4>For short adjectives/adverbs:</h4><p><strong>Formula:</strong></p><p><code>S + V + the + adj/adv + -est</code></p><p><em>Example: Mount Everest is <strong>the highest</strong> mountain in the world.</em></p><h4>For long adjectives/adverbs:</h4><p><strong>Formula:</strong></p><p><code>S + V + the + most + adj/adv</code></p><p><em>Example: She is <strong>the most intelligent</strong> student in the class.</em></p>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_conditionals",
+        "title": "Conditional Sentences",
+        "order": 2,
+        "children": [
+          {
+            "_id": "en_theory_cond_type0",
+            "title": "Type 0 Conditional",
+            "order": 1,
+            "contentHTML": "<p>Used for general truths, scientific facts, or things that always happen under certain conditions.</p><p><strong>Formula:</strong></p><p><code>If + Present Simple, ... Present Simple</code></p><p><em>Example: If you <strong>heat</strong> ice, it <strong>melts</strong>.</em></p>"
+          },
+          {
+            "_id": "en_theory_cond_type1",
+            "title": "Type 1 Conditional",
+            "order": 2,
+            "contentHTML": "<p>Used to talk about a realistic situation in the present or future.</p><p><strong>Formula:</strong></p><p><code>If + Present Simple, ... will + base verb</code></p><p><em>Example: If it <strong>rains</strong> tomorrow, we <strong>will stay</strong> home.</em></p>"
+          },
+          {
+            "_id": "en_theory_cond_type2",
+            "title": "Type 2 Conditional",
+            "order": 3,
+            "contentHTML": "<p>Used for hypothetical or unlikely situations in the present or future. It's often used for giving advice.</p><p><strong>Formula:</strong></p><p><code>If + Past Simple, ... would + base verb</code></p><p><em>Example: If I <strong>won</strong> the lottery, I <strong>would buy</strong> a big house.</em></p><p><em>Note: For the verb 'to be', 'were' is traditionally used for all subjects. (e.g., If I <strong>were</strong> you...)</em></p>"
+          },
+          {
+            "_id": "en_theory_cond_type3",
+            "title": "Type 3 Conditional",
+            "order": 4,
+            "contentHTML": "<p>Used to talk about an unreal situation in the past and its hypothetical result in the past.</p><p><strong>Formula:</strong></p><p><code>If + Past Perfect (had + p.p), ... would have + p.p</code></p><p><em>Example: If she <strong>had studied</strong> harder, she <strong>would have passed</strong> the exam.</em></p>"
+          },
+          {
+            "_id": "en_theory_cond_mixed",
+            "title": "Mixed Conditional",
+            "order": 5,
+            "contentHTML": "<p>Combines two different types of conditional sentences, usually Type 2 and Type 3. This is used when the time of the condition and the time of the result are different.</p><p><strong>Example (Unreal Past Condition -> Unreal Present Result):</strong></p><p><em>If I <strong>had taken</strong> that job (past), I <strong>would be</strong> rich now (present).</em></p>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_wish",
+        "title": "Wish Clauses",
+        "order": 3,
+        "contentHTML": "<p>'Wish' is used to express a desire for a situation that is not real. The verb tense changes depending on the time of the wish.</p><ul><li><strong>Wish for the Present/Future:</strong> To wish for a different present reality. (Use Past Simple)<br><code>S + wish + S + V-ed</code><br><em>Example: I <strong>wish</strong> I <strong>had</strong> more free time. (I don't have it now).</em></li><li><strong>Wish for the Future (about others):</strong> To express dissatisfaction or desire for someone else's behavior to change. (Use would/could)<br><code>S + wish + S + would/could + V</code><br><em>Example: I <strong>wish</strong> he <strong>would stop</strong> making that noise.</em></li><li><strong>Wish for the Past:</strong> To express regret about a past situation. (Use Past Perfect)<br><code>S + wish + S + had + p.p</code><br><em>Example: She <strong>wishes</strong> she <strong>had studied</strong> law instead. (She didn't study law).</em></li></ul>"
+      },
+      {
+        "_id": "en_theory_passive",
+        "title": "Passive Voice",
+        "order": 4,
+        "contentHTML": "<p>In the <strong>active voice</strong>, the subject performs the action. In the <strong>passive voice</strong>, the subject receives the action. The passive voice is used to focus on the action or the object of the action, rather than the doer.</p><p><strong>General Formula:</strong> <code>to be + past participle (V3/V-ed)</code></p><h4>Transformation Steps:</h4><ol><li>The object of the active sentence becomes the subject of the passive sentence.</li><li>The verb is changed into its passive form (to be + p.p) according to the original tense.</li><li>The subject of the active sentence becomes the agent (object) of the passive sentence, preceded by 'by'.</li></ol><h4>Example:</h4><ul><li><strong>Active:</strong> Shakespeare <strong>wrote</strong> 'Hamlet'.</li><li><strong>Passive:</strong> 'Hamlet' <strong>was written</strong> by Shakespeare.</li></ul><h4>Passive Questions:</h4><ul><li><strong>Active:</strong> Did she repair the bike?</li><li><strong>Passive:</strong> Was the bike repaired by her?</li></ul>"
+      },
+      {
+        "_id": "en_theory_moods",
+        "title": "Subjunctive and Imperative Moods",
+        "order": 5,
+        "children": [
+          {
+            "_id": "en_theory_subjunctive",
+            "title": "Subjunctive (Câu giả định)",
+            "order": 1,
+            "contentHTML": "<p>The subjunctive mood is used to express wishes, proposals, suggestions, or demands. It often uses the base form of the verb (e.g., 'be', 'do', 'go') even in the third person singular.</p><p>It is common after verbs like <em>suggest, recommend, ask, insist, demand</em>.</p><p><em>Example: The doctor recommended that he <strong>rest</strong> for a week. (not 'rests')</em></p>"
+          },
+          {
+            "_id": "en_theory_imperative",
+            "title": "Imperative (Câu mệnh lệnh)",
+            "order": 2,
+            "contentHTML": "<p>The imperative mood is used to give commands, requests, or instructions. The subject (you) is usually omitted, and the sentence starts with the base form of the verb.</p><ul><li><strong>Positive:</strong> <em><strong>Open</strong> the window!</em></li><li><strong>Negative:</strong> <em><strong>Don't touch</strong> that!</em></li></ul>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_reported_speech",
+        "title": "Reported Speech",
+        "order": 6,
+        "contentHTML": "<p><strong>Direct Speech</strong> quotes the exact words someone said. It is enclosed in quotation marks (\"\").</p><p><em>Example: She said, \"<strong>I am</strong> hungry.\"</em></p><p><strong>Reported (or Indirect) Speech</strong> retells what someone said without using their exact words. It often uses a reporting verb like 'said' or 'told', followed by 'that'.</p><p><em>Example: She said that <strong>she was</strong> hungry.</em></p><h4>Key Changes in Reported Speech:</h4><ul><li><strong>Backshifting Tenses:</strong> The verb tense usually moves one step back into the past (e.g., Present Simple -> Past Simple).</li><li><strong>Changing Pronouns:</strong> Pronouns are changed to reflect the new perspective (e.g., 'I' -> 'she').</li><li><strong>Changing Time/Place Adverbs:</strong> Words like 'today' might change to 'that day', 'here' to 'there', etc.</li></ul>"
+      },
+      {
+        "_id": "en_theory_clauses",
+        "title": "Clauses",
+        "order": 7,
+        "children": [
+          {
+            "_id": "en_theory_clauses_relative",
+            "title": "Relative Clauses",
+            "order": 1,
+            "contentHTML": "<p>A relative clause gives more information about a noun. It is introduced by a relative pronoun (who, whom, whose, which, that) or a relative adverb (where, when, why).</p><h4>Defining Relative Clauses</h4><p>Provide essential information to identify the noun. No commas are used.</p><p><em>Example: The woman <strong>who lives next door</strong> is a doctor. (The clause identifies which woman).</em></p><h4>Non-Defining Relative Clauses</h4><p>Provide extra, non-essential information about a noun that is already specific (e.g., a name). They must be separated by commas.</p><p><em>Example: My brother, <strong>who lives in London</strong>, is visiting next week. (The clause gives extra info about my specific brother).</em></p><h4>Reduced Relative Clauses</h4><p>The relative pronoun and the verb 'to be' can sometimes be omitted for a more concise sentence.</p><p><em>Example: The man <strong>(who is) talking to John</strong> is my uncle.</em></p>"
+          },
+          {
+            "_id": "en_theory_clauses_noun",
+            "title": "Noun Clauses",
+            "order": 2,
+            "contentHTML": "<p>A noun clause is a dependent clause that functions as a noun. It can be a subject, an object, or a complement in a sentence.</p><p>Noun clauses often begin with words like <em>that, what, who, which, when, where, why, how, if, whether</em>.</p><ul><li><strong>As a Subject:</strong> <em><strong>What she said</strong> surprised everyone.</em></li><li><strong>As an Object:</strong> <em>I don't know <strong>where he lives</strong>.</em></li></ul>"
+          }
+        ]
+      }
+    ],
+    "grammarQuestions": [
+      {
+        "_id": "en_q_sen_00001",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_comp_comparative",
+        "prompt": "This car is much ___ than my old one.",
+        "answers": [
+          "faster",
+          "more expensive"
+        ],
+        "explanation": "For comparative sentences, use the '-er' form for short adjectives (like 'fast') or 'more' for long adjectives (like 'expensive')."
+      },
+      {
+        "_id": "en_q_sen_00002",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_cond_type2",
+        "prompt": "If I ___ you, I would study harder for the test.",
+        "options": [
+          {
+            "_id": "opt1",
+            "text": "am",
+            "isCorrect": false
+          },
+          {
+            "_id": "opt2",
+            "text": "were",
+            "isCorrect": true
+          },
+          {
+            "_id": "opt3",
+            "text": "was",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "In conditional type 2 sentences, use the past subjunctive form 'were' for all subjects in the 'if' clause to express an unreal situation or give advice."
+      },
+      {
+        "_id": "en_q_sen_00003",
+        "qType": "multiple_choice_multiple",
+        "relatedTheoryId": "en_theory_clauses_relative",
+        "prompt": "Which sentences contain a non-defining relative clause (requiring commas)?",
+        "explanation": "Non-defining clauses provide extra, non-essential information about a specific noun (like a name or a unique item) and must be set off by commas.",
+        "options": [
+          {
+            "_id": "en_q_sen_003_a",
+            "text": "My brother, who lives in London, is a doctor.",
+            "isCorrect": true
+          },
+          {
+            "_id": "en_q_sen_003_b",
+            "text": "The man who stole the car was arrested.",
+            "isCorrect": false
+          },
+          {
+            "_id": "en_q_sen_003_c",
+            "text": "Paris, which is the capital of France, is beautiful.",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  "isActive": true
+}

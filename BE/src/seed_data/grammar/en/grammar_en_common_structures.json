@@ -1,0 +1,276 @@
+{
+  "title": "Common Structures",
+  "description": "Master common English patterns for expressing ideas, feelings, and relationships between concepts.",
+  "language": "en",
+  "type": "grammar",
+  "order": 5,
+  "level": "Common Structures",
+  "content": {
+    "grammarTheory": [
+      {
+        "_id": "en_theory_cs_preferences",
+        "title": "Expressing Preferences, Wants & Suggestions",
+        "order": 1,
+        "children": [
+          {
+            "_id": "en_theory_cs_pref_wouldlike",
+            "title": "Would you like...?",
+            "order": 1,
+            "contentHTML": "<h2>Would you like...?</h2><hr><p>Used to make polite offers and invitations.</p><ul><li><code>Would you like + to + Verb?</code><br><em>Example: <strong>Would you like to</strong> join us for dinner?</em></li><li><code>Would you like + Noun?</code><br><em>Example: <strong>Would you like</strong> some coffee?</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_pref_wouldrather",
+            "title": "Would rather",
+            "order": 2,
+            "contentHTML": "<h2>Would rather</h2><hr><p>Used to express a preference for one thing over another.</p><p><code>S + would rather + Verb (base) + (than + Verb (base))</code></p><p><em>Example: I <strong>would rather stay</strong> home than go to the movies.</em></p>"
+          },
+          {
+            "_id": "en_theory_cs_pref_prefer",
+            "title": "Prefer",
+            "order": 3,
+            "contentHTML": "<h2>Prefer</h2><hr><p>Used to state a general preference.</p><ul><li><code>S + prefer + Noun + to + Noun</code><br><em>Example: I <strong>prefer tea to</strong> coffee.</em></li><li><code>S + prefer + V-ing + to + V-ing</code><br><em>Example: She <strong>prefers reading to</strong> watching TV.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_pref_let",
+            "title": "Let / Let's",
+            "order": 4,
+            "contentHTML": "<h2>Let / Let's</h2><hr><ul><li><strong>Let's:</strong> Used to make a suggestion that includes the speaker.<br><code>Let's + Verb (base)</code><br><em>Example: <strong>Let's go</strong> to the beach.</em></li><li><strong>Let:</strong> Used to give permission.<br><code>Let + Object + Verb (base)</code><br><em>Example: My mom <strong>let me use</strong> her car.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_pref_suggest",
+            "title": "Suggest",
+            "order": 5,
+            "contentHTML": "<h2>Suggest</h2><hr><p>Used to propose an idea or plan.</p><ul><li><code>S + suggest + V-ing</code><br><em>Example: He <strong>suggested going</strong> for a walk.</em></li><li><code>S + suggest + (that) + S + Verb (base)</code> (Subjunctive)<br><em>Example: I <strong>suggest that you be</strong> on time.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_pref_hope",
+            "title": "Hope",
+            "order": 6,
+            "contentHTML": "<h2>Hope</h2><hr><p>Used to express a desire for something to happen.</p><p><code>S + hope + (that) + S + V (present/future)</code></p><p><em>Example: I <strong>hope</strong> you have a great trip.</em></p>"
+          },
+          {
+            "_id": "en_theory_cs_pref_advise",
+            "title": "Advise",
+            "order": 7,
+            "contentHTML": "<h2>Advise</h2><hr><p>Used to give advice or a recommendation.</p><p><code>S + advise + Object + to + Verb</code></p><p><em>Example: The doctor <strong>advised him to rest</strong>.</em></p>"
+          },
+          {
+            "_id": "en_theory_cs_pref_promise",
+            "title": "Promise",
+            "order": 8,
+            "contentHTML": "<h2>Promise</h2><hr><p>Used to make a commitment to do something.</p><p><code>S + promise + to + Verb</code></p><p><em>Example: She <strong>promised to call</strong> me later.</em></p>"
+          },
+          {
+            "_id": "en_theory_cs_pref_ask",
+            "title": "Ask",
+            "order": 9,
+            "contentHTML": "<h2>Ask</h2><hr><p>Used to make a request.</p><p><code>S + ask + Object + to + Verb</code></p><p><em>Example: I <strong>asked him to close</strong> the door.</em></p>"
+          },
+          {
+            "_id": "en_theory_cs_pref_hadbetter",
+            "title": "Had better",
+            "order": 10,
+            "contentHTML": "<h2>Had better</h2><hr><p>Used to give strong advice, often implying a negative consequence if the advice is not followed.</p><p><code>S + had better + Verb (base)</code></p><p><em>Example: You <strong>had better finish</strong> your work or the boss will be angry.</em></p>"
+          },
+          {
+            "_id": "en_theory_cs_pref_need",
+            "title": "Need",
+            "order": 11,
+            "contentHTML": "<h2>Need</h2><hr><p>Used to express necessity.</p><ul><li><strong>Active:</strong> <code>S + need + to + Verb</code><br><em>Example: I <strong>need to buy</strong> groceries.</em></li><li><strong>Passive Meaning:</strong> <code>S + need + V-ing</code><br><em>Example: The car <strong>needs washing</strong>. (= The car needs to be washed.)</em></li></ul>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_cs_feelings",
+        "title": "Describing Feelings, Attitudes & Behaviors",
+        "order": 2,
+        "children": [
+          {
+            "_id": "en_theory_cs_feel_verblist",
+            "title": "Verbs followed by Gerund (V-ing)",
+            "order": 1,
+            "contentHTML": "<h2>Verbs followed by Gerund (V-ing)</h2><hr><p>Many verbs describing likes, dislikes, and attitudes are followed by a gerund.</p><ul><li><strong>enjoy:</strong> <em>I <strong>enjoy reading</strong> books.</em></li><li><strong>avoid:</strong> <em>You should <strong>avoid eating</strong> junk food.</em></li><li><strong>mind:</strong> <em>Would you <strong>mind opening</strong> the window?</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_feel_refuse",
+            "title": "Refuse",
+            "order": 2,
+            "contentHTML": "<h2>Refuse</h2><hr><p>Used to say you will not do something. It is followed by an infinitive (to + Verb).</p><p><code>S + refuse + to + Verb</code></p><p><em>Example: The child <strong>refused to eat</strong> his vegetables.</em></p>"
+          },
+          {
+            "_id": "en_theory_cs_feel_regret",
+            "title": "Regret",
+            "order": 3,
+            "contentHTML": "<h2>Regret</h2><hr><p>The meaning changes depending on what follows.</p><ul><li><code>regret + V-ing</code> (to be sorry about something you did in the past)<br><em>Example: I <strong>regret telling</strong> her my secret.</em></li><li><code>regret + to + Verb</code> (to be sorry to give bad news)<br><em>Example: We <strong>regret to inform</strong> you that your application was unsuccessful.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_feel_stop",
+            "title": "Stop",
+            "order": 4,
+            "contentHTML": "<h2>Stop</h2><hr><p>The meaning changes depending on what follows.</p><ul><li><code>stop + V-ing</code> (to quit an action)<br><em>Example: He <strong>stopped smoking</strong> last year.</em></li><li><code>stop + to + Verb</code> (to pause an activity in order to do something else)<br><em>Example: We <strong>stopped to get</strong> some coffee on our way.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_feel_findit",
+            "title": "find it + adjective + to V",
+            "order": 5,
+            "contentHTML": "<h2>find it + adjective + to V</h2><hr><p>Used to express an opinion about an action.</p><p><code>S + find + it + adjective + to + Verb</code></p><p><em>Example: I <strong>find it difficult to understand</strong> this topic.</em></p>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_cs_logic",
+        "title": "Logical Connectors (Cause, Result, Contrast)",
+        "order": 3,
+        "children": [
+          {
+            "_id": "en_theory_cs_logic_contrast",
+            "title": "Although / Despite / In spite of",
+            "order": 1,
+            "contentHTML": "<h2>Although / Despite / In spite of</h2><hr><p>Used to show contrast.</p><ul><li><code>Although + Clause (S + V)</code><br><em>Example: <strong>Although</strong> it was raining, we went for a walk.</em></li><li><code>Despite / In spite of + Noun / V-ing</code><br><em>Example: <strong>Despite</strong> the rain, we went for a walk.<br>Example: <strong>In spite of</strong> feeling tired, he finished the race.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_logic_because",
+            "title": "Because / Because of",
+            "order": 2,
+            "contentHTML": "<h2>Because / Because of</h2><hr><p>Used to show a reason or cause.</p><ul><li><code>Because + Clause (S + V)</code><br><em>Example: He was late <strong>because</strong> there was heavy traffic.</em></li><li><code>Because of + Noun / V-ing</code><br><em>Example: He was late <strong>because of</strong> the heavy traffic.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_logic_sotuchtoo",
+            "title": "So / Such / Too",
+            "order": 3,
+            "contentHTML": "<h2>So / Such / Too (Result & Degree)</h2><hr><ul><li><code>so + adj/adv + that + Clause</code><br><em>Example: It was <strong>so cold that</strong> we stayed inside.</em></li><li><code>such + (a/an) + adj + Noun + that + Clause</code><br><em>Example: It was <strong>such a cold day that</strong> we stayed inside.</em></li><li><code>too + adj/adv + (for someone) + to + Verb</code><br><em>Example: The coffee is <strong>too hot to drink</strong>.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_logic_notonly",
+            "title": "Not only ... but also",
+            "order": 4,
+            "contentHTML": "<h2>Not only ... but also</h2><hr><p>A correlative conjunction used to emphasize two related pieces of information.</p><p><em>Example: She is <strong>not only</strong> intelligent <strong>but also</strong> very kind.</em></p>"
+          },
+          {
+            "_id": "en_theory_cs_logic_aswellas",
+            "title": "As well as",
+            "order": 5,
+            "contentHTML": "<h2>As well as</h2><hr><p>Means 'in addition to'.</p><p><code>Noun/V-ing + as well as + Noun/V-ing</code></p><p><em>Example: He plays the guitar <strong>as well as</strong> the piano.<br>Example: She is good at singing <strong>as well as</strong> dancing.</em></p>"
+          },
+          {
+            "_id": "en_theory_cs_logic_notuntil",
+            "title": "It was not until ... that",
+            "order": 6,
+            "contentHTML": "<h2>It was not until ... that</h2><hr><p>An emphatic structure used to highlight when something happened.</p><p><code>It was not until + time/event + that + S + V (past simple)</code></p><p><em>Example: <strong>It was not until</strong> I got home <strong>that</strong> I realized I had lost my keys.</em></p>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_cs_time",
+        "title": "Time, Condition & Frequency",
+        "order": 4,
+        "children": [
+          {
+            "_id": "en_theory_cs_time_conjunctions",
+            "title": "When / While / After",
+            "order": 1,
+            "contentHTML": "<h2>Time Conjunctions: When / While / After</h2><hr><ul><li><strong>When:</strong> Refers to a specific point in time. <em>(Call me <strong>when</strong> you arrive.)</em></li><li><strong>While:</strong> Refers to a duration of time. <em>(He read a book <strong>while</strong> he was waiting.)</em></li><li><strong>After:</strong> Refers to a sequence of events. <em>(We'll talk <strong>after</strong> I finish my work.)</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_time_usedto",
+            "title": "Used to / Be used to",
+            "order": 2,
+            "contentHTML": "<h2>Used to / Be used to</h2><hr><ul><li><code>used to + Verb (base)</code> (a past habit that is no longer true)<br><em>Example: I <strong>used to play</strong> basketball in high school.</em></li><li><code>be used to + V-ing</code> (to be accustomed to something)<br><em>Example: I <strong>am used to waking</strong> up early.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_time_remember",
+            "title": "Remember",
+            "order": 3,
+            "contentHTML": "<h2>Remember</h2><hr><p>The meaning changes depending on what follows.</p><ul><li><code>remember + V-ing</code> (to recall a memory from the past)<br><em>Example: I <strong>remember meeting</strong> him for the first time.</em></li><li><code>remember + to + Verb</code> (to not forget to do something)<br><em>Example: Please <strong>remember to lock</strong> the door.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_time_unless",
+            "title": "Unless",
+            "order": 4,
+            "contentHTML": "<h2>Unless</h2><hr><p>A conditional conjunction that means 'if...not'.</p><p><code>Unless + Clause (present) , ... Clause (future)</code></p><p><em>Example: You will fail the test <strong>unless</strong> you study. (= ...if you don't study.)</em></p>"
+          }
+        ]
+      },
+      {
+        "_id": "en_theory_cs_special",
+        "title": "Other Common Patterns",
+        "order": 5,
+        "children": [
+          {
+            "_id": "en_theory_cs_special_enough",
+            "title": "Enough",
+            "order": 1,
+            "contentHTML": "<h2>Enough</h2><hr><p>Used to indicate sufficiency.</p><ul><li><code>adjective/adverb + enough + (for someone) + to + Verb</code><br><em>Example: He is not old <strong>enough to</strong> vote.</em></li><li><code>enough + Noun + (for someone) + to + Verb</code><br><em>Example: We don't have <strong>enough money to</strong> buy a car.</em></li></ul>"
+          },
+          {
+            "_id": "en_theory_cs_special_impersonal",
+            "title": "Impersonal 'It' Structures",
+            "order": 2,
+            "contentHTML": "<h2>Impersonal 'It' Structures</h2><hr><p>The pronoun 'it' can be used as an impersonal subject to make general statements or comments, especially about actions.</p><p><code>It + be + adjective + (for someone) + to + Verb</code></p><p><em>Example: <strong>It is difficult to</strong> learn a new language.<br>Example: <strong>It's important for you to</strong> be on time.</em></p>"
+          }
+        ]
+      }
+    ],
+    "grammarQuestions": [
+      {
+        "_id": "en_q_cs_00001",
+        "qType": "fill_in_blank",
+        "relatedTheoryId": "en_theory_cs_pref_hadbetter",
+        "prompt": "It's getting late. You ___ go now or you'll miss the last bus.",
+        "answers": [
+          "had better"
+        ],
+        "explanation": "'Had better' is a fixed structure used for strong advice or a warning about negative consequences."
+      },
+      {
+        "_id": "en_q_cs_00002",
+        "qType": "multiple_choice_single",
+        "relatedTheoryId": "en_theory_cs_feel_stop",
+        "prompt": "He stopped ___ a cigarette because he was feeling tired.",
+        "options": [
+          {
+            "_id": "opt1",
+            "text": "smoking",
+            "isCorrect": false
+          },
+          {
+            "_id": "opt2",
+            "text": "to smoke",
+            "isCorrect": true
+          }
+        ],
+        "explanation": "'stop to smoke' means he paused his current activity in order to have a cigarette. 'stop smoking' means to quit the habit."
+      },
+      {
+        "_id": "en_q_cs_00003",
+        "qType": "multiple_choice_multiple",
+        "relatedTheoryId": "en_theory_cs_logic_contrast",
+        "prompt": "Which of these words/phrases must be followed by a noun or a gerund (V-ing)?",
+        "explanation": "'Despite' and 'in spite of' are prepositions and must be followed by a noun phrase or gerund. 'Although' and 'because' are conjunctions that introduce a full clause (Subject + Verb).",
+        "options": [
+          {
+            "_id": "en_q_cs_003_a",
+            "text": "although",
+            "isCorrect": false
+          },
+          {
+            "_id": "en_q_cs_003_b",
+            "text": "despite",
+            "isCorrect": true
+          },
+          {
+            "_id": "en_q_cs_003_c",
+            "text": "in spite of",
+            "isCorrect": true
+          },
+          {
+            "_id": "en_q_cs_003_d",
+            "text": "because",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  "isActive": true
+}

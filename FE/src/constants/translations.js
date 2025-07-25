@@ -35,6 +35,8 @@ export const translations = {
     level_selection_subtitle: 'Choose a level to start learning vocabulary.',
     level_selection_title: 'Select Your Level',
     loading_levels: 'Loading levels...',
+    review_mode_title: 'Review Mode',
+    review_mode_subtitle: '{count} words waiting',
 
     // Translate Feature
     back_to_level_selection: 'Back to Level Selection',
@@ -152,6 +154,8 @@ export const translations = {
     level_selection_subtitle: '请选择一个级别开始学习词汇。',
     level_selection_title: '选择你的等级',
     loading_levels: '正在加载等级...',
+    review_mode_title: '复习模式',
+    review_mode_subtitle: '{count} 个单词等待复习',
 
     // Translate Feature
     back_to_level_selection: '返回等级选择',

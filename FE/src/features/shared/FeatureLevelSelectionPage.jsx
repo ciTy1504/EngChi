@@ -7,15 +7,19 @@ import { apiService } from '../../api/apiService';
 import FeaturePageLayout from './FeaturePageLayout';
 
 // Component Nút Ôn tập
-const ReviewModeButton = ({ count, lang }) => (
-    <Link
-        to={`/${lang}/vocab/review`}
-        className="group block bg-gradient-to-r from-purple-500 to-indigo-600 p-6 rounded-lg shadow-lg hover:shadow-2xl hover:-translate-y-1.5 transition-all duration-300 text-center text-white"
-    >
-        <h3 className="text-xl font-bold">Ôn tập</h3>
-        <p className="mt-1 font-semibold">{count} từ đang chờ</p>
-    </Link>
-);
+const ReviewModeButton = ({ count, lang }) => {
+    const t = useTranslations();
+    return (
+        <Link
+            to={`/${lang}/vocab/review`}
+            className="group block bg-gradient-to-r from-purple-500 to-indigo-600 p-6 rounded-lg shadow-lg hover:shadow-2xl hover:-translate-y-1.5 transition-all duration-300 text-center text-white"
+        >
+            <h3 className="text-xl font-bold">{t.review_mode_title}</h3>
+            <p className="mt-1 font-semibold">{t.review_mode_subtitle.replace('{count}', count)}</p>
+        </Link>
+    );
+};
+
 
 // Component Nút chuyển chế độ dịch
 const TranslationModeToggle = ({ mode, onModeChange }) => {
@@ -73,7 +77,7 @@ const FeatureLevelSelectionPage = ({ featureType, featurePath, pageTitleKey, pag
         if (featureType === 'vocab') {
             const fetchReviewCount = async () => {
                 try {
-                    const res = await apiService('/vocab/review-count');
+                    const res = await apiService(`/vocab/review-count?language=${language}`);
                     setReviewCount(res.data.count);
                 } catch (err) {
                     console.error("Failed to fetch review count:", err);
@@ -97,7 +101,6 @@ const FeatureLevelSelectionPage = ({ featureType, featurePath, pageTitleKey, pag
             )}
             
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
-                {/* SỬA LỖI: Đưa nút Review ra ngoài vòng lặp */}
                 {featureType === 'vocab' && reviewCount > 0 && (
                     <ReviewModeButton count={reviewCount} lang={language} />
                 )}

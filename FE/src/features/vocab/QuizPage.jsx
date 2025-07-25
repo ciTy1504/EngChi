@@ -41,7 +41,7 @@ const QuizPage = ({ isReviewMode = false }) => {
                 let quizData = [];
                 if (isReviewMode) {
                     setPageTitle("Chế độ ôn tập");
-                    const response = await apiService('/vocab/review-words');
+                    const response = await apiService(`/vocab/review-words?language=${language}`);
                     quizData = response.data;
                     setMasterLesson(null);
                     setProgressId(null);

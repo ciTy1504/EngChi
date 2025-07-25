@@ -19,21 +19,48 @@ const connectDB = async () => {
     }
 };
 
+/**
+ * Hàm đệ quy để lấy tất cả các đường dẫn file .json trong một thư mục và các thư mục con của nó.
+ * @param {string} dirPath - Đường dẫn thư mục để quét.
+ * @param {string[]} [arrayOfFiles=[]] - Mảng tích lũy các file tìm thấy (dùng cho đệ quy).
+ * @returns {string[]} - Mảng chứa đường dẫn đầy đủ của tất cả các file .json.
+ */
+const getAllJsonFiles = (dirPath, arrayOfFiles = []) => {
+    const files = fs.readdirSync(dirPath);
+
+    files.forEach(file => {
+        const fullPath = path.join(dirPath, file);
+        if (fs.statSync(fullPath).isDirectory()) {
+            // Nếu là thư mục, gọi đệ quy để vào trong
+            getAllJsonFiles(fullPath, arrayOfFiles);
+        } else if (file.endsWith('.json')) {
+            // Nếu là file .json, thêm đường dẫn đầy đủ vào mảng
+            arrayOfFiles.push(fullPath);
+        }
+    });
+
+    return arrayOfFiles;
+};
+
 const seedDatabase = async () => {
     try {
         const dataDir = path.join(__dirname, '..', 'seed_data');
-        const files = fs.readdirSync(dataDir).filter(file => file.endsWith('.json'));
+        
+        // Sử dụng hàm mới để lấy tất cả các file JSON, kể cả trong thư mục con
+        const filePaths = getAllJsonFiles(dataDir);
 
-        if (files.length === 0) {
-            console.log('No JSON files found in seed_data directory. Exiting.');
+        if (filePaths.length === 0) {
+            console.log('No JSON files found in seed_data directory and its subdirectories. Exiting.');
             return;
         }
 
-        console.log(`Found ${files.length} lesson files to process.`);
+        console.log(`Found ${filePaths.length} lesson files to process.`);
 
-        for (const file of files) {
-            const filePath = path.join(dataDir, file);
-            console.log(`🔍 Reading file: ${file}`);
+        for (const filePath of filePaths) {
+            // Lấy tên file để log cho gọn gàng
+            const fileName = path.basename(filePath);
+            console.log(`🔍 Reading file: ${fileName}`);
+            
             const lessonData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
             const uniqueKey = {
@@ -71,6 +98,5 @@ const run = async () => {
 };
 
 run();
-
 
 // node src/utils/seed.js

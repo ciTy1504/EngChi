@@ -5,7 +5,8 @@ import { LanguageContext } from '../../contexts/LanguageContext';
 import { useTranslations } from '../../hooks/useTranslations';
 import { apiService } from '../../api/apiService';
 import BackButton from '../../components/shared/BackButton';
-import QuestionRenderer from '../reading/components/QuestionRenderer'; // Tái sử dụng
+// THAY ĐỔI: Import QuestionRenderer từ vị trí mới
+import QuestionRenderer from './components/QuestionRenderer'; 
 import { toast } from 'react-hot-toast';
 
 const GrammarQuizPage = () => {
@@ -16,9 +17,9 @@ const GrammarQuizPage = () => {
     const [questions, setQuestions] = useState([]);
     const [topicTitle, setTopicTitle] = useState('');
     const [userAnswers, setUserAnswers] = useState({});
-    const [results, setResults] = useState(null); // State để lưu kết quả sau khi chấm
+    const [results, setResults] = useState(null);
     const [isLoading, setIsLoading] = useState(true);
-    const [isSubmitting, setIsSubmitting] = useState(false); // State để vô hiệu hóa nút khi đang chấm
+    const [isSubmitting, setIsSubmitting] = useState(false);
     const [error, setError] = useState(null);
 
     useEffect(() => {
@@ -26,9 +27,18 @@ const GrammarQuizPage = () => {
             setIsLoading(true);
             setError(null);
             try {
+                // Giả sử API trả về câu hỏi cho một chủ đề cụ thể
+                // Ví dụ: /lessons/grammar/parts-of-speech/quiz
+                // Trong thực tế, bạn sẽ cần một endpoint để lấy câu hỏi theo ID hoặc slug
                 const response = await apiService(`/lessons/${lessonId}/quiz-questions`);
                 setQuestions(response.data.questions);
                 setTopicTitle(response.data.topicTitle);
+                // Khởi tạo userAnswers
+                const initialAnswers = {};
+                response.data.questions.forEach(q => {
+                    initialAnswers[q._id] = q.qType === 'multiple_choice_multiple' ? [] : undefined;
+                });
+                setUserAnswers(initialAnswers);
             } catch (err) {
                 setError(err.message);
             } finally {
@@ -42,7 +52,6 @@ const GrammarQuizPage = () => {
         setUserAnswers(prev => ({ ...prev, [questionId]: answer }));
     };
 
-    // --- LOGIC MỚI: XỬ LÝ VIỆC CHẤM BÀI ---
     const handleSubmit = () => {
         setIsSubmitting(true);
         
@@ -68,7 +77,6 @@ const GrammarQuizPage = () => {
                     break;
                 }
                 case 'fill_in_blank': {
-                    // Chuyển cả đáp án và câu trả lời về chữ thường, bỏ khoảng trắng để so sánh
                     const correctAnswers = q.answers.map(a => a.toLowerCase().trim());
                     isCorrect = correctAnswers.includes((userAnswer || '').toLowerCase().trim());
                     correctAnswerText = q.answers.join(' / ');
@@ -78,23 +86,25 @@ const GrammarQuizPage = () => {
                     break;
             }
 
-            // Kết quả cho mỗi câu hỏi sẽ bao gồm: đúng/sai và đáp án đúng.
-            // Component QuestionRenderer sẽ tự dùng 'explanation' từ data gốc nếu có.
             newResults[questionIdStr] = { isCorrect, correctAnswer: correctAnswerText };
         });
 
         setResults(newResults);
         setIsSubmitting(false);
-        toast.success("Answers submitted!");
+        toast.success(t.answers_submitted);
         
-        // Cuộn lên đầu trang để người dùng thấy kết quả câu đầu tiên
         window.scrollTo({ top: 0, behavior: 'smooth' });
     };
 
     if (isLoading) return <div className="text-center p-10">{t.loading}</div>;
     if (error) return <div className="text-center p-10 text-red-500">{t.error_prefix}: {error}</div>;
 
-    const allQuestionsAnswered = questions.every(q => userAnswers[q._id] !== undefined && userAnswers[q._id] !== '' && userAnswers[q._id]?.length !== 0);
+    const allQuestionsAnswered = questions.every(q => {
+        const answer = userAnswers[q._id];
+        if (answer === undefined || answer === null) return false;
+        if (Array.isArray(answer)) return answer.length > 0;
+        return String(answer).trim() !== '';
+    });
 
     return (
         <div className="max-w-4xl mx-auto p-4 md:p-8">
@@ -111,14 +121,13 @@ const GrammarQuizPage = () => {
                         index={index}
                         userAnswer={userAnswers[q._id]}
                         onAnswerChange={handleAnswerChange}
-                        isSubmitted={!!results} // Trạng thái đã nộp bài
+                        isSubmitted={!!results}
                         result={results ? results[q._id] : null} 
                         showTheoryLinkOnWrong={true}
                     />
                 ))}
             </div>
             <div className="mt-8 text-center">
-                {/* Chỉ hiển thị nút Submit khi chưa có kết quả */}
                 {!results && (
                     <button
                         onClick={handleSubmit}

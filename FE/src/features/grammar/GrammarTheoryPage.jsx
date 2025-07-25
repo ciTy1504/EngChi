@@ -7,12 +7,9 @@ import { LanguageContext } from '../../contexts/LanguageContext';
 import { useTranslations } from '../../hooks/useTranslations';
 import BackButton from '../../components/shared/BackButton';
 
-
-// --- COMPONENT ĐỆ QUY ĐÃ SỬA LỖI TRUYỀN PROPS ---
 const TheoryNavItem = ({ item, onSelect, selectedTheoryId, onToggle, openItems, level = 0 }) => {
     const hasChildren = item.children && item.children.length > 0;
     const isSelected = !hasChildren && selectedTheoryId === item._id;
-    // Lấy trạng thái open của chính item này từ object openItems
     const isOpen = hasChildren && !!openItems[item._id];
 
     return (
@@ -33,7 +30,7 @@ const TheoryNavItem = ({ item, onSelect, selectedTheoryId, onToggle, openItems, 
                 )}
             </button>
             <AnimatePresence>
-                {isOpen && ( // Dùng isOpen đã tính toán ở trên
+                {isOpen && (
                     <motion.div
                         initial={{ height: 0, opacity: 0 }}
                         animate={{ height: 'auto', opacity: 1 }}
@@ -50,7 +47,6 @@ const TheoryNavItem = ({ item, onSelect, selectedTheoryId, onToggle, openItems, 
                                         onSelect={onSelect}
                                         selectedTheoryId={selectedTheoryId}
                                         level={level + 1}
-                                        // SỬA LỖI: Truyền onToggle và openItems xuống cho con
                                         onToggle={onToggle}
                                         openItems={openItems}
                                     />
@@ -63,18 +59,30 @@ const TheoryNavItem = ({ item, onSelect, selectedTheoryId, onToggle, openItems, 
     );
 };
 
-// Component Navigator được cập nhật
-const TheoryNavigator = ({ lessons, onSelect, selectedTheoryId, openItems, onToggle }) => {
-    if (!lessons || lessons.length === 0) return <p className="p-4 text-gray-500">No theory topics available.</p>;
+const LessonCategoryItem = ({ lesson, onSelect, selectedTheoryId, onToggle, openItems }) => {
+    const isOpen = !!openItems[lesson._id];
 
     return (
-        <nav className="p-2 bg-white rounded-lg shadow-md h-full overflow-y-auto">
-             <ul className="space-y-2">
-                {lessons.map(lesson => (
-                    <li key={lesson._id}>
-                        <h3 className="font-bold text-xl text-gray-800 p-2">{lesson.title}</h3>
+        <li>
+            <button
+                onClick={() => onToggle(lesson._id)}
+                className="flex items-center justify-between w-full text-left p-2 rounded-md transition-colors font-bold text-xl text-gray-800 hover:bg-gray-100"
+            >
+                <span>{lesson.title}</span>
+                <motion.span animate={{ rotate: isOpen ? 180 : 0 }} transition={{ duration: 0.2 }}>
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" /></svg>
+                </motion.span>
+            </button>
+            <AnimatePresence>
+                {isOpen && (
+                    <motion.div
+                        initial={{ height: 0, opacity: 0 }}
+                        animate={{ height: 'auto', opacity: 1 }}
+                        exit={{ height: 0, opacity: 0 }}
+                        className="overflow-hidden"
+                    >
                         <ul className="space-y-1 mt-1 border-t pt-2">
-                             {lesson.content.grammarTheory
+                            {lesson.content.grammarTheory
                                 ?.sort((a, b) => a.order - b.order)
                                 .map(item => (
                                     <TheoryNavItem
@@ -82,19 +90,41 @@ const TheoryNavigator = ({ lessons, onSelect, selectedTheoryId, openItems, onTog
                                         item={item}
                                         onSelect={onSelect}
                                         selectedTheoryId={selectedTheoryId}
-                                        onToggle={onToggle} // Truyền thẳng hàm onToggle xuống
-                                        openItems={openItems} // Truyền cả object openItems
+                                        onToggle={onToggle}
+                                        openItems={openItems}
                                     />
                                 ))}
                         </ul>
-                    </li>
+                    </motion.div>
+                )}
+            </AnimatePresence>
+        </li>
+    );
+};
+
+
+const TheoryNavigator = ({ lessons, onSelect, selectedTheoryId, openItems, onToggle }) => {
+    if (!lessons || lessons.length === 0) return <p className="p-4 text-gray-500">No theory topics available.</p>;
+
+    return (
+        <nav className="p-2 bg-white rounded-lg shadow-md h-full overflow-y-auto">
+             <ul className="space-y-2">
+                {lessons.map(lesson => (
+                    <LessonCategoryItem 
+                        key={lesson._id}
+                        lesson={lesson}
+                        onSelect={onSelect}
+                        selectedTheoryId={selectedTheoryId}
+                        onToggle={onToggle}
+                        openItems={openItems}
+                    />
                 ))}
             </ul>
         </nav>
     );
 };
 
-// TheoryViewer, findTheoryAndParents, và findFirstLeaf giữ nguyên
+
 const TheoryViewer = ({ item, viewerRef }) => {
     const t = useTranslations();
     return (
@@ -126,7 +156,6 @@ const findFirstLeaf = (items) => {
 };
 
 
-// Component chính được cập nhật để quản lý state đóng/mở
 const GrammarTheoryPage = () => {
     const { language } = useContext(LanguageContext);
     const t = useTranslations();
@@ -146,28 +175,44 @@ const GrammarTheoryPage = () => {
                 const response = await apiService(`/lessons/grammar/library?language=${language}`);
                 const fetchedLessons = response.data;
                 setLessons(fetchedLessons);
+
                 const focusId = searchParams.get('focus');
                 if (focusId) {
                     let foundResult = { foundItem: null, parentIds: [] };
+                    let parentLessonId = null;
+
                     for (const lesson of fetchedLessons) {
                         const result = findTheoryAndParents(lesson.content.grammarTheory || [], focusId);
                         if (result.foundItem) {
                             foundResult = result;
+                            parentLessonId = lesson._id;
                             break;
                         }
                     }
+
                     if (foundResult.foundItem) {
                         setSelectedTheory(foundResult.foundItem);
                         const newOpenItems = {};
                         foundResult.parentIds.forEach(id => { newOpenItems[id] = true; });
+                        if (parentLessonId) {
+                            newOpenItems[parentLessonId] = true;
+                        }
                         setOpenItems(newOpenItems);
+                        setIsLoading(false); 
                         return;
                     }
                 }
-                if (fetchedLessons?.[0]?.content?.grammarTheory) {
-                    const firstItemToShow = findFirstLeaf(fetchedLessons[0].content.grammarTheory.sort((a,b) => a.order - b.order));
-                    setSelectedTheory(firstItemToShow);
+                
+                if (fetchedLessons?.length > 0) {
+                    const firstLesson = fetchedLessons[0];
+                    setOpenItems({ [firstLesson._id]: true });
+
+                    if (firstLesson.content.grammarTheory) {
+                        const firstItemToShow = findFirstLeaf(firstLesson.content.grammarTheory.sort((a,b) => a.order - b.order));
+                        setSelectedTheory(firstItemToShow);
+                    }
                 }
+
             } catch (err) { setError(err.message); } 
             finally { setIsLoading(false); }
         };
