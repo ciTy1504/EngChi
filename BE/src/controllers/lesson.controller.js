@@ -132,17 +132,13 @@ exports.getGrammarLibrary = async (req, res) => {
 exports.getGrammarQuizQuestions = async (req, res) => {
     const { lessonId } = req.params;
     try {
-        // --- SỬA LẠI: THÊM 'type' VÀO .select() ---
-        const lesson = await MasterLesson.findById(lessonId)
-                                         .select('title type content.grammarQuestions')
-                                         .lean();
+        const lesson = await MasterLesson.findById(lessonId).lean();
 
         if (!lesson || lesson.type !== 'grammar' || !lesson.content.grammarQuestions) {
             return res.status(404).json({ success: false, message: 'Grammar lesson or questions not found.' });
         }
 
         const allQuestions = lesson.content.grammarQuestions;
-        // Đảm bảo không trả về quá 50 câu nếu có ít hơn 50 câu
         const quizQuestionsCount = Math.min(50, allQuestions.length); 
         const shuffled = allQuestions.sort(() => 0.5 - Math.random());
         const quizQuestions = shuffled.slice(0, quizQuestionsCount);
@@ -159,6 +155,7 @@ exports.getGrammarQuizQuestions = async (req, res) => {
         res.status(500).json({ success: false, message: error.message });
     }
 };
+
 
 exports.getNextTranslationQuestion = async (req, res) => {
     const { lessonId } = req.params;

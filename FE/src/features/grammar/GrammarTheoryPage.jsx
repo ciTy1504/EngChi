@@ -134,6 +134,8 @@ const TheoryViewer = ({ item, viewerRef }) => {
         </div>
     );
 };
+
+// Hàm tìm kiếm một mục lý thuyết và các mục cha của nó
 const findTheoryAndParents = (items, targetId, parentIds = []) => {
     for (const item of items) {
         if (item._id === targetId) return { foundItem: item, parentIds: parentIds };
@@ -144,11 +146,13 @@ const findTheoryAndParents = (items, targetId, parentIds = []) => {
     }
     return { foundItem: null, parentIds: [] };
 };
+
+// Hàm tìm mục lý thuyết có nội dung đầu tiên để hiển thị mặc định
 const findFirstLeaf = (items) => {
-    for (const item of items) {
+    for (const item of items.sort((a, b) => a.order - b.order)) {
         if (item.contentHTML) return item;
         if (item.children && item.children.length > 0) {
-            const leaf = findFirstLeaf(item.children.sort((a, b) => a.order - b.order));
+            const leaf = findFirstLeaf(item.children);
             if (leaf) return leaf;
         }
     }
@@ -177,44 +181,47 @@ const GrammarTheoryPage = () => {
                 setLessons(fetchedLessons);
 
                 const focusId = searchParams.get('focus');
-                if (focusId) {
-                    let foundResult = { foundItem: null, parentIds: [] };
-                    let parentLessonId = null;
+                let focusedItemFound = false;
 
+                if (focusId) {
+                    let parentLessonId = null;
                     for (const lesson of fetchedLessons) {
                         const result = findTheoryAndParents(lesson.content.grammarTheory || [], focusId);
                         if (result.foundItem) {
-                            foundResult = result;
-                            parentLessonId = lesson._id;
-                            break;
+                            setSelectedTheory(result.foundItem);
+                            const newOpenItems = {};
+                            result.parentIds.forEach(id => { newOpenItems[id] = true; });
+                            newOpenItems[lesson._id] = true; // Mở cả danh mục bài học cha
+                            setOpenItems(newOpenItems);
+                            
+                            focusedItemFound = true;
+                            break; // Dừng tìm kiếm khi đã thấy
                         }
-                    }
-
-                    if (foundResult.foundItem) {
-                        setSelectedTheory(foundResult.foundItem);
-                        const newOpenItems = {};
-                        foundResult.parentIds.forEach(id => { newOpenItems[id] = true; });
-                        if (parentLessonId) {
-                            newOpenItems[parentLessonId] = true;
-                        }
-                        setOpenItems(newOpenItems);
-                        setIsLoading(false); 
-                        return;
                     }
                 }
-                
-                if (fetchedLessons?.length > 0) {
+
+                // **SỬA LỖI:** Chỉ chạy logic mặc định nếu không tìm thấy mục được focus
+                if (!focusedItemFound && fetchedLessons?.length > 0) {
                     const firstLesson = fetchedLessons[0];
-                    setOpenItems({ [firstLesson._id]: true });
+                    const newOpenItems = { [firstLesson._id]: true };
 
                     if (firstLesson.content.grammarTheory) {
-                        const firstItemToShow = findFirstLeaf(firstLesson.content.grammarTheory.sort((a,b) => a.order - b.order));
-                        setSelectedTheory(firstItemToShow);
+                        const firstItemToShow = findFirstLeaf(firstLesson.content.grammarTheory);
+                        if (firstItemToShow) {
+                            setSelectedTheory(firstItemToShow);
+                            // Mở các mục cha của mục đầu tiên (nếu có)
+                            const result = findTheoryAndParents(firstLesson.content.grammarTheory, firstItemToShow._id);
+                             result.parentIds.forEach(id => { newOpenItems[id] = true; });
+                        }
                     }
+                    setOpenItems(newOpenItems);
                 }
 
-            } catch (err) { setError(err.message); } 
-            finally { setIsLoading(false); }
+            } catch (err) { 
+                setError(err.message); 
+            } finally { 
+                setIsLoading(false); 
+            }
         };
         fetchGrammarLibrary();
     }, [language, searchParams]);

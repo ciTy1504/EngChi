@@ -1,7 +1,8 @@
 // src/features/grammar/components/QuestionRenderer.jsx
-import React from 'react';
+import React, { useContext } from 'react'; // SỬA: Thêm useContext
 import { Link } from 'react-router-dom';
 import { useTranslations } from '../../../hooks/useTranslations';
+import { LanguageContext } from '../../../contexts/LanguageContext'; // SỬA: Import LanguageContext
 
 const CorrectIcon = () => (
     <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -76,6 +77,8 @@ const QuestionRenderer = ({
     showTheoryLinkOnWrong
 }) => {
     const t = useTranslations();
+    const { language } = useContext(LanguageContext); // SỬA: Lấy language từ context
+    
     const borderClass = isSubmitted
         ? result.isCorrect
             ? 'border-green-400 bg-green-50'
@@ -141,7 +144,7 @@ const QuestionRenderer = ({
                      {!result.isCorrect && showTheoryLinkOnWrong && question.relatedTheoryId && (
                         <div>
                             <Link 
-                                to={`/${t.lang}/grammar/theory?focus=${question.relatedTheoryId}`}
+                                to={`/${language}/grammar/theory?focus=${question.relatedTheoryId}`} // SỬA: Dùng `language` thay vì `t.lang`
                                 className="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800 hover:underline"
                             >
                                <TheoryIcon />
