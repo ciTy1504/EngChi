@@ -21,7 +21,7 @@ const TableOfContents = ({ categories, onSelect, activeCategory }) => {
                                     : 'text-gray-700 hover:bg-gray-100'
                             }`}
                         >
-                            {cat.categoryTitle} {/* SỬA: Hiển thị categoryTitle */}
+                            {cat.categoryTitle} 
                         </a>
                     </li>
                 ))}

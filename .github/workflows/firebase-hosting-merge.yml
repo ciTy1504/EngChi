@@ -33,3 +33,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_ENGCHI_APP }}'
           channelId: live
           projectId: engchi-app
+          entryPoint: ./FE
