@@ -1,0 +1,2392 @@
+{
+  "title": "English Idiom Library",
+  "language": "en",
+  "type": "idiom",
+  "content": {
+    "categories": [
+      {
+        "categoryTitle": "A",
+        "idioms": [
+          {
+            "_id": "a_0001",
+            "idiom": "A bad workman always blames his tools",
+            "meaning": "A person who has done something badly will blame their equipment rather than admitting their own lack of skill.",
+            "example": "He said the oven was too hot, but he's just a bad workman who always blames his tools.",
+            "pronounce": "ə bæd ˈwərkmən ˈɔlˌweɪz bleɪmz hɪz tulz"
+          },
+          {
+            "_id": "a_0002",
+            "idiom": "A bird in the hand is worth two in the bush",
+            "meaning": "It's better to hold onto something you have than to risk losing it by trying to get something better.",
+            "example": "I was offered a new job, but I decided to stay with my current one. A bird in the hand is worth two in the bush.",
+            "pronounce": "ə bərd ɪn ðə hænd ɪz wərθ tu ɪn ðə bʊʃ"
+          },
+          {
+            "_id": "a_0003",
+            "idiom": "A blessing in disguise",
+            "meaning": "Something that seems bad or unlucky at first, but results in something good happening later.",
+            "example": "Losing that job was a blessing in disguise; it forced me to find a much better one.",
+            "pronounce": "ə ˈblɛsɪŋ ɪn dɪsˈgaɪz"
+          },
+          {
+            "_id": "a_0004",
+            "idiom": "A cat has nine lives",
+            "meaning": "Cats are able to survive seemingly fatal events.",
+            "example": "That cat fell from the third floor and was completely fine. They say a cat has nine lives.",
+            "pronounce": "ə kæt həz naɪn lɪvz"
+          },
+          {
+            "_id": "a_0005",
+            "idiom": "A change is as good as a rest",
+            "meaning": "A change in your routine is as refreshing as a holiday.",
+            "example": "I was tired of my job, so I started a new hobby. A change is as good as a rest.",
+            "pronounce": "ə ʧeɪnʤ ɪz ɛz gʊd ɛz ə rɛst"
+          },
+          {
+            "_id": "a_0006",
+            "idiom": "A chip off the old block",
+            "meaning": "Someone who is very similar in character to one of their parents.",
+            "example": "He's a talented musician, just like his father. A real chip off the old block.",
+            "pronounce": "ə ʧɪp ɔf ðə oʊld blɑk"
+          },
+          {
+            "_id": "a_0007",
+            "idiom": "A clean slate",
+            "meaning": "A state in which you can start something new without being affected by what has happened before.",
+            "example": "After he apologized, they agreed to start over with a clean slate.",
+            "pronounce": "ə klin sleɪt"
+          },
+          {
+            "_id": "a_0008",
+            "idiom": "A Daniel come to judgment",
+            "meaning": "A wise person who makes a decision that is clever and fair.",
+            "example": "The mediator was a Daniel come to judgment, finding a solution that satisfied everyone.",
+            "pronounce": "ə ˈdænjəl kəm tɪ ˈʤəʤmənt"
+          },
+          {
+            "_id": "a_0009",
+            "idiom": "A dime a dozen",
+            "meaning": "Something that is very common and of little value.",
+            "example": "Experts in this field are a dime a dozen.",
+            "pronounce": "ə daɪm ə ˈdəzən"
+          },
+          {
+            "_id": "a_0010",
+            "idiom": "A dog's life",
+            "meaning": "A very unhappy and difficult life.",
+            "example": "He had to work three jobs just to survive. It was a dog's life.",
+            "pronounce": "ə dɔgz laɪf"
+          },
+          {
+            "_id": "a_0011",
+            "idiom": "A drop in the bucket",
+            "meaning": "A very small and insignificant amount.",
+            "example": "The fifty dollars I could contribute was just a drop in the bucket for their campaign.",
+            "pronounce": "ə drɔp ɪn ðə ˈbəkɪt"
+          },
+          {
+            "_id": "a_0012",
+            "idiom": "A drop in the ocean",
+            "meaning": "A very small amount compared to what is needed or expected.",
+            "example": "My small donation is just a drop in the ocean compared to the millions needed.",
+            "pronounce": "ə drɔp ɪn ðə ˈoʊʃən"
+          },
+          {
+            "_id": "a_0013",
+            "idiom": "A fly in the ointment",
+            "meaning": "A single thing or person that is a problem in an otherwise satisfactory situation.",
+            "example": "The picnic was perfect; the only fly in the ointment was the swarm of mosquitoes.",
+            "pronounce": "ə flaɪ ɪn ðə ˈɔɪntmənt"
+          },
+          {
+            "_id": "a_0014",
+            "idiom": "A fly on the wall",
+            "meaning": "An unnoticed observer of a particular situation.",
+            "example": "I'd love to be a fly on the wall when she tells him the news.",
+            "pronounce": "ə flaɪ ɔn ðə wɔl"
+          },
+          {
+            "_id": "a_0015",
+            "idiom": "A fool and his money are soon parted",
+            "meaning": "It's easy for a foolish person to lose their money.",
+            "example": "He invested his life savings in a scam and lost everything. A fool and his money are soon parted.",
+            "pronounce": "ə ful ənd hɪz ˈməni ər sun ˈpɑrtɪd"
+          },
+          {
+            "_id": "a_0016",
+            "idiom": "A friend in need is a friend indeed",
+            "meaning": "A friend who helps you when you are in trouble is a true friend.",
+            "example": "She stayed with me the whole time I was in the hospital. A friend in need is a friend indeed.",
+            "pronounce": "ə frɛnd ɪn nid ɪz ə frɛnd ˌɪnˈdid"
+          },
+          {
+            "_id": "a_0017",
+            "idiom": "A gentleman's agreement",
+            "meaning": "An agreement that is not written down but is based on trust.",
+            "example": "They sealed the deal with a handshake, a true gentleman's agreement.",
+            "pronounce": "ə ˈʤɛnəlˌmənz əˈgrimənt"
+          },
+          {
+            "_id": "a_0018",
+            "idiom": "A golden handshake",
+            "meaning": "A large payment made to someone when they leave their job, either when they retire or when they are forced to leave.",
+            "example": "The CEO received a golden handshake of five million dollars when he retired.",
+            "pronounce": "ə ˈgoʊldən ˈhændˌʃeɪk"
+          },
+          {
+            "_id": "a_0019",
+            "idiom": "A hornet's nest",
+            "meaning": "A very difficult or unpleasant situation, especially one in which a lot of people get angry and argue.",
+            "example": "Questioning the company's expenses was like stirring up a hornet's nest.",
+            "pronounce": "ə ˈhɔrnəts nɛst"
+          },
+          {
+            "_id": "a_0020",
+            "idiom": "A house of cards",
+            "meaning": "A plan, organization, or situation that is weak and can easily be destroyed.",
+            "example": "Their entire business was a house of cards, built on lies and debt.",
+            "pronounce": "ə haʊs əv kɑrdz"
+          },
+          {
+            "_id": "a_0021",
+            "idiom": "A knight in shining armor",
+            "meaning": "Someone who rescues you from a difficult situation.",
+            "example": "When my car broke down, a kind stranger stopped to help. He was my knight in shining armor.",
+            "pronounce": "ə naɪt ɪn ˈʃaɪnɪŋ ˈɑrmər"
+          },
+          {
+            "_id": "a_0022",
+            "idiom": "A leopard can't change its spots",
+            "meaning": "People cannot change their basic character, especially if it is bad.",
+            "example": "He promised he would stop lying, but a leopard can't change its spots.",
+            "pronounce": "ə ˈlɛpərd kænt ʧeɪnʤ ɪts spɑts"
+          },
+          {
+            "_id": "a_0023",
+            "idiom": "A little bird told me",
+            "meaning": "Used to say that you know something, but you will not say how you found out.",
+            "example": "A little bird told me it's your birthday tomorrow.",
+            "pronounce": "ə ˈlɪtəl bərd toʊld mi"
+          },
+          {
+            "_id": "a_0024",
+            "idiom": "A long shot",
+            "meaning": "Something that is very unlikely to succeed.",
+            "example": "Winning the lottery is a long shot, but I still buy a ticket every week.",
+            "pronounce": "ə lɔŋ ʃɑt"
+          },
+          {
+            "_id": "a_0025",
+            "idiom": "A man of his word",
+            "meaning": "A person who can be trusted because they always do what they say they will do.",
+            "example": "If he promised to help, he will. He's a man of his word.",
+            "pronounce": "ə mæn əv hɪz wərd"
+          },
+          {
+            "_id": "a_0026",
+            "idiom": "A meeting of the minds",
+            "meaning": "An agreement between two or more people.",
+            "example": "After hours of discussion, there was finally a meeting of the minds.",
+            "pronounce": "ə ˈmitɪŋ əv ðə maɪndz"
+          },
+          {
+            "_id": "a_0027",
+            "idiom": "A new lease on life",
+            "meaning": "An occasion when you become more energetic and active than before.",
+            "example": "After his surgery, he had a new lease on life.",
+            "pronounce": "ə nu lis ɔn laɪf"
+          },
+          {
+            "_id": "a_0028",
+            "idiom": "A nine days' wonder",
+            "meaning": "Something that attracts a lot of interest for a short time but is then forgotten.",
+            "example": "The new celebrity scandal was a nine days' wonder.",
+            "pronounce": "ə naɪn deɪz' ˈwəndər"
+          },
+          {
+            "_id": "a_0029",
+            "idiom": "A penny for your thoughts",
+            "meaning": "A way of asking what someone is thinking.",
+            "example": "You've been quiet for a while. A penny for your thoughts?",
+            "pronounce": "ə ˈpɛni fər jʊr θɔts"
+          },
+          {
+            "_id": "a_0030",
+            "idiom": "A picture is worth a thousand words",
+            "meaning": "A picture can convey a message more effectively than words.",
+            "example": "I tried to describe the sunset, but a picture is worth a thousand words.",
+            "pronounce": "ə ˈpɪkʧər ɪz wərθ ə ˈθaʊzənd wərdz"
+          },
+          {
+            "_id": "a_0031",
+            "idiom": "A piece of cake",
+            "meaning": "Something that is very easy to do.",
+            "example": "The English test was a piece of cake.",
+            "pronounce": "ə pis əv keɪk"
+          },
+          {
+            "_id": "a_0032",
+            "idiom": "A rolling stone gathers no moss",
+            "meaning": "A person who is always traveling and changing jobs has the advantage of having no responsibilities, but also the disadvantage of having no permanent place to live.",
+            "example": "He's lived in ten cities in ten years. A rolling stone gathers no moss.",
+            "pronounce": "ə ˈroʊlɪŋ stoʊn ˈgæðərz noʊ mɔs"
+          },
+          {
+            "_id": "a_0033",
+            "idiom": "A sacred cow",
+            "meaning": "An idea, custom, or institution that is considered sacred and is protected from criticism.",
+            "example": "The company's tradition of a four-day work week is a sacred cow that no one dares to question.",
+            "pronounce": "ə ˈseɪkrɪd kaʊ"
+          },
+          {
+            "_id": "a_0034",
+            "idiom": "A shot in the dark",
+            "meaning": "A guess that is not based on any knowledge or information.",
+            "example": "I didn't know the answer, so I just took a shot in the dark.",
+            "pronounce": "ə ʃɑt ɪn ðə dɑrk"
+          },
+          {
+            "_id": "a_0035",
+            "idiom": "A sight for sore eyes",
+            "meaning": "A person or thing that you are very pleased to see.",
+            "example": "After a long day of hiking, the warm campfire was a sight for sore eyes.",
+            "pronounce": "ə saɪt fər sɔr aɪz"
+          },
+          {
+            "_id": "a_0036",
+            "idiom": "A snake in the grass",
+            "meaning": "A treacherous and deceitful person.",
+            "example": "I thought he was my friend, but he turned out to be a snake in the grass.",
+            "pronounce": "ə sneɪk ɪn ðə græs"
+          },
+          {
+            "_id": "a_0037",
+            "idiom": "A square meal",
+            "meaning": "A substantial, satisfying, and balanced meal.",
+            "example": "After days of eating snacks, all I wanted was a good, square meal.",
+            "pronounce": "ə skwɛr mil"
+          },
+          {
+            "_id": "a_0038",
+            "idiom": "A stitch in time saves nine",
+            "meaning": "It's better to deal with a small problem immediately than to wait and let it become a bigger problem.",
+            "example": "Fixing the small leak now is a good idea. A stitch in time saves nine.",
+            "pronounce": "ə stɪʧ ɪn taɪm seɪvz naɪn"
+          },
+          {
+            "_id": "a_0039",
+            "idiom": "A stone's throw away",
+            "meaning": "A very short distance away.",
+            "example": "The beach is just a stone's throw away from our hotel.",
+            "pronounce": "ə stoʊnz θroʊ əˈweɪ"
+          },
+          {
+            "_id": "a_0040",
+            "idiom": "A storm in a teacup",
+            "meaning": "A lot of unnecessary anger and worry about a matter that is not important.",
+            "example": "Their argument over who would wash the dishes was just a storm in a teacup.",
+            "pronounce": "ə stɔrm ɪn ə ˈtiˌkəp"
+          },
+          {
+            "_id": "a_0041",
+            "idiom": "A tall order",
+            "meaning": "A request that is difficult to fulfill.",
+            "example": "Finishing this project by Friday is a tall order, but we'll try.",
+            "pronounce": "ə tɔl ˈɔrdər"
+          },
+          {
+            "_id": "a_0042",
+            "idiom": "A taste of your own medicine",
+            "meaning": "When you are mistreated in the same way you have mistreated others.",
+            "example": "He's always rude to people, so he got a taste of his own medicine when the waiter was rude to him.",
+            "pronounce": "ə teɪst əv jʊr oʊn ˈmɛdəsən"
+          },
+          {
+            "_id": "a_0043",
+            "idiom": "A thorn in one's side",
+            "meaning": "A person or thing that continually annoys or causes trouble.",
+            "example": "The constant noise from the construction site is a thorn in my side.",
+            "pronounce": "ə θɔrn ɪn wənz saɪd"
+          },
+          {
+            "_id": "a_0044",
+            "idiom": "A tough nut to crack",
+            "meaning": "A difficult problem to solve or a person who is difficult to understand.",
+            "example": "This math problem is a tough nut to crack.",
+            "pronounce": "ə təf nət tɪ kræk"
+          },
+          {
+            "_id": "a_0045",
+            "idiom": "A watched pot never boils",
+            "meaning": "Time seems to pass more slowly when you are waiting for something to happen.",
+            "example": "I keep checking my email for a reply, but a watched pot never boils.",
+            "pronounce": "ə wɔʧt pɑt ˈnɛvər bɔɪlz"
+          },
+          {
+            "_id": "a_0046",
+            "idiom": "A whole new ball game",
+            "meaning": "A completely new situation or set of circumstances.",
+            "example": "Now that we have a new manager, it's a whole new ball game.",
+            "pronounce": "ə hoʊl nu bɔl geɪm"
+          },
+          {
+            "_id": "a_0047",
+            "idiom": "A wolf in sheep's clothing",
+            "meaning": "A person who pretends to be friendly but is actually hostile or malicious.",
+            "example": "The charming salesman was a wolf in sheep's clothing; he tricked many people out of their money.",
+            "pronounce": "ə wʊlf ɪn ʃips ˈkloʊðɪŋ"
+          },
+          {
+            "_id": "a_0048",
+            "idiom": "Absence makes the heart grow fonder",
+            "meaning": "Being away from someone you love makes you love them more.",
+            "example": "I miss my family so much while I'm at college. I guess absence makes the heart grow fonder.",
+            "pronounce": "ˈæbsəns meɪks ðə hɑrt groʊ ˈfɑndər"
+          },
+          {
+            "_id": "a_0049",
+            "idiom": "Ace in the hole",
+            "meaning": "A hidden advantage or resource kept in reserve until needed.",
+            "example": "Our secret witness is our ace in the hole for the trial.",
+            "pronounce": "eɪs ɪn ðə hoʊl"
+          },
+          {
+            "_id": "a_0050",
+            "idiom": "Achilles' heel",
+            "meaning": "A weak point or fatal flaw in someone or something otherwise strong.",
+            "example": "His inability to delegate is his Achilles' heel as a manager.",
+            "pronounce": "əˈkɪliz' hil"
+          },
+          {
+            "_id": "a_0051",
+            "idiom": "Actions speak louder than words",
+            "meaning": "What you do is more important and shows your true intentions more than what you say.",
+            "example": "He keeps promising to change, but actions speak louder than words.",
+            "pronounce": "ˈækʃənz spik ˈlaʊdər ðən wərdz"
+          },
+          {
+            "_id": "a_0052",
+            "idiom": "Add fuel to the fire",
+            "meaning": "To make a bad situation even worse.",
+            "example": "Shouting at him when he's already angry will only add fuel to the fire.",
+            "pronounce": "æd fjuəl tɪ ðə faɪər"
+          },
+          {
+            "_id": "a_0053",
+            "idiom": "Add insult to injury",
+            "meaning": "To make a bad situation worse by saying or doing something that hurts someone's feelings.",
+            "example": "They fired him, and to add insult to injury, they didn't even pay him for his last week of work.",
+            "pronounce": "æd ˌɪnˈsəlt tɪ ˈɪnʤəri"
+          },
+          {
+            "_id": "a_0054",
+            "idiom": "Against the clock",
+            "meaning": "Rushed and with very little time.",
+            "example": "We're working against the clock to finish the project before the deadline.",
+            "pronounce": "əˈgɛnst ðə klɑk"
+          },
+          {
+            "_id": "a_0055",
+            "idiom": "All bark and no bite",
+            "meaning": "Someone who talks tough but is not actually aggressive or willing to fight.",
+            "example": "Don't worry about his threats; he's all bark and no bite.",
+            "pronounce": "ɔl bɑrk ənd noʊ baɪt"
+          },
+          {
+            "_id": "a_0056",
+            "idiom": "All ears",
+            "meaning": "Listening very attentively.",
+            "example": "Tell me your story. I'm all ears.",
+            "pronounce": "ɔl ɪrz"
+          },
+          {
+            "_id": "a_0057",
+            "idiom": "All in a day’s work",
+            "meaning": "Something that is a normal and accepted part of one's job.",
+            "example": "Dealing with difficult customers is all in a day's work for a retail employee.",
+            "pronounce": "ɔl ɪn ə day’s* wərk"
+          },
+          {
+            "_id": "a_0058",
+            "idiom": "All in the same boat",
+            "meaning": "Everyone is facing the same difficult situation.",
+            "example": "We all have to work this weekend, so we're all in the same boat.",
+            "pronounce": "ɔl ɪn ðə seɪm boʊt"
+          },
+          {
+            "_id": "a_0059",
+            "idiom": "All over the map",
+            "meaning": "Disorganized, inconsistent, or covering a wide and confusing range of topics.",
+            "example": "His presentation was all over the map; I couldn't follow his main point.",
+            "pronounce": "ɔl ˈoʊvər ðə mæp"
+          },
+          {
+            "_id": "a_0060",
+            "idiom": "All that glitters is not gold",
+            "meaning": "Something that appears valuable on the outside may not be so in reality.",
+            "example": "That fancy car he bought is always breaking down. All that glitters is not gold.",
+            "pronounce": "ɔl ðət ˈglɪtərz ɪz nɑt goʊld"
+          },
+          {
+            "_id": "a_0061",
+            "idiom": "All thumbs",
+            "meaning": "Clumsy or awkward with one's hands.",
+            "example": "I'm all thumbs when it comes to knitting.",
+            "pronounce": "ɔl θəmz"
+          },
+          {
+            "_id": "a_0062",
+            "idiom": "All's fair in love and war",
+            "meaning": "In situations of intense competition, any method is justifiable to achieve one's objective.",
+            "example": "He played a trick to win the game, but all's fair in love and war.",
+            "pronounce": "ɔlz fɛr ɪn ləv ənd wɔr"
+          },
+          {
+            "_id": "a_0063",
+            "idiom": "All's well that ends well",
+            "meaning": "A difficult situation has a happy ending.",
+            "example": "The trip had some problems, but we arrived safely. All's well that ends well.",
+            "pronounce": "ɔlz wɛl ðət ɛndz wɛl"
+          },
+          {
+            "_id": "a_0064",
+            "idiom": "An apple a day keeps the doctor away",
+            "meaning": "Eating healthy food helps to keep you from getting sick.",
+            "example": "My grandmother always reminded us that an apple a day keeps the doctor away.",
+            "pronounce": "ən ˈæpəl ə deɪ kips ðə ˈdɔktər əˈweɪ"
+          },
+          {
+            "_id": "a_0065",
+            "idiom": "An arm and a leg",
+            "meaning": "A very large amount of money.",
+            "example": "A new car these days costs an arm and a leg.",
+            "pronounce": "ən ɑrm ənd ə lɛg"
+          },
+          {
+            "_id": "a_0066",
+            "idiom": "An axe to grind",
+            "meaning": "To have a private reason for doing or being involved in something.",
+            "example": "He's criticizing the new policy, but I think he has an axe to grind because he wasn't promoted.",
+            "pronounce": "ən æks tɪ graɪnd"
+          },
+          {
+            "_id": "a_0067",
+            "idiom": "An old flame",
+            "meaning": "Someone with whom one had a romantic relationship in the past.",
+            "example": "I ran into an old flame at the reunion last night.",
+            "pronounce": "ən oʊld fleɪm"
+          },
+          {
+            "_id": "a_0068",
+            "idiom": "An open book",
+            "meaning": "Someone who is easy to understand and whose feelings are obvious.",
+            "example": "You always know what he's thinking; he's an open book.",
+            "pronounce": "ən ˈoʊpən bʊk"
+          },
+          {
+            "_id": "a_0069",
+            "idiom": "Another nail in the coffin",
+            "meaning": "An event that contributes to the failure of something that is already in a bad state.",
+            "example": "The bad reviews were another nail in the coffin for the struggling restaurant.",
+            "pronounce": "əˈnəðər neɪl ɪn ðə ˈkɔfɪn"
+          },
+          {
+            "_id": "a_0070",
+            "idiom": "Any port in a storm",
+            "meaning": "In a difficult situation, any help or solution is welcome, even if it's not ideal.",
+            "example": "The hotel was terrible, but it was the only one with a vacancy, so any port in a storm.",
+            "pronounce": "ˈɛni pɔrt ɪn ə stɔrm"
+          },
+          {
+            "_id": "a_0071",
+            "idiom": "Apple of my eye",
+            "meaning": "A person who is cherished above all others.",
+            "example": "His youngest daughter is the apple of his eye.",
+            "pronounce": "ˈæpəl əv maɪ aɪ"
+          },
+          {
+            "_id": "a_0072",
+            "idiom": "As cool as a cucumber",
+            "meaning": "To be very calm and composed, especially in a difficult situation.",
+            "example": "She was as cool as a cucumber during the entire crisis.",
+            "pronounce": "ɛz kul ɛz ə ˈkjukəmbər"
+          },
+          {
+            "_id": "a_0073",
+            "idiom": "As right as rain",
+            "meaning": "Perfectly well or healthy.",
+            "example": "After a few days of rest, I felt as right as rain.",
+            "pronounce": "ɛz raɪt ɛz reɪn"
+          },
+          {
+            "_id": "a_0074",
+            "idiom": "As the crow flies",
+            "meaning": "In a straight line; the most direct route.",
+            "example": "It's ten miles to the city as the crow flies, but twenty miles by the winding road.",
+            "pronounce": "ɛz ðə kroʊ flaɪz"
+          },
+          {
+            "_id": "a_0075",
+            "idiom": "As thick as thieves",
+            "meaning": "To be very close friends and share secrets.",
+            "example": "Those two have been as thick as thieves since they were kids.",
+            "pronounce": "ɛz θɪk ɛz θivz"
+          },
+          {
+            "_id": "a_0076",
+            "idiom": "At a loss for words",
+            "meaning": "Unable to think of anything to say, usually because of surprise or shock.",
+            "example": "When they announced I had won, I was at a loss for words.",
+            "pronounce": "æt ə lɔs fər wərdz"
+          },
+          {
+            "_id": "a_0077",
+            "idiom": "At loggerheads",
+            "meaning": "In strong disagreement or conflict.",
+            "example": "The two political parties are at loggerheads over the new budget.",
+            "pronounce": "æt ˈlɑgərˌhɛdz"
+          },
+          {
+            "_id": "a_0078",
+            "idiom": "At sixes and sevens",
+            "meaning": "In a state of confusion or disarray.",
+            "example": "I've been at sixes and sevens all day trying to get everything done.",
+            "pronounce": "æt ˈsɪksɪz ənd ˈsɛvənz"
+          },
+          {
+            "_id": "a_0079",
+            "idiom": "At the drop of a hat",
+            "meaning": "Immediately, without any hesitation.",
+            "example": "He's always ready to go fishing at the drop of a hat.",
+            "pronounce": "æt ðə drɔp əv ə hæt"
+          },
+          {
+            "_id": "a_0080",
+            "idiom": "At the end of the day",
+            "meaning": "Ultimately; in the final analysis.",
+            "example": "At the end of the day, it's his decision to make.",
+            "pronounce": "æt ðə ɛnd əv ðə deɪ"
+          },
+          {
+            "_id": "a_0081",
+            "idiom": "At your wit's end",
+            "meaning": "So worried, confused, or annoyed that you do not know what to do next.",
+            "example": "I'm at my wit's end trying to figure out how to fix this computer.",
+            "pronounce": "æt jʊr wɪts ɛnd"
+          },
+          {
+            "_id": "a_0082",
+            "idiom": "Avoid something like the plague",
+            "meaning": "To avoid something completely.",
+            "example": "He's very allergic to cats, so he avoids them like the plague.",
+            "pronounce": "əˈvɔɪd ˈsəmθɪŋ laɪk ðə pleɪg"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "B",
+        "idioms": [
+          {
+            "_id": "b_0001",
+            "idiom": "Back to square one",
+            "meaning": "To go back to the beginning after a plan or effort has failed.",
+            "example": "Our project proposal was rejected, so we're back to square one.",
+            "pronounce": "bæk tɪ skwɛr wən"
+          },
+          {
+            "_id": "b_0002",
+            "idiom": "Back to the drawing board",
+            "meaning": "To start planning something again because the first plan failed.",
+            "example": "The prototype didn't work, so it's back to the drawing board for the engineers.",
+            "pronounce": "bæk tɪ ðə drɔɪŋ bɔrd"
+          },
+          {
+            "_id": "b_0003",
+            "idiom": "Backseat driver",
+            "meaning": "A passenger in a car who gives the driver unwanted advice.",
+            "example": "My dad is such a backseat driver; he's always telling me to slow down or change lanes.",
+            "pronounce": "bækˈsit ˈdraɪvər"
+          },
+          {
+            "_id": "b_0004",
+            "idiom": "Bad blood",
+            "meaning": "Feelings of hatred or strong dislike between people.",
+            "example": "There has been bad blood between the two families for years.",
+            "pronounce": "bæd bləd"
+          },
+          {
+            "_id": "b_0005",
+            "idiom": "Ball is in your court",
+            "meaning": "It is up to you to make the next move or decision.",
+            "example": "I've made my offer. Now the ball is in your court.",
+            "pronounce": "bɔl ɪz ɪn jʊr kɔrt"
+          },
+          {
+            "_id": "b_0006",
+            "idiom": "Bang for the buck",
+            "meaning": "Value for the money spent.",
+            "example": "This car isn't fancy, but it's reliable and fuel-efficient, so you get a lot of bang for the buck.",
+            "pronounce": "bæŋ fər ðə bək"
+          },
+          {
+            "_id": "b_0007",
+            "idiom": "Barking up the wrong tree",
+            "meaning": "To be pursuing a mistaken or misguided line of thought or course of action.",
+            "example": "If you think I'm the one who broke the vase, you're barking up the wrong tree.",
+            "pronounce": "ˈbɑrkɪŋ əp ðə rɔŋ tri"
+          },
+          {
+            "_id": "b_0008",
+            "idiom": "Basket case",
+            "meaning": "A person who is extremely nervous or anxious and is therefore unable to function.",
+            "example": "By the end of the exams, I was a complete basket case.",
+            "pronounce": "ˈbæskət keɪs"
+          },
+          {
+            "_id": "b_0009",
+            "idiom": "Beat a dead horse",
+            "meaning": "To waste time and effort on an issue that has already been decided.",
+            "example": "There's no point in arguing about it anymore; you're just beating a dead horse.",
+            "pronounce": "bit ə dɛd hɔrs"
+          },
+          {
+            "_id": "b_0010",
+            "idiom": "Beat around the bush",
+            "meaning": "To avoid talking about what is important; to speak indirectly.",
+            "example": "Stop beating around the bush and tell me what you really want.",
+            "pronounce": "bit əraʊnd ðə bʊʃ"
+          },
+          {
+            "_id": "b_0011",
+            "idiom": "Beauty is only skin deep",
+            "meaning": "A person's character is more important than their physical appearance.",
+            "example": "She may be beautiful, but she's not a very nice person. Beauty is only skin deep.",
+            "pronounce": "ˈbjuti ɪz ˈoʊnli skɪn dip"
+          },
+          {
+            "_id": "b_0012",
+            "idiom": "Bed of roses",
+            "meaning": "A situation of ease and luxury.",
+            "example": "Life as a struggling artist is no bed of roses.",
+            "pronounce": "bɛd əv ˈroʊzɪz"
+          },
+          {
+            "_id": "b_0013",
+            "idiom": "Beggars can't be choosers",
+            "meaning": "People who are in need of something must accept whatever is offered, even if it is not what they wanted.",
+            "example": "I wanted a window seat, but the flight was full. Beggars can't be choosers.",
+            "pronounce": "ˈbɛgərz kænt bi choosers*"
+          },
+          {
+            "_id": "b_0014",
+            "idiom": "Behind closed doors",
+            "meaning": "In private; not in public.",
+            "example": "The decision was made behind closed doors.",
+            "pronounce": "bɪˈhaɪnd kloʊzd dɔrz"
+          },
+          {
+            "_id": "b_0015",
+            "idiom": "Behind the eight ball",
+            "meaning": "In a difficult or disadvantageous position.",
+            "example": "He's behind the eight ball financially after losing his job.",
+            "pronounce": "bɪˈhaɪnd ðə eɪt bɔl"
+          },
+          {
+            "_id": "b_0016",
+            "idiom": "Bend over backwards",
+            "meaning": "To try very hard to do something, especially to please someone.",
+            "example": "She bent over backwards to make her guests feel welcome.",
+            "pronounce": "bɛnd ˈoʊvər ˈbækwərdz"
+          },
+          {
+            "_id": "b_0017",
+            "idiom": "Better late than never",
+            "meaning": "It is better to do something late than not to do it at all.",
+            "example": "He finally apologized. Well, better late than never.",
+            "pronounce": "ˈbɛtər leɪt ðən ˈnɛvər"
+          },
+          {
+            "_id": "b_0018",
+            "idiom": "Better safe than sorry",
+            "meaning": "It is better to be cautious than to take a risk that could have bad consequences.",
+            "example": "I'll take an umbrella, just in case. Better safe than sorry.",
+            "pronounce": "ˈbɛtər seɪf ðən ˈsɑri"
+          },
+          {
+            "_id": "b_0019",
+            "idiom": "Between a rock and a hard place",
+            "meaning": "In a difficult situation where you have to choose between two equally unpleasant options.",
+            "example": "I'm caught between a rock and a hard place: either I go to my cousin's wedding or my best friend's birthday party.",
+            "pronounce": "bɪtˈwin ə rɑk ənd ə hɑrd pleɪs"
+          },
+          {
+            "_id": "b_0020",
+            "idiom": "Bite off more than you can chew",
+            "meaning": "To take on a task or commitment that is too big to handle.",
+            "example": "I think I bit off more than I can chew by agreeing to work on three projects at once.",
+            "pronounce": "baɪt ɔf mɔr ðən ju kən ʧu"
+          },
+          {
+            "_id": "b_0021",
+            "idiom": "Bite the bullet",
+            "meaning": "To decide to do something difficult or unpleasant that one has been putting off.",
+            "example": "I'm going to bite the bullet and finally go to the dentist.",
+            "pronounce": "baɪt ðə ˈbʊlət"
+          },
+          {
+            "_id": "b_0022",
+            "idiom": "Bite the dust",
+            "meaning": "To fail, be defeated, or die.",
+            "example": "My old computer finally bit the dust.",
+            "pronounce": "baɪt ðə dəst"
+          },
+          {
+            "_id": "b_0023",
+            "idiom": "Bite your tongue",
+            "meaning": "To stop yourself from saying something that you want to say.",
+            "example": "I had to bite my tongue to keep from criticizing his work.",
+            "pronounce": "baɪt jʊr təŋ"
+          },
+          {
+            "_id": "b_0024",
+            "idiom": "Black sheep of the family",
+            "meaning": "A person who is considered a disgrace or embarrassment to their family.",
+            "example": "He was the black sheep of the family, always getting into trouble.",
+            "pronounce": "blæk ʃip əv ðə ˈfæməli"
+          },
+          {
+            "_id": "b_0025",
+            "idiom": "Blaze a trail",
+            "meaning": "To do something that has never been done before; to be a pioneer.",
+            "example": "She blazed a trail for women in science.",
+            "pronounce": "bleɪz ə treɪl"
+          },
+          {
+            "_id": "b_0026",
+            "idiom": "Blind as a bat",
+            "meaning": "Having very poor eyesight.",
+            "example": "Without my glasses, I'm as blind as a bat.",
+            "pronounce": "blaɪnd ɛz ə bæt"
+          },
+          {
+            "_id": "b_0027",
+            "idiom": "Blood is thicker than water",
+            "meaning": "Family relationships are stronger and more important than other types of relationships.",
+            "example": "I have to help my brother, even though he's in the wrong. Blood is thicker than water.",
+            "pronounce": "bləd ɪz ˈθɪkər ðən ˈwɔtər"
+          },
+          {
+            "_id": "b_0028",
+            "idiom": "Blow hot and cold",
+            "meaning": "To change one's mind or mood frequently.",
+            "example": "I can't tell if he likes me or not; he keeps blowing hot and cold.",
+            "pronounce": "bloʊ hɑt ənd koʊld"
+          },
+          {
+            "_id": "b_0029",
+            "idiom": "Blow off steam",
+            "meaning": "To do something to get rid of strong feelings or energy.",
+            "example": "I went for a run to blow off steam after a stressful day at work.",
+            "pronounce": "bloʊ ɔf stim"
+          },
+          {
+            "_id": "b_0030",
+            "idiom": "Blow your own trumpet",
+            "meaning": "To boast about one's own achievements.",
+            "example": "He's always blowing his own trumpet, telling everyone how successful he is.",
+            "pronounce": "bloʊ jʊr oʊn ˈtrəmpət"
+          },
+          {
+            "_id": "b_0031",
+            "idiom": "Blue in the face",
+            "meaning": "Weak and pale from exhaustion or effort.",
+            "example": "I argued with him until I was blue in the face, but he wouldn't change his mind.",
+            "pronounce": "blu ɪn ðə feɪs"
+          },
+          {
+            "_id": "b_0032",
+            "idiom": "Bolt from the blue",
+            "meaning": "A complete and unexpected surprise.",
+            "example": "The news of their engagement came as a bolt from the blue.",
+            "pronounce": "boʊlt frəm ðə blu"
+          },
+          {
+            "_id": "b_0033",
+            "idiom": "Born with a silver spoon in one's mouth",
+            "meaning": "Born into a wealthy and privileged family.",
+            "example": "She never had to work a day in her life; she was born with a silver spoon in her mouth.",
+            "pronounce": "bɔrn wɪθ ə ˈsɪlvər spun ɪn wənz maʊθ"
+          },
+          {
+            "_id": "b_0034",
+            "idiom": "Break a leg",
+            "meaning": "A way of wishing someone good luck, especially an actor or performer.",
+            "example": "Just before she went on stage, I told her, 'Break a leg!'",
+            "pronounce": "breɪk ə lɛg"
+          },
+          {
+            "_id": "b_0035",
+            "idiom": "Break the ice",
+            "meaning": "To do or say something to relieve tension or get conversation started in a social situation.",
+            "example": "He told a joke to break the ice at the start of the meeting.",
+            "pronounce": "breɪk ðə aɪs"
+          },
+          {
+            "_id": "b_0036",
+            "idiom": "Bring home the bacon",
+            "meaning": "To earn money for a family to live on.",
+            "example": "Now that I have a job, I can finally bring home the bacon.",
+            "pronounce": "brɪŋ hoʊm ðə ˈbeɪkən"
+          },
+          {
+            "_id": "b_0037",
+            "idiom": "Burn bridges",
+            "meaning": "To do something that makes it impossible to return to a previous situation.",
+            "example": "Don't burn your bridges by quitting your job in an angry outburst.",
+            "pronounce": "bərn ˈbrɪʤɪz"
+          },
+          {
+            "_id": "b_0038",
+            "idiom": "Burn the midnight oil",
+            "meaning": "To work or study late into the night.",
+            "example": "I have to burn the midnight oil to finish this report by tomorrow.",
+            "pronounce": "bərn ðə ˈmɪdˌnaɪt ɔɪl"
+          },
+          {
+            "_id": "b_0039",
+            "idiom": "Bury the hatchet",
+            "meaning": "To end a quarrel or conflict and become friends again.",
+            "example": "After years of fighting, they finally decided to bury the hatchet.",
+            "pronounce": "ˈbɛri ðə ˈhæʧət"
+          },
+          {
+            "_id": "b_0040",
+            "idiom": "Butterflies in one's stomach",
+            "meaning": "A feeling of nervousness or excitement.",
+            "example": "I always get butterflies in my stomach before a big presentation.",
+            "pronounce": "ˈbətərˌflaɪz ɪn wənz ˈstəmək"
+          },
+          {
+            "_id": "b_0041",
+            "idiom": "By the skin of your teeth",
+            "meaning": "By a very narrow margin; only just.",
+            "example": "He passed the exam by the skin of his teeth.",
+            "pronounce": "baɪ ðə skɪn əv jʊr tiθ"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "C",
+        "idioms": [
+          {
+            "_id": "c_0001",
+            "idiom": "Call it a day",
+            "meaning": "To stop working on something.",
+            "example": "We've been working for ten hours. Let's call it a day.",
+            "pronounce": "kɔl ɪt ə deɪ"
+          },
+          {
+            "_id": "c_0002",
+            "idiom": "Call the shots",
+            "meaning": "To be the person in charge and make the important decisions.",
+            "example": "The director is the one who calls the shots on a film set.",
+            "pronounce": "kɔl ðə ʃɑts"
+          },
+          {
+            "_id": "c_0003",
+            "idiom": "Can't judge a book by its cover",
+            "meaning": "You cannot know what someone or something is like just by looking at their outward appearance.",
+            "example": "He may look scruffy, but he's a brilliant scientist. You can't judge a book by its cover.",
+            "pronounce": "kænt ʤəʤ ə bʊk baɪ ɪts ˈkəvər"
+          },
+          {
+            "_id": "c_0004",
+            "idiom": "Cat got your tongue?",
+            "meaning": "A question asked to someone who is unusually quiet.",
+            "example": "You're very quiet today. Cat got your tongue?",
+            "pronounce": "kæt gɑt jʊr təŋ?"
+          },
+          {
+            "_id": "c_0005",
+            "idiom": "Caught red-handed",
+            "meaning": "To be caught in the act of doing something wrong.",
+            "example": "The thief was caught red-handed with the stolen jewelry in his bag.",
+            "pronounce": "kɔt ˈrɛˈdhændɪd"
+          },
+          {
+            "_id": "c_0006",
+            "idiom": "Chew the fat",
+            "meaning": "To have a long, friendly chat.",
+            "example": "We spent the evening chewing the fat about old times.",
+            "pronounce": "ʧu ðə fæt"
+          },
+          {
+            "_id": "c_0007",
+            "idiom": "Chip on your shoulder",
+            "meaning": "To seem angry all the time because you think you have been treated unfairly.",
+            "example": "He's had a chip on his shoulder ever since he was passed over for the promotion.",
+            "pronounce": "ʧɪp ɔn jʊr ˈʃoʊldər"
+          },
+          {
+            "_id": "c_0008",
+            "idiom": "Close but no cigar",
+            "meaning": "To be very close to succeeding but failing at the end.",
+            "example": "I almost won the race, but I was overtaken at the last second. Close but no cigar.",
+            "pronounce": "kloʊz bət noʊ sɪˈgɑr"
+          },
+          {
+            "_id": "c_0009",
+            "idiom": "Cold feet",
+            "meaning": "To lose the courage to do something you had planned to do.",
+            "example": "He got cold feet and canceled the wedding at the last minute.",
+            "pronounce": "koʊld fit"
+          },
+          {
+            "_id": "c_0010",
+            "idiom": "Come rain or shine",
+            "meaning": "Whatever happens; in any circumstances.",
+            "example": "I'll be there to support you, come rain or shine.",
+            "pronounce": "kəm reɪn ər ʃaɪn"
+          },
+          {
+            "_id": "c_0011",
+            "idiom": "Cost a pretty penny",
+            "meaning": "To be very expensive.",
+            "example": "Her new diamond ring must have cost a pretty penny.",
+            "pronounce": "kɔst ə ˈprɪti ˈpɛni"
+          },
+          {
+            "_id": "c_0012",
+            "idiom": "Couch potato",
+            "meaning": "A person who spends a lot of time sitting or lying on the couch, watching television.",
+            "example": "My brother is a real couch potato; he can watch TV for hours.",
+            "pronounce": "kaʊʧ pəˈteɪˌtoʊ"
+          },
+          {
+            "_id": "c_0013",
+            "idiom": "Cream of the crop",
+            "meaning": "The best of a particular group.",
+            "example": "The students accepted into this university are the cream of the crop.",
+            "pronounce": "krim əv ðə krɑp"
+          },
+          {
+            "_id": "c_0014",
+            "idiom": "Crocodile tears",
+            "meaning": "Tears or expressions of sorrow that are insincere.",
+            "example": "She shed crocodile tears over her rival's misfortune.",
+            "pronounce": "ˈkrɑkəˌdaɪl tɪrz"
+          },
+          {
+            "_id": "c_0015",
+            "idiom": "Cross that bridge when you come to it",
+            "meaning": "To deal with a problem when it happens, rather than worrying about it beforehand.",
+            "example": "I don't know how we'll pay for college yet, but we'll cross that bridge when we come to it.",
+            "pronounce": "krɔs ðət brɪʤ wɪn ju kəm tɪ ɪt"
+          },
+          {
+            "_id": "c_0016",
+            "idiom": "Cry over spilt milk",
+            "meaning": "To be unhappy about something that has already happened and cannot be changed.",
+            "example": "The mistake is done. There's no use crying over spilt milk.",
+            "pronounce": "kraɪ ˈoʊvər spɪlt mɪlk"
+          },
+          {
+            "_id": "c_0017",
+            "idiom": "Cry wolf",
+            "meaning": "To ask for help when you don't need it, with the result that people don't believe you when you really are in trouble.",
+            "example": "If you keep crying wolf, no one will come to help you when you're really in danger.",
+            "pronounce": "kraɪ wʊlf"
+          },
+          {
+            "_id": "c_0018",
+            "idiom": "Curiosity killed the cat",
+            "meaning": "Being too curious can lead you into trouble.",
+            "example": "I know you want to know what's in the box, but remember, curiosity killed the cat.",
+            "pronounce": "ˌkjʊriˈɑsəti kɪld ðə kæt"
+          },
+          {
+            "_id": "c_0019",
+            "idiom": "Cut corners",
+            "meaning": "To do something in the easiest, cheapest, or fastest way, often by ignoring rules or quality.",
+            "example": "The company cut corners on safety, which led to the accident.",
+            "pronounce": "kət ˈkɔrnərz"
+          },
+          {
+            "_id": "c_0020",
+            "idiom": "Cut to the chase",
+            "meaning": "To get to the most important part of something without wasting time.",
+            "example": "I don't have much time, so let's cut to the chase. What do you want?",
+            "pronounce": "kət tɪ ðə ʧeɪs"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "D",
+        "idioms": [
+          {
+            "_id": "d_0001",
+            "idiom": "Dark horse",
+            "meaning": "A candidate or competitor about whom little is known but who unexpectedly succeeds.",
+            "example": "She was a dark horse in the election, but she won by a landslide.",
+            "pronounce": "dɑrk hɔrs"
+          },
+          {
+            "_id": "d_0002",
+            "idiom": "Dead as a doornail",
+            "meaning": "Completely dead or no longer in use.",
+            "example": "I checked the battery, and it's as dead as a doornail.",
+            "pronounce": "dɛd ɛz ə ˈdɔrˌneɪl"
+          },
+          {
+            "_id": "d_0003",
+            "idiom": "Devil’s advocate",
+            "meaning": "A person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments.",
+            "example": "I agree with your plan, but let me play devil's advocate for a moment.",
+            "pronounce": "devil’s* ˈædvəˌkeɪt"
+          },
+          {
+            "_id": "d_0004",
+            "idiom": "Don't count your chickens before they hatch",
+            "meaning": "You should not make plans that depend on something good happening before you know that it has actually happened.",
+            "example": "You might get the job, but don't count your chickens before they hatch.",
+            "pronounce": "doʊnt kaʊnt jʊr ˈʧɪkənz ˌbiˈfɔr ðeɪ hæʧ"
+          },
+          {
+            "_id": "d_0005",
+            "idiom": "Don't give up your day job",
+            "meaning": "A humorous way of telling someone that they are not very good at something.",
+            "example": "Your singing is terrible. Don't give up your day job.",
+            "pronounce": "doʊnt gɪv əp jʊr deɪ ʤɑb"
+          },
+          {
+            "_id": "d_0006",
+            "idiom": "Don't look a gift horse in the mouth",
+            "meaning": "Don't be ungrateful or critical when you receive a gift.",
+            "example": "I know the sweater isn't your style, but don't look a gift horse in the mouth.",
+            "pronounce": "doʊnt lʊk ə gɪft hɔrs ɪn ðə maʊθ"
+          },
+          {
+            "_id": "d_0007",
+            "idiom": "Don't throw the baby out with the bathwater",
+            "meaning": "To discard something valuable along with something undesirable.",
+            "example": "We should reform the system, but let's not throw the baby out with the bathwater.",
+            "pronounce": "doʊnt θroʊ ðə ˈbeɪbi aʊt wɪθ ðə bathwater*"
+          },
+          {
+            "_id": "d_0008",
+            "idiom": "Down in the dumps",
+            "meaning": "Feeling unhappy or depressed.",
+            "example": "He's been down in the dumps ever since his team lost the championship.",
+            "pronounce": "daʊn ɪn ðə dəmps"
+          },
+          {
+            "_id": "d_0009",
+            "idiom": "Down to the wire",
+            "meaning": "Until the very last moment.",
+            "example": "The game went down to the wire, with the winning basket scored in the final second.",
+            "pronounce": "daʊn tɪ ðə waɪər"
+          },
+          {
+            "_id": "d_0010",
+            "idiom": "Dressed to the nines",
+            "meaning": "To be wearing very stylish and elegant clothes.",
+            "example": "They were all dressed to the nines for the wedding.",
+            "pronounce": "drɛst tɪ ðə naɪnz"
+          },
+          {
+            "_id": "d_0011",
+            "idiom": "Drive someone up the wall",
+            "meaning": "To make someone extremely annoyed or irritated.",
+            "example": "The constant noise from the neighbors is driving me up the wall.",
+            "pronounce": "draɪv ˈsəmˌwən əp ðə wɔl"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "E",
+        "idioms": [
+          {
+            "_id": "e_0001",
+            "idiom": "Easy come, easy go",
+            "meaning": "Something that is acquired easily is also lost easily.",
+            "example": "He won $100 at the casino and lost it all in the next game. Easy come, easy go.",
+            "pronounce": "ˈizi kəm, ˈizi goʊ"
+          },
+          {
+            "_id": "e_0002",
+            "idiom": "Eat humble pie",
+            "meaning": "To admit that you were wrong and apologize.",
+            "example": "After his prediction failed, he had to eat humble pie.",
+            "pronounce": "it ˈhəmbəl paɪ"
+          },
+          {
+            "_id": "e_0003",
+            "idiom": "Elephant in the room",
+            "meaning": "An obvious and major problem or controversial issue that no one wants to discuss.",
+            "example": "His gambling addiction was the elephant in the room that the family never talked about.",
+            "pronounce": "ˈɛləfənt ɪn ðə rum"
+          },
+          {
+            "_id": "e_0004",
+            "idiom": "Every cloud has a silver lining",
+            "meaning": "Every difficult or unpleasant situation has some comforting or hopeful aspect.",
+            "example": "I was sad to lose my job, but now I have more time for my family. Every cloud has a silver lining.",
+            "pronounce": "ˈɛvəri klaʊd həz ə ˈsɪlvər ˈlaɪnɪŋ"
+          },
+          {
+            "_id": "e_0005",
+            "idiom": "Every dog has its day",
+            "meaning": "Everyone will have a moment of success or good fortune eventually.",
+            "example": "Don't worry, you'll get your chance to shine. Every dog has its day.",
+            "pronounce": "ˈɛvəri dɔg həz ɪts deɪ"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "F",
+        "idioms": [
+          {
+            "_id": "f_0001",
+            "idiom": "Face the music",
+            "meaning": "To accept criticism or punishment for something you have done.",
+            "example": "After he was caught cheating, he had to face the music.",
+            "pronounce": "feɪs ðə mˈjuzɪk"
+          },
+          {
+            "_id": "f_0002",
+            "idiom": "Feather in your cap",
+            "meaning": "An achievement to be proud of.",
+            "example": "Winning the national competition was a real feather in her cap.",
+            "pronounce": "ˈfɛðər ɪn jʊr kæp"
+          },
+          {
+            "_id": "f_0003",
+            "idiom": "Fifth wheel",
+            "meaning": "An unneeded or unwanted person in a situation.",
+            "example": "I felt like a fifth wheel when I went out with my friend and her boyfriend.",
+            "pronounce": "fɪθ wil"
+          },
+          {
+            "_id": "f_0004",
+            "idiom": "Fight fire with fire",
+            "meaning": "To use the same methods as your opponent to defeat them.",
+            "example": "They started a negative ad campaign, so we had to fight fire with fire.",
+            "pronounce": "faɪt faɪər wɪθ faɪər"
+          },
+          {
+            "_id": "f_0005",
+            "idiom": "Fight tooth and nail",
+            "meaning": "To fight with great ferocity and determination.",
+            "example": "They fought tooth and nail to protect their homes from the developers.",
+            "pronounce": "faɪt tuθ ənd neɪl"
+          },
+          {
+            "_id": "f_0006",
+            "idiom": "First come, first served",
+            "meaning": "People will be served or dealt with in the order in which they arrive.",
+            "example": "The tickets are limited, and it's first come, first served.",
+            "pronounce": "fərst kəm, fərst sərvd"
+          },
+          {
+            "_id": "f_0007",
+            "idiom": "Fish out of water",
+            "meaning": "A person who feels uncomfortable or out of place in their surroundings.",
+            "example": "As a country boy in the big city, he felt like a fish out of water.",
+            "pronounce": "fɪʃ aʊt əv ˈwɔtər"
+          },
+          {
+            "_id": "f_0008",
+            "idiom": "Fit as a fiddle",
+            "meaning": "To be in very good health.",
+            "example": "My grandfather is 90 years old, but he's still as fit as a fiddle.",
+            "pronounce": "fɪt ɛz ə ˈfɪdəl"
+          },
+          {
+            "_id": "f_0009",
+            "idiom": "Flesh and blood",
+            "meaning": "A person's family or relatives.",
+            "example": "I can't turn my back on him; he's my own flesh and blood.",
+            "pronounce": "flɛʃ ənd bləd"
+          },
+          {
+            "_id": "f_0010",
+            "idiom": "Fly off the handle",
+            "meaning": "To lose one's temper suddenly and unexpectedly.",
+            "example": "He flew off the handle when he saw the dent in his new car.",
+            "pronounce": "flaɪ ɔf ðə ˈhændəl"
+          },
+          {
+            "_id": "f_0011",
+            "idiom": "Foot the bill",
+            "meaning": "To pay for something, especially when it is expensive.",
+            "example": "His parents had to foot the bill for his college education.",
+            "pronounce": "fʊt ðə bɪl"
+          },
+          {
+            "_id": "f_0012",
+            "idiom": "From rags to riches",
+            "meaning": "The process of rising from a state of poverty to one of great wealth.",
+            "example": "His is a classic rags-to-riches story of a poor immigrant who became a millionaire.",
+            "pronounce": "frəm rægz tɪ ˈrɪʧɪz"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "G",
+        "idioms": [
+          {
+            "_id": "g_0001",
+            "idiom": "Get a second wind",
+            "meaning": "To have a new burst of energy after being tired.",
+            "example": "I was exhausted after the first half of the race, but I got a second wind and finished strong.",
+            "pronounce": "gɪt ə ˈsɛkənd wɪnd"
+          },
+          {
+            "_id": "g_0002",
+            "idiom": "Get off scot-free",
+            "meaning": "To escape from a situation without any punishment or harm.",
+            "example": "He caused the accident, but he got off scot-free because of a legal loophole.",
+            "pronounce": "gɪt ɔf scot-free*"
+          },
+          {
+            "_id": "g_0003",
+            "idiom": "Get something off your chest",
+            "meaning": "To tell someone about something that has been worrying you.",
+            "example": "I need to get something off my chest. I'm not happy at my job.",
+            "pronounce": "gɪt ˈsəmθɪŋ ɔf jʊr ʧɛst"
+          },
+          {
+            "_id": "g_0004",
+            "idiom": "Get the ball rolling",
+            "meaning": "To start a process or activity.",
+            "example": "Let's get the ball rolling on this project with a brainstorming session.",
+            "pronounce": "gɪt ðə bɔl ˈroʊlɪŋ"
+          },
+          {
+            "_id": "g_0005",
+            "idiom": "Get wind of something",
+            "meaning": "To hear a piece of information, especially a secret.",
+            "example": "The press got wind of the secret negotiations.",
+            "pronounce": "gɪt wɪnd əv ˈsəmθɪŋ"
+          },
+          {
+            "_id": "g_0006",
+            "idiom": "Give the benefit of the doubt",
+            "meaning": "To believe that someone is honest or innocent, even if you are not sure.",
+            "example": "I'll give him the benefit of the doubt and assume he had a good reason for being late.",
+            "pronounce": "gɪv ðə ˈbɛnəfɪt əv ðə daʊt"
+          },
+          {
+            "_id": "g_0007",
+            "idiom": "Go down in flames",
+            "meaning": "To fail spectacularly.",
+            "example": "His ambitious new business went down in flames within a year.",
+            "pronounce": "goʊ daʊn ɪn fleɪmz"
+          },
+          {
+            "_id": "g_0008",
+            "idiom": "Go the extra mile",
+            "meaning": "To make a special effort to achieve something.",
+            "example": "She always goes the extra mile to help her students.",
+            "pronounce": "goʊ ðə ˈɛkstrə maɪl"
+          },
+          {
+            "_id": "g_0009",
+            "idiom": "Go with the flow",
+            "meaning": "To be relaxed and accept a situation, rather than trying to control it.",
+            "example": "I don't have a plan for the vacation; I'm just going to go with the flow.",
+            "pronounce": "goʊ wɪθ ðə floʊ"
+          },
+          {
+            "_id": "g_0010",
+            "idiom": "Good things come to those who wait",
+            "meaning": "Patience will be rewarded.",
+            "example": "It took a long time to get the promotion, but good things come to those who wait.",
+            "pronounce": "gʊd θɪŋz kəm tɪ ðoʊz hu weɪt"
+          },
+          {
+            "_id": "g_0011",
+            "idiom": "Graveyard shift",
+            "meaning": "A work shift that runs through the early hours of the morning, such as from midnight to 8 a.m.",
+            "example": "He works the graveyard shift at the factory.",
+            "pronounce": "ˈgreɪvˌjɑrd ʃɪft"
+          },
+          {
+            "_id": "g_0012",
+            "idiom": "Great minds think alike",
+            "meaning": "Said when two people have the same clever idea.",
+            "example": "You want to go for pizza? I was just thinking the same thing! Great minds think alike.",
+            "pronounce": "greɪt maɪndz θɪŋk əˈlaɪk"
+          },
+          {
+            "_id": "g_0013",
+            "idiom": "Green thumb",
+            "meaning": "A natural talent for growing plants.",
+            "example": "My grandmother has a real green thumb; her garden is beautiful.",
+            "pronounce": "grin θəm"
+          },
+          {
+            "_id": "g_0014",
+            "idiom": "Green with envy",
+            "meaning": "To be very jealous or envious.",
+            "example": "I was green with envy when I saw her new sports car.",
+            "pronounce": "grin wɪθ ˈɛnvi"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "H",
+        "idioms": [
+          {
+            "_id": "h_0001",
+            "idiom": "Hand to mouth",
+            "meaning": "To have just enough money to live on and nothing extra.",
+            "example": "They were living hand to mouth after he lost his job.",
+            "pronounce": "hænd tɪ maʊθ"
+          },
+          {
+            "_id": "h_0002",
+            "idiom": "Hang in there",
+            "meaning": "An expression of encouragement to someone in a difficult situation to persevere.",
+            "example": "I know things are tough right now, but hang in there. It will get better.",
+            "pronounce": "hæŋ ɪn ðɛr"
+          },
+          {
+            "_id": "h_0003",
+            "idiom": "Haste makes waste",
+            "meaning": "Acting too quickly may result in a poor result.",
+            "example": "He rushed the job and had to do it all over again. Haste makes waste.",
+            "pronounce": "heɪst meɪks weɪst"
+          },
+          {
+            "_id": "h_0004",
+            "idiom": "Have a bone to pick",
+            "meaning": "To have a grievance that needs to be discussed.",
+            "example": "I have a bone to pick with you about the mess you left in the kitchen.",
+            "pronounce": "hæv ə boʊn tɪ pɪk"
+          },
+          {
+            "_id": "h_0005",
+            "idiom": "Have bigger fish to fry",
+            "meaning": "To have more important things to do.",
+            "example": "I can't worry about that small detail; I have bigger fish to fry.",
+            "pronounce": "hæv ˈbɪgər fɪʃ tɪ fraɪ"
+          },
+          {
+            "_id": "h_0006",
+            "idiom": "Have your head in the clouds",
+            "meaning": "To be unaware of what is going on because you are daydreaming or have unrealistic ideas.",
+            "example": "She's always got her head in the clouds, dreaming of being a famous actress.",
+            "pronounce": "hæv jʊr hɛd ɪn ðə klaʊdz"
+          },
+          {
+            "_id": "h_0007",
+            "idiom": "He who laughs last, laughs best",
+            "meaning": "The person who has the final success is the most triumphant.",
+            "example": "They mocked his idea, but now his company is worth millions. He who laughs last, laughs best.",
+            "pronounce": "hi hu læfs læst, læfs bɛst"
+          },
+          {
+            "_id": "h_0008",
+            "idiom": "Head over heels",
+            "meaning": "Deeply in love.",
+            "example": "He fell head over heels for her the moment they met.",
+            "pronounce": "hɛd ˈoʊvər hilz"
+          },
+          {
+            "_id": "h_0009",
+            "idiom": "Heard it on the grapevine",
+            "meaning": "To hear a rumor or piece of information from an informal source.",
+            "example": "I heard on the grapevine that they're getting married.",
+            "pronounce": "hərd ɪt ɔn ðə ˈgreɪpˌvaɪn"
+          },
+          {
+            "_id": "h_0010",
+            "idiom": "Hit the books",
+            "meaning": "To study, especially with intensity.",
+            "example": "I have a big exam tomorrow, so I need to hit the books tonight.",
+            "pronounce": "hɪt ðə bʊks"
+          },
+          {
+            "_id": "h_0011",
+            "idiom": "Hit the nail on the head",
+            "meaning": "To say something that is exactly right or to do something in the most effective way.",
+            "example": "You hit the nail on the head when you said the problem was a lack of communication.",
+            "pronounce": "hɪt ðə neɪl ɔn ðə hɛd"
+          },
+          {
+            "_id": "h_0012",
+            "idiom": "Hit the road",
+            "meaning": "To leave or start a journey.",
+            "example": "It's getting late; we should probably hit the road.",
+            "pronounce": "hɪt ðə roʊd"
+          },
+          {
+            "_id": "h_0013",
+            "idiom": "Hit the sack",
+            "meaning": "To go to bed.",
+            "example": "I'm exhausted. I'm going to hit the sack.",
+            "pronounce": "hɪt ðə sæk"
+          },
+          {
+            "_id": "h_0014",
+            "idiom": "Hold your horses",
+            "meaning": "Wait a moment; be patient.",
+            "example": "Hold your horses! Let's think about this before we make a decision.",
+            "pronounce": "hoʊld jʊr ˈhɔrsɪz"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "I",
+        "idioms": [
+          {
+            "_id": "i_0001",
+            "idiom": "If it ain't broke, don't fix it",
+            "meaning": "Do not try to improve something that already works well.",
+            "example": "Our current system is efficient. If it ain't broke, don't fix it.",
+            "pronounce": "ɪf ɪt eɪnt broʊk, doʊnt fɪks ɪt"
+          },
+          {
+            "_id": "i_0002",
+            "idiom": "In a nutshell",
+            "meaning": "In a very brief and concise way.",
+            "example": "In a nutshell, the project was a complete success.",
+            "pronounce": "ɪn ə ˈnətˌʃɛl"
+          },
+          {
+            "_id": "i_0003",
+            "idiom": "In the bag",
+            "meaning": "Certain to be achieved or won.",
+            "example": "With a 20-point lead, the victory is in the bag.",
+            "pronounce": "ɪn ðə bæg"
+          },
+          {
+            "_id": "i_0004",
+            "idiom": "In the blink of an eye",
+            "meaning": "Extremely quickly.",
+            "example": "The car disappeared in the blink of an eye.",
+            "pronounce": "ɪn ðə blɪŋk əv ən aɪ"
+          },
+          {
+            "_id": "i_0005",
+            "idiom": "In the doghouse",
+            "meaning": "In disgrace or in someone's bad graces.",
+            "example": "I'm in the doghouse for forgetting our anniversary.",
+            "pronounce": "ɪn ðə ˈdɔˌghaʊs"
+          },
+          {
+            "_id": "i_0006",
+            "idiom": "In the nick of time",
+            "meaning": "At the very last possible moment.",
+            "example": "We arrived at the airport in the nick of time and just made our flight.",
+            "pronounce": "ɪn ðə nɪk əv taɪm"
+          },
+          {
+            "_id": "i_0007",
+            "idiom": "It takes two to tango",
+            "meaning": "Both people in a disagreement are responsible.",
+            "example": "She blames him for the argument, but it takes two to tango.",
+            "pronounce": "ɪt teɪks tu tɪ ˈtæŋgoʊ"
+          },
+          {
+            "_id": "i_0008",
+            "idiom": "It's not rocket science",
+            "meaning": "It is not difficult to understand or do.",
+            "example": "Just follow the instructions; it's not rocket science.",
+            "pronounce": "ɪts nɑt ˈrɑkət saɪəns"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "J",
+        "idioms": [
+          {
+            "_id": "j_0001",
+            "idiom": "Jack of all trades, master of none",
+            "meaning": "A person who has a wide range of skills but is not an expert in any of them.",
+            "example": "He can fix a car, build a shelf, and cook a meal, but he's a jack of all trades, master of none.",
+            "pronounce": "ʤæk əv ɔl treɪdz, ˈmæstər əv nən"
+          },
+          {
+            "_id": "j_0002",
+            "idiom": "Jump on the bandwagon",
+            "meaning": "To join a popular activity or trend.",
+            "example": "After the team won the championship, a lot of people jumped on the bandwagon.",
+            "pronounce": "ʤəmp ɔn ðə ˈbændˌwægən"
+          },
+          {
+            "_id": "j_0003",
+            "idiom": "Jump the gun",
+            "meaning": "To do something too soon, before the right time.",
+            "example": "He jumped the gun and announced the news before it was official.",
+            "pronounce": "ʤəmp ðə gən"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "K",
+        "idioms": [
+          {
+            "_id": "k_0001",
+            "idiom": "Keep your chin up",
+            "meaning": "To remain cheerful in a difficult situation.",
+            "example": "I know you're disappointed, but keep your chin up. You'll do better next time.",
+            "pronounce": "kip jʊr ʧɪn əp"
+          },
+          {
+            "_id": "k_0002",
+            "idiom": "Keep your fingers crossed",
+            "meaning": "To hope for good luck.",
+            "example": "Keep your fingers crossed that I get the job.",
+            "pronounce": "kip jʊr ˈfɪŋgərz krɔst"
+          },
+          {
+            "_id": "k_0003",
+            "idiom": "Kick the bucket",
+            "meaning": "To die.",
+            "example": "My old cat finally kicked the bucket last night.",
+            "pronounce": "kɪk ðə ˈbəkɪt"
+          },
+          {
+            "_id": "k_0004",
+            "idiom": "Kill two birds with one stone",
+            "meaning": "To achieve two things with a single action.",
+            "example": "I can kill two birds with one stone by listening to an audiobook while I exercise.",
+            "pronounce": "kɪl tu bərdz wɪθ wən stoʊn"
+          },
+          {
+            "_id": "k_0005",
+            "idiom": "Knock on wood",
+            "meaning": "Said in order to avoid bad luck, either when you state a hope or a boast.",
+            "example": "I've never been in a car accident, knock on wood.",
+            "pronounce": "nɑk ɔn wʊd"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "L",
+        "idioms": [
+          {
+            "_id": "l_0001",
+            "idiom": "Last straw",
+            "meaning": "The final problem in a series of problems that makes a situation unbearable.",
+            "example": "His constant lateness was bad enough, but missing the important meeting was the last straw.",
+            "pronounce": "læst strɔ"
+          },
+          {
+            "_id": "l_0002",
+            "idiom": "Laughter is the best medicine",
+            "meaning": "Laughter can help you feel better.",
+            "example": "Even though he was sick, watching a funny movie made him feel better. Laughter is the best medicine.",
+            "pronounce": "ˈlæftər ɪz ðə bɛst ˈmɛdəsən"
+          },
+          {
+            "_id": "l_0003",
+            "idiom": "Leave no stone unturned",
+            "meaning": "To do everything possible to find something or to solve a problem.",
+            "example": "The police will leave no stone unturned in their search for the missing child.",
+            "pronounce": "liv noʊ stoʊn ənˈtərnd"
+          },
+          {
+            "_id": "l_0004",
+            "idiom": "Let bygones be bygones",
+            "meaning": "To forgive someone for something they did in the past.",
+            "example": "Let's forget our argument and let bygones be bygones.",
+            "pronounce": "lɛt ˈbaɪˌgɔnz bi ˈbaɪˌgɔnz"
+          },
+          {
+            "_id": "l_0005",
+            "idiom": "Let sleeping dogs lie",
+            "meaning": "To avoid restarting a conflict or argument.",
+            "example": "I wanted to bring up the old issue, but I decided to let sleeping dogs lie.",
+            "pronounce": "lɛt sˈlipɪŋ dɔgz laɪ"
+          },
+          {
+            "_id": "l_0006",
+            "idiom": "Let the cat out of the bag",
+            "meaning": "To reveal a secret carelessly or by mistake.",
+            "example": "He let the cat out of the bag about the surprise party.",
+            "pronounce": "lɛt ðə kæt aʊt əv ðə bæg"
+          },
+          {
+            "_id": "l_0007",
+            "idiom": "Light at the end of the tunnel",
+            "meaning": "A sign of hope for an end to a difficult situation.",
+            "example": "After months of unemployment, the job offer was a light at the end of the tunnel.",
+            "pronounce": "laɪt æt ðə ɛnd əv ðə ˈtənəl"
+          },
+          {
+            "_id": "l_0008",
+            "idiom": "Like a bull in a china shop",
+            "meaning": "To be very clumsy and careless in a place where things are delicate.",
+            "example": "The little boy ran through the museum like a bull in a china shop.",
+            "pronounce": "laɪk ə bʊl ɪn ə ˈʧaɪnə ʃɑp"
+          },
+          {
+            "_id": "l_0009",
+            "idiom": "Like two peas in a pod",
+            "meaning": "To be very similar, especially in appearance.",
+            "example": "The twin sisters are like two peas in a pod.",
+            "pronounce": "laɪk tu piz ɪn ə pɑd"
+          },
+          {
+            "_id": "l_0010",
+            "idiom": "Live and learn",
+            "meaning": "To learn from your mistakes.",
+            "example": "I'll never trust him again. You live and learn.",
+            "pronounce": "lɪv ənd lərn"
+          },
+          {
+            "_id": "l_0011",
+            "idiom": "Look before you leap",
+            "meaning": "To think carefully about the possible consequences before taking action.",
+            "example": "You should look before you leap when making a major life decision.",
+            "pronounce": "lʊk ˌbiˈfɔr ju lip"
+          },
+          {
+            "_id": "l_0012",
+            "idiom": "Lose your touch",
+            "meaning": "To no longer have the skill or ability to do something that you were once good at.",
+            "example": "The famous author seems to have lost his touch with his latest novel.",
+            "pronounce": "luz jʊr təʧ"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "M",
+        "idioms": [
+          {
+            "_id": "m_0001",
+            "idiom": "Make a mountain out of a molehill",
+            "meaning": "To exaggerate the importance of a small problem.",
+            "example": "You're making a mountain out of a molehill. It was just a small mistake.",
+            "pronounce": "meɪk ə ˈmaʊntən aʊt əv ə ˈmoʊˌlhɪl"
+          },
+          {
+            "_id": "m_0002",
+            "idiom": "Make ends meet",
+            "meaning": "To have just enough money to pay for the things you need.",
+            "example": "It's hard to make ends meet on a minimum wage salary.",
+            "pronounce": "meɪk ɛndz mit"
+          },
+          {
+            "_id": "m_0003",
+            "idiom": "Make hay while the sun shines",
+            "meaning": "To make good use of an opportunity while it lasts.",
+            "example": "The weather is perfect for a picnic, so let's make hay while the sun shines.",
+            "pronounce": "meɪk heɪ waɪl ðə sən ʃaɪnz"
+          },
+          {
+            "_id": "m_0004",
+            "idiom": "Miss the boat",
+            "meaning": "To lose an opportunity by not acting quickly enough.",
+            "example": "The tickets sold out in an hour. We missed the boat.",
+            "pronounce": "mɪs ðə boʊt"
+          },
+          {
+            "_id": "m_0005",
+            "idiom": "Money doesn't grow on trees",
+            "meaning": "Money is a limited resource and should not be wasted.",
+            "example": "My kids always want new toys, but I have to remind them that money doesn't grow on trees.",
+            "pronounce": "ˈməni ˈdəzənt groʊ ɔn triz"
+          },
+          {
+            "_id": "m_0006",
+            "idiom": "Move heaven and earth",
+            "meaning": "To do everything possible to achieve something.",
+            "example": "He would move heaven and earth for his children.",
+            "pronounce": "muv ˈhɛvən ənd ərθ"
+          },
+          {
+            "_id": "m_0007",
+            "idiom": "Mum's the word",
+            "meaning": "A request or promise to keep something a secret.",
+            "example": "Don't tell anyone about the surprise. Mum's the word.",
+            "pronounce": "məmz ðə wərd"
+          },
+          {
+            "_id": "m_0008",
+            "idiom": "Murphy's Law",
+            "meaning": "The principle that if something can go wrong, it will.",
+            "example": "I was already late, and then my car wouldn't start. It's Murphy's Law.",
+            "pronounce": "ˈmərfiz lɔ"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "N",
+        "idioms": [
+          {
+            "_id": "n_0001",
+            "idiom": "Necessity is the mother of invention",
+            "meaning": "When you really need something, you will find a way to create it.",
+            "example": "He fixed the broken pipe with duct tape and a plastic bottle. Necessity is the mother of invention.",
+            "pronounce": "nəˈsɛsɪti ɪz ðə ˈməðər əv ˌɪnˈvɛnʃən"
+          },
+          {
+            "_id": "n_0002",
+            "idiom": "No pain, no gain",
+            "meaning": "You have to work hard to achieve something.",
+            "example": "I'm sore from my workout, but no pain, no gain.",
+            "pronounce": "noʊ peɪn, noʊ geɪn"
+          },
+          {
+            "_id": "n_0003",
+            "idiom": "No strings attached",
+            "meaning": "Something that is given without any conditions or expectations of a return.",
+            "example": "The offer of help came with no strings attached.",
+            "pronounce": "noʊ strɪŋz əˈtæʧt"
+          },
+          {
+            "_id": "n_0004",
+            "idiom": "No-brainer",
+            "meaning": "A decision or question that is very easy to make or answer.",
+            "example": "Accepting the job offer was a no-brainer.",
+            "pronounce": "ˌnoʊˈbreɪnər"
+          },
+          {
+            "_id": "n_0005",
+            "idiom": "Not one's cup of tea",
+            "meaning": "Not what one likes or is interested in.",
+            "example": "Horror movies are not my cup of tea.",
+            "pronounce": "nɑt wənz kəp əv ti"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "O",
+        "idioms": [
+          {
+            "_id": "o_0001",
+            "idiom": "Off the hook",
+            "meaning": "No longer in trouble or having to deal with a difficult situation.",
+            "example": "He was a suspect in the robbery, but his alibi got him off the hook.",
+            "pronounce": "ɔf ðə hʊk"
+          },
+          {
+            "_id": "o_0002",
+            "idiom": "On cloud nine",
+            "meaning": "Extremely happy and excited.",
+            "example": "She was on cloud nine after getting engaged.",
+            "pronounce": "ɔn klaʊd naɪn"
+          },
+          {
+            "_id": "o_0003",
+            "idiom": "On pins and needles",
+            "meaning": "In a state of nervous anticipation.",
+            "example": "I've been on pins and needles all day waiting for the test results.",
+            "pronounce": "ɔn pɪnz ənd ˈnidəlz"
+          },
+          {
+            "_id": "o_0004",
+            "idiom": "On the back burner",
+            "meaning": "To be given low priority; to be postponed.",
+            "example": "The project has been put on the back burner until we get more funding.",
+            "pronounce": "ɔn ðə bæk ˈbərnər"
+          },
+          {
+            "_id": "o_0005",
+            "idiom": "On the fence",
+            "meaning": "Undecided about something.",
+            "example": "I'm on the fence about whether to buy a new car or not.",
+            "pronounce": "ɔn ðə fɛns"
+          },
+          {
+            "_id": "o_0006",
+            "idiom": "On the same page",
+            "meaning": "To be in agreement or to have the same understanding.",
+            "example": "Let's have a meeting to make sure everyone is on the same page.",
+            "pronounce": "ɔn ðə seɪm peɪʤ"
+          },
+          {
+            "_id": "o_0007",
+            "idiom": "Once in a blue moon",
+            "meaning": "Very rarely.",
+            "example": "I only see my cousins once in a blue moon.",
+            "pronounce": "wəns ɪn ə blu mun"
+          },
+          {
+            "_id": "o_0008",
+            "idiom": "Open a can of worms",
+            "meaning": "To create a situation that will cause a lot of problems.",
+            "example": "Asking about the company's finances would be opening a can of worms.",
+            "pronounce": "ˈoʊpən ə kən əv wərmz"
+          },
+          {
+            "_id": "o_0009",
+            "idiom": "Out of the blue",
+            "meaning": "Completely unexpectedly.",
+            "example": "He called me out of the blue after ten years.",
+            "pronounce": "aʊt əv ðə blu"
+          },
+          {
+            "_id": "o_0010",
+            "idiom": "Over my dead body",
+            "meaning": "An expression of strong opposition to something.",
+            "example": "You'll sell this house over my dead body.",
+            "pronounce": "ˈoʊvər maɪ dɛd ˈbɑdi"
+          },
+          {
+            "_id": "o_0011",
+            "idiom": "Over the moon",
+            "meaning": "Extremely pleased and happy.",
+            "example": "She was over the moon with her new puppy.",
+            "pronounce": "ˈoʊvər ðə mun"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "P",
+        "idioms": [
+          {
+            "_id": "p_0001",
+            "idiom": "Paint the town red",
+            "meaning": "To go out and enjoy oneself in a lively and extravagant way.",
+            "example": "Let's go out and paint the town red tonight to celebrate your promotion.",
+            "pronounce": "peɪnt ðə taʊn rɛd"
+          },
+          {
+            "_id": "p_0002",
+            "idiom": "Pass the buck",
+            "meaning": "To shift responsibility or blame to someone else.",
+            "example": "Don't try to pass the buck; this was your mistake.",
+            "pronounce": "pæs ðə bək"
+          },
+          {
+            "_id": "p_0003",
+            "idiom": "Pass with flying colors",
+            "meaning": "To pass something, like an exam, with a very high score.",
+            "example": "She passed her driving test with flying colors.",
+            "pronounce": "pæs wɪθ flaɪɪŋ ˈkələrz"
+          },
+          {
+            "_id": "p_0004",
+            "idiom": "Picture perfect",
+            "meaning": "Perfect in every detail.",
+            "example": "The sunset over the ocean was a picture-perfect moment.",
+            "pronounce": "ˈpɪkʧər ˈpərˌfɪkt"
+          },
+          {
+            "_id": "p_0005",
+            "idiom": "Pipe dream",
+            "meaning": "An unrealistic hope or plan.",
+            "example": "His plan to become a rock star is just a pipe dream.",
+            "pronounce": "paɪp drim"
+          },
+          {
+            "_id": "p_0006",
+            "idiom": "Play it by ear",
+            "meaning": "To decide how to deal with a situation as it develops, rather than planning in advance.",
+            "example": "I don't know what we'll do tomorrow; we'll just have to play it by ear.",
+            "pronounce": "pleɪ ɪt baɪ ɪr"
+          },
+          {
+            "_id": "p_0007",
+            "idiom": "Practice makes perfect",
+            "meaning": "Regularly doing something is the only way to become good at it.",
+            "example": "You need to keep practicing the piano. Practice makes perfect.",
+            "pronounce": "ˈpræktɪs meɪks ˈpərˌfɪkt"
+          },
+          {
+            "_id": "p_0008",
+            "idiom": "Pull someone's leg",
+            "meaning": "To joke with someone by telling them something that is not true.",
+            "example": "Is it really your birthday, or are you just pulling my leg?",
+            "pronounce": "pʊl ˈsəmˌwənz lɛg"
+          },
+          {
+            "_id": "p_0009",
+            "idiom": "Put all your eggs in one basket",
+            "meaning": "To risk everything on the success of one venture or plan.",
+            "example": "You shouldn't invest all your money in one stock. Don't put all your eggs in one basket.",
+            "pronounce": "pʊt ɔl jʊr ɛgz ɪn wən ˈbæskət"
+          },
+          {
+            "_id": "p_0010",
+            "idiom": "Put your foot in your mouth",
+            "meaning": "To say something embarrassing, foolish, or tactless.",
+            "example": "I really put my foot in my mouth when I asked her about her husband, not knowing they had divorced.",
+            "pronounce": "pʊt jʊr fʊt ɪn jʊr maʊθ"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "R",
+        "idioms": [
+          {
+            "_id": "r_0001",
+            "idiom": "Rain on someone’s parade",
+            "meaning": "To spoil someone's pleasure or plans.",
+            "example": "I don't want to rain on your parade, but the party has been canceled.",
+            "pronounce": "reɪn ɔn someone’s* pəreɪd"
+          },
+          {
+            "_id": "r_0002",
+            "idiom": "Read between the lines",
+            "meaning": "To understand the hidden meaning in something.",
+            "example": "She said she was fine, but reading between the lines, I could tell she was upset.",
+            "pronounce": "rɛd bɪtˈwin ðə laɪnz"
+          },
+          {
+            "_id": "r_0003",
+            "idiom": "Red herring",
+            "meaning": "Something that is intended to be misleading or distracting.",
+            "example": "The clue was a red herring designed to throw the detectives off the track.",
+            "pronounce": "rɛd ˈhɛrɪŋ"
+          },
+          {
+            "_id": "r_0004",
+            "idiom": "Red tape",
+            "meaning": "Excessive bureaucracy or adherence to official rules and formalities.",
+            "example": "It took months to get the permit because of all the red tape.",
+            "pronounce": "rɛd teɪp"
+          },
+          {
+            "_id": "r_0005",
+            "idiom": "Reinvent the wheel",
+            "meaning": "To waste time and effort creating something that has already been created.",
+            "example": "We don't need to reinvent the wheel; we can use the existing software.",
+            "pronounce": "ˌriɪnˈvɛnt ðə wil"
+          },
+          {
+            "_id": "r_0006",
+            "idiom": "Ring a bell",
+            "meaning": "To sound familiar.",
+            "example": "The name rings a bell, but I can't remember where I've heard it.",
+            "pronounce": "rɪŋ ə bɛl"
+          },
+          {
+            "_id": "r_0007",
+            "idiom": "Rock the boat",
+            "meaning": "To do or say something that will upset people or cause trouble.",
+            "example": "Everything is going smoothly, so don't rock the boat.",
+            "pronounce": "rɑk ðə boʊt"
+          },
+          {
+            "_id": "r_0008",
+            "idiom": "Rome wasn't built in a day",
+            "meaning": "It takes a long time to do a large or important job.",
+            "example": "Be patient with your progress. Rome wasn't built in a day.",
+            "pronounce": "roʊm ˈwəzənt bɪlt ɪn ə deɪ"
+          },
+          {
+            "_id": "r_0009",
+            "idiom": "Rule of thumb",
+            "meaning": "A broadly accurate guide or principle, based on practice rather than theory.",
+            "example": "As a rule of thumb, you should add a teaspoon of salt for every cup of flour.",
+            "pronounce": "rul əv θəm"
+          },
+          {
+            "_id": "r_0010",
+            "idiom": "Run of the mill",
+            "meaning": "Ordinary and not special or exciting in any way.",
+            "example": "It was just a run-of-the-mill detective story.",
+            "pronounce": "rən əv ðə mɪl"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "S",
+        "idioms": [
+          {
+            "_id": "s_0001",
+            "idiom": "Save for a rainy day",
+            "meaning": "To save money for a time when it might be needed unexpectedly.",
+            "example": "I always put some of my paycheck aside to save for a rainy day.",
+            "pronounce": "seɪv fər ə ˈreɪni deɪ"
+          },
+          {
+            "_id": "s_0002",
+            "idiom": "Saved by the bell",
+            "meaning": "Rescued from a difficult situation at the last moment.",
+            "example": "I was about to answer the difficult question when the fire alarm rang. I was saved by the bell.",
+            "pronounce": "seɪvd baɪ ðə bɛl"
+          },
+          {
+            "_id": "s_0003",
+            "idiom": "Scapegoat",
+            "meaning": "A person who is blamed for the wrongdoings, mistakes, or faults of others.",
+            "example": "They made him the scapegoat for the company's failure.",
+            "pronounce": "ˈskeɪpˌgoʊt"
+          },
+          {
+            "_id": "s_0004",
+            "idiom": "See eye to eye",
+            "meaning": "To agree with someone.",
+            "example": "We don't always see eye to eye, but we respect each other's opinions.",
+            "pronounce": "si aɪ tɪ aɪ"
+          },
+          {
+            "_id": "s_0005",
+            "idiom": "Set in one's ways",
+            "meaning": "To be unwilling to change one's habits, ideas, or methods.",
+            "example": "My grandfather is very set in his ways.",
+            "pronounce": "sɛt ɪn wənz weɪz"
+          },
+          {
+            "_id": "s_0006",
+            "idiom": "Shake a leg",
+            "meaning": "To hurry up.",
+            "example": "Shake a leg! We're going to be late.",
+            "pronounce": "ʃeɪk ə lɛg"
+          },
+          {
+            "_id": "s_0007",
+            "idiom": "Shoot for the stars",
+            "meaning": "To aim for a very high or ambitious goal.",
+            "example": "You should always shoot for the stars and try to achieve your dreams.",
+            "pronounce": "ʃut fər ðə stɑrz"
+          },
+          {
+            "_id": "s_0008",
+            "idiom": "Sick as a dog",
+            "meaning": "To be extremely ill.",
+            "example": "I ate some bad seafood and was as sick as a dog all night.",
+            "pronounce": "sɪk ɛz ə dɔg"
+          },
+          {
+            "_id": "s_0009",
+            "idiom": "Sink or swim",
+            "meaning": "To fail or succeed by one's own efforts.",
+            "example": "After a brief training, the new employees were left to sink or swim.",
+            "pronounce": "sɪŋk ər swɪm"
+          },
+          {
+            "_id": "s_0010",
+            "idiom": "Sit on the fence",
+            "meaning": "To avoid making a decision or choice.",
+            "example": "You can't sit on the fence any longer; you have to decide whose side you're on.",
+            "pronounce": "sɪt ɔn ðə fɛns"
+          },
+          {
+            "_id": "s_0011",
+            "idiom": "Skeleton in the closet",
+            "meaning": "A shameful or embarrassing secret from the past.",
+            "example": "Every family has a skeleton in the closet.",
+            "pronounce": "ˈskɛlətən ɪn ðə ˈklɑzət"
+          },
+          {
+            "_id": "s_0012",
+            "idiom": "Sleep like a log",
+            "meaning": "To sleep very deeply.",
+            "example": "After the long hike, I slept like a log.",
+            "pronounce": "slip laɪk ə lɔg"
+          },
+          {
+            "_id": "s_0013",
+            "idiom": "Smell a rat",
+            "meaning": "To suspect that something is wrong or that someone is being dishonest.",
+            "example": "He's being too friendly. I smell a rat.",
+            "pronounce": "smɛl ə ræt"
+          },
+          {
+            "_id": "s_0014",
+            "idiom": "Speak of the devil",
+            "meaning": "Said when a person who has just been mentioned appears unexpectedly.",
+            "example": "I was just telling her about you, and here you are! Speak of the devil.",
+            "pronounce": "spik əv ðə ˈdɛvəl"
+          },
+          {
+            "_id": "s_0015",
+            "idiom": "Spill the beans",
+            "meaning": "To reveal a secret.",
+            "example": "Come on, spill the beans! What's the big news?",
+            "pronounce": "spɪl ðə binz"
+          },
+          {
+            "_id": "s_0016",
+            "idiom": "Spitting image",
+            "meaning": "The exact likeness of another person.",
+            "example": "He is the spitting image of his father.",
+            "pronounce": "ˈspɪtɪŋ ˈɪmɪʤ"
+          },
+          {
+            "_id": "s_0017",
+            "idiom": "Stab someone in the back",
+            "meaning": "To betray someone who trusts you.",
+            "example": "I can't believe he stabbed me in the back by telling my boss my idea was his.",
+            "pronounce": "stæb ˈsəmˌwən ɪn ðə bæk"
+          },
+          {
+            "_id": "s_0018",
+            "idiom": "Steal someone's thunder",
+            "meaning": "To take credit for someone else's achievement or to do something that takes attention away from what someone else has done.",
+            "example": "She stole my thunder by announcing her engagement right after I announced mine.",
+            "pronounce": "stil ˈsəmˌwənz ˈθəndər"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "T",
+        "idioms": [
+          {
+            "_id": "t_0001",
+            "idiom": "Take it with a grain of salt",
+            "meaning": "To not completely believe something that you are told.",
+            "example": "You should take his stories with a grain of salt; he tends to exaggerate.",
+            "pronounce": "teɪk ɪt wɪθ ə greɪn əv sɔlt"
+          },
+          {
+            "_id": "t_0002",
+            "idiom": "Take the bull by the horns",
+            "meaning": "To deal with a difficult situation in a direct and confident way.",
+            "example": "It's time to take the bull by the horns and confront him about his behavior.",
+            "pronounce": "teɪk ðə bʊl baɪ ðə hɔrnz"
+          },
+          {
+            "_id": "t_0003",
+            "idiom": "That's the way the cookie crumbles",
+            "meaning": "That's the way things happen, and you can't do anything about it.",
+            "example": "I'm disappointed I didn't get the job, but that's the way the cookie crumbles.",
+            "pronounce": "ðæts ðə weɪ ðə ˈkʊki ˈkrəmbəlz"
+          },
+          {
+            "_id": "t_0004",
+            "idiom": "The ball is in your court",
+            "meaning": "It is your turn to make a move or decision.",
+            "example": "I've done all I can. The ball is in your court now.",
+            "pronounce": "ðə bɔl ɪz ɪn jʊr kɔrt"
+          },
+          {
+            "_id": "t_0005",
+            "idiom": "The coast is clear",
+            "meaning": "There is no danger of being seen or caught.",
+            "example": "You can come out now; the coast is clear.",
+            "pronounce": "ðə koʊst ɪz klɪr"
+          },
+          {
+            "_id": "t_0006",
+            "idiom": "The devil is in the details",
+            "meaning": "The small, seemingly insignificant details of something can be the source of major problems.",
+            "example": "The plan seems good, but the devil is in the details.",
+            "pronounce": "ðə ˈdɛvəl ɪz ɪn ðə ˈditeɪlz"
+          },
+          {
+            "_id": "t_0007",
+            "idiom": "The early bird catches the worm",
+            "meaning": "The person who arrives first has the best chance of success.",
+            "example": "We need to get to the sale early. The early bird catches the worm.",
+            "pronounce": "ðə ˈərli bərd ˈkæʧɪz ðə wərm"
+          },
+          {
+            "_id": "t_0008",
+            "idiom": "The icing on the cake",
+            "meaning": "Something that makes a good situation even better.",
+            "example": "Winning the award was great, and the prize money was the icing on the cake.",
+            "pronounce": "ðə ˈaɪsɪŋ ɔn ðə keɪk"
+          },
+          {
+            "_id": "t_0009",
+            "idiom": "The pot calling the kettle black",
+            "meaning": "Criticizing someone for a fault that you also have.",
+            "example": "You're calling me lazy? That's the pot calling the kettle black.",
+            "pronounce": "ðə pɑt ˈkɔlɪŋ ðə ˈkɛtəl blæk"
+          },
+          {
+            "_id": "t_0010",
+            "idiom": "The whole nine yards",
+            "meaning": "Everything possible or available.",
+            "example": "He ordered a pizza with everything on it - the whole nine yards.",
+            "pronounce": "ðə hoʊl naɪn jɑrdz"
+          },
+          {
+            "_id": "t_0011",
+            "idiom": "There’s no smoke without fire",
+            "meaning": "There is usually some basis for a rumor, even if it is not entirely true.",
+            "example": "I don't know if the rumors are true, but there's no smoke without fire.",
+            "pronounce": "there’s* noʊ smoʊk wɪˈθaʊt faɪər"
+          },
+          {
+            "_id": "t_0012",
+            "idiom": "Throw caution to the wind",
+            "meaning": "To behave in a reckless or impulsive way.",
+            "example": "He threw caution to the wind and quit his job to travel the world.",
+            "pronounce": "θroʊ ˈkɔʃən tɪ ðə wɪnd"
+          },
+          {
+            "_id": "t_0013",
+            "idiom": "Throw in the towel",
+            "meaning": "To give up or admit defeat.",
+            "example": "After hours of trying to fix the computer, I finally threw in the towel and called a professional.",
+            "pronounce": "θroʊ ɪn ðə taʊəl"
+          },
+          {
+            "_id": "t_0014",
+            "idiom": "Tie the knot",
+            "meaning": "To get married.",
+            "example": "They're planning to tie the knot next summer.",
+            "pronounce": "taɪ ðə nɑt"
+          },
+          {
+            "_id": "t_0015",
+            "idiom": "Time flies",
+            "meaning": "Time passes very quickly.",
+            "example": "I can't believe it's already December. Time flies.",
+            "pronounce": "taɪm flaɪz"
+          },
+          {
+            "_id": "t_0016",
+            "idiom": "To each their own",
+            "meaning": "Everyone has their own preferences and opinions.",
+            "example": "I don't like his taste in music, but to each their own.",
+            "pronounce": "tɪ iʧ ðɛr oʊn"
+          },
+          {
+            "_id": "t_0017",
+            "idiom": "Tongue-in-cheek",
+            "meaning": "Meant to be understood as a joke, although it may seem serious.",
+            "example": "His comment was clearly tongue-in-cheek, but she took it seriously.",
+            "pronounce": "tongue-in-cheek*"
+          },
+          {
+            "_id": "t_0018",
+            "idiom": "Turn a blind eye",
+            "meaning": "To pretend not to notice something that you know is wrong.",
+            "example": "The teacher turned a blind eye to the students cheating on the test.",
+            "pronounce": "tərn ə blaɪnd aɪ"
+          },
+          {
+            "_id": "t_0019",
+            "idiom": "Twist someone’s arm",
+            "meaning": "To persuade or convince someone to do something they are reluctant to do.",
+            "example": "I didn't want to go to the party, but he twisted my arm.",
+            "pronounce": "twɪst someone’s* ɑrm"
+          },
+          {
+            "_id": "t_0020",
+            "idiom": "Two wrongs don't make a right",
+            "meaning": "It is not acceptable to do something bad to someone just because they did something bad to you.",
+            "example": "Just because he was rude to you doesn't mean you should be rude to him. Two wrongs don't make a right.",
+            "pronounce": "tu rɔŋz doʊnt meɪk ə raɪt"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "U",
+        "idioms": [
+          {
+            "_id": "u_0001",
+            "idiom": "Under the weather",
+            "meaning": "Slightly unwell or in low spirits.",
+            "example": "I'm feeling a bit under the weather today, so I'm going to stay home.",
+            "pronounce": "ˈəndər ðə ˈwɛðər"
+          },
+          {
+            "_id": "u_0002",
+            "idiom": "Up a creek without a paddle",
+            "meaning": "In a difficult situation with no easy way out.",
+            "example": "If my car breaks down here, I'll be up a creek without a paddle.",
+            "pronounce": "əp ə krik wɪˈθaʊt ə ˈpædəl"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "W",
+        "idioms": [
+          {
+            "_id": "w_0001",
+            "idiom": "Walk on eggshells",
+            "meaning": "To be very careful not to offend someone or do anything wrong.",
+            "example": "I'm always walking on eggshells around my boss.",
+            "pronounce": "wɔk ɔn ˈɛgˌʃɛlz"
+          },
+          {
+            "_id": "w_0002",
+            "idiom": "Water under the bridge",
+            "meaning": "Past events that are no longer important and have been forgiven or forgotten.",
+            "example": "We used to argue a lot, but that's all water under the bridge now.",
+            "pronounce": "ˈwɔtər ˈəndər ðə brɪʤ"
+          },
+          {
+            "_id": "w_0003",
+            "idiom": "Wear your heart on your sleeve",
+            "meaning": "To make your feelings and emotions obvious to others.",
+            "example": "She's not one to hide her emotions; she wears her heart on her sleeve.",
+            "pronounce": "wɛr jʊr hɑrt ɔn jʊr sliv"
+          },
+          {
+            "_id": "w_0004",
+            "idiom": "When in Rome, do as the Romans do",
+            "meaning": "When you are in a new place or situation, you should follow the customs of the people there.",
+            "example": "I don't usually eat with my hands, but when in Rome, do as the Romans do.",
+            "pronounce": "wɪn ɪn roʊm, du ɛz ðə ˈroʊmənz du"
+          },
+          {
+            "_id": "w_0005",
+            "idiom": "When pigs fly",
+            "meaning": "Something that will never happen.",
+            "example": "He'll clean his room when pigs fly.",
+            "pronounce": "wɪn pɪgz flaɪ"
+          },
+          {
+            "_id": "w_0006",
+            "idiom": "White lie",
+            "meaning": "A harmless lie told to avoid hurting someone's feelings.",
+            "example": "I told her a white lie and said I liked her new haircut.",
+            "pronounce": "waɪt laɪ"
+          },
+          {
+            "_id": "w_0007",
+            "idiom": "Wild goose chase",
+            "meaning": "A foolish and hopeless search for something that is impossible to find.",
+            "example": "He sent me on a wild goose chase to find a book that doesn't exist.",
+            "pronounce": "waɪld gus ʧeɪs"
+          },
+          {
+            "_id": "w_0008",
+            "idiom": "With flying colors",
+            "meaning": "With great success.",
+            "example": "She passed the exam with flying colors.",
+            "pronounce": "wɪθ flaɪɪŋ ˈkələrz"
+          },
+          {
+            "_id": "w_0009",
+            "idiom": "Wrap your head around it",
+            "meaning": "To succeed in understanding something that is complicated or strange.",
+            "example": "I'm still trying to wrap my head around the new company policy.",
+            "pronounce": "ræp jʊr hɛd əraʊnd ɪt"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "Y",
+        "idioms": [
+          {
+            "_id": "y_0001",
+            "idiom": "You can't make an omelet without breaking some eggs",
+            "meaning": "It is impossible to achieve something important without causing some minor problems or making some sacrifices.",
+            "example": "Some people will lose their jobs in the restructuring, but you can't make an omelet without breaking some eggs.",
+            "pronounce": "ju kænt meɪk ən ˈɑmlət wɪˈθaʊt ˈbreɪkɪŋ səm ɛgz"
+          },
+          {
+            "_id": "y_0002",
+            "idiom": "You can’t have your cake and eat it too",
+            "meaning": "You cannot have two contradictory things at the same time.",
+            "example": "You can't have your cake and eat it too; you either work less and earn less, or work more and earn more.",
+            "pronounce": "ju can’t* hæv jʊr keɪk ənd it ɪt tu"
+          },
+          {
+            "_id": "y_0003",
+            "idiom": "You snooze, you lose",
+            "meaning": "If you are not alert and quick, you will miss opportunities.",
+            "example": "The tickets were sold out in an hour. You snooze, you lose.",
+            "pronounce": "ju snuz, ju luz"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "Z",
+        "idioms": [
+          {
+            "_id": "z_0001",
+            "idiom": "Zip your lip",
+            "meaning": "To stop talking; to keep a secret.",
+            "example": "Zip your lip! You're not supposed to tell anyone about this.",
+            "pronounce": "zɪp jʊr lɪp"
+          }
+        ]
+      }
+    ]
+  }
+}

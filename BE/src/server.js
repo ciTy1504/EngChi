@@ -3,6 +3,7 @@ const express = require('express');
 const dotenv = require('dotenv');
 const cors = require('cors');
 const connectDB = require('./config/db');
+const { errorHandler } = require('./middleware/errorHandler');
 
 // Load env vars
 dotenv.config();
@@ -14,7 +15,7 @@ const authRoutes = require('./routes/auth.routes');
 const lessonRoutes = require('./routes/lesson.routes');
 const aiRoutes = require('./routes/ai.routes');
 const vocabRoutes = require('./routes/vocab.routes');
-
+const idiomRoutes = require('./routes/idiom.routes');
 const app = express();
 
 // Body parser
@@ -28,6 +29,9 @@ app.use('/api/auth', authRoutes);
 app.use('/api/lessons', lessonRoutes);
 app.use('/api/ai', aiRoutes);
 app.use('/api/vocab', vocabRoutes);
+app.use('/api/idioms', idiomRoutes);
+
+app.use(errorHandler);
 
 const PORT = process.env.PORT || 5000;
 

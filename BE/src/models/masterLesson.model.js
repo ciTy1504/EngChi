@@ -49,6 +49,20 @@ const TheoryItemSchema = new mongoose.Schema({
     children: { type: [this], default: undefined }, 
 });
 
+// TẠO SCHEMA CON CHO IDIOM
+const IdiomItemSchema = new mongoose.Schema({
+    _id: { type: String, required: true }, // Có thể dùng nanoid để tạo
+    idiom: { type: String, required: true },
+    meaning: { type: String, required: true },
+    example: { type: String },
+    pronounce: { type: String },
+}, { _id: false });
+
+const IdiomCategorySchema = new mongoose.Schema({
+    categoryTitle: { type: String, required: true }, // 'A', 'B', 'C'...
+    idioms: [IdiomItemSchema],
+}, { _id: false });
+
 
 // --- MASTER LESSON SCHEMA
 const MasterLessonSchema = new mongoose.Schema({
@@ -58,7 +72,7 @@ const MasterLessonSchema = new mongoose.Schema({
   type: {
     type: String,
     required: true,
-    enum: ['vocab', 'translation', 'reading', 'grammar'],
+    enum: ['vocab', 'translation', 'reading', 'grammar', 'idiom'],
   },
   level: { type: String },
   order: { type: Number, default: 0 },
@@ -70,6 +84,8 @@ const MasterLessonSchema = new mongoose.Schema({
     
     grammarTheory: { type: [TheoryItemSchema], default: undefined },
     grammarQuestions: { type: [QuestionSchema], default: undefined }, 
+
+    categories: { type: [IdiomCategorySchema], default: undefined },
   },
 
   version: { type: Number, default: 1 },

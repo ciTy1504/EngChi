@@ -36,11 +36,14 @@ const QuizResults = ({ results, progressId, lesson, language, isReviewMode }) =>
         const initialActions = {};
         results.forEach(result => {
             if (result.isCorrect) {
-                initialActions[result.wordData.word] = 'keep';
+                // SỬA: Phân biệt trạng thái mặc định cho chế độ học thường và chế độ review
+                // - Chế độ học thường: Mặc định là đã thuộc ('delete')
+                // - Chế độ review: Mặc định là giữ lại để ôn tiếp ('keep')
+                initialActions[result.wordData.word] = isReviewMode ? 'keep' : 'delete';
             }
         });
         setWordActions(initialActions);
-    }, [results]);
+    }, [results, isReviewMode]);
 
 
     const handleActionChange = (word, newAction) => {
@@ -50,67 +53,69 @@ const QuizResults = ({ results, progressId, lesson, language, isReviewMode }) =>
     const handleUpdateProgress = async () => {
         setIsUpdating(true);
         try {
-            const wordsToDeleteByLesson = {};
-            const wordsToReviewByLesson = {};
-            const wordsToRemoveFromReview = {}; 
-
+            const wordsToDelete = [];
+            const wordsToReview = [];
+            
             results.forEach(result => {
-                if (result.isCorrect) {
-                    const action = wordActions[result.wordData.word];
-                    const lessonId = isReviewMode ? result.masterLessonId : lesson._id;
+                const action = wordActions[result.wordData.word];
+                const lessonId = result.masterLessonId;
+                const word = result.wordData.word;
 
-                    if (action === 'delete') {
-                        if (!wordsToDeleteByLesson[lessonId]) wordsToDeleteByLesson[lessonId] = [];
-                        wordsToDeleteByLesson[lessonId].push(result.wordData.word);
-                    } 
-                    else if (action === 'review') {
-                        if (!wordsToReviewByLesson[lessonId]) wordsToReviewByLesson[lessonId] = [];
-                        wordsToReviewByLesson[lessonId].push({ word: result.wordData.word, masterLessonId: lessonId });
-                    }
-                    else if (action === 'review_and_delete') {
-                        if (!wordsToDeleteByLesson[lessonId]) wordsToDeleteByLesson[lessonId] = [];
-                        if (!wordsToReviewByLesson[lessonId]) wordsToReviewByLesson[lessonId] = [];
-                        wordsToDeleteByLesson[lessonId].push(result.wordData.word);
-                        wordsToReviewByLesson[lessonId].push({ word: result.wordData.word, masterLessonId: lessonId });
-                    }
-
-                    if (isReviewMode && (action === 'delete' || action === 'review_and_delete')) {
-                        if (!wordsToRemoveFromReview[lessonId]) wordsToRemoveFromReview[lessonId] = [];
-                        wordsToRemoveFromReview[lessonId].push(result.wordData.word);
-                    }
+                if (result.isCorrect && action === 'delete') {
+                    wordsToDelete.push({ word, lessonId });
+                } 
+                else if (result.isCorrect && action === 'review') {
+                    wordsToReview.push({ word, masterLessonId: lessonId });
                 }
             });
 
             const updatePromises = [];
-            const progressIdsCache = {}; 
+            const progressIdsCache = {};
 
             const getProgressId = async (lessonId) => {
                 if (progressIdsCache[lessonId]) return progressIdsCache[lessonId];
                 if (!isReviewMode) {
-                    progressIdsCache[lessonId] = progressId;
-                    return progressId;
+                     progressIdsCache[lessonId] = progressId;
+                     return progressId;
                 }
-                const res = await apiService(`/lessons/${lessonId}/start`);
-                const pId = res.userProgress?._id;
-                progressIdsCache[lessonId] = pId;
-                return pId;
+                 const res = await apiService(`/lessons/${lessonId}/start`);
+                 const pId = res.userProgress?._id;
+                 progressIdsCache[lessonId] = pId;
+                 return pId;
             };
 
-            for (const lessonId in wordsToDeleteByLesson) {
+            // Nhóm các từ theo lessonId để gọi API hiệu quả hơn
+            const groupWordsByLesson = (words) => {
+                return words.reduce((acc, { word, lessonId }) => {
+                    if (!acc[lessonId]) acc[lessonId] = [];
+                    acc[lessonId].push(word);
+                    return acc;
+                }, {});
+            };
+            
+            const groupedWordsToDelete = groupWordsByLesson(wordsToDelete);
+            
+            for (const lessonId in groupedWordsToDelete) {
                 const pId = await getProgressId(lessonId);
-                if (pId) updatePromises.push(apiService(`/lessons/progress/${pId}`, { method: 'PUT', body: JSON.stringify({ action: 'delete_words', payload: { words: wordsToDeleteByLesson[lessonId] } }) }));
-            }
-            for (const lessonId in wordsToReviewByLesson) {
-                const pId = await getProgressId(lessonId);
-                if (pId) updatePromises.push(apiService(`/lessons/progress/${pId}`, { method: 'PUT', body: JSON.stringify({ action: 'review_words', payload: { words: wordsToReviewByLesson[lessonId] } }) }));
-            }
-            if (isReviewMode) {
-                for (const lessonId in wordsToRemoveFromReview) {
-                    const pId = await getProgressId(lessonId);
-                    if (pId) updatePromises.push(apiService(`/lessons/progress/${pId}`, { method: 'PUT', body: JSON.stringify({ action: 'remove_review_words', payload: { words: wordsToRemoveFromReview[lessonId] } }) }));
+                if (pId) {
+                    const wordsForLesson = groupedWordsToDelete[lessonId];
+                    if (isReviewMode) {
+                        // Trong chế độ review, cần xóa khỏi review list và thêm vào deleted list
+                        updatePromises.push(apiService(`/lessons/progress/${pId}`, { method: 'PUT', body: JSON.stringify({ action: 'remove_review_words', payload: { words: wordsForLesson } }) }));
+                    } else {
+                        // Trong chế độ học thường, chỉ cần thêm vào deleted list
+                        updatePromises.push(apiService(`/lessons/progress/${pId}`, { method: 'PUT', body: JSON.stringify({ action: 'delete_words', payload: { words: wordsForLesson } }) }));
+                    }
                 }
             }
             
+            if (!isReviewMode && wordsToReview.length > 0) {
+                 const pId = await getProgressId(lesson._id);
+                 if(pId) {
+                    updatePromises.push(apiService(`/lessons/progress/${pId}`, { method: 'PUT', body: JSON.stringify({ action: 'review_words', payload: { words: wordsToReview } }) }));
+                 }
+            }
+
             await Promise.all(updatePromises);
 
             toast.success(t.quiz_results_save_success);
@@ -174,46 +179,22 @@ const QuizResults = ({ results, progressId, lesson, language, isReviewMode }) =>
                                         isSelected={wordActions[result.wordData.word] === 'keep'}
                                         colorClasses={{ selectedBg: 'bg-blue-500', selectedText: 'text-white', selectedBorder: 'border-blue-600' }}
                                     />
-
-                                    <ActionButton
-                                        text={t.quiz_results_action_review}
-                                        icon={<BookmarkIcon />}
-                                        onClick={() => {
-                                            const currentAction = wordActions[result.wordData.word];
-                                            let newAction;
-                                            if (currentAction === 'review') {
-                                                newAction = 'keep'; 
-                                            } else if (currentAction === 'review_and_delete') {
-                                                newAction = 'delete'; 
-                                            } else if (currentAction === 'delete') {
-                                                newAction = 'review_and_delete'; 
-                                            } else {
-                                                newAction = 'review';
-                                            }
-                                            handleActionChange(result.wordData.word, newAction);
-                                        }}
-                                        isSelected={wordActions[result.wordData.word] === 'review' || wordActions[result.wordData.word] === 'review_and_delete'}
-                                        colorClasses={{ selectedBg: 'bg-purple-500', selectedText: 'text-white', selectedBorder: 'border-purple-600' }}
-                                    />
+                                    
+                                    {!isReviewMode && (
+                                        <ActionButton
+                                            text={t.quiz_results_action_review}
+                                            icon={<BookmarkIcon />}
+                                            onClick={() => handleActionChange(result.wordData.word, 'review')}
+                                            isSelected={wordActions[result.wordData.word] === 'review'}
+                                            colorClasses={{ selectedBg: 'bg-purple-500', selectedText: 'text-white', selectedBorder: 'border-purple-600' }}
+                                        />
+                                    )}
 
                                     <ActionButton
                                         text={t.quiz_results_action_delete}
                                         icon={<CheckIcon />}
-                                        onClick={() => {
-                                            const currentAction = wordActions[result.wordData.word];
-                                            let newAction;
-                                            if (currentAction === 'delete') {
-                                                newAction = 'keep'; 
-                                            } else if (currentAction === 'review_and_delete') {
-                                                newAction = 'review'; 
-                                            } else if (currentAction === 'review') {
-                                                newAction = 'review_and_delete';
-                                            } else {
-                                                newAction = 'delete'; 
-                                            }
-                                            handleActionChange(result.wordData.word, newAction);
-                                        }}
-                                        isSelected={wordActions[result.wordData.word] === 'delete' || wordActions[result.wordData.word] === 'review_and_delete'}
+                                        onClick={() => handleActionChange(result.wordData.word, 'delete')}
+                                        isSelected={wordActions[result.wordData.word] === 'delete'}
                                         colorClasses={{ selectedBg: 'bg-green-500', selectedText: 'text-white', selectedBorder: 'border-green-600' }}
                                     />
                                 </div>

@@ -97,7 +97,6 @@ export const translations = {
 
     // QuizResults
     loading_results: 'Loading results or missing data...',
-    quiz_results_action_delete: "Delete (Mastered)",
     quiz_results_action_delete: "Mastered",
     quiz_results_action_keep: "Keep Reviewing",
     quiz_results_action_review: "Review Later",

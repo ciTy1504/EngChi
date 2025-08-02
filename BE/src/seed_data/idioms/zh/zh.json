@@ -1,0 +1,4594 @@
+{
+  "title": "Chinese Idiom Library",
+  "language": "zh",
+  "type": "idiom",
+  "content": {
+    "categories": [
+      {
+        "categoryTitle": "A",
+        "idioms": [
+          {
+            "_id": "a_001",
+            "idiom": "爱屋及乌",
+            "meaning": "比喻因为爱一个人而连带地关心与他有关的人或物。",
+            "example": "她非常喜欢她的老师，爱屋及乌，连老师教的科目也学得特别好。",
+            "pronounce": "ài wū jí wū"
+          },
+          {
+            "_id": "a_002",
+            "idiom": "按部就班",
+            "meaning": "按照一定的步骤和顺序进行。",
+            "example": "只要我们按部就班地执行计划，就一定能成功。",
+            "pronounce": "àn bù jiù bān"
+          },
+          {
+            "_id": "a_003",
+            "idiom": "按图索骥",
+            "meaning": "比喻办事机械、死板，不知道变通。也指按照线索寻找。",
+            "example": "警察根据监控录像按图索骥，很快就找到了嫌疑人。",
+            "pronounce": "àn tú suǒ jì"
+          },
+          {
+            "_id": "a_004",
+            "idiom": "恶性循环",
+            "meaning": "指多种坏事互为因果，循环不已，越来越糟。",
+            "example": "失眠导致精神差，精神差又加重失眠，形成了一个恶性循环。",
+            "pronounce": "è xìng xún huán"
+          },
+          {
+            "_id": "a_005",
+            "idiom": "额手称庆",
+            "meaning": "把手举到额头上，表示庆幸。",
+            "example": "听到那个恶霸被抓的消息，乡亲们无不额手称庆。",
+            "pronounce": "é shǒu chēng qìng"
+          },
+          {
+            "_id": "a_006",
+            "idiom": "安然无恙",
+            "meaning": "形容平安无事，没有受到任何损害。",
+            "example": "虽然发生了地震，但幸运的是我们全家都安然无恙。",
+            "pronounce": "ān rán wú yàng"
+          },
+          {
+            "_id": "a_007",
+            "idiom": "阿谀奉承",
+            "meaning": "用好听的话、讨好的举动去奉承、巴结人。",
+            "example": "他这个人喜欢听好话，所以身边围绕着一群阿谀奉承的人。",
+            "pronounce": "ē yú fèng chéng"
+          },
+          {
+            "_id": "a_008",
+            "idiom": "耳聪目明",
+            "meaning": "形容听觉、视觉灵敏。",
+            "example": "爷爷虽然八十多岁了，但依然耳聪目明，身体硬朗。",
+            "pronounce": "ěr cōng mù míng"
+          },
+          {
+            "_id": "a_009",
+            "idiom": "耳目一新",
+            "meaning": "听到的、看到的都和过去不一样，感到很新鲜。",
+            "example": "他的这番见解，让人有耳目一新的感觉。",
+            "pronounce": "ěr mù yī xīn"
+          },
+          {
+            "_id": "a_010",
+            "idiom": "耳濡目染",
+            "meaning": "耳朵经常听到，眼睛经常看到，不知不觉地受到影响。",
+            "example": "他从小在音乐家庭长大，耳濡目染之下，也对音乐产生了浓厚的兴趣。",
+            "pronounce": "ěr rú mù rǎn"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "B",
+        "idioms": [
+          {
+            "_id": "b_001",
+            "idiom": "标新立异",
+            "meaning": "提出新的主张、见解或创造出新的样式。",
+            "example": "年轻的设计师喜欢标新立异，作品充满了创意。",
+            "pronounce": "biāo xīn lì yì"
+          },
+          {
+            "_id": "b_002",
+            "idiom": "表里如一",
+            "meaning": "形容外表和内心完全一致。",
+            "example": "他是一个表里如一的人，从不说假话。",
+            "pronounce": "biǎo lǐ rú yī"
+          },
+          {
+            "_id": "b_003",
+            "idiom": "表面文章",
+            "meaning": "比喻只在表面上做功夫，不解决实际问题。",
+            "example": "我们不需要那些华而不实的表面文章，需要的是切实的行动。",
+            "pronounce": "biǎo miàn wén zhāng"
+          },
+          {
+            "_id": "b_004",
+            "idiom": "半斤八两",
+            "meaning": "比喻彼此相当，不相上下（多含贬义）。",
+            "example": "你们俩都别说了，一个说谎，一个迟到，半斤八两。",
+            "pronounce": "bàn jīn bā liǎng"
+          },
+          {
+            "_id": "b_005",
+            "idiom": "半途而废",
+            "meaning": "指事情做到一半就停止，没有坚持到底。",
+            "example": "做任何事情都贵在坚持，不能半途而废。",
+            "pronounce": "bàn tú ér fèi"
+          },
+          {
+            "_id": "b_006",
+            "idiom": "半信半疑",
+            "meaning": "有点相信，又有点怀疑。",
+            "example": "对于他的话，我总是半信半疑。",
+            "pronounce": "bàn xìn bàn yí"
+          },
+          {
+            "_id": "b_007",
+            "idiom": "暴风骤雨",
+            "meaning": "形容来势迅猛、声势浩大的自然现象或社会运动。",
+            "example": "改革初期，社会经历了暴风骤雨般的变革。",
+            "pronounce": "bào fēng zhòu yǔ"
+          },
+          {
+            "_id": "b_008",
+            "idiom": "暴跳如雷",
+            "meaning": "形容人大怒的样子。",
+            "example": "听到儿子又撒谎了，他气得暴跳如雷。",
+            "pronounce": "bào tiào rú léi"
+          },
+          {
+            "_id": "b_009",
+            "idiom": "抱头鼠窜",
+            "meaning": "形容失败后狼狈逃跑的样子。",
+            "example": "被我军一顿痛击，敌人抱头鼠窜，逃回了老巢。",
+            "pronounce": "bào tóu shǔ cuàn"
+          },
+          {
+            "_id": "b_010",
+            "idiom": "拔苗助长",
+            "meaning": "比喻违反事物发展的客观规律，急于求成，反而把事情弄糟。",
+            "example": "让孩子学太多东西，不给他休息时间，这无异于拔苗助长。",
+            "pronounce": "bá miáo zhù zhǎng"
+          },
+          {
+            "_id": "b_011",
+            "idiom": "背井离乡",
+            "meaning": "离开家乡，到外地生活。",
+            "example": "为了谋生，他不得不背井离乡，去大城市打工。",
+            "pronounce": "bèi jǐng lí xiāng"
+          },
+          {
+            "_id": "b_012",
+            "idiom": "背水一战",
+            "meaning": "比喻在危急情况下，下定决心，与敌人决一死战。",
+            "example": "这是我们最后的机会了，只能背水一战。",
+            "pronounce": "bèi shuǐ yī zhàn"
+          },
+          {
+            "_id": "b_013",
+            "idiom": "背信弃义",
+            "meaning": "违背诺言，不讲道义。",
+            "example": "他为了个人利益，竟然背信弃义，出卖了朋友。",
+            "pronounce": "bèi xìn qì yì"
+          },
+          {
+            "_id": "b_014",
+            "idiom": "笨鸟先飞",
+            "meaning": "比喻能力差的人怕落后，提前行动，比别人更努力。",
+            "example": "我知道自己基础差，所以只能笨鸟先飞，多花些时间学习。",
+            "pronounce": "bèn niǎo xiān fēi"
+          },
+          {
+            "_id": "b_015",
+            "idiom": "避实击虚",
+            "meaning": "指避开敌人的主力，攻击其薄弱环节。",
+            "example": "在辩论中，他采用了避实击虚的策略，巧妙地回避了对方的尖锐问题。",
+            "pronounce": "bì shí jī xū"
+          },
+          {
+            "_id": "b_016",
+            "idiom": "避重就轻",
+            "meaning": "指回避重要的、关键的问题，而只谈次要的、无关紧要的问题。",
+            "example": "他在报告中避重就轻，完全没有提到项目的核心问题。",
+            "pronounce": "bì zhòng jiù qīng"
+          },
+          {
+            "_id": "b_017",
+            "idiom": "博古通今",
+            "meaning": "形容学识渊博，通晓古代和现代的事情。",
+            "example": "这位历史学家博古通今，对各个朝代的历史都了如指掌。",
+            "pronounce": "bó gǔ tōng jīn"
+          },
+          {
+            "_id": "b_018",
+            "idiom": "步步高升",
+            "meaning": "祝愿人的职位、地位等不断提高。",
+            "example": "祝你在新的一年里工作顺利，步步高升！",
+            "pronounce": "bù bù gāo shēng"
+          },
+          {
+            "_id": "b_019",
+            "idiom": "步步为营",
+            "meaning": "形容军队行动非常谨慎。也比喻行事稳妥，防备周密。",
+            "example": "这个项目风险很大，我们必须步步为营，小心谨慎。",
+            "pronounce": "bù bù wéi yíng"
+          },
+          {
+            "_id": "b_020",
+            "idiom": "不耻下问",
+            "meaning": "不以向地位、学问比自己低的人请教为耻辱。",
+            "example": "我们应该有不耻下问的精神，才能不断进步。",
+            "pronounce": "bù chǐ xià wèn"
+          },
+          {
+            "_id": "b_021",
+            "idiom": "不打不成器",
+            "meaning": "指不严格管教，子女就成不了有出息的人。",
+            "example": "一些老辈人仍然相信“不打不成器”的教育方式。",
+            "pronounce": "bù dǎ bù chéng qì"
+          },
+          {
+            "_id": "b_022",
+            "idiom": "不打自招",
+            "meaning": "指没有经过审问，自己就全部交代了。",
+            "example": "警察还没问，他心里一慌，就把事情全都不打自招了。",
+            "pronounce": "bù dǎ zì zhāo"
+          },
+          {
+            "_id": "b_023",
+            "idiom": "不欢而散",
+            "meaning": "指聚会或谈话的双方因意见不合，最后很不愉快地分手。",
+            "example": "由于在关键问题上无法达成一致，谈判最终不欢而散。",
+            "pronounce": "bù huān ér sàn"
+          },
+          {
+            "_id": "b_024",
+            "idiom": "不寒而栗",
+            "meaning": "不是因为冷而发抖，形容非常恐惧。",
+            "example": "想到那个阴森的古堡，就让人不寒而栗。",
+            "pronounce": "bù hán ér lì"
+          },
+          {
+            "_id": "b_025",
+            "idiom": "不堪入目",
+            "meaning": "形容景象或言行非常丑恶，让人不忍心看。",
+            "example": "事故现场的景象惨不忍睹，不堪入目。",
+            "pronounce": "bù kān rù mù"
+          },
+          {
+            "_id": "b_026",
+            "idiom": "不堪设想",
+            "meaning": "指事情的结果会非常糟糕，不敢想象。",
+            "example": "如果不是消防员及时赶到，后果将不堪设想。",
+            "pronounce": "bù kān shè xiǎng"
+          },
+          {
+            "_id": "b_027",
+            "idiom": "不可救药",
+            "meaning": "比喻人或事坏到无法挽救的地步。",
+            "example": "他沉迷于赌博，已经到了不可救药的地步。",
+            "pronounce": "bù kě jiù yào"
+          },
+          {
+            "_id": "b_028",
+            "idiom": "不可理喻",
+            "meaning": "不能用道理使之明白，形容人蛮横或固执。",
+            "example": "他这个人太固执了，简直不可理喻。",
+            "pronounce": "bù kě lǐ yù"
+          },
+          {
+            "_id": "b_029",
+            "idiom": "不可思议",
+            "meaning": "形容事情出乎意料，难以想象和理解。",
+            "example": "这么复杂的魔术，他是怎么做到的，真是不可思议！",
+            "pronounce": "bù kě sī yì"
+          },
+          {
+            "_id": "b_030",
+            "idiom": "不劳而获",
+            "meaning": "自己不劳动而占有别人的劳动成果。",
+            "example": "世界上没有不劳而获的好事，成功需要努力。",
+            "pronounce": "bù láo ér huò"
+          },
+          {
+            "_id": "b_031",
+            "idiom": "不露声色",
+            "meaning": "心里活动不从言语和神色上表现出来。",
+            "example": "尽管心里很紧张，他表面上仍然不露声色。",
+            "pronounce": "bù lù shēng sè"
+          },
+          {
+            "_id": "b_032",
+            "idiom": "步履蹒跚",
+            "meaning": "形容走路摇摇晃晃，不稳定。",
+            "example": "那位老人拄着拐杖，步履蹒跚地在公园里散步。",
+            "pronounce": "bù lǚ pán shān"
+          },
+          {
+            "_id": "b_033",
+            "idiom": "不名一文",
+            "meaning": "形容一个钱都没有，非常贫穷。",
+            "example": "他刚创业失败时，可以说是不名一文。",
+            "pronounce": "bù míng yī wén"
+          },
+          {
+            "_id": "b_034",
+            "idiom": "不求甚解",
+            "meaning": "学习或研究只求大概，不求深入理解。",
+            "example": "读书不能不求甚解，要真正理解书中的精髓。",
+            "pronounce": "bù qiú shèn jiě"
+          },
+          {
+            "_id": "b_035",
+            "idiom": "不屈不挠",
+            "meaning": "形容在困难面前，意志坚定，决不屈服。",
+            "example": "面对强敌，他展现出了不屈不挠的斗争精神。",
+            "pronounce": "bù qū bù náo"
+          },
+          {
+            "_id": "b_036",
+            "idiom": "不速之客",
+            "meaning": "指没有被邀请而自己来的客人。",
+            "example": "我们正在开会，他突然闯了进来，真是一位不速之客。",
+            "pronounce": "bù sù zhī kè"
+          },
+          {
+            "_id": "b_037",
+            "idiom": "不三不四",
+            "meaning": "形容不正派，不像样。",
+            "example": "你应该交一些好朋友，不要和那些不三不四的人来往。",
+            "pronounce": "bù sān bù sì"
+          },
+          {
+            "_id": "b_038",
+            "idiom": "不痛不痒",
+            "meaning": "比喻说话、做事没有切中要害，不能解决问题。",
+            "example": "他的批评不痛不痒，对改进工作没什么帮助。",
+            "pronounce": "bù tòng bù yǎng"
+          },
+          {
+            "_id": "b_039",
+            "idiom": "不务正业",
+            "meaning": "指不做正当的、应该做的事，而去做别的事情。",
+            "example": "他整天游手好闲，不务正业，让父母很担心。",
+            "pronounce": "bù wù zhèng yè"
+          },
+          {
+            "_id": "b_040",
+            "idiom": "不惜代价",
+            "meaning": "为了达到目的，不吝惜任何代价。",
+            "example": "为了拯救孩子的生命，他愿意不惜代价。",
+            "pronounce": "bù xī dài jià"
+          },
+          {
+            "_id": "b_041",
+            "idiom": "不约而同",
+            "meaning": "指没有事先商量而彼此行动、看法一致。",
+            "example": "听到这个好消息，大家不约而同地鼓起掌来。",
+            "pronounce": "bù yuē ér tóng"
+          },
+          {
+            "_id": "b_042",
+            "idiom": "不言而喻",
+            "meaning": "不用说就能明白。",
+            "example": "保护环境的重要性是不言而喻的。",
+            "pronounce": "bù yán ér yù"
+          },
+          {
+            "_id": "b_043",
+            "idiom": "不翼而飞",
+            "meaning": "形容东西无缘无故地不见了。",
+            "example": "我放在桌上的手机，一转眼就不翼而飞了。",
+            "pronounce": "bù yì ér fēi"
+          },
+          {
+            "_id": "b_044",
+            "idiom": "不遗余力",
+            "meaning": "把全部力量都使出来，一点也不保留。",
+            "example": "他为了这个项目，真是不遗余力地工作。",
+            "pronounce": "bù yí yú lì"
+          },
+          {
+            "_id": "b_045",
+            "idiom": "不知所措",
+            "meaning": "形容不知道怎么办才好。",
+            "example": "面对这突如其来的消息，他一时不知所措。",
+            "pronounce": "bù zhī suǒ cuò"
+          },
+          {
+            "_id": "b_046",
+            "idiom": "不择手段",
+            "meaning": "为了达到目的，什么手段都使得出来（多含贬义）。",
+            "example": "他为了当上经理，不择手段地排挤同事。",
+            "pronounce": "bù zé shǒu duàn"
+          },
+          {
+            "_id": "b_047",
+            "idiom": "不足挂齿",
+            "meaning": "表示事情很小，不值得一提。是一种谦虚的说法。",
+            "example": "这只是一点小忙，不足挂齿。",
+            "pronounce": "bù zú guà chǐ"
+          },
+          {
+            "_id": "b_048",
+            "idiom": "八面玲珑",
+            "meaning": "形容人处事圆滑，待人接物各方面都能巧妙应对，使各方都满意。",
+            "example": "他在商场上八面玲珑，和所有客户的关系都很好。",
+            "pronounce": "bā miàn líng lóng"
+          },
+          {
+            "_id": "b_049",
+            "idiom": "八面威风",
+            "meaning": "形容声势浩大，气派十足。",
+            "example": "将军骑在马上，身穿铠甲，显得八面威风。",
+            "pronounce": "bā miàn wēi fēng"
+          },
+          {
+            "_id": "b_050",
+            "idiom": "班门弄斧",
+            "meaning": "比喻在行家面前卖弄本领，不自量力。",
+            "example": "在您这位大画家面前，我这几笔涂鸦简直是班门弄斧了。",
+            "pronounce": "bān mén nòng fǔ"
+          },
+          {
+            "_id": "b_051",
+            "idiom": "包藏祸心",
+            "meaning": "指心里怀着害人的坏念头。",
+            "example": "他表面上对你很友好，实际上却包藏祸心。",
+            "pronounce": "bāo cáng huò xīn"
+          },
+          {
+            "_id": "b_052",
+            "idiom": "杯弓蛇影",
+            "meaning": "比喻因疑神疑鬼而引起恐惧。",
+            "example": "那只是窗外的树影，别杯弓蛇影，自己吓自己。",
+            "pronounce": "bēi gōng shé yǐng"
+          },
+          {
+            "_id": "b_053",
+            "idiom": "杯水车薪",
+            "meaning": "比喻力量太小，解决不了问题。",
+            "example": "面对巨大的债务，他筹到的那点钱只是杯水车薪。",
+            "pronounce": "bēi shuǐ chē xīn"
+          },
+          {
+            "_id": "b_054",
+            "idiom": "本末倒置",
+            "meaning": "比喻把主次、轻重的位置弄颠倒了。",
+            "example": "为了追求考试分数而忽略了学生的身心健康，是本末倒置的做法。",
+            "pronounce": "běn mò dào zhì"
+          },
+          {
+            "_id": "b_055",
+            "idiom": "兵不厌诈",
+            "meaning": "指作战时为了迷惑敌人，可以多用计谋。",
+            "example": "商场如战场，为了赢得合同，有时也需要一些兵不厌诈的策略。",
+            "pronounce": "bīng bù yàn zhà"
+          },
+          {
+            "_id": "b_056",
+            "idiom": "兵临城下",
+            "meaning": "形容敌军已逼近城门，形势非常危急。",
+            "example": "敌军兵临城下，守城将士们严阵以待。",
+            "pronounce": "bīng lín chéng xià"
+          },
+          {
+            "_id": "b_057",
+            "idiom": "百发百中",
+            "meaning": "形容射击技术高明，每次都能命中目标。也比喻做事有充分把握。",
+            "example": "他是一位神枪手，打靶总是百发百中。",
+            "pronounce": "bǎi fā bǎi zhòng"
+          },
+          {
+            "_id": "b_058",
+            "idiom": "百思不解",
+            "meaning": "反复思考，也无法理解。",
+            "example": "这么简单的问题他为什么会做错，我真是百思不解。",
+            "pronounce": "bǎi sī bù jiě"
+          },
+          {
+            "_id": "b_059",
+            "idiom": "百无一用",
+            "meaning": "形容一点用处也没有。",
+            "example": "一些人认为读文科百无一用，这种看法是片面的。",
+            "pronounce": "bǎi wú yī yòng"
+          },
+          {
+            "_id": "b_060",
+            "idiom": "饱经风霜",
+            "meaning": "形容经历过很多艰难困苦。",
+            "example": "看他那张饱经风霜的脸，就知道他吃过不少苦。",
+            "pronounce": "bǎo jīng fēng shuāng"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "C",
+        "idioms": [
+          {
+            "_id": "c_001",
+            "idiom": "垂头丧气",
+            "meaning": "形容因失败或不顺利而情绪低落、没有精神的样子。",
+            "example": "考试没考好，他垂头丧气地回了家。",
+            "pronounce": "chuí tóu sàng qì"
+          },
+          {
+            "_id": "c_002",
+            "idiom": "川流不息",
+            "meaning": "形容行人、车马等像水流一样连续不断。",
+            "example": "这条商业街上，人群川流不息，非常热闹。",
+            "pronounce": "chuān liú bù xī"
+          },
+          {
+            "_id": "c_003",
+            "idiom": "穿针引线",
+            "meaning": "比喻在中间联系、撮合。",
+            "example": "多亏了你的穿针引线，我们两家公司才能达成这次合作。",
+            "pronounce": "chuān zhēn yǐn xiàn"
+          },
+          {
+            "_id": "c_004",
+            "idiom": "长此以往",
+            "meaning": "长期这样下去（多指不好的情况）。",
+            "example": "你如果再这样浪费时间，长此以往，将一事无成。",
+            "pronounce": "cháng cǐ yǐ wǎng"
+          },
+          {
+            "_id": "c_005",
+            "idiom": "长驱直入",
+            "meaning": "形容军队毫无阻挡地顺利前进。",
+            "example": "我方军队士气高昂，长驱直入，直捣敌军老巢。",
+            "pronounce": "cháng qū zhí rù"
+          },
+          {
+            "_id": "c_006",
+            "idiom": "趁热打铁",
+            "meaning": "比喻抓住有利时机，抓紧行动。",
+            "example": "这个创意很好，我们应该趁热打铁，马上开始实施。",
+            "pronounce": "chèn rè dǎ tiě"
+          },
+          {
+            "_id": "c_007",
+            "idiom": "陈词滥调",
+            "meaning": "指陈旧、空洞、没有新意的话。",
+            "example": "他的演讲充满了陈词滥调，让人昏昏欲睡。",
+            "pronounce": "chén cí làn diào"
+          },
+          {
+            "_id": "c_008",
+            "idiom": "乘风破浪",
+            "meaning": "比喻不畏艰难，奋勇前进。",
+            "example": "祝你在新的事业上乘风破浪，取得成功！",
+            "pronounce": "chéng fēng pò làng"
+          },
+          {
+            "_id": "c_009",
+            "idiom": "成家立业",
+            "meaning": "指男子组织家庭，并建立起一番事业。",
+            "example": "他大学毕业后不久就成家立业了。",
+            "pronounce": "chéng jiā lì yè"
+          },
+          {
+            "_id": "c_010",
+            "idiom": "承前启后",
+            "meaning": "继承前面的，开创后来的。指继承前人事业，开辟未来道路。",
+            "example": "这次会议在公司的发展中起到了承前启后的重要作用。",
+            "pronounce": "chéng qián qǐ hòu"
+          },
+          {
+            "_id": "c_011",
+            "idiom": "成王败寇",
+            "meaning": "指在争夺政权的斗争中，成功了的就是君王，失败了的就是贼寇。",
+            "example": "历史往往由胜利者书写，所谓成王败寇就是这个道理。",
+            "pronounce": "chéng wáng bài kòu"
+          },
+          {
+            "_id": "c_012",
+            "idiom": "诚心诚意",
+            "meaning": "形容非常真诚。",
+            "example": "我是诚心诚意地向你道歉，希望你能原谅我。",
+            "pronounce": "chéng xīn chéng yì"
+          },
+          {
+            "_id": "c_013",
+            "idiom": "唇齿相依",
+            "meaning": "比喻关系非常密切，互相依存。与“唇亡齿寒”意思相近。",
+            "example": "我们两个部门的工作唇齿相依，必须密切合作。",
+            "pronounce": "chún chǐ xiāng yī"
+          },
+          {
+            "_id": "c_014",
+            "idiom": "唇枪舌剑",
+            "meaning": "形容辩论激烈，言辞锋利，相互攻击。",
+            "example": "辩论会上，双方选手唇枪舌剑，互不相让。",
+            "pronounce": "chún qiāng shé jiàn"
+          },
+          {
+            "_id": "c_015",
+            "idiom": "唇亡齿寒",
+            "meaning": "比喻双方关系密切，利害相关。如果一方受到损害，另一方也必然会跟着受到损害。",
+            "example": "这两个邻国关系紧密，任何一方出问题都会影响另一方，正是唇亡齿寒的道理。",
+            "pronounce": "chún wáng chǐ hán"
+          },
+          {
+            "_id": "c_016",
+            "idiom": "吃力不讨好",
+            "meaning": "费了很大的力气，却没有得到好的评价或效果。",
+            "example": "帮他修改方案，结果他还嫌我多事，真是吃力不讨好。",
+            "pronounce": "chī lì bù tǎo hǎo"
+          },
+          {
+            "_id": "c_017",
+            "idiom": "吃一堑长一智",
+            "meaning": "受到一次挫折，就增长一分智慧。",
+            "example": "这次投资失败让我学到了很多，真是吃一堑长一智。",
+            "pronounce": "chī yī qiàn zhǎng yī zhì"
+          },
+          {
+            "_id": "c_018",
+            "idiom": "出口成章",
+            "meaning": "形容文思敏捷，话说出来就是好文章。",
+            "example": "他学识渊博，辩论时常常出口成章，令人佩服。",
+            "pronounce": "chū kǒu chéng zhāng"
+          },
+          {
+            "_id": "c_019",
+            "idiom": "出类拔萃",
+            "meaning": "形容才华、品德等远远超出同类之上。",
+            "example": "他从小就表现出出类拔萃的数学天赋。",
+            "pronounce": "chū lèi bá cuì"
+          },
+          {
+            "_id": "c_020",
+            "idiom": "出人头地",
+            "meaning": "指超出众人，在事业上获得成功。",
+            "example": "他努力学习，就是希望将来能出人头地。",
+            "pronounce": "chū rén tóu dì"
+          },
+          {
+            "_id": "c_021",
+            "idiom": "出人意料",
+            "meaning": "指出乎人们的意料之外。",
+            "example": "比赛的结果出人意料，排名最后的队伍竟然赢了冠军。",
+            "pronounce": "chū rén yì liào"
+          },
+          {
+            "_id": "c_022",
+            "idiom": "出神入化",
+            "meaning": "形容技艺达到了非常高超的境界。",
+            "example": "他的魔术表演已经到了出神入化的地步。",
+            "pronounce": "chū shén rù huà"
+          },
+          {
+            "_id": "c_023",
+            "idiom": "出生入死",
+            "meaning": "形容冒着生命危险，不顾个人安危。",
+            "example": "消防员们为了救人，常常要出生入死。",
+            "pronounce": "chū shēng rù sǐ"
+          },
+          {
+            "_id": "c_024",
+            "idiom": "出尔反尔",
+            "meaning": "形容言行前后矛盾，反复无常。",
+            "example": "他这个人总是出尔反尔，一点信用都没有。",
+            "pronounce": "chū ěr fǎn ěr"
+          },
+          {
+            "_id": "c_025",
+            "idiom": "才高八斗",
+            "meaning": "形容才学极高。",
+            "example": "苏轼是一位才高八斗的文学家。",
+            "pronounce": "cái gāo bā dǒu"
+          },
+          {
+            "_id": "c_026",
+            "idiom": "层出不穷",
+            "meaning": "形容接连不断地出现。",
+            "example": "随着科技的发展，新产品层出不穷。",
+            "pronounce": "céng chū bù qióng"
+          },
+          {
+            "_id": "c_027",
+            "idiom": "从长计议",
+            "meaning": "指慢慢地、长远地商量和考虑。",
+            "example": "这件事关系重大，我们需要从长计议。",
+            "pronounce": "cóng cháng jì yì"
+          },
+          {
+            "_id": "c_028",
+            "idiom": "从容不迫",
+            "meaning": "形容非常镇静、沉着，不慌不忙。",
+            "example": "即使在紧急情况下，他也能从容不迫地处理问题。",
+            "pronounce": "cóng róng bù pò"
+          },
+          {
+            "_id": "c_029",
+            "idiom": "沧海桑田",
+            "meaning": "比喻世事变化巨大。",
+            "example": "几十年没回家乡，再次回来，已是沧海桑田，完全认不出了。",
+            "pronounce": "cāng hǎi sāng tián"
+          },
+          {
+            "_id": "c_030",
+            "idiom": "粗心大意",
+            "meaning": "做事不细心，马虎。与“粗枝大叶”意思相近。",
+            "example": "这次考试他因为粗心大意，错失了好几分。",
+            "pronounce": "cū xīn dà yì"
+          },
+          {
+            "_id": "c_031",
+            "idiom": "粗制滥造",
+            "meaning": "指制作粗劣，不顾质量。",
+            "example": "这些劣质商品都是粗制滥造出来的，千万不要买。",
+            "pronounce": "cū zhì làn zào"
+          },
+          {
+            "_id": "c_032",
+            "idiom": "粗枝大叶",
+            "meaning": "形容做事粗心，不认真细致。",
+            "example": "他这个人做事总是粗枝大叶，经常出错。",
+            "pronounce": "cū zhī dà yè"
+          },
+          {
+            "_id": "c_033",
+            "idiom": "草船借箭",
+            "meaning": "运用智谋，凭借他人的人力或物力来达到自己的目的。",
+            "example": "他巧妙地利用了对手的资源来完成自己的计划，堪称现代版的草船借箭。",
+            "pronounce": "cǎo chuán jiè jiàn"
+          },
+          {
+            "_id": "c_034",
+            "idiom": "草菅人命",
+            "meaning": "指把人命看得像野草一样，随意摧残。",
+            "example": "那个昏庸的君主草菅人命，激起了人民的反抗。",
+            "pronounce": "cǎo jiān rén mìng"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "D",
+        "idioms": [
+          {
+            "_id": "d_001",
+            "idiom": "调虎离山",
+            "meaning": "比喻用计谋引诱人离开原来的地方，以便乘机行事。",
+            "example": "劫匪用一通假报警电话把警察调虎离山，然后抢劫了银行。",
+            "pronounce": "diào hǔ lí shān"
+          },
+          {
+            "_id": "d_002",
+            "idiom": "点石成金",
+            "meaning": "比喻修改文章，能使不好的变为好的。",
+            "example": "经过这位著名编辑的修改，这篇平庸的小说仿佛被点石成金，焕发了新的光彩。",
+            "pronounce": "diǎn shí chéng jīn"
+          },
+          {
+            "_id": "d_003",
+            "idiom": "断章取义",
+            "meaning": "不顾全篇文章或谈话的内容，而只孤立地取其中的一段或一句的意思。",
+            "example": "你这样断章取义地引用他的话，完全曲解了他的原意。",
+            "pronounce": "duàn zhāng qǔ yì"
+          },
+          {
+            "_id": "d_004",
+            "idiom": "对簿公堂",
+            "meaning": "指在法庭上受审或作证。",
+            "example": "由于合同纠纷，两家公司最终闹到对簿公堂的地步。",
+            "pronounce": "duì bù gōng táng"
+          },
+          {
+            "_id": "d_005",
+            "idiom": "对答如流",
+            "meaning": "形容回答问题迅速、流利。",
+            "example": "面试时，他对所有问题都对答如流，给面试官留下了深刻的印象。",
+            "pronounce": "duì dá rú liú"
+          },
+          {
+            "_id": "d_006",
+            "idiom": "对牛弹琴",
+            "meaning": "比喻对不懂道理的人讲道理，或对外行人说内行话，白费口舌。",
+            "example": "给他讲艺术的价值简直是对牛弹琴，他只关心能不能卖钱。",
+            "pronounce": "duì niú tán qín"
+          },
+          {
+            "_id": "d_007",
+            "idiom": "对症下药",
+            "meaning": "比喻针对问题所在，采取有效的措施。",
+            "example": "我们必须找到问题的根源，才能对症下药，彻底解决它。",
+            "pronounce": "duì zhèng xià yào"
+          },
+          {
+            "_id": "d_008",
+            "idiom": "多此一举",
+            "meaning": "指做了不必要、多余的事情。",
+            "example": "门已经锁了，你再加一把锁，真是多此一举。",
+            "pronounce": "duō cǐ yī jǔ"
+          },
+          {
+            "_id": "d_009",
+            "idiom": "多劳多得",
+            "meaning": "多劳动，就能多得到收获。",
+            "example": "我们公司实行计件工资，充分体现了多劳多得的原则。",
+            "pronounce": "duō láo duō de"
+          },
+          {
+            "_id": "d_010",
+            "idiom": "多嘴多舌",
+            "meaning": "形容好说闲话。",
+            "example": "这是我们自己的事，请你不要多嘴多舌。",
+            "pronounce": "duō zuǐ duō shé"
+          },
+          {
+            "_id": "d_011",
+            "idiom": "大材小用",
+            "meaning": "把大的材料用在小处。比喻人才使用不当，不能充分发挥作用。",
+            "example": "让一个博士去做这种简单的文书工作，真是大材小用。",
+            "pronounce": "dà cái xiǎo yòng"
+          },
+          {
+            "_id": "d_012",
+            "idiom": "大刀阔斧",
+            "meaning": "比喻办事果断、有魄力。",
+            "example": "新上任的经理对公司进行了大刀阔斧的改革。",
+            "pronounce": "dà dāo kuò fǔ"
+          },
+          {
+            "_id": "d_013",
+            "idiom": "大公无私",
+            "meaning": "指处理事情公正，没有私心。",
+            "example": "作为法官，他一向大公无私，受到了人们的尊敬。",
+            "pronounce": "dà gōng wú sī"
+          },
+          {
+            "_id": "d_014",
+            "idiom": "大惊小怪",
+            "meaning": "形容对不足为奇的事情过分惊讶。",
+            "example": "这只是一个小魔术，你没必要大惊小怪的。",
+            "pronounce": "dà jīng xiǎo guài"
+          },
+          {
+            "_id": "d_015",
+            "idiom": "大器晚成",
+            "meaning": "指能担当重任的人，要经过长期的锻炼，所以成名较晚。",
+            "example": "他直到四十岁才在文坛成名，可以说是大器晚成。",
+            "pronounce": "dà qì wǎn chéng"
+          },
+          {
+            "_id": "d_016",
+            "idiom": "大失所望",
+            "meaning": "指希望完全落空，非常失望。",
+            "example": "这部备受期待的电影情节平庸，让观众们大失所望。",
+            "pronounce": "dà shī suǒ wàng"
+          },
+          {
+            "_id": "d_017",
+            "idiom": "大显身手",
+            "meaning": "充分地显示出自己的本领。",
+            "example": "在这次运动会上，他大显身手，夺得了三项冠军。",
+            "pronounce": "dà xiǎn shēn shǒu"
+          },
+          {
+            "_id": "d_018",
+            "idiom": "大义灭亲",
+            "meaning": "为了维护正义，不徇私情，对犯罪的亲属也依法揭发或处置。",
+            "example": "为了国家的利益，他大义灭亲，揭发了父亲的罪行。",
+            "pronounce": "dà yì miè qīn"
+          },
+          {
+            "_id": "d_019",
+            "idiom": "大张旗鼓",
+            "meaning": "形容规模、声势很大。",
+            "example": "公司大张旗鼓地宣传新产品，希望能打开市场。",
+            "pronounce": "dà zhāng qí gǔ"
+          },
+          {
+            "_id": "d_020",
+            "idiom": "待人接物",
+            "meaning": "指与人交往、打交道。",
+            "example": "他待人接物很有礼貌，给大家留下了好印象。",
+            "pronounce": "dài rén jiē wù"
+          },
+          {
+            "_id": "d_021",
+            "idiom": "弹丸之地",
+            "meaning": "形容面积非常小的地方。",
+            "example": "新加坡虽然是弹丸之地，但经济非常发达。",
+            "pronounce": "dàn wán zhī dì"
+          },
+          {
+            "_id": "d_022",
+            "idiom": "得寸进尺",
+            "meaning": "比喻贪心不足，得到了这个，还想得到那个。",
+            "example": "我已经答应你一个条件了，你不要再得寸进尺。",
+            "pronounce": "dé cùn jìn chǐ"
+          },
+          {
+            "_id": "d_023",
+            "idiom": "德高望重",
+            "meaning": "形容品德高尚，声望很高。",
+            "example": "这位老教授在学术界德高望重，深受大家的尊敬。",
+            "pronounce": "dé gāo wàng zhòng"
+          },
+          {
+            "_id": "d_024",
+            "idiom": "得陇望蜀",
+            "meaning": "比喻贪心不足，得到了这个，还想得到那个。与“得寸进尺”意思相近。",
+            "example": "人不能太贪心，不能得陇望蜀。",
+            "pronounce": "dé lǒng wàng shǔ"
+          },
+          {
+            "_id": "d_025",
+            "idiom": "得天独厚",
+            "meaning": "形容具有特别优越的天然条件。",
+            "example": "这个地区拥有得天独厚的自然风光，非常适合发展旅游业。",
+            "pronounce": "dé tiān dú hòu"
+          },
+          {
+            "_id": "d_026",
+            "idiom": "得意忘形",
+            "meaning": "形容因一时成功或满足而高兴得失去常态。",
+            "example": "取得了一点点成绩，他就得意忘形了，这可不是好现象。",
+            "pronounce": "dé yì wàng xíng"
+          },
+          {
+            "_id": "d_027",
+            "idiom": "洞若观火",
+            "meaning": "形容观察事物非常清楚、透彻。",
+            "example": "他对当前的国际形势洞若观火。",
+            "pronounce": "dòng ruò guān huǒ"
+          },
+          {
+            "_id": "d_028",
+            "idiom": "度日如年",
+            "meaning": "形容日子非常难过。",
+            "example": "在等待亲人消息的日子里，他感到度日如年。",
+            "pronounce": "dù rì rú nián"
+          },
+          {
+            "_id": "d_029",
+            "idiom": "独树一帜",
+            "meaning": "比喻自成一家，风格独特。",
+            "example": "这位画家的风格在当时的画坛上独树一帜。",
+            "pronounce": "dú shù yī zhì"
+          },
+          {
+            "_id": "d_030",
+            "idiom": "独占鳌头",
+            "meaning": "比喻在竞赛或考试中获得第一名。",
+            "example": "他在这次数学竞赛中独占鳌头。",
+            "pronounce": "dú zhàn áo tóu"
+          },
+          {
+            "_id": "d_031",
+            "idiom": "单枪匹马",
+            "meaning": "比喻单独行动，没有别人帮助。",
+            "example": "他单枪匹马地来到这个城市创业。",
+            "pronounce": "dān qiāng pǐ mǎ"
+          },
+          {
+            "_id": "d_032",
+            "idiom": "当局者迷",
+            "meaning": "比喻当事人因身在其中，反而对问题看不清楚。",
+            "example": "所谓当局者迷，旁观者清，你不妨听听别人的意见。",
+            "pronounce": "dāng jú zhě mí"
+          },
+          {
+            "_id": "d_033",
+            "idiom": "当机立断",
+            "meaning": "在紧要关头，抓住时机，毫不犹豫地做出决定。",
+            "example": "在危急时刻，指挥官当机立断，下令撤退。",
+            "pronounce": "dāng jī lì duàn"
+          },
+          {
+            "_id": "d_034",
+            "idiom": "滴水不漏",
+            "meaning": "形容说话、办事非常周密，没有一点漏洞。",
+            "example": "他的计划考虑得非常周全，可以说是滴水不漏。",
+            "pronounce": "dī shuǐ bù lòu"
+          },
+          {
+            "_id": "d_035",
+            "idiom": "滴水穿石",
+            "meaning": "比喻只要有恒心，不断努力，事情就一定能成功。",
+            "example": "学习需要有滴水穿石的精神，坚持不懈才能有所成就。",
+            "pronounce": "dī shuǐ chuān shí"
+          },
+          {
+            "_id": "d_036",
+            "idiom": "东窗事发",
+            "meaning": "比喻阴谋或罪行被揭露。",
+            "example": "他们贪污公款的事情终于东窗事发了。",
+            "pronounce": "dōng chuāng shì fā"
+          },
+          {
+            "_id": "d_037",
+            "idiom": "东拼西凑",
+            "meaning": "比喻到处凑集。",
+            "example": "他东拼西凑，才借够了买房的首付款。",
+            "pronounce": "dōng pīn xī còu"
+          },
+          {
+            "_id": "d_038",
+            "idiom": "东山再起",
+            "meaning": "比喻失势后重新得势。",
+            "example": "虽然公司破产了，但他相信自己一定能东山再起。",
+            "pronounce": "dōng shān zài qǐ"
+          },
+          {
+            "_id": "d_039",
+            "idiom": "东施效颦",
+            "meaning": "比喻模仿别人，不但模仿不好，反而出丑。",
+            "example": "每个人的风格不同，盲目模仿只会像东施效颦一样，效果适得其反。",
+            "pronounce": "dōng shī xiào pín"
+          },
+          {
+            "_id": "d_040",
+            "idiom": "打草惊蛇",
+            "meaning": "比喻行动不谨慎，使对方有所察觉而防备。",
+            "example": "在抓捕嫌犯前，我们不能有任何行动，以免打草惊蛇。",
+            "pronounce": "dǎ cǎo jīng shé"
+          },
+          {
+            "_id": "d_041",
+            "idiom": "打道回府",
+            "meaning": "指启程回家或返回原地。",
+            "example": "天色已晚，我们还是打道回府吧。",
+            "pronounce": "dǎ dào huí fǔ"
+          },
+          {
+            "_id": "d_042",
+            "idiom": "胆小如鼠",
+            "meaning": "形容胆子非常小。",
+            "example": "他胆小如鼠，连一只蟑螂都怕。",
+            "pronounce": "dǎn xiǎo rú shǔ"
+          },
+          {
+            "_id": "d_043",
+            "idiom": "胆战心惊",
+            "meaning": "形容非常害怕、恐惧。",
+            "example": "看到那条大蛇，我吓得胆战心惊。",
+            "pronounce": "dǎn zhàn xīn jīng"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "F",
+        "idioms": [
+          {
+            "_id": "f_001",
+            "idiom": "防不胜防",
+            "meaning": "形容防备不过来。",
+            "example": "现在的网络诈骗手段太多了，真是让人防不胜防。",
+            "pronounce": "fáng bù shèng fáng"
+          },
+          {
+            "_id": "f_002",
+            "idiom": "废话连篇",
+            "meaning": "形容文章或说话中没用的话特别多。",
+            "example": "他的报告废话连篇，没有一点实际内容。",
+            "pronounce": "fèi huà lián piān"
+          },
+          {
+            "_id": "f_003",
+            "idiom": "废寝忘食",
+            "meaning": "形容非常专心努力，连睡觉和吃饭都忘记了。",
+            "example": "为了准备考试，他连续几周都废寝忘食地学习。",
+            "pronounce": "fèi qǐn wàng shí"
+          },
+          {
+            "_id": "f_004",
+            "idiom": "凤毛麟角",
+            "meaning": "比喻稀有而珍贵的人或物。",
+            "example": "像他这样无私奉献的人，在当今社会已经是凤毛麟角了。",
+            "pronounce": "fèng máo lín jiǎo"
+          },
+          {
+            "_id": "f_005",
+            "idiom": "赴汤蹈火",
+            "meaning": "比喻不避艰险，奋不顾身。",
+            "example": "为了国家的安全，战士们愿意赴汤蹈火，在所不辞。",
+            "pronounce": "fù tāng dǎo huǒ"
+          },
+          {
+            "_id": "f_006",
+            "idiom": "服服帖帖",
+            "meaning": "形容非常顺从、听话。",
+            "example": "这匹烈马被驯马师训练得服服帖帖。",
+            "pronounce": "fú fú tiē tiē"
+          },
+          {
+            "_id": "f_007",
+            "idiom": "扶危济困",
+            "meaning": "扶助有危险的人，救济有困难的人。",
+            "example": "扶危济困是中华民族的传统美德。",
+            "pronounce": "fú wēi jì kùn"
+          },
+          {
+            "_id": "f_008",
+            "idiom": "发人深省",
+            "meaning": "启发人深刻思考，有所醒悟。",
+            "example": "这部电影的结局发人深省，引人深思。",
+            "pronounce": "fā rén shēn xǐng"
+          },
+          {
+            "_id": "f_009",
+            "idiom": "发扬光大",
+            "meaning": "使美好的事物得到发展和提高。",
+            "example": "我们应该把中华民族的传统美德发扬光大。",
+            "pronounce": "fā yáng guāng dà"
+          },
+          {
+            "_id": "f_010",
+            "idiom": "翻天覆地",
+            "meaning": "形容变化巨大而彻底。",
+            "example": "改革开放以来，我们的家乡发生了翻天覆地的变化。",
+            "pronounce": "fān tiān fù dì"
+          },
+          {
+            "_id": "f_011",
+            "idiom": "方寸大乱",
+            "meaning": "指心绪混乱，不知所措。",
+            "example": "听到这个坏消息，他顿时方寸大乱。",
+            "pronounce": "fāng cùn dà luàn"
+          },
+          {
+            "_id": "f_012",
+            "idiom": "分道扬镳",
+            "meaning": "比喻因志向、目标不同而各走各的路。",
+            "example": "由于经营理念不同，他们最终决定分道扬镳，各自成立了新公司。",
+            "pronounce": "fēn dào yáng biāo"
+          },
+          {
+            "_id": "f_013",
+            "idiom": "风和日丽",
+            "meaning": "形容天气晴朗，风很柔和。",
+            "example": "今天风和日丽，我们去公园野餐吧。",
+            "pronounce": "fēng hé rì lì"
+          },
+          {
+            "_id": "f_014",
+            "idiom": "风马牛不相及",
+            "meaning": "比喻事物之间毫不相干。",
+            "example": "你说的这两件事，简直是风马牛不相及。",
+            "pronounce": "fēng mǎ niú bù xiāng jí"
+          },
+          {
+            "_id": "f_015",
+            "idiom": "风雨交加",
+            "meaning": "形容天气非常恶劣，又刮风又下雨。",
+            "example": "在一个风雨交加的夜晚，他独自走在回家的路上。",
+            "pronounce": "fēng yǔ jiāo jiā"
+          },
+          {
+            "_id": "f_016",
+            "idiom": "风雨如晦",
+            "meaning": "形容风雨交加，天色昏暗。也比喻政治黑暗，社会动荡。",
+            "example": "在那个风雨如晦的年代，许多仁人志士为寻求救国之路而奔走。",
+            "pronounce": "fēng yǔ rú huì"
+          },
+          {
+            "_id": "f_017",
+            "idiom": "反复无常",
+            "meaning": "形容情况或态度变来变去，没有定准。",
+            "example": "他这个人情绪反复无常，让人难以捉摸。",
+            "pronounce": "fǎn fù wú cháng"
+          },
+          {
+            "_id": "f_018",
+            "idiom": "反目成仇",
+            "meaning": "从和睦的关系变为互相仇视。",
+            "example": "他们曾经是最好的朋友，后来因为利益纠纷而反目成仇。",
+            "pronounce": "fǎn mù chéng chóu"
+          },
+          {
+            "_id": "f_019",
+            "idiom": "釜底抽薪",
+            "meaning": "比喻从根本上解决问题。",
+            "example": "要想彻底解决这个问题，必须找到根源，釜底抽薪。",
+            "pronounce": "fǔ dǐ chōu xīn"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "G",
+        "idioms": [
+          {
+            "_id": "g_001",
+            "idiom": "国泰民安",
+            "meaning": "国家太平，人民生活安定。",
+            "example": "我们生活在一个国泰民安的时代，应该倍加珍惜。",
+            "pronounce": "guó tài mín ān"
+          },
+          {
+            "_id": "g_002",
+            "idiom": "光明磊落",
+            "meaning": "形容胸怀坦白，言行正派。",
+            "example": "他为人光明磊落，从不在背后说人坏话。",
+            "pronounce": "guāng míng lěi luò"
+          },
+          {
+            "_id": "g_003",
+            "idiom": "光阴似箭",
+            "meaning": "形容时间过得非常快。",
+            "example": "光阴似箭，日月如梭，转眼间我们已经毕业十年了。",
+            "pronounce": "guāng yīn sì jiàn"
+          },
+          {
+            "_id": "g_004",
+            "idiom": "光宗耀祖",
+            "meaning": "为宗族、祖先增光。",
+            "example": "他努力学习，希望将来能出人头地，光宗耀祖。",
+            "pronounce": "guāng zōng yào zǔ"
+          },
+          {
+            "_id": "g_005",
+            "idiom": "归心似箭",
+            "meaning": "形容想回家的心情非常急切。",
+            "example": "在外出差多日，他早已归心似箭。",
+            "pronounce": "guī xīn sì jiàn"
+          },
+          {
+            "_id": "g_006",
+            "idiom": "管中窥豹",
+            "meaning": "比喻只看到事物的一小部分，而未看到全貌。",
+            "example": "只凭这一点就下结论，不免有管中窥豹之嫌。",
+            "pronounce": "guǎn zhōng kuī bào"
+          },
+          {
+            "_id": "g_007",
+            "idiom": "鬼鬼祟祟",
+            "meaning": "形容行动诡秘，不光明正大。",
+            "example": "他鬼鬼祟祟地在门口探头探脑，不知道想干什么。",
+            "pronounce": "guǐ guǐ suì suì"
+          },
+          {
+            "_id": "g_008",
+            "idiom": "各奔东西",
+            "meaning": "指各自到不同的地方去。",
+            "example": "大学毕业后，同学们就各奔东西了。",
+            "pronounce": "gè bēn dōng xī"
+          },
+          {
+            "_id": "g_009",
+            "idiom": "各抒己见",
+            "meaning": "各自发表自己的意见。",
+            "example": "在讨论会上，大家各抒己见，气氛非常热烈。",
+            "pronounce": "gè shū jǐ jiàn"
+          },
+          {
+            "_id": "g_010",
+            "idiom": "各有千秋",
+            "meaning": "各有各的长处和特色。",
+            "example": "这两幅画风格不同，但都非常出色，可以说是各有千秋。",
+            "pronounce": "gè yǒu qiān qiū"
+          },
+          {
+            "_id": "g_011",
+            "idiom": "更上一层楼",
+            "meaning": "比喻在已有的成绩上再取得更大的进步。",
+            "example": "希望你在新的岗位上能更上一层楼。",
+            "pronounce": "gèng shàng yī céng lóu"
+          },
+          {
+            "_id": "g_012",
+            "idiom": "格格不入",
+            "meaning": "形容彼此不协调，不相容。",
+            "example": "他的现代派画作，和这个古典的展厅显得格格不入。",
+            "pronounce": "gé gé bù rù"
+          },
+          {
+            "_id": "g_013",
+            "idiom": "隔岸观火",
+            "meaning": "比喻对别人的危难不加援救，在一旁看热闹。",
+            "example": "看到别人有困难，我们应该伸出援手，而不是隔岸观火。",
+            "pronounce": "gé àn guān huǒ"
+          },
+          {
+            "_id": "g_014",
+            "idiom": "顾此失彼",
+            "meaning": "形容照顾了这个，就照顾不了那个，两者不能同时兼顾。",
+            "example": "他又要工作又要照顾家庭，常常感到顾此失彼。",
+            "pronounce": "gù cǐ shī bǐ"
+          },
+          {
+            "_id": "g_015",
+            "idiom": "顾全大局",
+            "meaning": "指从整体的、长远的利益出发，使国家、集体的利益不受损害。",
+            "example": "为了公司的发展，我们必须顾全大局，暂时牺牲一些个人利益。",
+            "pronounce": "gù quán dà jú"
+          },
+          {
+            "_id": "g_016",
+            "idiom": "高不可攀",
+            "meaning": "形容很高，不容易达到。也比喻难以企及。",
+            "example": "这个目标对我来说，实在是高不可攀。",
+            "pronounce": "gāo bù kě pān"
+          },
+          {
+            "_id": "g_017",
+            "idiom": "高风亮节",
+            "meaning": "形容道德品质高尚，气节清白。",
+            "example": "这位老干部一生清廉，高风亮节，值得我们学习。",
+            "pronounce": "gāo fēng liàng jié"
+          },
+          {
+            "_id": "g_018",
+            "idiom": "高谈阔论",
+            "meaning": "指大发议论，多含不切实际的意味。",
+            "example": "他们几个人聚在一起，又在就国际形势高谈阔论了。",
+            "pronounce": "gāo tán kuò lùn"
+          },
+          {
+            "_id": "g_019",
+            "idiom": "高瞻远瞩",
+            "meaning": "形容眼光远大，能看到很长远的事情。",
+            "example": "这位领导人高瞻远瞩，为国家制定了长期的发展战略。",
+            "pronounce": "gāo zhān yuǎn zhǔ"
+          },
+          {
+            "_id": "g_020",
+            "idiom": "高枕无忧",
+            "meaning": "形容平安无事，可以不用担心。",
+            "example": "问题还没解决，我们不能高枕无忧。",
+            "pronounce": "gāo zhěn wú yōu"
+          },
+          {
+            "_id": "g_021",
+            "idiom": "根基不稳",
+            "meaning": "指基础不牢固。",
+            "example": "这座大楼根基不稳，存在安全隐患。",
+            "pronounce": "gēn jī bù wěn"
+          },
+          {
+            "_id": "g_022",
+            "idiom": "根深蒂固",
+            "meaning": "比喻基础牢固，不容易动摇。",
+            "example": "重男轻女的旧思想在一些地区仍然根深蒂固。",
+            "pronounce": "gēn shēn dì gù"
+          },
+          {
+            "_id": "g_023",
+            "idiom": "功亏一篑",
+            "meaning": "比喻事情只差最后一步，未能完成而导致前功尽弃。",
+            "example": "这个项目就差最后的数据了，现在放弃岂不是功亏一篑？",
+            "pronounce": "gōng kuī yī kuì"
+          },
+          {
+            "_id": "g_024",
+            "idiom": "孤立无援",
+            "meaning": "指单独一个，得不到任何外来的援助。",
+            "example": "在沙漠中，他的车坏了，手机也没信号，陷入了孤立无援的境地。",
+            "pronounce": "gū lì wú yuán"
+          },
+          {
+            "_id": "g_025",
+            "idiom": "孤掌难鸣",
+            "meaning": "比喻一个人的力量有限，难以成事。",
+            "example": "这个项目需要团队合作，我一个人孤掌难鸣。",
+            "pronounce": "gū zhǎng nán míng"
+          },
+          {
+            "_id": "g_026",
+            "idiom": "改过自新",
+            "meaning": "改正错误，重新做人。",
+            "example": "只要你肯改过自新，社会还是会给你机会的。",
+            "pronounce": "gǎi guò zì xīn"
+          },
+          {
+            "_id": "g_027",
+            "idiom": "改头换面",
+            "meaning": "比喻只改变形式，不改变内容（多含贬义）。",
+            "example": "这个产品只是改头换面，换了个包装，本质上和以前一样。",
+            "pronounce": "gǎi tóu huàn miàn"
+          },
+          {
+            "_id": "g_028",
+            "idiom": "狗急跳墙",
+            "meaning": "比喻坏人被逼得走投无路时，会不顾一切地采取极端行动。",
+            "example": "我们不能把他逼得太紧，小心他狗急跳墙。",
+            "pronounce": "gǒu jí tiào qiáng"
+          },
+          {
+            "_id": "g_029",
+            "idiom": "苟且偷安",
+            "meaning": "只图眼前安逸，不顾将来。",
+            "example": "面对国家的危难，我们不能苟且偷安，必须奋起反抗。",
+            "pronounce": "gǒu qiě tōu ān"
+          },
+          {
+            "_id": "g_030",
+            "idiom": "狗尾续貂",
+            "meaning": "比喻用不好的东西续在好的东西后面，前后不相称（多用于文艺作品）。",
+            "example": "这部小说前几章很精彩，但后面的情节就像狗尾续貂，非常乏味。",
+            "pronounce": "gǒu wěi xù diāo"
+          },
+          {
+            "_id": "g_031",
+            "idiom": "狗仗人势",
+            "meaning": "比喻倚仗有权势的人欺压别人。与“狐假虎威”意思相近。",
+            "example": "那个经理的秘书常常狗仗人势，对同事们态度恶劣。",
+            "pronounce": "gǒu zhàng rén shì"
+          },
+          {
+            "_id": "g_032",
+            "idiom": "狗嘴里吐不出象牙",
+            "meaning": "比喻坏人嘴里说不出好话来。",
+            "example": "别理他，狗嘴里吐不出象牙，他说的话一句都不能信。",
+            "pronounce": "gǒu zuǐ lǐ tǔ bù chū xiàng yá"
+          },
+          {
+            "_id": "g_033",
+            "idiom": "古道热肠",
+            "meaning": "形容待人真诚、热情，乐于助人。",
+            "example": "李大爷是个古道热肠的人，邻里谁家有困难他都乐意帮忙。",
+            "pronounce": "gǔ dào rè cháng"
+          },
+          {
+            "_id": "g_034",
+            "idiom": "骨肉相残",
+            "meaning": "指亲人之间互相残害。",
+            "example": "为了争夺王位，那几个王子不惜骨肉相残。",
+            "pronounce": "gǔ ròu xiāng cán"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "H",
+        "idioms": [
+          {
+            "_id": "h_001",
+            "idiom": "画饼充饥",
+            "meaning": "比喻用空想来安慰自己，不能解决实际问题。",
+            "example": "老板总是承诺未来会加薪，但从不兑现，这只是画饼充饥。",
+            "pronounce": "huà bǐng chōng jī"
+          },
+          {
+            "_id": "h_002",
+            "idiom": "画地为牢",
+            "meaning": "比喻自己束缚自己，不愿改变。",
+            "example": "不要被过去的失败所困扰，那等于画地为牢。",
+            "pronounce": "huà dì wéi láo"
+          },
+          {
+            "_id": "h_003",
+            "idiom": "画龙点睛",
+            "meaning": "比喻说话或写文章时，在关键地方加上一两句精彩的话，使内容更加生动有力。",
+            "example": "他的演讲最后引用的那句名言，起到了画龙点睛的作用。",
+            "pronounce": "huà lóng diǎn jīng"
+          },
+          {
+            "_id": "h_004",
+            "idiom": "画蛇添足",
+            "meaning": "比喻做了多余的事，不仅没有好处，反而不合适。",
+            "example": "这篇文章已经很好了，你再加这一段就是画蛇添足。",
+            "pronounce": "huà shé tiān zú"
+          },
+          {
+            "_id": "h_005",
+            "idiom": "回头是岸",
+            "meaning": "比喻犯了错误，只要决心悔改，就有出路。",
+            "example": "你现在收手还来得及，回头是岸啊！",
+            "pronounce": "huí tóu shì àn"
+          },
+          {
+            "_id": "h_006",
+            "idiom": "祸从口出",
+            "meaning": "指说话不谨慎，会招致灾祸。",
+            "example": "所谓祸从口出，我们在公共场合说话要特别小心。",
+            "pronounce": "huò cóng kǒu chū"
+          },
+          {
+            "_id": "h_007",
+            "idiom": "活灵活现",
+            "meaning": "形容描绘或模仿得非常生动、逼真。",
+            "example": "他模仿那位明星，学得活灵活现。",
+            "pronounce": "huó líng huó xiàn"
+          },
+          {
+            "_id": "h_008",
+            "idiom": "花言巧语",
+            "meaning": "指虚假而动听的话。",
+            "example": "不要被他的花言巧语所迷惑，要看他的实际行动。",
+            "pronounce": "huā yán qiǎo yǔ"
+          },
+          {
+            "_id": "h_009",
+            "idiom": "花枝招展",
+            "meaning": "形容女子打扮得非常艳丽。",
+            "example": "她打扮得花枝招展地去参加晚会。",
+            "pronounce": "huā zhī zhāo zhǎn"
+          },
+          {
+            "_id": "h_010",
+            "idiom": "慌不择路",
+            "meaning": "因惊慌而乱跑，不选择道路。",
+            "example": "看到警察来了，小偷慌不择路地逃跑了。",
+            "pronounce": "huāng bù zé lù"
+          },
+          {
+            "_id": "h_011",
+            "idiom": "挥金如土",
+            "meaning": "形容任意花钱，毫不吝惜。",
+            "example": "他自从中奖后，便开始挥金如土，很快就把钱花光了。",
+            "pronounce": "huī jīn rú tǔ"
+          },
+          {
+            "_id": "h_012",
+            "idiom": "挥洒自如",
+            "meaning": "形容书写、绘画或言行举止等自然、流畅，不受拘束。",
+            "example": "这位书法家在宣纸上挥洒自如，一气呵成。",
+            "pronounce": "huī sǎ zì rú"
+          },
+          {
+            "_id": "h_013",
+            "idiom": "火冒三丈",
+            "meaning": "形容愤怒到了极点。",
+            "example": "听到这个不公正的判决，他气得火冒三丈。",
+            "pronounce": "huǒ mào sān zhàng"
+          },
+          {
+            "_id": "h_014",
+            "idiom": "火上加油",
+            "meaning": "比喻使人的愤怒或事态的严重性加剧。",
+            "example": "他已经在生气了，你就别再火上加油了。",
+            "pronounce": "huǒ shàng jiā yóu"
+          },
+          {
+            "_id": "h_015",
+            "idiom": "害群之马",
+            "meaning": "比喻危害集体的人。",
+            "example": "我们必须清除团队里的害群之马，才能保证项目的顺利进行。",
+            "pronounce": "hài qún zhī mǎ"
+          },
+          {
+            "_id": "h_016",
+            "idiom": "好高骛远",
+            "meaning": "指不切实际地追求过高、过远的目标。",
+            "example": "年轻人应该脚踏实地，不要好高骛远。",
+            "pronounce": "hào gāo wù yuǎn"
+          },
+          {
+            "_id": "h_017",
+            "idiom": "好逸恶劳",
+            "meaning": "喜欢安逸，厌恶劳动。",
+            "example": "年轻人应该勤奋努力，不能好逸恶劳。",
+            "pronounce": "hào yì wù láo"
+          },
+          {
+            "_id": "h_018",
+            "idiom": "含沙射影",
+            "meaning": "比喻暗中攻击或陷害人。",
+            "example": "有意见就当面提，不要在背后含沙射影。",
+            "pronounce": "hán shā shè yǐng"
+          },
+          {
+            "_id": "h_019",
+            "idiom": "含血喷人",
+            "meaning": "比喻捏造事实，恶意中伤、陷害别人。",
+            "example": "你这是含血喷人，我根本没做过那种事！",
+            "pronounce": "hán xuè pēn rén"
+          },
+          {
+            "_id": "h_020",
+            "idiom": "含辛茹苦",
+            "meaning": "形容忍受艰辛，吃尽苦头。",
+            "example": "她含辛茹苦地把三个孩子抚养成人。",
+            "pronounce": "hán xīn rú kǔ"
+          },
+          {
+            "_id": "h_021",
+            "idiom": "鹤发童颜",
+            "meaning": "形容老年人精神矍铄，身体健康。",
+            "example": "这位老爷爷虽然已经九十高龄，但依然鹤发童颜，精神很好。",
+            "pronounce": "hè fà tóng yán"
+          },
+          {
+            "_id": "h_022",
+            "idiom": "鹤立鸡群",
+            "meaning": "比喻一个人的才能或仪表在一群人里头显得很突出。",
+            "example": "他在人群中，无论是身高还是气质，都显得鹤立鸡群。",
+            "pronounce": "hè lì jī qún"
+          },
+          {
+            "_id": "h_023",
+            "idiom": "横冲直撞",
+            "meaning": "形容行动勇猛，无所顾忌。也指鲁莽行事。",
+            "example": "那辆失控的汽车在街上横冲直撞，非常危险。",
+            "pronounce": "héng chōng zhí zhuàng"
+          },
+          {
+            "_id": "h_024",
+            "idiom": "狐假虎威",
+            "meaning": "比喻倚仗别人的势力来欺压人。",
+            "example": "他只是经理的司机，却总是狐假虎威，对其他员工颐指气使。",
+            "pronounce": "hú jiǎ hǔ wēi"
+          },
+          {
+            "_id": "h_025",
+            "idiom": "狐狸尾巴",
+            "meaning": "比喻坏人的本来面目或罪证。",
+            "example": "他装得再好，也总有一天会露出狐狸尾巴的。",
+            "pronounce": "hú lí wěi bā"
+          },
+          {
+            "_id": "h_026",
+            "idiom": "囫囵吞枣",
+            "meaning": "比喻对知识、事物不加分析、理解，笼统地接受。",
+            "example": "读书不能囫囵吞枣，要理解其中的意思才行。",
+            "pronounce": "hú lún tūn zǎo"
+          },
+          {
+            "_id": "h_027",
+            "idiom": "狐朋狗友",
+            "meaning": "指不务正业、品行不端的朋友。",
+            "example": "你应该多交一些益友，而不是和那些狐朋狗友混在一起。",
+            "pronounce": "hú péng gǒu yǒu"
+          },
+          {
+            "_id": "h_028",
+            "idiom": "胡思乱想",
+            "meaning": "指没有根据地乱想。",
+            "example": "别再胡思乱想了，事情没那么糟糕。",
+            "pronounce": "hú sī luàn xiǎng"
+          },
+          {
+            "_id": "h_029",
+            "idiom": "胡言乱语",
+            "meaning": "指没有根据，不合情理的瞎说。",
+            "example": "他喝醉了，开始胡言乱语，谁也听不懂他在说什么。",
+            "pronounce": "hú yán luàn yǔ"
+          },
+          {
+            "_id": "h_030",
+            "idiom": "海阔天空",
+            "meaning": "形容大自然的广阔，也比喻人的心胸开阔或说话、议论等范围广而不着边际。",
+            "example": "我们聊得很开心，从工作聊到生活，海阔天空地谈了一下午。",
+            "pronounce": "hǎi kuò tiān kōng"
+          },
+          {
+            "_id": "h_031",
+            "idiom": "海市蜃楼",
+            "meaning": "比喻虚幻而不真实的事物。",
+            "example": "他所描述的美好未来，不过是海市蜃楼罢了。",
+            "pronounce": "hǎi shì shèn lóu"
+          },
+          {
+            "_id": "h_032",
+            "idiom": "虎头蛇尾",
+            "meaning": "比喻做事有始无终，起初声势很大，后来劲头很小。",
+            "example": "他做事总是虎头蛇尾，让人无法信任。",
+            "pronounce": "hǔ tóu shé wěi"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "J",
+        "idioms": [
+          {
+            "_id": "j_001",
+            "idiom": "见多识广",
+            "meaning": "见过的多，知道的广。形容经验丰富，知识渊博。",
+            "example": "他是一位见多识广的旅行家，给我们讲了很多有趣的故事。",
+            "pronounce": "jiàn duō shí guǎng"
+          },
+          {
+            "_id": "j_002",
+            "idiom": "见风使舵",
+            "meaning": "比喻看情势办事，投机取巧。也作“见风转舵”。",
+            "example": "他是个非常圆滑的人，很会见风使舵。",
+            "pronounce": "jiàn fēng shǐ duò"
+          },
+          {
+            "_id": "j_003",
+            "idiom": "见仁见智",
+            "meaning": "指对同一个问题，各人有各人的看法。",
+            "example": "对于这个问题，大家见仁见智，没有统一的答案。",
+            "pronounce": "jiàn rén jiàn zhì"
+          },
+          {
+            "_id": "j_004",
+            "idiom": "见死不救",
+            "meaning": "看见别人有生命危险，却不去救援。",
+            "example": "见死不救是可耻的行为。",
+            "pronounce": "jiàn sǐ bù jiù"
+          },
+          {
+            "_id": "j_005",
+            "idiom": "见义忘利",
+            "meaning": "看到正义的事情，就忘记了个人的私利。",
+            "example": "他见义忘利，为了救人耽误了自己的重要生意。",
+            "pronounce": "jiàn yì wàng lì"
+          },
+          {
+            "_id": "j_006",
+            "idiom": "见义勇为",
+            "meaning": "看到正义的事情就勇敢地去做。",
+            "example": "他见义勇为，制止了小偷的行窃行为，受到了大家的称赞。",
+            "pronounce": "jiàn yì yǒng wéi"
+          },
+          {
+            "_id": "j_007",
+            "idiom": "教学相长",
+            "meaning": "教和学两方面互相促进，都能得到提高。",
+            "example": "在辅导学生的过程中，老师自己也学到了很多，真是教学相长。",
+            "pronounce": "jiào xué xiāng zhǎng"
+          },
+          {
+            "_id": "j_008",
+            "idiom": "家破人亡",
+            "meaning": "家庭被毁，亲人死亡。",
+            "example": "战争使许多家庭家破人亡。",
+            "pronounce": "jiā pò rén wáng"
+          },
+          {
+            "_id": "j_009",
+            "idiom": "家喻户晓",
+            "meaning": "形容每家每户都知道，人人皆知。",
+            "example": "孙悟空的故事在中国是家喻户晓的。",
+            "pronounce": "jiā yù hù xiǎo"
+          },
+          {
+            "_id": "j_010",
+            "idiom": "江郎才尽",
+            "meaning": "比喻才思枯竭，再也写不出好的作品了。",
+            "example": "这位作家近几年的作品水平下降，很多人说他已经江郎才尽了。",
+            "pronounce": "jiāng láng cái jìn"
+          },
+          {
+            "_id": "j_011",
+            "idiom": "交口称赞",
+            "meaning": "大家一致地称赞。",
+            "example": "他的精彩表演，让在场的观众交口称赞。",
+            "pronounce": "jiāo kǒu chēng zàn"
+          },
+          {
+            "_id": "j_012",
+            "idiom": "假公济私",
+            "meaning": "假借公家的名义来谋取私人的利益。",
+            "example": "他利用职务之便假公济私，最终受到了法律的制裁。",
+            "pronounce": "jiǎ gōng jì sī"
+          },
+          {
+            "_id": "j_013",
+            "idiom": "假戏真做",
+            "meaning": "指本来是装样子的，后来却当真了。",
+            "example": "他们俩本来是假扮情侣，没想到后来假戏真做，真的在一起了。",
+            "pronounce": "jiǎ xì zhēn zuò"
+          },
+          {
+            "_id": "j_014",
+            "idiom": "脚踏实地",
+            "meaning": "比喻做事踏实，认真。",
+            "example": "我们应该脚踏实地地工作，一步一个脚印地前进。",
+            "pronounce": "jiǎo tà shí dì"
+          },
+          {
+            "_id": "j_015",
+            "idiom": "九牛一毛",
+            "meaning": "比喻在巨大的数量中，极小的一部分，微不足道。",
+            "example": "对于整个项目来说，这点花费只是九牛一毛。",
+            "pronounce": "jiǔ niú yì máo"
+          },
+          {
+            "_id": "j_016",
+            "idiom": "九死一生",
+            "meaning": "形容生命垂危，经历极大的危险而幸存下来。",
+            "example": "他在那次事故中九死一生，能活下来真是个奇迹。",
+            "pronounce": "jiǔ sǐ yì shēng"
+          },
+          {
+            "_id": "j_017",
+            "idiom": "进退维谷",
+            "meaning": "形容前进和后退都无路可走，处境艰难。",
+            "example": "他现在面临着进退维谷的困境，不知道该怎么办。",
+            "pronounce": "jìn tuì wéi gǔ"
+          },
+          {
+            "_id": "j_018",
+            "idiom": "敬而远之",
+            "meaning": "表面上表示尊敬，但实际上不愿接近。",
+            "example": "他这个人太爱算计，大家对他都敬而远之。",
+            "pronounce": "jìng ér yuǎn zhī"
+          },
+          {
+            "_id": "j_019",
+            "idiom": "急功近利",
+            "meaning": "急于求成，贪图眼前的成效和利益。",
+            "example": "做学问不能急功近利，需要长期的积累。",
+            "pronounce": "jí gōng jìn lì"
+          },
+          {
+            "_id": "j_020",
+            "idiom": "集思广益",
+            "meaning": "集中大家的智慧，广泛吸收有益的意见。",
+            "example": "为了制定出最好的方案，我们决定召开一个讨论会，集思广益。",
+            "pronounce": "jí sī guǎng yì"
+          },
+          {
+            "_id": "j_021",
+            "idiom": "聚精会神",
+            "meaning": "形容精神高度集中。",
+            "example": "他正在聚精会神地看书，完全没听到我叫他。",
+            "pronounce": "jù jīng huì shén"
+          },
+          {
+            "_id": "j_022",
+            "idiom": "机不可失",
+            "meaning": "指时机难得，不能放过。常与“时不再来”连用。",
+            "example": "这是一个很好的机会，机不可失，时不再来，你一定要抓住。",
+            "pronounce": "jī bù kě shī"
+          },
+          {
+            "_id": "j_023",
+            "idiom": "鸡飞狗跳",
+            "meaning": "形容家里或一个地方因吵闹或受到惊扰而乱成一团。与“鸡犬不宁”意思相近。",
+            "example": "家里来了几个熊孩子，把屋子弄得鸡飞狗跳。",
+            "pronounce": "jī fēi gǒu tiào"
+          },
+          {
+            "_id": "j_024",
+            "idiom": "鸡毛蒜皮",
+            "meaning": "比喻无关紧要的琐碎小事。",
+            "example": "他们夫妻俩经常为了一些鸡毛蒜皮的小事吵架。",
+            "pronounce": "jī máo suàn pí"
+          },
+          {
+            "_id": "j_025",
+            "idiom": "鸡犬不宁",
+            "meaning": "形容骚扰得非常厉害，连鸡狗都不得安宁。",
+            "example": "他家的孩子太淘气了，整天吵得四邻鸡犬不宁。",
+            "pronounce": "jī quǎn bù níng"
+          },
+          {
+            "_id": "j_026",
+            "idiom": "金蝉脱壳",
+            "meaning": "比喻用计谋脱身，使对方不能及时发觉。",
+            "example": "小偷利用混乱的场面金蝉脱壳，逃离了现场。",
+            "pronounce": "jīn chán tuō qiào"
+          },
+          {
+            "_id": "j_027",
+            "idiom": "津津有味",
+            "meaning": "形容对某事物非常有兴趣，吃得或看得很有味道。",
+            "example": "他正在津津有味地看一本小说。",
+            "pronounce": "jīn jīn yǒu wèi"
+          },
+          {
+            "_id": "j_028",
+            "idiom": "金石为开",
+            "meaning": "比喻只要有诚心，就能感动别人，或办成事情。",
+            "example": "只要我们拿出诚意，精诚所至，金石为开，一定能打动对方。",
+            "pronounce": "jīn shí wéi kāi"
+          },
+          {
+            "_id": "j_029",
+            "idiom": "兢兢业业",
+            "meaning": "形容做事谨慎、勤恳。",
+            "example": "他几十年如一日，在自己的岗位上兢兢业业地工作。",
+            "pronounce": "jīng jīng yè yè"
+          },
+          {
+            "_id": "j_030",
+            "idiom": "精疲力尽",
+            "meaning": "形容精神、体力消耗已尽，非常疲劳。",
+            "example": "跑完马拉松后，他感到精疲力尽。",
+            "pronounce": "jīng pí lì jìn"
+          },
+          {
+            "_id": "j_031",
+            "idiom": "精神焕发",
+            "meaning": "形容精神振作，容光焕发。",
+            "example": "休息了一晚后，他第二天显得精神焕发。",
+            "pronounce": "jīng shén huàn fā"
+          },
+          {
+            "_id": "j_032",
+            "idiom": "精心策划",
+            "meaning": "指非常用心、周密地策划。",
+            "example": "这场盛大的晚会是经过精心策划的。",
+            "pronounce": "jīng xīn cè huà"
+          },
+          {
+            "_id": "j_033",
+            "idiom": "精益求精",
+            "meaning": "指在已经很好的基础上，还要求做得更好。",
+            "example": "他对自己的作品总是精益求精，不放过任何一个细节。",
+            "pronounce": "jīng yì qiú jīng"
+          },
+          {
+            "_id": "j_034",
+            "idiom": "井底之蛙",
+            "meaning": "比喻见识短浅，眼界狭小的人。",
+            "example": "我们应该多出去走走，增长见识，不要做井底之蛙。",
+            "pronounce": "jǐng dǐ zhī wā"
+          },
+          {
+            "_id": "j_035",
+            "idiom": "井井有条",
+            "meaning": "形容说话、办事有条理，整齐不乱。",
+            "example": "她的房间总是收拾得井井有条。",
+            "pronounce": "jǐng jǐng yǒu tiáo"
+          },
+          {
+            "_id": "j_036",
+            "idiom": "井然有序",
+            "meaning": "形容整齐、有条理的样子。与“井井有条”意思相近。",
+            "example": "在老师的指挥下，同学们井然有序地排队上车。",
+            "pronounce": "jǐng rán yǒu xù"
+          },
+          {
+            "_id": "j_037",
+            "idiom": "举棋不定",
+            "meaning": "比喻犹豫不决，拿不定主意。",
+            "example": "面对两个工作机会，他举棋不定，不知道该选哪个。",
+            "pronounce": "jǔ qí bù dìng"
+          },
+          {
+            "_id": "j_038",
+            "idiom": "举世无双",
+            "meaning": "全世界找不到第二个，形容最优秀或极稀有。",
+            "example": "中国的兵马俑是举世无双的文化遗产。",
+            "pronounce": "jǔ shì wú shuāng"
+          },
+          {
+            "_id": "j_039",
+            "idiom": "举世瞩目",
+            "meaning": "全世界的人都关注。",
+            "example": "这次的奥运会是一场举世瞩目的体育盛会。",
+            "pronounce": "jǔ shì zhǔ mù"
+          },
+          {
+            "_id": "j_040",
+            "idiom": "举一反三",
+            "meaning": "从一件事情类推，而知道其他许多类似的事情。",
+            "example": "他很聪明，学习能举一反三，所以进步很快。",
+            "pronounce": "jǔ yī fǎn sān"
+          },
+          {
+            "_id": "j_041",
+            "idiom": "举足轻重",
+            "meaning": "指处于重要地位，一举一动都关系到全局。",
+            "example": "他在公司里是一个举足轻重的人物。",
+            "pronounce": "jǔ zú qīng zhòng"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "K",
+        "idioms": [
+          {
+            "_id": "k_001",
+            "idiom": "刻舟求剑",
+            "meaning": "比喻办事拘泥，不知变通，不懂得根据实际情况处理问题。",
+            "example": "时代在变，我们不能用老方法解决新问题，那等于是刻舟求剑。",
+            "pronounce": "kè zhōu qiú jiàn"
+          },
+          {
+            "_id": "k_002",
+            "idiom": "困兽犹斗",
+            "meaning": "比喻在绝境中还要挣扎、反抗。",
+            "example": "虽然敌人已经被包围，但他们仍在困兽犹斗，我们不能掉以轻心。",
+            "pronounce": "kùn shòu yóu dòu"
+          },
+          {
+            "_id": "k_003",
+            "idiom": "开诚布公",
+            "meaning": "指以诚心待人，坦白无私地亮出自己的意见。",
+            "example": "我们应该开诚布公地谈一谈，解决彼此之间的误会。",
+            "pronounce": "kāi chéng bù gōng"
+          },
+          {
+            "_id": "k_004",
+            "idiom": "开门见山",
+            "meaning": "比喻说话或写文章一上来就直接谈到主题，不绕弯子。",
+            "example": "时间宝贵，我们开门见山，直接讨论解决方案吧。",
+            "pronounce": "kāi mén jiàn shān"
+          },
+          {
+            "_id": "k_005",
+            "idiom": "慷慨解囊",
+            "meaning": "形容毫不吝啬地拿出钱来帮助别人。",
+            "example": "得知灾区的情况后，大家纷纷慷慨解囊，踊跃捐款。",
+            "pronounce": "kāng kǎi jiě náng"
+          },
+          {
+            "_id": "k_006",
+            "idiom": "慷慨激昂",
+            "meaning": "形容精神振奋，情绪高涨。",
+            "example": "他在集会上发表了慷慨激昂的演说，鼓舞了在场的所有人。",
+            "pronounce": "kāng kǎi jī áng"
+          },
+          {
+            "_id": "k_007",
+            "idiom": "可想而知",
+            "meaning": "可以根据常理想象得出来。",
+            "example": "这么冷的天只穿一件薄衣服，其结果是可想而知的。",
+            "pronounce": "kě xiǎng ér zhī"
+          },
+          {
+            "_id": "k_008",
+            "idiom": "空前绝后",
+            "meaning": "从前没有过，此后也不会有。形容独一无二。",
+            "example": "这次的洪水规模之大，可以说是空前绝后的。",
+            "pronounce": "kōng qián jué hòu"
+          },
+          {
+            "_id": "k_009",
+            "idiom": "空穴来风",
+            "meaning": "原比喻消息和传说有原因和根据。现在多用来指消息和传说没有根据。",
+            "example": "关于公司要裁员的传闻，并非空穴来风，你要早做准备。",
+            "pronounce": "kōng xué lái fēng"
+          },
+          {
+            "_id": "k_010",
+            "idiom": "空中楼阁",
+            "meaning": "比喻脱离实际的、虚幻的理论或计划。",
+            "example": "你的这个想法太不切实际了，简直是空中楼阁。",
+            "pronounce": "kōng zhōng lóu gé"
+          },
+          {
+            "_id": "k_011",
+            "idiom": "口蜜腹剑",
+            "meaning": "比喻嘴上说得好听，心里却很阴险。与“笑里藏刀”意思相近。",
+            "example": "要警惕那些口蜜腹剑的小人。",
+            "pronounce": "kǒu mì fù jiàn"
+          },
+          {
+            "_id": "k_012",
+            "idiom": "口若悬河",
+            "meaning": "形容能说会道，说话滔滔不绝。",
+            "example": "他一谈起自己喜欢的领域，就口若悬河，停不下来。",
+            "pronounce": "kǒu ruò xuán hé"
+          },
+          {
+            "_id": "k_013",
+            "idiom": "口是心非",
+            "meaning": "嘴里说的是一套，心里想的却是另一套。",
+            "example": "他嘴上说不介意，但从他的表情看，他其实是口是心非。",
+            "pronounce": "kǒu shì xīn fēi"
+          },
+          {
+            "_id": "k_014",
+            "idiom": "苦海无边",
+            "meaning": "原为佛教用语，指人生如同苦海，无边无际。后多用来形容苦难的境地。",
+            "example": "只有努力奋斗，才能脱离这苦海无边的生活。",
+            "pronounce": "kǔ hǎi wú biān"
+          },
+          {
+            "_id": "k_015",
+            "idiom": "苦尽甘来",
+            "meaning": "形容艰难的境况已经过去，美好的日子已经到来。",
+            "example": "经过多年的奋斗，他终于成功了，真是苦尽甘来。",
+            "pronounce": "kǔ jìn gān lái"
+          },
+          {
+            "_id": "k_016",
+            "idiom": "苦口婆心",
+            "meaning": "形容怀着好心，不厌其烦地劝说。",
+            "example": "妈妈苦口婆心地劝他不要沉迷游戏，他就是不听。",
+            "pronounce": "kǔ kǒu pó xīn"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "L",
+        "idioms": [
+          {
+            "_id": "l_001",
+            "idiom": "良药苦口",
+            "meaning": "比喻衷心的劝告或尖锐的批评，虽然听起来不舒服，但对人有好处。",
+            "example": "虽然他的批评很尖锐，但良药苦口利于病，我们应该虚心接受。",
+            "pronounce": "liáng yào kǔ kǒu"
+          },
+          {
+            "_id": "l_002",
+            "idiom": "流芳百世",
+            "meaning": "指美好的名声永远流传下去。",
+            "example": "那些为国捐躯的英雄，他们的事迹将流芳百世。",
+            "pronounce": "liú fāng bǎi shì"
+          },
+          {
+            "_id": "l_003",
+            "idiom": "流离失所",
+            "meaning": "因战乱、灾荒等而无家可归，到处漂泊。",
+            "example": "战争使成千上万的百姓流离失所。",
+            "pronounce": "liú lí shī suǒ"
+          },
+          {
+            "_id": "l_004",
+            "idiom": "流言蜚语",
+            "meaning": "指没有根据的话，多是背后议论、诽谤或中伤的话。",
+            "example": "不要轻信那些流言蜚语，要相信自己的判断。",
+            "pronounce": "liú yán fēi yǔ"
+          },
+          {
+            "_id": "l_005",
+            "idiom": "两败俱伤",
+            "meaning": "指斗争的双方都受到损害，没有胜利者。",
+            "example": "争吵解决不了问题，只会导致两败俱伤。",
+            "pronounce": "liǎng bài jù shāng"
+          },
+          {
+            "_id": "l_006",
+            "idiom": "两面三刀",
+            "meaning": "比喻当面一套，背后一套，耍两面派手法。",
+            "example": "我最讨厌那种两面三刀的人。",
+            "pronounce": "liǎng miàn sān dāo"
+          },
+          {
+            "_id": "l_007",
+            "idiom": "乱七八糟",
+            "meaning": "形容毫无条理，又乱又杂。",
+            "example": "他的房间总是乱七八糟的，从不收拾。",
+            "pronounce": "luàn qī bā zāo"
+          },
+          {
+            "_id": "l_008",
+            "idiom": "落花流水",
+            "meaning": "形容被打得大败，或景物凋零残败。",
+            "example": "我军士气如虹，把敌人打得落花流水。",
+            "pronounce": "luò huā liú shuǐ"
+          },
+          {
+            "_id": "l_009",
+            "idiom": "落荒而逃",
+            "meaning": "形容战败后仓皇逃跑。",
+            "example": "我军一发起冲锋，敌人就吓得落荒而逃。",
+            "pronounce": "luò huāng ér táo"
+          },
+          {
+            "_id": "l_010",
+            "idiom": "落井下石",
+            "meaning": "比喻在别人遇到危难时，不但不帮助，反而加以陷害。",
+            "example": "在朋友困难的时候，我们应该帮助他，而不是落井下石。",
+            "pronounce": "luò jǐng xià shí"
+          },
+          {
+            "_id": "l_011",
+            "idiom": "滥竽充数",
+            "meaning": "比喻没有真才实学的人混在行家里面充数，或用次货冒充好货。",
+            "example": "团队里不能有滥竽充数的人，每个人都必须有真本事。",
+            "pronounce": "làn yú chōng shù"
+          },
+          {
+            "_id": "l_012",
+            "idiom": "狼狈为奸",
+            "meaning": "比喻坏人互相勾结，一起做坏事。",
+            "example": "这两个贪官狼狈为奸，侵吞了大量公款。",
+            "pronounce": "láng bèi wéi jiān"
+          },
+          {
+            "_id": "l_013",
+            "idiom": "狼心狗肺",
+            "meaning": "形容心肠像狼和狗一样凶恶、狠毒。",
+            "example": "他竟然恩将仇报，真是个狼心狗肺的东西。",
+            "pronounce": "láng xīn gǒu fèi"
+          },
+          {
+            "_id": "l_014",
+            "idiom": "狼烟四起",
+            "meaning": "指边境报警的烽火到处点起，形容战乱频繁。",
+            "example": "那个年代，军阀混战，狼烟四起，民不聊生。",
+            "pronounce": "láng yān sì qǐ"
+          },
+          {
+            "_id": "l_015",
+            "idiom": "劳而无功",
+            "meaning": "付出了劳动，却没有收到成效。与“徒劳无功”意思相近。",
+            "example": "如果方向错了，所有的努力都可能劳而无功。",
+            "pronounce": "láo ér wú gōng"
+          },
+          {
+            "_id": "l_016",
+            "idiom": "乐不思蜀",
+            "meaning": "比喻在新环境中得到乐趣，不想再回到原来苦的环境里。",
+            "example": "他在国外生活得很开心，已经乐不思蜀了。",
+            "pronounce": "lè bù sī shǔ"
+          },
+          {
+            "_id": "l_017",
+            "idiom": "乐此不疲",
+            "meaning": "因喜欢做某事而不知疲倦。",
+            "example": "他喜欢下棋，常常一坐就是一下午，乐此不疲。",
+            "pronounce": "lè cǐ bù pí"
+          },
+          {
+            "_id": "l_018",
+            "idiom": "乐极生悲",
+            "meaning": "高兴到极点，反而会产生悲哀的事情。",
+            "example": "他中了大奖后得意忘形，结果乐极生悲，把彩票弄丢了。",
+            "pronounce": "lè jí shēng bēi"
+          },
+          {
+            "_id": "l_019",
+            "idiom": "力不从心",
+            "meaning": "心里想做，但力量或能力不足，做不到。",
+            "example": "他很想帮助朋友，但是自己经济也很困难，感到力不从心。",
+            "pronounce": "lì bù cóng xīn"
+          },
+          {
+            "_id": "l_020",
+            "idiom": "厉兵秣马",
+            "meaning": "指做好战斗前的准备工作。",
+            "example": "全军将士正在厉兵秣马，准备迎接即将到来的大战。",
+            "pronounce": "lì bīng mò mǎ"
+          },
+          {
+            "_id": "l_021",
+            "idiom": "利令智昏",
+            "meaning": "因贪图私利而使头脑发昏，丧失理智。",
+            "example": "他被巨大的利益冲昏了头脑，利令智昏，最终触犯了法律。",
+            "pronounce": "lì lìng zhì hūn"
+          },
+          {
+            "_id": "l_022",
+            "idiom": "力挽狂澜",
+            "meaning": "比喻尽力挽回危险的局势。",
+            "example": "在公司最危急的时刻，他挺身而出，力挽狂澜，使公司转危为安。",
+            "pronounce": "lì wǎn kuáng lán"
+          },
+          {
+            "_id": "l_023",
+            "idiom": "离经叛道",
+            "meaning": "指思想、言行背离传统的规范和准则。",
+            "example": "在那个保守的年代，他的行为被认为是离经叛道的。",
+            "pronounce": "lí jīng pàn dào"
+          },
+          {
+            "_id": "l_024",
+            "idiom": "离乡背井",
+            "meaning": "离开家乡，到外地生活。与“背井离乡”意思相同。",
+            "example": "为了更好的发展，许多年轻人选择离乡背井，去大城市闯荡。",
+            "pronounce": "lí xiāng bèi jǐng"
+          },
+          {
+            "_id": "l_025",
+            "idiom": "临渴掘井",
+            "meaning": "比喻事到临头才想办法，已经来不及了。",
+            "example": "平时不努力，考试前才复习，无异于临渴掘井。",
+            "pronounce": "lín kě jué jǐng"
+          },
+          {
+            "_id": "l_026",
+            "idiom": "临阵脱逃",
+            "meaning": "指在紧要关头，丢掉阵地，独自逃跑。",
+            "example": "作为一名军人，临阵脱逃是最大的耻辱。",
+            "pronounce": "lín zhèn tuō táo"
+          },
+          {
+            "_id": "l_027",
+            "idiom": "灵机一动",
+            "meaning": "指临时想出了一个好主意。",
+            "example": "正当大家一筹莫展时，他灵机一动，想出了一个绝妙的办法。",
+            "pronounce": "líng jī yī dòng"
+          },
+          {
+            "_id": "l_028",
+            "idiom": "路不拾遗",
+            "meaning": "形容社会风气好，东西掉在路上也没有人捡走。",
+            "example": "古代传说中的太平盛世，可以达到路不拾遗，夜不闭户的程度。",
+            "pronounce": "lù bù shí yí"
+          },
+          {
+            "_id": "l_029",
+            "idiom": "炉火纯青",
+            "meaning": "比喻学问、技术或技艺达到了纯熟完美的境界。",
+            "example": "他的太极拳功夫已经达到了炉火纯青的地步。",
+            "pronounce": "lú huǒ chún qīng"
+          },
+          {
+            "_id": "l_030",
+            "idiom": "拉帮结派",
+            "meaning": "指为了个人或小集团的利益而组织小团体。",
+            "example": "公司里严禁拉帮结派，搞小团体主义。",
+            "pronounce": "lā bāng jié pài"
+          },
+          {
+            "_id": "l_031",
+            "idiom": "冷嘲热讽",
+            "meaning": "用尖酸、刻薄的语言嘲笑、讽刺人。",
+            "example": "面对别人的冷嘲热讽，他只是付之一笑。",
+            "pronounce": "lěng cháo rè fěng"
+          },
+          {
+            "_id": "l_032",
+            "idiom": "老骥伏枥",
+            "meaning": "比喻年纪虽老，但仍有雄心壮志。",
+            "example": "这位老科学家虽然退休了，但仍然老骥伏枥，致力于科研工作。",
+            "pronounce": "lǎo jì fú lì"
+          },
+          {
+            "_id": "l_033",
+            "idiom": "老马识途",
+            "meaning": "比喻有经验的人熟悉情况，能起引导作用。",
+            "example": "这个地方我来过很多次了，放心吧，老马识途，不会迷路的。",
+            "pronounce": "lǎo mǎ shí tú"
+          },
+          {
+            "_id": "l_034",
+            "idiom": "老生常谈",
+            "meaning": "指听惯了的、没有新意的话。",
+            "example": "安全问题虽然是老生常谈，但我们必须时刻警惕。",
+            "pronounce": "lǎo shēng cháng tán"
+          },
+          {
+            "_id": "l_035",
+            "idiom": "理直气壮",
+            "meaning": "理由充分，说话、做事的气势就很足。",
+            "example": "这件事是他错了，你完全可以理直气壮地去和他理论。",
+            "pronounce": "lǐ zhí qì zhuàng"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "M",
+        "idioms": [
+          {
+            "_id": "m_001",
+            "idiom": "面红耳赤",
+            "meaning": "形容因激动、害羞或发怒而脸色通红的样子。",
+            "example": "他们俩为了一件小事争得面红耳赤。",
+            "pronounce": "miàn hóng ěr chì"
+          },
+          {
+            "_id": "m_002",
+            "idiom": "面目全非",
+            "meaning": "形容样子变得和原来完全不同。",
+            "example": "一场大火过后，这座美丽的森林变得面目全非。",
+            "pronounce": "miàn mù quán fēi"
+          },
+          {
+            "_id": "m_003",
+            "idiom": "瞒天过海",
+            "meaning": "比喻用欺骗的手段，在暗中进行活动。",
+            "example": "他想瞒天过海，把公司的钱转到自己账户，但最终还是被发现了。",
+            "pronounce": "mán tiān guò hǎi"
+          },
+          {
+            "_id": "m_004",
+            "idiom": "忙中出错",
+            "meaning": "指在繁忙、慌乱中，容易发生错误。",
+            "example": "越是忙碌的时候，越要保持冷静，以免忙中出错。",
+            "pronounce": "máng zhōng chū cuò"
+          },
+          {
+            "_id": "m_005",
+            "idiom": "毛手毛脚",
+            "meaning": "形容做事粗心，不细致。",
+            "example": "拿这些玻璃器皿要小心，不要毛手毛脚的。",
+            "pronounce": "máo shǒu máo jiǎo"
+          },
+          {
+            "_id": "m_006",
+            "idiom": "毛遂自荐",
+            "meaning": "比喻自己推荐自己，担任某项工作。",
+            "example": "这个项目缺少负责人，他便毛遂自荐，承担了这项任务。",
+            "pronounce": "máo suì zì jiàn"
+          },
+          {
+            "_id": "m_007",
+            "idiom": "眉飞色舞",
+            "meaning": "形容非常得意、高兴的样子。",
+            "example": "他一说起自己的光荣事迹，就立刻眉飞色舞起来。",
+            "pronounce": "méi fēi sè wǔ"
+          },
+          {
+            "_id": "m_008",
+            "idiom": "眉来眼去",
+            "meaning": "多形容男女间用眼神传情。",
+            "example": "他们在公共场合眉来眼去，一点也不顾及影响。",
+            "pronounce": "méi lái yǎn qù"
+          },
+          {
+            "_id": "m_009",
+            "idiom": "没头没脑",
+            "meaning": "形容说话、做事没有条理，或事情没有来由。",
+            "example": "他没头没脑地说了一句话，把我们都搞糊涂了。",
+            "pronounce": "méi tóu méi nǎo"
+          },
+          {
+            "_id": "m_010",
+            "idiom": "民不聊生",
+            "meaning": "形容老百姓的生活极端困苦。",
+            "example": "在那个腐败的朝代，苛捐杂税繁多，民不聊生。",
+            "pronounce": "mín bù liáo shēng"
+          },
+          {
+            "_id": "m_011",
+            "idiom": "明察秋毫",
+            "meaning": "形容眼力敏锐，能看清极细微的东西。也指能洞察事理。",
+            "example": "这位侦探心思缜密，能明察秋毫，不放过任何一个线索。",
+            "pronounce": "míng chá qiū háo"
+          },
+          {
+            "_id": "m_012",
+            "idiom": "明哲保身",
+            "meaning": "指为了保全自己，回避原则斗争的处世态度。",
+            "example": "在是非面前，我们不能只求明哲保身，而应该坚持正义。",
+            "pronounce": "míng zhé bǎo shēn"
+          },
+          {
+            "_id": "m_013",
+            "idiom": "模棱两可",
+            "meaning": "指不表示明确的态度，或没有明确的界限。",
+            "example": "他对这个问题的回答模棱两可，让人捉摸不透。",
+            "pronounce": "mó léng liǎng kě"
+          },
+          {
+            "_id": "m_014",
+            "idiom": "目不暇接",
+            "meaning": "形容东西太多，眼睛看不过来。",
+            "example": "展览会上的艺术品琳琅满目，让人目不暇接。",
+            "pronounce": "mù bù xiá jiē"
+          },
+          {
+            "_id": "m_015",
+            "idiom": "目瞪口呆",
+            "meaning": "形容因吃惊或害怕而发愣的样子。",
+            "example": "看到眼前不可思议的景象，他惊得目瞪口呆。",
+            "pronounce": "mù dèng kǒu dāi"
+          },
+          {
+            "_id": "m_016",
+            "idiom": "目空一切",
+            "meaning": "什么都不放在眼里。形容骄傲自大。与“目中无人”意思相近。",
+            "example": "他取得了一点成就后，就开始目空一切，看不起任何人。",
+            "pronounce": "mù kōng yī qiè"
+          },
+          {
+            "_id": "m_017",
+            "idiom": "目中无人",
+            "meaning": "形容骄傲自大，看不起任何人。",
+            "example": "他仗着自己家里有钱，总是目中无人。",
+            "pronounce": "mù zhōng wú rén"
+          },
+          {
+            "_id": "m_018",
+            "idiom": "马不停蹄",
+            "meaning": "比喻一刻也不停留，不停地奔波或工作。",
+            "example": "为了赶在截止日期前完成任务，他马不停蹄地工作了好几天。",
+            "pronounce": "mǎ bù tíng tí"
+          },
+          {
+            "_id": "m_019",
+            "idiom": "马马虎虎",
+            "meaning": "形容做事不认真，随随便便，不仔细。",
+            "example": "这份报告写得马马虎虎，有很多错误需要修改。",
+            "pronounce": "mǎ mǎ hǔ hǔ"
+          },
+          {
+            "_id": "m_020",
+            "idiom": "满城风雨",
+            "meaning": "形容消息一经传出，到处都在议论。",
+            "example": "他们俩离婚的消息，很快就传得满城风雨。",
+            "pronounce": "mǎn chéng fēng yǔ"
+          },
+          {
+            "_id": "m_021",
+            "idiom": "满面春风",
+            "meaning": "形容人心情愉快，面带笑容。",
+            "example": "看他满面春风的样子，一定是有什么好事。",
+            "pronounce": "mǎn miàn chūn fēng"
+          },
+          {
+            "_id": "m_022",
+            "idiom": "满载而归",
+            "meaning": "装得满满地回来。形容收获很大。",
+            "example": "这次去采购，我们买了很多东西，真是满载而归。",
+            "pronounce": "mǎn zài ér guī"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "N",
+        "idioms": [
+          {
+            "_id": "n_001",
+            "idiom": "鸟语花香",
+            "meaning": "形容春天大自然的美好景色。",
+            "example": "春天来了，公园里鸟语花香，景色宜人。",
+            "pronounce": "niǎo yǔ huā xiāng"
+          },
+          {
+            "_id": "n_002",
+            "idiom": "拿腔拿调",
+            "meaning": "形容说话、做事装模作样，不自然。",
+            "example": "他说话总是拿腔拿调的，让人听了很不舒服。",
+            "pronounce": "ná qiāng ná diào"
+          },
+          {
+            "_id": "n_003",
+            "idiom": "南辕北辙",
+            "meaning": "比喻行动和目的相反。",
+            "example": "你想成功却不努力，这简直是南辕北辙。",
+            "pronounce": "nán yuán běi zhé"
+          },
+          {
+            "_id": "n_004",
+            "idiom": "难以置信",
+            "meaning": "不容易相信。",
+            "example": "他竟然在一天之内读完了一本这么厚的书，真是令人难以置信。",
+            "pronounce": "nán yǐ zhì xìn"
+          },
+          {
+            "_id": "n_005",
+            "idiom": "内忧外患",
+            "meaning": "指内部有忧患，外部有祸乱。",
+            "example": "这个国家当时正处于内忧外患的艰难时期。",
+            "pronounce": "nèi yōu wài huàn"
+          },
+          {
+            "_id": "n_006",
+            "idiom": "逆来顺受",
+            "meaning": "指对恶劣的环境或不合理的待遇采取顺从、忍受的态度。",
+            "example": "面对不公，我们应该反抗，而不是逆来顺受。",
+            "pronounce": "nì lái shùn shòu"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "P",
+        "idioms": [
+          {
+            "_id": "p_001",
+            "idiom": "胼手胝足",
+            "meaning": "形容长期辛勤劳动，手脚都磨出了老茧。",
+            "example": "他们胼手胝足，白手起家，才有了今天的成就。",
+            "pronounce": "pián shǒu zhī zú"
+          },
+          {
+            "_id": "p_002",
+            "idiom": "偏听偏信",
+            "meaning": "片面地听取和相信一方的意见。",
+            "example": "作为管理者，不能偏听偏信，要全面了解情况再做判断。",
+            "pronounce": "piān tīng piān xìn"
+          },
+          {
+            "_id": "p_003",
+            "idiom": "蓬头垢面",
+            "meaning": "形容头发散乱，脸上很脏，不修边幅。",
+            "example": "他失业后，整天待在家里，弄得自己蓬头垢面的。",
+            "pronounce": "péng tóu gòu miàn"
+          },
+          {
+            "_id": "p_004",
+            "idiom": "平心静气",
+            "meaning": "形容心情平静，不浮躁。与“心平气和”意思相近。",
+            "example": "我们坐下来，平心静气地谈一谈吧。",
+            "pronounce": "píng xīn jìng qì"
+          },
+          {
+            "_id": "p_005",
+            "idiom": "迫不及待",
+            "meaning": "形容心情急切，不能再等待。",
+            "example": "一听到放学的铃声，孩子们就迫不及待地冲出教室。",
+            "pronounce": "pò bù jí dài"
+          },
+          {
+            "_id": "p_006",
+            "idiom": "破釜沉舟",
+            "meaning": "比喻下定决心，不顾一切干到底，不留退路。",
+            "example": "他辞掉了工作，决定破釜沉舟，自己创业。",
+            "pronounce": "pò fǔ chén zhōu"
+          },
+          {
+            "_id": "p_007",
+            "idiom": "破镜重圆",
+            "meaning": "比喻夫妻失散或决裂后重新和好。",
+            "example": "经过多年的分离，这对老夫妻终于破镜重圆。",
+            "pronounce": "pò jìng chóng yuán"
+          },
+          {
+            "_id": "p_008",
+            "idiom": "破门而入",
+            "meaning": "指强行进入别人的屋子。",
+            "example": "警察破门而入，将犯罪嫌疑人当场抓获。",
+            "pronounce": "pò mén ér rù"
+          },
+          {
+            "_id": "p_009",
+            "idiom": "拍马屁",
+            "meaning": "比喻阿谀奉承，讨好别人。",
+            "example": "他最擅长的就是给领导拍马屁。",
+            "pronounce": "pāi mǎ pì"
+          },
+          {
+            "_id": "p_010",
+            "idiom": "拍案叫绝",
+            "meaning": "形容非常赞赏。",
+            "example": "这个魔术表演太精彩了，观众们都拍案叫绝。",
+            "pronounce": "pāi àn jiào jué"
+          },
+          {
+            "_id": "p_011",
+            "idiom": "抛砖引玉",
+            "meaning": "比喻用自己不成熟的意见或作品引出别人更好的意见或作品。是一种谦虚的说法。",
+            "example": "我的发言只是抛砖引玉，希望大家能提出更多宝贵的意见。",
+            "pronounce": "pāo zhuān yǐn yù"
+          },
+          {
+            "_id": "p_012",
+            "idiom": "披荆斩棘",
+            "meaning": "比喻在前进道路上清除障碍，克服困难。",
+            "example": "创业的道路上，他们披荆斩棘，最终取得了成功。",
+            "pronounce": "pī jīng zhǎn jí"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "Q",
+        "idioms": [
+          {
+            "_id": "q_001",
+            "idiom": "前车之鉴",
+            "meaning": "比喻把前人或以前的失败当作教训。",
+            "example": "他投资失败的经历，是给我们最好的前车之鉴。",
+            "pronounce": "qián chē zhī jiàn"
+          },
+          {
+            "_id": "q_002",
+            "idiom": "前仆后继",
+            "meaning": "形容不怕牺牲，英勇斗争。",
+            "example": "无数革命先烈前仆后继，才换来了我们今天的幸福生活。",
+            "pronounce": "qián pū hòu jì"
+          },
+          {
+            "_id": "q_003",
+            "idiom": "前所未有",
+            "meaning": "形容从来没有发生过。",
+            "example": "这次的疫情给全球经济带来了前所未有的挑战。",
+            "pronounce": "qián suǒ wèi yǒu"
+          },
+          {
+            "_id": "q_004",
+            "idiom": "强弩之末",
+            "meaning": "比喻强大的力量已经衰竭，起不了什么作用了。",
+            "example": "经过连续作战，敌军已是强弩之末，不堪一击。",
+            "pronounce": "qiáng nǔ zhī mò"
+          },
+          {
+            "_id": "q_005",
+            "idiom": "穷困潦倒",
+            "meaning": "形容生活贫困，失意不得志。",
+            "example": "这位曾经的富商，如今却穷困潦倒，令人唏嘘。",
+            "pronounce": "qióng kùn liáo dǎo"
+          },
+          {
+            "_id": "q_006",
+            "idiom": "穷山恶水",
+            "meaning": "形容自然条件非常差的、荒凉的地方。",
+            "example": "他毅然离开大城市，来到这个穷山恶水的地方支援教育。",
+            "pronounce": "qióng shān è shuǐ"
+          },
+          {
+            "_id": "q_007",
+            "idiom": "穷追不舍",
+            "meaning": "形容追得很紧，不放过。",
+            "example": "警察对逃犯穷追不舍，最终将其抓获。",
+            "pronounce": "qióng zhuī bù shě"
+          },
+          {
+            "_id": "q_008",
+            "idiom": "千方百计",
+            "meaning": "想尽或用尽一切方法、计谋。",
+            "example": "他千方百计地想得到那个职位。",
+            "pronounce": "qiān fāng bǎi jì"
+          },
+          {
+            "_id": "q_009",
+            "idiom": "千军万马",
+            "meaning": "形容兵马众多，声势浩大。",
+            "example": "古代的战场上，千军万马奔腾的景象非常壮观。",
+            "pronounce": "qiān jūn wàn mǎ"
+          },
+          {
+            "_id": "q_010",
+            "idiom": "千钧一发",
+            "meaning": "比喻情况万分危急。",
+            "example": "在千钧一发的时刻，消防员冲进火场救出了被困的孩子。",
+            "pronounce": "qiān jūn yī fà"
+          },
+          {
+            "_id": "q_011",
+            "idiom": "千辛万苦",
+            "meaning": "形容非常多的艰难困苦。",
+            "example": "他们历尽千辛万苦，才终于到达了目的地。",
+            "pronounce": "qiān xīn wàn kǔ"
+          },
+          {
+            "_id": "q_012",
+            "idiom": "强词夺理",
+            "meaning": "指没有道理却硬要争辩。",
+            "example": "明明是你错了，为什么还要强词夺理呢？",
+            "pronounce": "qiǎng cí duó lǐ"
+          },
+          {
+            "_id": "q_013",
+            "idiom": "巧夺天工",
+            "meaning": "形容技艺极其精巧，胜过天然形成。",
+            "example": "这座玉雕真是巧夺天工，令人赞叹不已。",
+            "pronounce": "qiǎo duó tiān gōng"
+          },
+          {
+            "_id": "q_014",
+            "idiom": "巧言令色",
+            "meaning": "指用动听的言词和伪善的面色来讨好别人。",
+            "example": "孔子说：巧言令色，鲜矣仁。",
+            "pronounce": "qiǎo yán lìng sè"
+          },
+          {
+            "_id": "q_015",
+            "idiom": "全力以赴",
+            "meaning": "把全部力量都投入进去。",
+            "example": "为了赢得这场比赛，我们必须全力以赴。",
+            "pronounce": "quán lì yǐ fù"
+          },
+          {
+            "_id": "q_016",
+            "idiom": "全神贯注",
+            "meaning": "全部精神高度集中。",
+            "example": "他全神贯注地做着实验，丝毫没有注意到外面发生了什么。",
+            "pronounce": "quán shén guàn zhù"
+          },
+          {
+            "_id": "q_017",
+            "idiom": "全无怨言",
+            "meaning": "一点怨言也没有。",
+            "example": "对于公司的安排，他全无怨言，坚决服从。",
+            "pronounce": "quán wú yuàn yán"
+          },
+          {
+            "_id": "q_018",
+            "idiom": "骑虎难下",
+            "meaning": "比喻事情进行到中途，迫于形势，想停下来也停不下来，进退两难。",
+            "example": "他已经投入了所有资金，现在项目出了问题，真是骑虎难下。",
+            "pronounce": "qí hǔ nán xià"
+          },
+          {
+            "_id": "q_019",
+            "idiom": "骑驴找马",
+            "meaning": "比喻在未找到更好的工作或机会之前，暂且在现有的岗位上干着。",
+            "example": "他虽然对现在的工作不满意，但也只能先骑驴找马。",
+            "pronounce": "qí lǘ zhǎo mǎ"
+          },
+          {
+            "_id": "q_020",
+            "idiom": "齐头并进",
+            "meaning": "比喻几方面同时进行，不分先后。",
+            "example": "在新的发展阶段，经济建设和环境保护必须齐头并进。",
+            "pronounce": "qí tóu bìng jìn"
+          },
+          {
+            "_id": "q_021",
+            "idiom": "勤能补拙",
+            "meaning": "指勤奋能够弥补天资的不足。",
+            "example": "我相信勤能补拙，只要努力，就一定能取得好成绩。",
+            "pronounce": "qín néng bǔ zhuō"
+          },
+          {
+            "_id": "q_022",
+            "idiom": "情非得已",
+            "meaning": "指情况出于不得已。",
+            "example": "如果不是情非得已，谁愿意离开自己的家乡呢？",
+            "pronounce": "qíng fēi dé yǐ"
+          },
+          {
+            "_id": "q_023",
+            "idiom": "情同手足",
+            "meaning": "形容感情深厚，像亲兄弟一样。",
+            "example": "他们虽然不是亲兄弟，但多年来并肩作战，早已情同手足。",
+            "pronounce": "qíng tóng shǒu zú"
+          },
+          {
+            "_id": "q_024",
+            "idiom": "情绪低落",
+            "meaning": "指心情不好，没精神。",
+            "example": "最近他遇到了一些不顺心的事，所以情绪低落。",
+            "pronounce": "qíng xù dī luò"
+          },
+          {
+            "_id": "q_025",
+            "idiom": "群龙无首",
+            "meaning": "比喻一个集体没有领头的，大家行动不一致。",
+            "example": "经理辞职后，公司暂时陷入了群龙无首的混乱状态。",
+            "pronounce": "qún lóng wú shǒu"
+          },
+          {
+            "_id": "q_026",
+            "idiom": "七上八下",
+            "meaning": "形容心里慌乱不安。",
+            "example": "等待考试成绩公布的时候，我的心里七上八下的。",
+            "pronounce": "qī shàng bā xià"
+          },
+          {
+            "_id": "q_027",
+            "idiom": "欺世盗名",
+            "meaning": "欺骗世人，窃取名誉。",
+            "example": "他用抄袭的作品获奖，是欺世盗名的行为。",
+            "pronounce": "qī shì dào míng"
+          },
+          {
+            "_id": "q_028",
+            "idiom": "青出于蓝",
+            "meaning": "比喻学生超过老师，或后人胜过前人。",
+            "example": "他的绘画技巧已经超过了他的老师，真是青出于蓝而胜于蓝。",
+            "pronounce": "qīng chū yú lán"
+          },
+          {
+            "_id": "q_029",
+            "idiom": "青梅竹马",
+            "meaning": "形容男女小的时候天真无邪地在一起玩耍。",
+            "example": "他们俩是青梅竹马，从小一起长大，感情非常好。",
+            "pronounce": "qīng méi zhú mǎ"
+          },
+          {
+            "_id": "q_030",
+            "idiom": "轻而易举",
+            "meaning": "形容事情很容易做，不费力气。",
+            "example": "以他的能力，完成这个任务是轻而易举的。",
+            "pronounce": "qīng ér yì jǔ"
+          },
+          {
+            "_id": "q_031",
+            "idiom": "趋之若鹜",
+            "meaning": "形容像鸭子一样成群地跑过去，比喻许多人争着去追逐（多含贬义）。",
+            "example": "一旦有什么新的投资热点，很多人就会趋之若鹜。",
+            "pronounce": "qū zhī ruò wù"
+          },
+          {
+            "_id": "q_032",
+            "idiom": "杞人忧天",
+            "meaning": "比喻不必要的或没有根据的忧虑和担心。",
+            "example": "别担心明天会下雨了，天气预报说是晴天，你这是杞人忧天。",
+            "pronounce": "qǐ rén yōu tiān"
+          },
+          {
+            "_id": "q_033",
+            "idiom": "取长补短",
+            "meaning": "吸取别人的长处，来弥补自己的不足。",
+            "example": "我们应该互相学习，取长补短，共同进步。",
+            "pronounce": "qǔ cháng bǔ duǎn"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "R",
+        "idioms": [
+          {
+            "_id": "r_001",
+            "idiom": "若无其事",
+            "meaning": "形容好像没有那回事一样，态度镇静或冷淡。",
+            "example": "他明明知道自己错了，却装作若无其事的样子。",
+            "pronounce": "ruò wú qí shì"
+          },
+          {
+            "_id": "r_002",
+            "idiom": "任劳任怨",
+            "meaning": "形容工作不辞劳苦，不怕受埋怨。",
+            "example": "她工作一向任劳任怨，从无怨言。",
+            "pronounce": "rèn láo rèn yuàn"
+          },
+          {
+            "_id": "r_003",
+            "idiom": "任重道远",
+            "meaning": "比喻责任重大，要经过长期的努力。",
+            "example": "实现国家的现代化，我们任重道远。",
+            "pronounce": "rèn zhòng dào yuǎn"
+          },
+          {
+            "_id": "r_004",
+            "idiom": "人浮于事",
+            "meaning": "指工作中人员过多，或人员的才能超过工作的需要。",
+            "example": "这家公司机构臃肿，人浮于事，效率很低。",
+            "pronounce": "rén fú yú shì"
+          },
+          {
+            "_id": "r_005",
+            "idiom": "人杰地灵",
+            "meaning": "指杰出的人物出生或成长在很灵秀的地方。",
+            "example": "这个小镇虽然不大，但出了很多名人，真是人杰地灵。",
+            "pronounce": "rén jié dì líng"
+          },
+          {
+            "_id": "r_006",
+            "idiom": "人面兽心",
+            "meaning": "形容外貌是人，内心却像野兽一样凶恶。",
+            "example": "没想到他竟然做出这种事，真是个人面兽心的家伙。",
+            "pronounce": "rén miàn shòu xīn"
+          },
+          {
+            "_id": "r_007",
+            "idiom": "人情世故",
+            "meaning": "指为人处世的道理和经验。",
+            "example": "他年纪轻轻，却很懂人情世故，办事很得体。",
+            "pronounce": "rén qíng shì gù"
+          },
+          {
+            "_id": "r_008",
+            "idiom": "人山人海",
+            "meaning": "形容聚集的人非常多。",
+            "example": "节假日期间，长城上到处都是人山人海。",
+            "pronounce": "rén shān rén hǎi"
+          },
+          {
+            "_id": "r_009",
+            "idiom": "人心惶惶",
+            "meaning": "形容人们内心惊恐，普遍不安。",
+            "example": "公司要裁员的谣言传开后，弄得人心惶惶。",
+            "pronounce": "rén xīn huáng huáng"
+          },
+          {
+            "_id": "r_010",
+            "idiom": "人云亦云",
+            "meaning": "指没有主见，只会跟着别人说。",
+            "example": "我们应该有自己的判断力，不能人云亦云。",
+            "pronounce": "rén yún yì yún"
+          },
+          {
+            "_id": "r_011",
+            "idiom": "日薄西山",
+            "meaning": "比喻人临近死亡或事物快要灭亡。",
+            "example": "这个曾经辉煌的王朝，如今已是日薄西山，气息奄奄。",
+            "pronounce": "rì bó xī shān"
+          },
+          {
+            "_id": "r_012",
+            "idiom": "日新月异",
+            "meaning": "形容发展、变化速度很快，不断出现新面貌。",
+            "example": "现代科技的发展日新月异，让人惊叹。",
+            "pronounce": "rì xīn yuè yì"
+          },
+          {
+            "_id": "r_013",
+            "idiom": "入木三分",
+            "meaning": "形容书法笔力强劲，也比喻分析问题见解深刻。",
+            "example": "他对这个社会问题的分析真是入木三分。",
+            "pronounce": "rù mù sān fēn"
+          },
+          {
+            "_id": "r_014",
+            "idiom": "入乡随俗",
+            "meaning": "到一个地方，就遵从那里的风俗习惯。",
+            "example": "到了一个新的国家，我们应该尊重并尽量入乡随俗。",
+            "pronounce": "rù xiāng suí sú"
+          },
+          {
+            "_id": "r_015",
+            "idiom": "如火如荼",
+            "meaning": "形容气势旺盛，气氛热烈。",
+            "example": "世界杯足球赛正在如火如荼地进行着。",
+            "pronounce": "rú huǒ rú tú"
+          },
+          {
+            "_id": "r_016",
+            "idiom": "如雷贯耳",
+            "meaning": "形容一个人的名声非常大，像雷声一样响亮。",
+            "example": "您的大名，我早已如雷贯耳。",
+            "pronounce": "rú léi guàn ěr"
+          },
+          {
+            "_id": "r_017",
+            "idiom": "如梦初醒",
+            "meaning": "好像刚从梦中醒来。比喻在别人或事实的启发下，刚刚明白过来。",
+            "example": "听了你的话，我才如梦初醒，原来我一直都做错了。",
+            "pronounce": "rú mèng chū xǐng"
+          },
+          {
+            "_id": "r_018",
+            "idiom": "如数家珍",
+            "meaning": "形容对所讲的事情非常熟悉，好像在数自己家里的宝贝一样。",
+            "example": "他对自己收藏的邮票，每一张的来历都如数家珍。",
+            "pronounce": "rú shǔ jiā zhēn"
+          },
+          {
+            "_id": "r_019",
+            "idiom": "如鱼得水",
+            "meaning": "比喻得到跟自己十分投合的人或对自己很合适的环境。",
+            "example": "他是个天生的程序员，来到这家科技公司后，简直如鱼得水。",
+            "pronounce": "rú yú dé shuǐ"
+          },
+          {
+            "_id": "r_020",
+            "idiom": "如坐针毡",
+            "meaning": "形容心神不定，坐立不安。",
+            "example": "在等待面试结果的时候，他感觉如坐针毡。",
+            "pronounce": "rú zuò zhēn zhān"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "S",
+        "idioms": [
+          {
+            "_id": "s_001",
+            "idiom": "水落石出",
+            "meaning": "比喻事情的真相经过调查终于完全弄明白了。",
+            "example": "经过警方的调查，这件案子终于水落石出了。",
+            "pronounce": "shuǐ luò shí chū"
+          },
+          {
+            "_id": "s_002",
+            "idiom": "水深火热",
+            "meaning": "比喻人民生活在极端的痛苦中。",
+            "example": "在战争年代，老百姓都生活在水深火热之中。",
+            "pronounce": "shuǐ shēn huǒ rè"
+          },
+          {
+            "_id": "s_003",
+            "idiom": "善罢甘休",
+            "meaning": "指轻易地罢手，了结事情。多用于否定句。",
+            "example": "这件事没弄清楚之前，他是不会善罢甘休的。",
+            "pronounce": "shàn bà gān xiū"
+          },
+          {
+            "_id": "s_004",
+            "idiom": "上下其手",
+            "meaning": "比喻玩弄手法，暗中勾结，从中牟利。",
+            "example": "这两个官员在项目中上下其手，捞取了不少好处。",
+            "pronounce": "shàng xià qí shǒu"
+          },
+          {
+            "_id": "s_005",
+            "idiom": "神机妙算",
+            "meaning": "形容预见性强，计策高明。",
+            "example": "军师神机妙算，敌人的一举一动都在他的预料之中。",
+            "pronounce": "shén jī miào suàn"
+          },
+          {
+            "_id": "s_006",
+            "idiom": "事半功倍",
+            "meaning": "形容做事方法得当，只用一半的功夫，就能收到加倍的功效。",
+            "example": "如果我们能找到正确的学习方法，就能收到事半功倍的效果。",
+            "pronounce": "shì bàn gōng bèi"
+          },
+          {
+            "_id": "s_007",
+            "idiom": "势不可挡",
+            "meaning": "形容来势迅猛，不可抵挡。",
+            "example": "科技发展的趋势势不可挡，我们必须跟上时代的步伐。",
+            "pronounce": "shì bù kě dǎng"
+          },
+          {
+            "_id": "s_008",
+            "idiom": "势如破竹",
+            "meaning": "形容军队或比赛中节节胜利，气势不可阻挡。",
+            "example": "我军攻势凌厉，势如破竹，很快就占领了敌方阵地。",
+            "pronounce": "shì rú pò zhú"
+          },
+          {
+            "_id": "s_009",
+            "idiom": "势在必行",
+            "meaning": "指从情势来看，必须要做。",
+            "example": "进行教育改革已经是大势所趋，势在必行。",
+            "pronounce": "shì zài bì xíng"
+          },
+          {
+            "_id": "s_010",
+            "idiom": "十年树木",
+            "meaning": "比喻培养人才是一项长期而艰巨的任务。常与“百年树人”连用。",
+            "example": "教育是国家大计，十年树木，百年树人。",
+            "pronounce": "shí nián shù mù"
+          },
+          {
+            "_id": "s_011",
+            "idiom": "十拿九稳",
+            "meaning": "比喻非常有把握，成功的可能性很大。",
+            "example": "以他的实力，这次考试拿第一是十拿九稳的事。",
+            "pronounce": "shí ná jiǔ wěn"
+          },
+          {
+            "_id": "s_012",
+            "idiom": "授人以鱼，不如授人以渔",
+            "meaning": "比喻传授知识和技能比给予物质财富更重要。",
+            "example": "我们的慈善项目重点是职业培训，因为我们相信授人以鱼，不如授人以渔。",
+            "pronounce": "shòu rén yǐ yú ， bù rú shòu rén yǐ yú"
+          },
+          {
+            "_id": "s_013",
+            "idiom": "顺手牵羊",
+            "meaning": "比喻乘机拿走别人的东西。",
+            "example": "他逛超市时，看到没人注意，就顺手牵羊拿了包口香糖。",
+            "pronounce": "shùn shǒu qiān yáng"
+          },
+          {
+            "_id": "s_014",
+            "idiom": "杀鸡儆猴",
+            "meaning": "比喻惩罚一个人来警告、威吓其他人。",
+            "example": "经理开除了那个经常迟到的员工，意在杀鸡儆猴。",
+            "pronounce": "shā jī jǐng hóu"
+          },
+          {
+            "_id": "s_015",
+            "idiom": "杀鸡取卵",
+            "meaning": "比喻只顾眼前利益，而损害长远利益。",
+            "example": "为了短期利润而过度开发自然资源，无异于杀鸡取卵。",
+            "pronounce": "shā jī qǔ luǎn"
+          },
+          {
+            "_id": "s_016",
+            "idiom": "杀气腾腾",
+            "meaning": "形容充满杀机，气氛紧张可怕。",
+            "example": "他怒目圆睁，一副杀气腾腾的样子。",
+            "pronounce": "shā qì téng téng"
+          },
+          {
+            "_id": "s_017",
+            "idiom": "杀人不眨眼",
+            "meaning": "形容人非常凶狠残暴。",
+            "example": "电影里的那个反派是个杀人不眨眼的魔头。",
+            "pronounce": "shā rén bù zhǎ yǎn"
+          },
+          {
+            "_id": "s_018",
+            "idiom": "杀人越货",
+            "meaning": "指杀害人的性命，抢夺人的财物。",
+            "example": "这伙强盗在这一带杀人越货，无恶不作。",
+            "pronounce": "shā rén yuè huò"
+          },
+          {
+            "_id": "s_019",
+            "idiom": "山高水长",
+            "meaning": "比喻恩情深厚，或功德、事业等伟大。",
+            "example": "老师对我们的教诲之恩，真是山高水长。",
+            "pronounce": "shān gāo shuǐ cháng"
+          },
+          {
+            "_id": "s_020",
+            "idiom": "山穷水尽",
+            "meaning": "比喻陷入绝境。",
+            "example": "他投资失败，欠下巨额债务，已经到了山穷水尽的地步。",
+            "pronounce": "shān qióng shuǐ jìn"
+          },
+          {
+            "_id": "s_021",
+            "idiom": "身败名裂",
+            "meaning": "指地位、名誉、财产等完全丧失。",
+            "example": "他因贪污而东窗事发，最终落得个身败名裂的下场。",
+            "pronounce": "shēn bài míng liè"
+          },
+          {
+            "_id": "s_022",
+            "idiom": "深不可测",
+            "meaning": "形容很深，无法测量。也比喻人心、事理等难以揣测。",
+            "example": "他这个人城府很深，让人觉得深不可测。",
+            "pronounce": "shēn bù kě cè"
+          },
+          {
+            "_id": "s_023",
+            "idiom": "身临其境",
+            "meaning": "形容自己仿佛亲自到了那个地方。",
+            "example": "这部电影的3D效果非常好，让观众有身临其境的感觉。",
+            "pronounce": "shēn lín qí jìng"
+          },
+          {
+            "_id": "s_024",
+            "idiom": "身强力壮",
+            "meaning": "形容身体强壮，精力充沛。",
+            "example": "他是个身强力壮的小伙子，干活很有力气。",
+            "pronounce": "shēn qiáng lì zhuàng"
+          },
+          {
+            "_id": "s_025",
+            "idiom": "生不逢时",
+            "meaning": "指出生在不好的时机，命运不好。",
+            "example": "他才华横溢，却始终得不到重用，真是生不逢时。",
+            "pronounce": "shēng bù féng shí"
+          },
+          {
+            "_id": "s_026",
+            "idiom": "舍己为人",
+            "meaning": "为了别人而牺牲自己的利益。",
+            "example": "他舍己为人的精神，值得我们每一个人学习。",
+            "pronounce": "shě jǐ wèi rén"
+          },
+          {
+            "_id": "s_027",
+            "idiom": "省吃俭用",
+            "meaning": "形容生活非常节约。",
+            "example": "父母省吃俭用，供他读完了大学。",
+            "pronounce": "shěng chī jiǎn yòng"
+          },
+          {
+            "_id": "s_028",
+            "idiom": "失魂落魄",
+            "meaning": "形容心神不定、惊慌失措的样子。",
+            "example": "得知自己考试不及格的消息，他整个人都失魂落魄的。",
+            "pronounce": "shī hún luò pò"
+          },
+          {
+            "_id": "s_029",
+            "idiom": "尸位素餐",
+            "meaning": "比喻空占着职位而不做事，白吃饭。",
+            "example": "公司的领导层绝不能容忍尸位素餐的干部。",
+            "pronounce": "shī wèi sù cān"
+          },
+          {
+            "_id": "s_030",
+            "idiom": "手到病除",
+            "meaning": "形容医术高明，一治就好。",
+            "example": "这位老中医经验丰富，很多疑难杂症他都能手到病除。",
+            "pronounce": "shǒu dào bìng chú"
+          },
+          {
+            "_id": "s_031",
+            "idiom": "守口如瓶",
+            "meaning": "形容说话谨慎，严守秘密。",
+            "example": "关于这个秘密，你放心，我一定会守口如瓶。",
+            "pronounce": "shǒu kǒu rú píng"
+          },
+          {
+            "_id": "s_032",
+            "idiom": "手忙脚乱",
+            "meaning": "形容做事慌张，没有条理。",
+            "example": "突然来了很多客人，搞得他一个人手忙脚乱。",
+            "pronounce": "shǒu máng jiǎo luàn"
+          },
+          {
+            "_id": "s_033",
+            "idiom": "首屈一指",
+            "meaning": "表示第一，最突出的。",
+            "example": "他的绘画技术在全国都是首屈一指的。",
+            "pronounce": "shǒu qū yī zhǐ"
+          },
+          {
+            "_id": "s_034",
+            "idiom": "守望相助",
+            "meaning": "指邻里之间互相帮助，共同防卫。",
+            "example": "远亲不如近邻，邻里之间应该守望相助。",
+            "pronounce": "shǒu wàng xiāng zhù"
+          },
+          {
+            "_id": "s_035",
+            "idiom": "手无寸铁",
+            "meaning": "形容手中没有任何武器。",
+            "example": "面对持刀的歹徒，他手无寸铁，但仍然勇敢地与其搏斗。",
+            "pronounce": "shǒu wú cùn tiě"
+          },
+          {
+            "_id": "s_036",
+            "idiom": "守株待兔",
+            "meaning": "比喻不主动努力，而存万一的侥幸心理，希望得到意外的收获。",
+            "example": "机会要靠自己争取，不能守株待兔。",
+            "pronounce": "shǒu zhū dài tù"
+          },
+          {
+            "_id": "s_037",
+            "idiom": "岁月如梭",
+            "meaning": "形容时间过得飞快。与“光阴似箭”意思相近。",
+            "example": "岁月如梭，转眼间我们都已不再年轻。",
+            "pronounce": "suì yuè rú suō"
+          },
+          {
+            "_id": "s_038",
+            "idiom": "随波逐流",
+            "meaning": "比喻没有主见，跟着别人行动。",
+            "example": "年轻人要有自己的理想和追求，不能随波逐流。",
+            "pronounce": "suí bō zhú liú"
+          },
+          {
+            "_id": "s_039",
+            "idiom": "随心所欲",
+            "meaning": "完全按照自己的意愿去做事。",
+            "example": "退休后，他终于可以随心所欲地做自己喜欢的事情了。",
+            "pronounce": "suí xīn suǒ yù"
+          },
+          {
+            "_id": "s_040",
+            "idiom": "塞翁失马",
+            "meaning": "比喻坏事在一定条件下可以变为好事，反之亦然。指祸福相依，不能只看眼前。",
+            "example": "他错过了那班飞机，却因此躲过了一场空难，真是塞翁失马，焉知非福。",
+            "pronounce": "sài wēng shī mǎ"
+          },
+          {
+            "_id": "s_041",
+            "idiom": "四分五裂",
+            "meaning": "形容不完整、不统一。",
+            "example": "由于内部分歧严重，这个组织最终变得四分五裂。",
+            "pronounce": "sì fēn wǔ liè"
+          },
+          {
+            "_id": "s_042",
+            "idiom": "四面楚歌",
+            "meaning": "比喻陷入四面受敌、孤立无援的困境。",
+            "example": "公司因经营不善，如今已是四面楚歌，濒临破产。",
+            "pronounce": "sì miàn chǔ gē"
+          },
+          {
+            "_id": "s_043",
+            "idiom": "四通八达",
+            "meaning": "形容交通便利，可以通向四面八方。",
+            "example": "这个城市的交通网络四通八达，去哪里都很方便。",
+            "pronounce": "sì tōng bā dá"
+          },
+          {
+            "_id": "s_044",
+            "idiom": "肆无忌惮",
+            "meaning": "形容任意妄为，毫无顾忌。",
+            "example": "他仗着家里有钱，在学校里肆无忌惮地欺负同学。",
+            "pronounce": "sì wú jì dàn"
+          },
+          {
+            "_id": "s_045",
+            "idiom": "撒手人寰",
+            "meaning": "指人去世。",
+            "example": "这位伟大的科学家昨天不幸撒手人寰。",
+            "pronounce": "sā shǒu rén huán"
+          },
+          {
+            "_id": "s_046",
+            "idiom": "三思而行",
+            "meaning": "指经过反复考虑，然后再行动。",
+            "example": "做重大决定前，一定要三思而行。",
+            "pronounce": "sān sī ér xíng"
+          },
+          {
+            "_id": "s_047",
+            "idiom": "三头六臂",
+            "meaning": "比喻人神通广大，本领高强。",
+            "example": "他又不是三头六臂，怎么可能一个人完成这么多工作？",
+            "pronounce": "sān tóu liù bì"
+          },
+          {
+            "_id": "s_048",
+            "idiom": "三心二意",
+            "meaning": "形容心思不专一，做事不坚定。",
+            "example": "学习要专心，不能三心二意，否则什么都学不好。",
+            "pronounce": "sān xīn èr yì"
+          },
+          {
+            "_id": "s_049",
+            "idiom": "三言两语",
+            "meaning": "形容话很少，语言简短。",
+            "example": "这么复杂的事情，不是三言两语就能说清楚的。",
+            "pronounce": "sān yán liǎng yǔ"
+          },
+          {
+            "_id": "s_050",
+            "idiom": "损人利己",
+            "meaning": "损害别人，使自己得到好处。",
+            "example": "做人不能做损人利己的事，要有道德底线。",
+            "pronounce": "sǔn rén lì jǐ"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "T",
+        "idioms": [
+          {
+            "_id": "t_001",
+            "idiom": "天花乱坠",
+            "meaning": "形容说话极其动听，但多含虚假、浮夸的成分。",
+            "example": "那个推销员把产品说得天花乱坠，但实际上质量很差。",
+            "pronounce": "tiān huā luàn zhuì"
+          },
+          {
+            "_id": "t_002",
+            "idiom": "天经地义",
+            "meaning": "形容非常正确，不容置疑的道理。",
+            "example": "孝敬父母是天经地义的事情。",
+            "pronounce": "tiān jīng dì yì"
+          },
+          {
+            "_id": "t_003",
+            "idiom": "天伦之乐",
+            "meaning": "指家人团聚的欢乐。",
+            "example": "退休后，他每天和儿孙们在一起，享受着天伦之乐。",
+            "pronounce": "tiān lún zhī lè"
+          },
+          {
+            "_id": "t_004",
+            "idiom": "天壤之别",
+            "meaning": "形容差别极大。",
+            "example": "这两个地方的生活水平，简直有天壤之别。",
+            "pronounce": "tiān rǎng zhī bié"
+          },
+          {
+            "_id": "t_005",
+            "idiom": "天衣无缝",
+            "meaning": "比喻事物周密、完美，没有一点破绽。",
+            "example": "他的这个谎言编得天衣无缝，所有人都相信了。",
+            "pronounce": "tiān yī wú fèng"
+          },
+          {
+            "_id": "t_006",
+            "idiom": "铁石心肠",
+            "meaning": "形容心肠硬，不为感情所动。",
+            "example": "不管我们怎么求情，他都无动于衷，真是个铁石心肠的人。",
+            "pronounce": "tiě shí xīn cháng"
+          },
+          {
+            "_id": "t_007",
+            "idiom": "退避三舍",
+            "meaning": "比喻主动退让，回避冲突。",
+            "example": "他知道自己说不过你，所以一见到你就退避三舍。",
+            "pronounce": "tuì bì sān shè"
+          },
+          {
+            "_id": "t_008",
+            "idiom": "推心置腹",
+            "meaning": "形容真心待人，把自己内心的想法毫无保留地告诉对方。",
+            "example": "他们是多年的好朋友，经常推心置腹地交谈。",
+            "pronounce": "tuī xīn zhì fù"
+          },
+          {
+            "_id": "t_009",
+            "idiom": "脱颖而出",
+            "meaning": "比喻人的才能全部显示出来。",
+            "example": "在这次比赛中，她凭借出色的表现脱颖而出。",
+            "pronounce": "tuō yǐng ér chū"
+          },
+          {
+            "_id": "t_010",
+            "idiom": "探囊取物",
+            "meaning": "比喻事情很容易办到。",
+            "example": "以他的实力，赢得这场比赛简直是探囊取物。",
+            "pronounce": "tàn náng qǔ wù"
+          },
+          {
+            "_id": "t_011",
+            "idiom": "谈虎色变",
+            "meaning": "比喻一提到可怕的事情就情绪紧张、害怕。",
+            "example": "经历过那次地震后，他至今仍然谈虎色变。",
+            "pronounce": "tán hǔ sè biàn"
+          },
+          {
+            "_id": "t_012",
+            "idiom": "谈笑风生",
+            "meaning": "形容谈话时又说又笑，兴致很高。",
+            "example": "老朋友们聚在一起，谈笑风生，气氛非常融洽。",
+            "pronounce": "tán xiào fēng shēng"
+          },
+          {
+            "_id": "t_013",
+            "idiom": "弹指之间",
+            "meaning": "形容时间过得极快。",
+            "example": "十年光阴，弹指之间就过去了。",
+            "pronounce": "tán zhǐ zhī jiān"
+          },
+          {
+            "_id": "t_014",
+            "idiom": "同仇敌忾",
+            "meaning": "指全体一致地抱着对敌人的仇恨和愤怒。",
+            "example": "面对外来的侵略，全国人民同仇敌忾，奋起反抗。",
+            "pronounce": "tóng chóu dí kài"
+          },
+          {
+            "_id": "t_015",
+            "idiom": "同归于尽",
+            "meaning": "跟敌人一起死亡。",
+            "example": "在最后的战斗中，他抱住敌人，与之同归于尽。",
+            "pronounce": "tóng guī yú jìn"
+          },
+          {
+            "_id": "t_016",
+            "idiom": "同甘共苦",
+            "meaning": "共同享受幸福，共同担当艰苦。",
+            "example": "他们是患难夫妻，一起同甘共苦了几十年。",
+            "pronounce": "tóng gān gòng kǔ"
+          },
+          {
+            "_id": "t_017",
+            "idiom": "同心同德",
+            "meaning": "思想统一，目标一致。",
+            "example": "只要我们全体员工同心同德，公司就一定能渡过难关。",
+            "pronounce": "tóng xīn tóng dé"
+          },
+          {
+            "_id": "t_018",
+            "idiom": "同心协力",
+            "meaning": "指团结一致，共同努力。",
+            "example": "只要我们同心协力，就一定能克服眼前的困难。",
+            "pronounce": "tóng xīn xié lì"
+          },
+          {
+            "_id": "t_019",
+            "idiom": "同舟共济",
+            "meaning": "比喻在困难时，大家同心协力，共同渡过难关。",
+            "example": "面对这次危机，我们必须同舟共济，才能克服困难。",
+            "pronounce": "tóng zhōu gòng jì"
+          },
+          {
+            "_id": "t_020",
+            "idiom": "投桃报李",
+            "meaning": "比喻相互赠答，友好往来。",
+            "example": "你帮了我，我也要帮你，这叫投桃报李。",
+            "pronounce": "tóu táo bào lǐ"
+          },
+          {
+            "_id": "t_021",
+            "idiom": "头头是道",
+            "meaning": "形容说话、做事有条理，清晰明白。",
+            "example": "别看他年纪小，分析起问题来却是头头是道。",
+            "pronounce": "tóu tóu shì dào"
+          },
+          {
+            "_id": "t_022",
+            "idiom": "徒劳无功",
+            "meaning": "白白付出劳动而没有成效。",
+            "example": "如果方法不对，再怎么努力也是徒劳无功。",
+            "pronounce": "tú láo wú gōng"
+          },
+          {
+            "_id": "t_023",
+            "idiom": "徒增烦恼",
+            "meaning": "白白地增加烦恼。",
+            "example": "事情已经过去了，再想也只是徒增烦恼。",
+            "pronounce": "tú zēng fán nǎo"
+          },
+          {
+            "_id": "t_024",
+            "idiom": "贪得无厌",
+            "meaning": "形容贪心，永远没有满足的时候。",
+            "example": "他对金钱的追求贪得无厌，最终走上了犯罪的道路。",
+            "pronounce": "tān dé wú yàn"
+          },
+          {
+            "_id": "t_025",
+            "idiom": "贪生怕死",
+            "meaning": "贪恋生存，害怕死亡。指缺乏骨气和斗争精神。",
+            "example": "在敌人面前，他是个贪生怕死的懦夫。",
+            "pronounce": "tān shēng pà sǐ"
+          },
+          {
+            "_id": "t_026",
+            "idiom": "偷梁换柱",
+            "meaning": "比喻用欺骗的手段，暗中改变事物的内容或实质。",
+            "example": "这个不法商人用劣质材料偷梁换柱，制造假冒产品。",
+            "pronounce": "tōu liáng huàn zhù"
+          },
+          {
+            "_id": "t_027",
+            "idiom": "铤而走险",
+            "meaning": "指在无路可走的情况下，采取冒险行动。",
+            "example": "为了偿还赌债，他决定铤而走险，去抢劫银行。",
+            "pronounce": "tǐng ér zǒu xiǎn"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "W",
+        "idioms": [
+          {
+            "_id": "w_001",
+            "idiom": "万古流芳",
+            "meaning": "美好的名声永远流传。与“流芳百世”意思相近。",
+            "example": "这位民族英雄的事迹将万古流芳。",
+            "pronounce": "wàn gǔ liú fāng"
+          },
+          {
+            "_id": "w_002",
+            "idiom": "万事如意",
+            "meaning": "祝愿一切事情都顺心如意。",
+            "example": "新年到了，祝您万事如意，身体健康！",
+            "pronounce": "wàn shì rú yì"
+          },
+          {
+            "_id": "w_003",
+            "idiom": "万无一失",
+            "meaning": "形容非常有把握，绝对不会出差错。",
+            "example": "为了确保发射成功，科学家们做了万无一失的准备。",
+            "pronounce": "wàn wú yī shī"
+          },
+          {
+            "_id": "w_004",
+            "idiom": "望尘莫及",
+            "meaning": "比喻远远落后，追赶不上。",
+            "example": "他在这个领域的成就，是普通人望尘莫及的。",
+            "pronounce": "wàng chén mò jí"
+          },
+          {
+            "_id": "w_005",
+            "idiom": "望梅止渴",
+            "meaning": "比喻用空想来安慰自己。",
+            "example": "看看美食图片来缓解饥饿，不过是望梅止渴罢了。",
+            "pronounce": "wàng méi zhǐ kě"
+          },
+          {
+            "_id": "w_006",
+            "idiom": "望而却步",
+            "meaning": "看到困难或危险就往后退缩。",
+            "example": "这个任务的艰巨性让许多人望而却步。",
+            "pronounce": "wàng ér què bù"
+          },
+          {
+            "_id": "w_007",
+            "idiom": "忘恩负义",
+            "meaning": "忘记别人给自己的恩惠，做出对不起别人的事。",
+            "example": "我们不能做忘恩负义的人。",
+            "pronounce": "wàng ēn fù yì"
+          },
+          {
+            "_id": "w_008",
+            "idiom": "亡命之徒",
+            "meaning": "指不顾性命，从事非法活动的人。",
+            "example": "这群亡命之徒为了钱什么都敢做。",
+            "pronounce": "wáng mìng zhī tú"
+          },
+          {
+            "_id": "w_009",
+            "idiom": "亡羊补牢",
+            "meaning": "比喻出了问题以后想办法补救，可以防止继续受损失。",
+            "example": "虽然这次考试失败了，但只要现在开始努力，亡羊补牢，为时未晚。",
+            "pronounce": "wáng yáng bǔ láo"
+          },
+          {
+            "_id": "w_010",
+            "idiom": "未雨绸缪",
+            "meaning": "比喻事先做好准备。",
+            "example": "我们应该未雨绸缪，为可能出现的风险做好预案。",
+            "pronounce": "wèi yǔ chóu móu"
+          },
+          {
+            "_id": "w_011",
+            "idiom": "为富不仁",
+            "meaning": "指有钱人心地不仁慈，剥削穷人。",
+            "example": "那个地主为富不仁，经常欺压佃户。",
+            "pronounce": "wéi fù bù rén"
+          },
+          {
+            "_id": "w_012",
+            "idiom": "唯利是图",
+            "meaning": "指只一心追求利益，别的什么都不顾。",
+            "example": "这个商人唯利是图，为了赚钱不择手段。",
+            "pronounce": "wéi lì shì tú"
+          },
+          {
+            "_id": "w_013",
+            "idiom": "为所欲为",
+            "meaning": "想干什么就干什么，毫无顾忌。",
+            "example": "他仗着自己有权有势，就敢为所欲为。",
+            "pronounce": "wéi suǒ yù wéi"
+          },
+          {
+            "_id": "w_014",
+            "idiom": "闻鸡起舞",
+            "meaning": "比喻有志之士及时奋发，勤奋努力。",
+            "example": "为了实现自己的理想，他每天闻鸡起舞，刻苦学习。",
+            "pronounce": "wén jī qǐ wǔ"
+          },
+          {
+            "_id": "w_015",
+            "idiom": "闻名遐迩",
+            "meaning": "形容名声很大，远近都知道。",
+            "example": "这个旅游景点以其美丽的风景而闻名遐迩。",
+            "pronounce": "wén míng xiá ěr"
+          },
+          {
+            "_id": "w_016",
+            "idiom": "闻所未闻",
+            "meaning": "听到了从来没有听说过的事。形容事物非常新奇。",
+            "example": "机器人能写诗，这在过去真是闻所未闻。",
+            "pronounce": "wén suǒ wèi wén"
+          },
+          {
+            "_id": "w_017",
+            "idiom": "物极必反",
+            "meaning": "指事物发展到极端，就会向相反的方面转化。",
+            "example": "房价涨得太高，终会下跌，这是物极必反的道理。",
+            "pronounce": "wù jí bì fǎn"
+          },
+          {
+            "_id": "w_018",
+            "idiom": "勿忘初心",
+            "meaning": "告诫人们不要忘记最初的理想和目标。",
+            "example": "无论我们走了多远，都不能忘记为什么出发，要始终勿忘初心。",
+            "pronounce": "wù wàng chū xīn"
+          },
+          {
+            "_id": "w_019",
+            "idiom": "无的放矢",
+            "meaning": "比喻说话、做事没有明确的目的，或言论没有事实根据。",
+            "example": "你的这些批评都是无的放矢，根本不符合事实。",
+            "pronounce": "wú dì fàng shǐ"
+          },
+          {
+            "_id": "w_020",
+            "idiom": "无精打采",
+            "meaning": "形容没有精神，情绪低落。",
+            "example": "他今天看起来无精打采的，是不是生病了？",
+            "pronounce": "wú jīng dǎ cǎi"
+          },
+          {
+            "_id": "w_021",
+            "idiom": "无可厚非",
+            "meaning": "表示没有可以过分指责的。指说话、做事虽有缺点，但大体上还是有道理的。",
+            "example": "他为了保护家人而说谎，从人情的角度看是无可厚非的。",
+            "pronounce": "wú kě hòu fēi"
+          },
+          {
+            "_id": "w_022",
+            "idiom": "无可奈何",
+            "meaning": "指没有办法，无能为力。",
+            "example": "面对这个结果，他只能无可奈何地接受了。",
+            "pronounce": "wú kě nài hé"
+          },
+          {
+            "_id": "w_023",
+            "idiom": "无能为力",
+            "meaning": "形容没有能力或力量去完成某件事。与“无可奈何”意思相近。",
+            "example": "医生已经尽力了，但对于这种罕见的疾病，他们也无能为力。",
+            "pronounce": "wú néng wéi lì"
+          },
+          {
+            "_id": "w_024",
+            "idiom": "无穷无尽",
+            "meaning": "没有尽头，没有限度。",
+            "example": "宇宙的奥秘是无穷无尽的，等待着我们去探索。",
+            "pronounce": "wú qióng wú jìn"
+          },
+          {
+            "_id": "w_025",
+            "idiom": "无事生非",
+            "meaning": "指本来没事，却故意找岔子，制造事端。",
+            "example": "他就是喜欢无事生非，挑拨同事之间的关系。",
+            "pronounce": "wú shì shēng fēi"
+          },
+          {
+            "_id": "w_026",
+            "idiom": "无微不至",
+            "meaning": "形容关怀、照顾得非常细心周到。",
+            "example": "护士们对病人的照顾真是无微不至。",
+            "pronounce": "wú wēi bù zhì"
+          },
+          {
+            "_id": "w_027",
+            "idiom": "无中生有",
+            "meaning": "把没有的说成有。指凭空捏造。",
+            "example": "你不能无中生有地诽谤别人。",
+            "pronounce": "wú zhōng shēng yǒu"
+          },
+          {
+            "_id": "w_028",
+            "idiom": "微不足道",
+            "meaning": "形容非常渺小，不值得一提。",
+            "example": "和宇宙相比，人类的存在是多么微不足道。",
+            "pronounce": "wēi bù zú dào"
+          },
+          {
+            "_id": "w_029",
+            "idiom": "温故知新",
+            "meaning": "温习旧的知识，从而得到新的理解和体会。",
+            "example": "学习要时常温故知新，才能不断进步。",
+            "pronounce": "wēn gù zhī xīn"
+          },
+          {
+            "_id": "w_030",
+            "idiom": "稳操胜券",
+            "meaning": "比喻有绝对的把握取得胜利。",
+            "example": "在最后的决赛中，他凭借稳定的发挥，稳操胜券。",
+            "pronounce": "wěn cāo shèng quàn"
+          },
+          {
+            "_id": "w_031",
+            "idiom": "乌合之众",
+            "meaning": "比喻临时凑集、毫无组织纪律的一群人。",
+            "example": "这群匪徒只是一群乌合之众，很快就被警察击溃了。",
+            "pronounce": "wū hé zhī zhòng"
+          },
+          {
+            "_id": "w_032",
+            "idiom": "乌烟瘴气",
+            "meaning": "形容环境污浊、秩序混乱或社会黑暗。",
+            "example": "这个办公室里充满了争吵和阴谋，搞得乌烟瘴气。",
+            "pronounce": "wū yān zhàng qì"
+          },
+          {
+            "_id": "w_033",
+            "idiom": "五光十色",
+            "meaning": "形容色彩鲜艳，花样繁多。",
+            "example": "夜晚的城市灯火辉煌，呈现出五光十色的景象。",
+            "pronounce": "wǔ guāng shí sè"
+          },
+          {
+            "_id": "w_034",
+            "idiom": "五湖四海",
+            "meaning": "指全国各地，有时也指世界各地。",
+            "example": "我们公司的员工来自五湖四海。",
+            "pronounce": "wǔ hú sì hǎi"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "X",
+        "idioms": [
+          {
+            "_id": "x_001",
+            "idiom": "下不为例",
+            "meaning": "表示只此一次，以后绝不重复。",
+            "example": "这次就算了，但下不为例，下次再犯就要受罚了。",
+            "pronounce": "xià bù wéi lì"
+          },
+          {
+            "_id": "x_002",
+            "idiom": "下落不明",
+            "meaning": "指不知道人或物在什么地方。",
+            "example": "那艘船在海上失事后，船上多名船员至今下落不明。",
+            "pronounce": "xià luò bù míng"
+          },
+          {
+            "_id": "x_003",
+            "idiom": "笑里藏刀",
+            "meaning": "比喻外表和善，内心阴险。",
+            "example": "要小心那种笑里藏刀的人，他们往往最危险。",
+            "pronounce": "xiào lǐ cáng dāo"
+          },
+          {
+            "_id": "x_004",
+            "idiom": "峡谷回音",
+            "meaning": "比喻一个人的言行很快就得到了响应。",
+            "example": "他提出的倡议立刻得到了大家的峡谷回音般的支持。",
+            "pronounce": "xiá gǔ huí yīn"
+          },
+          {
+            "_id": "x_005",
+            "idiom": "胸无点墨",
+            "meaning": "形容读书太少，没有什么学问。",
+            "example": "他虽然衣着光鲜，但一开口就暴露了自己胸无点墨。",
+            "pronounce": "xiōng wú diǎn mò"
+          },
+          {
+            "_id": "x_006",
+            "idiom": "胸有成竹",
+            "meaning": "比喻在做事之前，心里已经有了全面的考虑和成熟的计画。",
+            "example": "这次考试他准备得很充分，看起来胸有成竹。",
+            "pronounce": "xiōng yǒu chéng zhú"
+          },
+          {
+            "_id": "x_007",
+            "idiom": "想入非非",
+            "meaning": "指思想进入虚幻、不切实际的境界。",
+            "example": "别再想入非非了，还是面对现实，好好工作吧。",
+            "pronounce": "xiǎng rù fēi fēi"
+          },
+          {
+            "_id": "x_008",
+            "idiom": "雪上加霜",
+            "meaning": "比喻在一个困难之上又增添了新的困难。",
+            "example": "他刚失业，妻子又生病了，真是雪上加霜。",
+            "pronounce": "xuě shàng jiā shuāng"
+          },
+          {
+            "_id": "x_009",
+            "idiom": "雪中送炭",
+            "meaning": "比喻在别人急需的时候给予帮助。",
+            "example": "在我最困难的时候，他的帮助真是雪中送炭。",
+            "pronounce": "xuě zhōng sòng tàn"
+          },
+          {
+            "_id": "x_010",
+            "idiom": "信口开河",
+            "meaning": "指不加思考，随口乱说。",
+            "example": "他这个人喜欢信口开河，说的话不能全信。",
+            "pronounce": "xìn kǒu kāi hé"
+          },
+          {
+            "_id": "x_011",
+            "idiom": "兴高采烈",
+            "meaning": "形容兴致很高，情绪热烈。",
+            "example": "孩子们兴高采烈地讨论着即将到来的春游。",
+            "pronounce": "xìng gāo cǎi liè"
+          },
+          {
+            "_id": "x_012",
+            "idiom": "兴致勃勃",
+            "meaning": "形容兴趣很浓，情绪很高。",
+            "example": "大家兴致勃勃地参观了博物馆。",
+            "pronounce": "xìng zhì bó bó"
+          },
+          {
+            "_id": "x_013",
+            "idiom": "幸灾乐祸",
+            "meaning": "指对别人的灾祸感到高兴。",
+            "example": "看到对手失败，他不应该幸灾乐祸，而应该表示同情。",
+            "pronounce": "xìng zāi lè huò"
+          },
+          {
+            "_id": "x_014",
+            "idiom": "形影不离",
+            "meaning": "形容关系密切，无时无处不在一起。",
+            "example": "她们俩是最好的朋友，整天形影不离。",
+            "pronounce": "xíng yǐng bù lí"
+          },
+          {
+            "_id": "x_015",
+            "idiom": "循序渐进",
+            "meaning": "指学习、工作等按照一定的步骤逐渐深入或提高。",
+            "example": "学习任何知识都要循序渐进，不能一蹴而就。",
+            "pronounce": "xún xù jiàn jìn"
+          },
+          {
+            "_id": "x_016",
+            "idiom": "息事宁人",
+            "meaning": "指为了避免纠纷，采取调解或忍让的态度把事情平息下来。",
+            "example": "对于这种原则问题，我们不能采取息事宁人的态度。",
+            "pronounce": "xī shì níng rén"
+          },
+          {
+            "_id": "x_017",
+            "idiom": "心甘情愿",
+            "meaning": "心里完全愿意，没有半点勉强。",
+            "example": "他心甘情愿地为这个家庭付出一切。",
+            "pronounce": "xīn gān qíng yuàn"
+          },
+          {
+            "_id": "x_018",
+            "idiom": "心花怒放",
+            "meaning": "形容内心高兴得像花儿盛开一样。",
+            "example": "听到自己被录取的消息，她高兴得心花怒放。",
+            "pronounce": "xīn huā nù fàng"
+          },
+          {
+            "_id": "x_019",
+            "idiom": "心惊胆战",
+            "meaning": "形容内心极度惊惧恐慌。与“胆战心惊”意思相同。",
+            "example": "那部恐怖电影看得我心惊胆战。",
+            "pronounce": "xīn jīng dǎn zhàn"
+          },
+          {
+            "_id": "x_020",
+            "idiom": "心惊肉跳",
+            "meaning": "形容内心极度惊恐。与“心惊胆战”意思相近。",
+            "example": "那场车祸的场面，现在想起来还让人心惊肉跳。",
+            "pronounce": "xīn jīng ròu tiào"
+          },
+          {
+            "_id": "x_021",
+            "idiom": "心旷神怡",
+            "meaning": "形容心境开阔，精神愉快。",
+            "example": "站在山顶，看着美丽的风景，感觉心旷神怡。",
+            "pronounce": "xīn kuàng shén yí"
+          },
+          {
+            "_id": "x_022",
+            "idiom": "心乱如麻",
+            "meaning": "心里乱得像一团乱麻。形容心情烦乱。",
+            "example": "一连串的坏消息让他心乱如麻。",
+            "pronounce": "xīn luàn rú má"
+          },
+          {
+            "_id": "x_023",
+            "idiom": "心领神会",
+            "meaning": "指对方没有明说，但心里已经理解。",
+            "example": "他给了我一个眼神，我立刻心领神会，知道该怎么做了。",
+            "pronounce": "xīn lǐng shén huì"
+          },
+          {
+            "_id": "x_024",
+            "idiom": "心平气和",
+            "meaning": "形容心情平静，不急躁，不生气。",
+            "example": "遇到问题时，我们应该心平气和地商量解决办法。",
+            "pronounce": "xīn píng qì hé"
+          },
+          {
+            "_id": "x_025",
+            "idiom": "欣喜若狂",
+            "meaning": "形容高兴到了极点。",
+            "example": "得知自己被理想的大学录取，他欣喜若狂。",
+            "pronounce": "xīn xǐ ruò kuáng"
+          },
+          {
+            "_id": "x_026",
+            "idiom": "心有灵犀",
+            "meaning": "比喻彼此心意相通，对事情的看法完全一致。",
+            "example": "我们俩真是心有灵犀，不约而同地想到了同一个主意。",
+            "pronounce": "xīn yǒu líng xī"
+          },
+          {
+            "_id": "x_027",
+            "idiom": "心有余而力不足",
+            "meaning": "心里非常想做，但是力量不够。与“力不从心”意思相同。",
+            "example": "我很想捐款，但最近手头紧，真是心有余而力不足。",
+            "pronounce": "xīn yǒu yú ér lì bù zú"
+          },
+          {
+            "_id": "x_028",
+            "idiom": "心照不宣",
+            "meaning": "指彼此心里明白，而不说出来。",
+            "example": "关于那件事，我们都心照不宣，谁也没有再提起。",
+            "pronounce": "xīn zhào bù xuān"
+          },
+          {
+            "_id": "x_029",
+            "idiom": "心安理得",
+            "meaning": "自认为做的事情合乎道理，心里很坦然。",
+            "example": "只要我们没做亏心事，就能心安理得。",
+            "pronounce": "xīn ān lǐ dé"
+          },
+          {
+            "_id": "x_030",
+            "idiom": "虚有其表",
+            "meaning": "形容空有好看的外表，而没有实际的内容。",
+            "example": "这个产品包装得很漂亮，但质量很差，真是虚有其表。",
+            "pronounce": "xū yǒu qí biǎo"
+          },
+          {
+            "_id": "x_031",
+            "idiom": "虚张声势",
+            "meaning": "指假装出强大的气势来吓唬人。",
+            "example": "别看他叫得凶，其实只是在虚张声势。",
+            "pronounce": "xū zhāng shēng shì"
+          },
+          {
+            "_id": "x_032",
+            "idiom": "喜出望外",
+            "meaning": "形容因意想不到的好事而感到特别高兴。",
+            "example": "他本以为这次考试不及格，没想到竟然得了高分，真是喜出望外。",
+            "pronounce": "xǐ chū wàng wài"
+          },
+          {
+            "_id": "x_033",
+            "idiom": "喜怒无常",
+            "meaning": "形容人的情绪变化不定，一会儿高兴，一会儿生气。",
+            "example": "他的脾气很怪，喜怒无常，很难相处。",
+            "pronounce": "xǐ nù wú cháng"
+          },
+          {
+            "_id": "x_034",
+            "idiom": "喜笑颜开",
+            "meaning": "形容心里高兴，满面笑容。",
+            "example": "收到大学录取通知书，全家人都喜笑颜开。",
+            "pronounce": "xǐ xiào yán kāi"
+          },
+          {
+            "_id": "x_035",
+            "idiom": "喜形于色",
+            "meaning": "内心的喜悦表现在脸上。",
+            "example": "他一听到好消息，立刻喜形于色。",
+            "pronounce": "xǐ xíng yú sè"
+          },
+          {
+            "_id": "x_036",
+            "idiom": "喜新厌旧",
+            "meaning": "喜欢新的，厌弃旧的。多指在感情或兴趣上不专一。",
+            "example": "他是个喜新厌旧的人，刚买的手机没用多久就想换新的。",
+            "pronounce": "xǐ xīn yàn jiù"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "Y",
+        "idioms": [
+          {
+            "_id": "y_001",
+            "idiom": "言过其实",
+            "meaning": "指话说得过分，超过了实际情况。",
+            "example": "广告里把这个产品吹得天花乱坠，实际上是言过其实。",
+            "pronounce": "yán guò qí shí"
+          },
+          {
+            "_id": "y_002",
+            "idiom": "言之成理",
+            "meaning": "话说得有道理。",
+            "example": "你分析得言之成理，我们都同意你的看法。",
+            "pronounce": "yán zhī chéng lǐ"
+          },
+          {
+            "_id": "y_003",
+            "idiom": "言之凿凿",
+            "meaning": "形容话说得非常确实、有根据。",
+            "example": "他言之凿凿，由不得我们不信。",
+            "pronounce": "yán zhī záo záo"
+          },
+          {
+            "_id": "y_004",
+            "idiom": "言而有信",
+            "meaning": "说话算数，有信用。",
+            "example": "做人要言而有信，答应别人的事就一定要做到。",
+            "pronounce": "yán ér yǒu xìn"
+          },
+          {
+            "_id": "y_005",
+            "idiom": "扬长避短",
+            "meaning": "发扬自己的长处，回避自己的短处。",
+            "example": "在团队合作中，我们应该学会扬长避短，发挥每个人的优势。",
+            "pronounce": "yáng cháng bì duǎn"
+          },
+          {
+            "_id": "y_006",
+            "idiom": "扬眉吐气",
+            "meaning": "形容被压抑的心情得到舒展而快活的样子。",
+            "example": "经过多年的努力，他终于成功了，总算可以扬眉吐气了。",
+            "pronounce": "yáng méi tǔ qì"
+          },
+          {
+            "_id": "y_007",
+            "idiom": "摇摇欲坠",
+            "meaning": "形容非常不稳定，快要倒塌或垮台的样子。",
+            "example": "那座危桥在风雨中摇摇欲坠。",
+            "pronounce": "yáo yáo yù zhuì"
+          },
+          {
+            "_id": "y_008",
+            "idiom": "夜长梦多",
+            "meaning": "比喻时间拖得久了，可能会发生意想不到的变化。",
+            "example": "这件事要尽快决定，以免夜长梦多。",
+            "pronounce": "yè cháng mèng duō"
+          },
+          {
+            "_id": "y_009",
+            "idiom": "叶公好龙",
+            "meaning": "比喻表面上爱好某事物，实际上并不真爱好，甚至害怕它。",
+            "example": "他总说自己喜欢挑战，但机会来了又退缩，真是叶公好龙。",
+            "pronounce": "yè gōng hào lóng"
+          },
+          {
+            "_id": "y_010",
+            "idiom": "夜郎自大",
+            "meaning": "比喻孤陋寡闻而又妄自尊大。",
+            "example": "我们不能因为取得了一点小成绩就夜郎自大，忘了天外有天。",
+            "pronounce": "yè láng zì dà"
+          },
+          {
+            "_id": "y_011",
+            "idiom": "夜以继日",
+            "meaning": "晚上连着白天。形容加紧工作或学习。",
+            "example": "为了按时完成任务，工程师们夜以继日地工作。",
+            "pronounce": "yè yǐ jì rì"
+          },
+          {
+            "_id": "y_012",
+            "idiom": "一刀两断",
+            "meaning": "比喻干脆地断绝关系。",
+            "example": "他们因为性格不合，决定分手，从此一刀两断。",
+            "pronounce": "yì dāo liǎng duàn"
+          },
+          {
+            "_id": "y_013",
+            "idiom": "一劳永逸",
+            "meaning": "辛苦一次，就得到长久的安逸。",
+            "example": "世界上没有一劳永逸的解决方案，问题需要不断地去解决。",
+            "pronounce": "yì láo yǒng yì"
+          },
+          {
+            "_id": "y_014",
+            "idiom": "一鸣惊人",
+            "meaning": "比喻平时没有突出的表现，一下子做出惊人的成绩。",
+            "example": "这位年轻的选手在决赛中一鸣惊人，夺得了冠军。",
+            "pronounce": "yì míng jīng rén"
+          },
+          {
+            "_id": "y_015",
+            "idiom": "一清二楚",
+            "meaning": "形容非常清楚、明白。",
+            "example": "这件事的来龙去脉，我已经跟你说得一清二楚了。",
+            "pronounce": "yì qīng èr chǔ"
+          },
+          {
+            "_id": "y_016",
+            "idiom": "一心一意",
+            "meaning": "形容专心致志，只想着一件事，不分心。",
+            "example": "他一心一意地学习，希望能考上理想的大学。",
+            "pronounce": "yì xīn yí yì"
+          },
+          {
+            "_id": "y_017",
+            "idiom": "应接不暇",
+            "meaning": "形容来人或事情太多，接待或处理不过来。",
+            "example": "节日期间，商店里的顾客络绎不绝，让店员们应接不暇。",
+            "pronounce": "yìng jiē bù xiá"
+          },
+          {
+            "_id": "y_018",
+            "idiom": "一日三秋",
+            "meaning": "形容思念、盼望之情非常殷切。",
+            "example": "自从你走后，我度日如年，真有",
+            "pronounce": "yí rì sān qiū"
+          },
+          {
+            "_id": "y_019",
+            "idiom": "一事无成",
+            "meaning": "指连一样事情也没有做成，毫无成就。",
+            "example": "如果总是三心二意，最终只会一事无成。",
+            "pronounce": "yí shì wú chéng"
+          },
+          {
+            "_id": "y_020",
+            "idiom": "遇人不淑",
+            "meaning": "指女子嫁了不好的丈夫。",
+            "example": "她后悔自己当初遇人不淑，嫁给了这样一个不负责任的男人。",
+            "pronounce": "yù rén bù shū"
+          },
+          {
+            "_id": "y_021",
+            "idiom": "欲速则不达",
+            "meaning": "指过于性急图快，反而不能达到目的。",
+            "example": "学习要循序渐进，欲速则不达。",
+            "pronounce": "yù sù zé bù dá"
+          },
+          {
+            "_id": "y_022",
+            "idiom": "鱼龙混杂",
+            "meaning": "比喻好人和坏人混在一起。",
+            "example": "这个地方人员复杂，鱼龙混杂，你晚上最好不要一个人来。",
+            "pronounce": "yú lóng hùn zá"
+          },
+          {
+            "_id": "y_023",
+            "idiom": "鱼跃龙门",
+            "meaning": "比喻事业成功或地位高升。",
+            "example": "他通过自己的努力考上了名牌大学，实现了鱼跃龙门。",
+            "pronounce": "yú yuè lóng mén"
+          },
+          {
+            "_id": "y_024",
+            "idiom": "一败涂地",
+            "meaning": "形容失败得非常惨，彻底垮台。",
+            "example": "由于错误的决策，公司在这次市场竞争中一败涂地。",
+            "pronounce": "yī bài tú dì"
+          },
+          {
+            "_id": "y_025",
+            "idiom": "一步登天",
+            "meaning": "比喻一下子达到很高的境界或地位。",
+            "example": "成功没有捷径，不可能一步登天。",
+            "pronounce": "yī bù dēng tiān"
+          },
+          {
+            "_id": "y_026",
+            "idiom": "一本正经",
+            "meaning": "形容态度庄重、严肃。",
+            "example": "他平时很爱开玩笑，但一谈起工作就变得一本正经。",
+            "pronounce": "yī běn zhèng jīng"
+          },
+          {
+            "_id": "y_027",
+            "idiom": "一波三折",
+            "meaning": "比喻事情进行中阻碍、变化很多，很不顺利。",
+            "example": "这个项目的进展真是一波三折，遇到了很多意想不到的困难。",
+            "pronounce": "yī bō sān zhé"
+          },
+          {
+            "_id": "y_028",
+            "idiom": "一波未平一波又起",
+            "meaning": "一个浪头还没平息，又一个浪头起来了。比喻事情进行中麻烦、波折不断。",
+            "example": "公司刚解决完资金问题，又遇到了技术难题，真是一波未平一波又起。",
+            "pronounce": "yī bō wèi píng yī bō yòu qǐ"
+          },
+          {
+            "_id": "y_029",
+            "idiom": "一成不变",
+            "meaning": "指一经形成，就固定下来，不再改变。",
+            "example": "世界是不断变化的，我们不能用一成不变的眼光看问题。",
+            "pronounce": "yī chéng bù biàn"
+          },
+          {
+            "_id": "y_030",
+            "idiom": "一发不可收拾",
+            "meaning": "形容事态的发展速度很快，无法控制。",
+            "example": "争吵一旦开始，就一发不可收拾，最后变成了打斗。",
+            "pronounce": "yī fā bù kě shōu shí"
+          },
+          {
+            "_id": "y_031",
+            "idiom": "一干二净",
+            "meaning": "形容非常干净、彻底。",
+            "example": "他把晚饭吃得一干二净，连汤都没剩。",
+            "pronounce": "yī gān èr jìng"
+          },
+          {
+            "_id": "y_032",
+            "idiom": "一鼓作气",
+            "meaning": "比喻趁劲头大的时候，一口气把事情做完。",
+            "example": "我们必须一鼓作气，在天黑前完成这项工作。",
+            "pronounce": "yī gǔ zuò qì"
+          },
+          {
+            "_id": "y_033",
+            "idiom": "一箭双雕",
+            "meaning": "比喻做一件事达到两个目的。与“一举两得”意思相近。",
+            "example": "他去上海出差，顺便看望了朋友，真是一箭双雕。",
+            "pronounce": "yī jiàn shuāng diāo"
+          },
+          {
+            "_id": "y_034",
+            "idiom": "一见钟情",
+            "meaning": "指男女之间第一次见面就产生了爱情。",
+            "example": "他对她一见钟情，从此开始了热烈的追求。",
+            "pronounce": "yī jiàn zhōng qíng"
+          },
+          {
+            "_id": "y_035",
+            "idiom": "一举两得",
+            "meaning": "做一件事得到两方面的好处。",
+            "example": "去公园散步既能锻炼身体又能欣赏风景，真是一举两得。",
+            "pronounce": "yī jǔ liǎng dé"
+          },
+          {
+            "_id": "y_036",
+            "idiom": "一窍不通",
+            "meaning": "比喻一点儿也不懂。",
+            "example": "他对于电脑知识真是一窍不通。",
+            "pronounce": "yī qiào bù tōng"
+          },
+          {
+            "_id": "y_037",
+            "idiom": "一塌糊涂",
+            "meaning": "形容混乱、糟糕到了极点。",
+            "example": "他喝醉了酒，把房间搞得一塌糊涂。",
+            "pronounce": "yī tā hú tú"
+          },
+          {
+            "_id": "y_038",
+            "idiom": "一无所有",
+            "meaning": "什么也没有。",
+            "example": "他刚来这个城市时，一无所有，全靠自己打拼。",
+            "pronounce": "yī wú suǒ yǒu"
+          },
+          {
+            "_id": "y_039",
+            "idiom": "一网打尽",
+            "meaning": "比喻一次性全部抓住或彻底消灭。",
+            "example": "警察设下埋伏，将这个犯罪团伙一网打尽。",
+            "pronounce": "yī wǎng dǎ jìn"
+          },
+          {
+            "_id": "y_040",
+            "idiom": "一笑置之",
+            "meaning": "笑一笑，就把它放在一边了。表示不当回事，不计较。",
+            "example": "对于那些谣言，他只是一笑置之。",
+            "pronounce": "yī xiào zhì zhī"
+          },
+          {
+            "_id": "y_041",
+            "idiom": "一言为定",
+            "meaning": "一句话说定了，就不再改变。",
+            "example": "好，明天早上八点在校门口见，一言为定！",
+            "pronounce": "yī yán wéi dìng"
+          },
+          {
+            "_id": "y_042",
+            "idiom": "一知半解",
+            "meaning": "知道得不全面，理解得不透彻。",
+            "example": "他对这个问题只是一知半解，所以解释不清楚。",
+            "pronounce": "yī zhī bàn jiě"
+          },
+          {
+            "_id": "y_043",
+            "idiom": "掩耳盗铃",
+            "meaning": "比喻自己欺骗自己，想把明显存在的事实掩盖起来。",
+            "example": "他以为删掉聊天记录就没人知道，这简直是掩耳盗铃。",
+            "pronounce": "yǎn ěr dào líng"
+          },
+          {
+            "_id": "y_044",
+            "idiom": "仰人鼻息",
+            "meaning": "比喻依赖别人，看别人的脸色行事。",
+            "example": "我们必须发展自己的核心技术，不能总是仰人鼻息。",
+            "pronounce": "yǎng rén bí xī"
+          },
+          {
+            "_id": "y_045",
+            "idiom": "以牙还牙",
+            "meaning": "指用对方使用的手段回击对方。",
+            "example": "对于敌人的挑衅，我们决定以牙还牙，坚决反击。",
+            "pronounce": "yǐ yá huán yá"
+          },
+          {
+            "_id": "y_046",
+            "idiom": "饮水思源",
+            "meaning": "比喻不忘本。",
+            "example": "我们今天的幸福生活来之不易，要懂得饮水思源。",
+            "pronounce": "yǐn shuǐ sī yuán"
+          },
+          {
+            "_id": "y_047",
+            "idiom": "有目共睹",
+            "meaning": "指事情的成果或事实非常明显，人人都能看见。",
+            "example": "他为公司做出的贡献是有目共睹的。",
+            "pronounce": "yǒu mù gòng dǔ"
+          },
+          {
+            "_id": "y_048",
+            "idiom": "雨后春笋",
+            "meaning": "比喻新事物大量涌现，发展迅速。",
+            "example": "随着经济的发展，新的高楼大厦如雨后春笋般出现。",
+            "pronounce": "yǔ hòu chūn sǔn"
+          },
+          {
+            "_id": "y_049",
+            "idiom": "与日俱增",
+            "meaning": "随着时间的推移而不断增长。",
+            "example": "随着年龄的增长，他的知识和经验也在与日俱增。",
+            "pronounce": "yǔ rì jù zēng"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "Z",
+        "idioms": [
+          {
+            "_id": "z_001",
+            "idiom": "志同道合",
+            "meaning": "指理想、志趣、信念相同。",
+            "example": "他们因为对音乐有共同的爱好而成为志同道合的朋友。",
+            "pronounce": "zhì tóng dào hé"
+          },
+          {
+            "_id": "z_002",
+            "idiom": "置之不理",
+            "meaning": "放在一边，不予理睬。",
+            "example": "对于他的无理要求，我决定置之不理。",
+            "pronounce": "zhì zhī bù lǐ"
+          },
+          {
+            "_id": "z_003",
+            "idiom": "众口难调",
+            "meaning": "指人多口味杂，很难让所有人都满意。",
+            "example": "公司年会众口难调，很难选出一个所有人都喜欢的节目。",
+            "pronounce": "zhòng kǒu nán tiáo"
+          },
+          {
+            "_id": "z_004",
+            "idiom": "众志成城",
+            "meaning": "比喻大家团结一致，力量就无比强大，像城墙一样坚固。",
+            "example": "只要我们众志成城，就一定能战胜这次自然灾害。",
+            "pronounce": "zhòng zhì chéng chéng"
+          },
+          {
+            "_id": "z_005",
+            "idiom": "张牙舞爪",
+            "meaning": "形容猖狂、凶恶的样子。",
+            "example": "那只螃蟹在沙滩上张牙舞爪地横行。",
+            "pronounce": "zhāng yá wǔ zhǎo"
+          },
+          {
+            "_id": "z_006",
+            "idiom": "招摇撞骗",
+            "meaning": "指借名炫耀，到处诈骗。",
+            "example": "他冒充专家，在外面招摇撞骗，最终被警察抓获。",
+            "pronounce": "zhāo yáo zhuàng piàn"
+          },
+          {
+            "_id": "z_007",
+            "idiom": "真相大白",
+            "meaning": "真实的情况完全被搞清楚了。",
+            "example": "随着关键证据的出现，案件的真相终于大白于天下。",
+            "pronounce": "zhēn xiàng dà bái"
+          },
+          {
+            "_id": "z_008",
+            "idiom": "指鹿为马",
+            "meaning": "比喻故意颠倒黑白，混淆是非。",
+            "example": "他为了讨好上司，竟然在会议上指鹿为马，歪曲事实。",
+            "pronounce": "zhǐ lù wéi mǎ"
+          },
+          {
+            "_id": "z_009",
+            "idiom": "纸上谈兵",
+            "meaning": "比喻空谈理论，不能解决实际问题。",
+            "example": "管理公司不能只是纸上谈兵，必须要有实际的经验。",
+            "pronounce": "zhǐ shàng tán bīng"
+          },
+          {
+            "_id": "z_010",
+            "idiom": "指手画脚",
+            "meaning": "形容轻率地批评、指点或命令别人。",
+            "example": "他自己什么都不懂，却总喜欢对别人的工作指手画脚。",
+            "pronounce": "zhǐ shǒu huà jiǎo"
+          },
+          {
+            "_id": "z_011",
+            "idiom": "指桑骂槐",
+            "meaning": "比喻表面上骂这个人，实际上是骂那个人。",
+            "example": "他当着大家的面批评新人，其实是在指桑骂槐，说给老员工听的。",
+            "pronounce": "zhǐ sāng mà huái"
+          },
+          {
+            "_id": "z_012",
+            "idiom": "作茧自缚",
+            "meaning": "比喻自己设置障碍，把自己困住。",
+            "example": "他定下了太多不切实际的规定，结果作茧自缚，影响了工作效率。",
+            "pronounce": "zuò jiǎn zì fù"
+          },
+          {
+            "_id": "z_013",
+            "idiom": "坐井观天",
+            "meaning": "比喻眼界狭小，见识有限。与“井底之蛙”意思相近。",
+            "example": "如果不走出去看看世界，人就会变得坐井观天。",
+            "pronounce": "zuò jǐng guān tiān"
+          },
+          {
+            "_id": "z_014",
+            "idiom": "左右为难",
+            "meaning": "形容不管怎样做都有难处。",
+            "example": "一边是亲情，一边是爱情，他感到左右为难。",
+            "pronounce": "zuǒ yòu wéi nán"
+          },
+          {
+            "_id": "z_015",
+            "idiom": "再接再厉",
+            "meaning": "比喻继续努力，毫不松懈。",
+            "example": "希望你不要骄傲，再接再厉，取得更好的成绩。",
+            "pronounce": "zài jiē zài lì"
+          },
+          {
+            "_id": "z_016",
+            "idiom": "自暴自弃",
+            "meaning": "自己甘心落后，不求上进。",
+            "example": "遇到一点挫折就自暴自弃，是懦夫的行为。",
+            "pronounce": "zì bào zì qì"
+          },
+          {
+            "_id": "z_017",
+            "idiom": "自告奋勇",
+            "meaning": "自己主动要求承担艰巨或有风险的任务。",
+            "example": "看到没人愿意去，他自告奋勇地接下了这个任务。",
+            "pronounce": "zì gào fèn yǒng"
+          },
+          {
+            "_id": "z_018",
+            "idiom": "自高自大",
+            "meaning": "认为自己很高明，看不起别人。",
+            "example": "年轻人有点成就是好事，但不能因此自高自大。",
+            "pronounce": "zì gāo zì dà"
+          },
+          {
+            "_id": "z_019",
+            "idiom": "自力更生",
+            "meaning": "指依靠自己的力量把事情办起来。",
+            "example": "父母不能永远陪着我们，我们必须学会自力更生。",
+            "pronounce": "zì lì gēng shēng"
+          },
+          {
+            "_id": "z_020",
+            "idiom": "自命不凡",
+            "meaning": "自以为很了不起，看不起别人。",
+            "example": "他虽然有些才华，但过于自命不凡，所以没什么朋友。",
+            "pronounce": "zì mìng bù fán"
+          },
+          {
+            "_id": "z_021",
+            "idiom": "自食其果",
+            "meaning": "指自己做了坏事，自己承受不好的结果。与“自作自受”意思相近。",
+            "example": "他因为懒惰而失去了工作，现在只能自食其果。",
+            "pronounce": "zì shí qí guǒ"
+          },
+          {
+            "_id": "z_022",
+            "idiom": "自投罗网",
+            "meaning": "比喻自己跑到危险的地方去，或自己上当。",
+            "example": "小偷看到警察却迎面走过去，真是自投罗网。",
+            "pronounce": "zì tóu luó wǎng"
+          },
+          {
+            "_id": "z_023",
+            "idiom": "自相矛盾",
+            "meaning": "指自己的言行前后抵触，不一致。",
+            "example": "他刚才说他没去过那里，现在又说那里的风景很好，真是自相矛盾。",
+            "pronounce": "zì xiāng máo dùn"
+          },
+          {
+            "_id": "z_024",
+            "idiom": "自圆其说",
+            "meaning": "指把自己的论点或谎话说得没有漏洞。",
+            "example": "他编造了一个谎言，现在正努力自圆其说。",
+            "pronounce": "zì yuán qí shuō"
+          },
+          {
+            "_id": "z_025",
+            "idiom": "自以为是",
+            "meaning": "总认为自己是对的，形容主观、不虚心。",
+            "example": "他这个人最大的毛病就是自以为是，从不听取别人的意见。",
+            "pronounce": "zì yǐ wéi shì"
+          },
+          {
+            "_id": "z_026",
+            "idiom": "自作自受",
+            "meaning": "指自己做了错事，由自己承担不良的后果。",
+            "example": "他不听劝告，非要投资那个项目，现在亏了钱也是自作自受。",
+            "pronounce": "zì zuò zì shòu"
+          },
+          {
+            "_id": "z_027",
+            "idiom": "走马观花",
+            "meaning": "比喻粗略地观察事物，不深入了解。",
+            "example": "这次旅游时间太紧了，很多景点都只是走马观花地看了一下。",
+            "pronounce": "zǒu mǎ guān huā"
+          }
+        ]
+      }
+    ]
+  }
+}

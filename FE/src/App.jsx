@@ -19,6 +19,8 @@ import GrammarLandingPage from './features/grammar/GrammarLandingPage';
 import GrammarTheoryPage from './features/grammar/GrammarTheoryPage';
 import GrammarQuizPage from './features/grammar/GrammarQuizPage';
 
+import IdiomLibraryPage from './features/idiom/IdiomLibraryPage'; 
+
 import { featureConfig } from './constants/appData';
 
 const pageComponents = {
@@ -39,7 +41,6 @@ function App() {
           <Route element={<MainLayout />}>
             <Route index element={<HomePage />} />
             
-            {/* Route cho các tính năng từ config */}
             {featureConfig.map(feature => {
               const PageComponent = pageComponents[feature.pageComponent];
               if (!PageComponent) return null; 
@@ -58,13 +59,11 @@ function App() {
               );
             })}
 
-            {/* THÊM: Route đặc biệt cho chế độ ôn tập từ vựng */}
             <Route 
               path="vocab/review"
               element={<QuizPage isReviewMode={true} />}
             />
 
-            {/* Routes cho Grammar */}
             <Route path="grammar" element={<GrammarLandingPage />} />
             <Route path="grammar/theory" element={<GrammarTheoryPage />} />
             <Route 
@@ -80,6 +79,8 @@ function App() {
                 } 
             />
             <Route path="grammar/practice/:lessonId" element={<GrammarQuizPage />} />
+            
+            <Route path="idioms" element={<IdiomLibraryPage />} />
 
           </Route>
         </Route>
