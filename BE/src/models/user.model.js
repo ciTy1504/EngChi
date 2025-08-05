@@ -1,6 +1,7 @@
 // File: models/user.model.js
 const mongoose = require('mongoose');
 const bcrypt = require('bcryptjs');
+const { encrypt, decrypt } = require('../utils/crypto');
 
 const UserSchema = new mongoose.Schema({
   username: {
@@ -18,16 +19,18 @@ const UserSchema = new mongoose.Schema({
   },
   password: {
     type: String,
-    // SỬA: Mật khẩu chỉ bắt buộc khi không có googleId
-    required: function() { return !this.googleId; },
+    required: [true, 'Password is required'],
     minlength: 6,
     select: false,
   },
-  // THÊM: trường để lưu ID từ Google
+  aiApiKey: {
+    type: String,
+    required: function() { return !this.googleId; },
+  },
   googleId: {
     type: String,
     unique: true,
-    sparse: true // Cho phép nhiều document có giá trị null, nhưng giá trị có thật thì phải là duy nhất
+    sparse: true
   },
   createdAt: {
     type: Date,
@@ -35,18 +38,28 @@ const UserSchema = new mongoose.Schema({
   },
 });
 
-// Mã hóa password trước khi lưu
 UserSchema.pre('save', async function (next) {
-  if (!this.isModified('password')) {
-    next();
+  if (this.isModified('password')) {
+    const salt = await bcrypt.genSalt(10);
+    this.password = await bcrypt.hash(this.password, salt);
   }
-  const salt = await bcrypt.genSalt(10);
-  this.password = await bcrypt.hash(this.password, salt);
+
+  if (this.isModified('aiApiKey') && this.aiApiKey) {
+    this.aiApiKey = encrypt(this.aiApiKey);
+  }
+  
+  next();
 });
 
-// So sánh password nhập vào với password đã mã hóa
 UserSchema.methods.matchPassword = async function (enteredPassword) {
   return await bcrypt.compare(enteredPassword, this.password);
+};
+
+UserSchema.methods.getDecryptedApiKey = function () {
+    if (!this.aiApiKey) {
+        throw new Error('User does not have an AI API key configured.');
+    }
+    return decrypt(this.aiApiKey);
 };
 
 module.exports = mongoose.model('User', UserSchema);

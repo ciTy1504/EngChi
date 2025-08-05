@@ -1,8 +1,8 @@
 // File: src/controllers/ai.controller.js
 const axios = require('axios');
+const MasterLesson = require('../models/masterLesson.model');
 
-const API_KEY = process.env.VITE_GOOGLE_API_KEY;
-const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent';
+const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 const safetySettings = [
     { "category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE" },
@@ -12,15 +12,21 @@ const safetySettings = [
 ];
 
 /**
- * Hàm chung để gọi Gemini API, hỗ trợ cả text và JSON response.
+ * Hàm chung để gọi Gemini API.
  * @param {string} prompt - The prompt to send to the AI.
+ * @param {string} apiKey - The user's specific API key.
  * @param {boolean} isJson - If true, requests a JSON response.
  * @returns {Promise<string>} - The text response from the AI.
  */
-async function callGemini(prompt, isJson = false) {
-    if (!API_KEY) {
-        throw new Error("AI service API key is not configured on the server.");
+async function callGemini(prompt, apiKey, isJson = false) {
+    if (!apiKey) {
+        throw new Error("AI service API key is not configured for this user.");
     }
+
+    console.log("--- Sending Prompt to Gemini ---");
+    console.log(prompt);
+    console.log("------------------------------");
+
     try {
         const config = {
             contents: [{ parts: [{ text: prompt }] }],
@@ -31,8 +37,10 @@ async function callGemini(prompt, isJson = false) {
         }
 
         const response = await axios.post(API_URL, config, {
-            headers: { 'Content-Type': 'application/json', 'X-goog-api-key': API_KEY }
+            headers: { 'Content-Type': 'application/json', 'X-goog-api-key': apiKey }
         });
+
+        console.log("--- Received successful response from Gemini ---");
 
         const textResponse = response.data.candidates?.[0]?.content?.parts?.[0]?.text;
         if (!textResponse) {
@@ -41,48 +49,114 @@ async function callGemini(prompt, isJson = false) {
         
         return textResponse;
     } catch (error) {
-        console.error("Gemini API Error:", error.response?.data || error.message);
+        console.error("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        console.error("!!!     GEMINI API CALL FAILED    !!!");
+        console.error("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        
+        if (error.response) {
+            console.error("--- ERROR STATUS:", error.response.status);
+            console.error("--- ERROR HEADERS:", JSON.stringify(error.response.headers, null, 2));
+            console.error("--- ERROR RESPONSE BODY (THE ACTUAL ERROR!): ---");
+            console.error(JSON.stringify(error.response.data, null, 2));
+            console.error("------------------------------------------------");
+            const errorMessage = error.response.data?.error?.message || "An unknown error occurred with the AI service.";
+            throw new Error(`AI Service Error: ${errorMessage}`);
+        } else if (error.request) {
+            console.error("--- NO RESPONSE RECEIVED FROM AI SERVICE ---");
+            console.error(error.request);
+        } else {
+            console.error("--- AXIOS REQUEST SETUP ERROR ---");
+            console.error('Error', error.message);
+        }
+        
         throw new Error("Failed to communicate with AI service.");
     }
 }
 
 /**
- * Tạo prompt và phân tích kết quả cho việc kiểm tra từ vựng.
- * @param {object} payload - Dữ liệu từ client, vd: { wordPairs, sourceLanguage }
+ * Xử lý kiểm tra từ vựng theo batch một cách an toàn và hiệu quả.
+ * @param {object} payload - Dữ liệu từ client
+ * @param {string} apiKey - API key của người dùng
  * @returns {Promise<Array<{isCorrect: boolean}>>}
  */
-async function handleVocabCheck(payload) {
+async function handleVocabCheck(payload, apiKey) {
     const { wordPairs, sourceLanguage } = payload;
     if (!wordPairs || !Array.isArray(wordPairs) || wordPairs.length === 0 || !sourceLanguage) {
         throw new Error('Invalid payload for vocab check.');
     }
 
-    const langMap = { 'en': 'tiếng Anh', 'zh': 'tiếng Trung' };
-    const languageName = langMap[sourceLanguage] || 'ngoại ngữ';
-    
-    const questions = wordPairs.map((pair, index) =>
-        `${index + 1}. Từ ${languageName} '${pair.sourceWord}' có một trong các nghĩa tiếng Việt là '${pair.userInput}' không?`
-    ).join('\n');
+    const sourceWordsFromClient = wordPairs.map(pair => pair.sourceWord);
 
-    const prompt = `${questions}\n\nHãy trả lời trên một dòng riêng biệt theo định dạng: "Số. [đúng/sai]". Không thêm giải thích.`;
-    
-    const textResponse = await callGemini(prompt, false); 
-    
-    const lines = textResponse.trim().split('\n');
-    if (lines.length !== wordPairs.length) {
-        throw new Error(`AI response mismatch. Expected ${wordPairs.length} answers, got ${lines.length}.`);
+    const lessonsContainingWords = await MasterLesson.find({ 
+        "content.words.word": { $in: sourceWordsFromClient },
+        "language": sourceLanguage 
+    }).select('content.words.word content.words.meaning').lean();
+
+    const correctMeaningMap = new Map();
+    for (const lesson of lessonsContainingWords) {
+        for (const word of lesson.content.words) {
+            if (!correctMeaningMap.has(word.word)) {
+                correctMeaningMap.set(word.word, word.meaning);
+            }
+        }
     }
 
-    return lines.map(line => ({ isCorrect: line.toLowerCase().includes('đúng') }));
+    const results = [];
+    const pairsForAI = [];
+    const aiPairsOriginalIndex = [];
+
+    wordPairs.forEach((pair, index) => {
+        const correctMeaning = correctMeaningMap.get(pair.sourceWord);
+
+        if (!correctMeaning) {
+            results[index] = { isCorrect: false };
+            return;
+        }
+
+        if (pair.userInput.trim().toLowerCase() === correctMeaning.trim().toLowerCase()) {
+            results[index] = { isCorrect: true };
+        } else {
+            pairsForAI.push(pair);
+            aiPairsOriginalIndex.push(index);
+        }
+    });
+
+    if (pairsForAI.length > 0) {
+        const langMap = { 'en': 'tiếng Anh', 'zh': 'tiếng Trung' };
+        const languageName = langMap[sourceLanguage] || 'ngoại ngữ';
+        
+        const questions = pairsForAI.map((pair, index) =>
+            `${index + 1}. Từ ${languageName} '${pair.sourceWord}' có một trong các nghĩa tiếng Việt là '${pair.userInput}' không?`
+        ).join('\n');
+
+        const prompt = `${questions}\n\nHãy trả lời trên một dòng riêng biệt theo định dạng: "Số. [đúng/sai]". Không thêm giải thích.`;
+        
+        const textResponse = await callGemini(prompt, apiKey, false); 
+        
+        const lines = textResponse.trim().split('\n');
+        
+        lines.forEach((line, i) => {
+            const originalIndex = aiPairsOriginalIndex[i];
+            results[originalIndex] = { isCorrect: line.toLowerCase().includes('đúng') };
+        });
+    }
+    for (let i = 0; i < wordPairs.length; i++) {
+        if (results[i] === undefined) {
+             results[i] = { isCorrect: false };
+        }
+    }
+
+    return results;
 }
 
 /**
  * @param {string} sourceSentence - Câu gốc
  * @param {string} userTranslation - Câu dịch của người dùng
  * @param {string} suggestedTranslation - Câu dịch mẫu từ DB
+ * @param {string} apiKey - API key của người dùng
  * @returns {Promise<{score: number, feedback: string}>}
  */
-exports.gradeTranslation = async (sourceSentence, userTranslation, suggestedTranslation) => {
+exports.gradeTranslation = async (sourceSentence, userTranslation, suggestedTranslation, apiKey) => {
     const prompt = `Bạn là một giám khảo chấm điểm dịch thuật chuyên nghiệp và khó tính. Dựa trên thông tin sau, hãy đánh giá chất lượng bản dịch của người dùng:
 
         **Thông tin:**
@@ -151,14 +225,13 @@ exports.gradeTranslation = async (sourceSentence, userTranslation, suggestedTran
         }
 
         **Lưu ý:** Chỉ trả về đối tượng JSON. Không thêm bất kỳ nội dung nào bên ngoài`;
-    const jsonResponse = await callGemini(prompt, true);
+    
+    const jsonResponse = await callGemini(prompt, apiKey, true);
     return JSON.parse(jsonResponse);
 };
 
 const aiTaskHandlers = {
     'vocab': handleVocabCheck,
-    // Trong tương lai, nếu có tác vụ AI đơn giản khác, chỉ cần thêm vào đây
-    // 'another_simple_task': handleAnotherSimpleTask,
 };
 
 /**
@@ -169,7 +242,6 @@ const aiTaskHandlers = {
 exports.performAICheck = async (req, res) => {
     const { checkType, payload } = req.body;
 
-    // 1. Kiểm tra xem có handler nào cho checkType này không
     const handler = aiTaskHandlers[checkType];
     if (!handler) {
         return res.status(400).json({ 
@@ -178,9 +250,10 @@ exports.performAICheck = async (req, res) => {
         });
     }
 
-    // 2. Thực thi handler tương ứng
     try {
-        const results = await handler(payload);
+        const apiKey = req.user.getDecryptedApiKey();
+        
+        const results = await handler(payload, apiKey);
         res.status(200).json({ success: true, results });
     } catch (error) {
         console.error(`AI Check Error for type '${checkType}':`, error.message);

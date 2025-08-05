@@ -3,6 +3,8 @@ import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 
 import HomePage from './pages/HomePage/HomePage';
+import CompleteProfilePage from './pages/Auth/CompleteProfilePage';
+import SettingsPage from './pages/SettingsPage/SettingsPage';
 import MainLayout from './components/layout/MainLayout';
 import LanguageSetter from './components/layout/LanguageSetter';
 import LoginPage from './pages/Auth/LoginPage';
@@ -34,6 +36,7 @@ function App() {
     <Routes>
       <Route path="/login" element={<LoginPage />} />
       <Route path="/register" element={<RegisterPage />} />
+      <Route path="/complete-profile" element={<CompleteProfilePage />} />
       <Route path="/" element={<Navigate to="/en" replace />} />
       
       <Route element={<ProtectedRoute />}>
@@ -81,6 +84,8 @@ function App() {
             <Route path="grammar/practice/:lessonId" element={<GrammarQuizPage />} />
             
             <Route path="idioms" element={<IdiomLibraryPage />} />
+
+            <Route path="settings" element={<SettingsPage />} />
 
           </Route>
         </Route>

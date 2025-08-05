@@ -22,6 +22,7 @@ const ReadingPage = () => {
     const [isSubmitting, setIsSubmitting] = useState(false);
     const [error, setError] = useState(null);
 
+    // HÀM NÀY SẼ DÙNG CHO NÚT "NEXT ARTICLE"
     const fetchNextArticle = async () => {
         setIsLoading(true);
         setError(null);
@@ -29,10 +30,9 @@ const ReadingPage = () => {
         setResults(null);
         setUserAnswers({});
         try {
-            const response = await apiService(`/lessons/reading/${lessonId}/next-article`);
+            const response = await apiService(`/reading/${lessonId}/next-article`);
             if (response.data) {
                 const normalizedArticle = normalizeMongoData(response.data);
-                console.log("Data after normalization:", normalizedArticle);
                 setArticle(normalizedArticle);
             } else {
                 setError(t.reading_no_articles);
@@ -44,13 +44,41 @@ const ReadingPage = () => {
             setIsLoading(false);
         }
     };
+    
+    // BỔ SUNG: HÀM KHỞI TẠO BÀI HỌC VÀ LẤY BÀI ĐỌC ĐẦU TIÊN
+    const initializeAndFetchFirstArticle = async () => {
+        setIsLoading(true);
+        setError(null);
+        try {
+            // BƯỚC 1: Gọi API để khởi tạo hoặc đồng bộ UserProgress. Rất quan trọng!
+            await apiService(`/lessons/${lessonId}/start`);
+
+            // BƯỚC 2: Sau khi khởi tạo thành công, gọi API để lấy bài đọc đầu tiên
+            const response = await apiService(`/reading/${lessonId}/next-article`);
+            if (response.data) {
+                const normalizedArticle = normalizeMongoData(response.data);
+                setArticle(normalizedArticle);
+                // Reset state cho bài mới
+                setUserAnswers({});
+                setResults(null);
+            } else {
+                setError(t.reading_no_articles);
+            }
+        } catch (err) {
+            setError(err.message || 'Failed to initialize or fetch article.');
+            toast.error(err.message);
+        } finally {
+            setIsLoading(false);
+        }
+    };
+
 
     useEffect(() => {
-        fetchNextArticle();
+        // SỬA ĐỔI: Gọi hàm khởi tạo khi component được tải lần đầu
+        initializeAndFetchFirstArticle();
     }, [lessonId]);
 
     const handleAnswerChange = (questionId, answer) => {
-        console.log('Updating answer for:', { questionId, answer });
         setUserAnswers(prev => ({ ...prev, [questionId]: answer }));
     };
 
@@ -63,8 +91,7 @@ const ReadingPage = () => {
                 articleId: article._id,
                 answers: userAnswers
             };
-            console.log('Submitting payload:', payload);
-            const response = await apiService(`/lessons/reading/submit-answers`, {
+            const response = await apiService(`/reading/submit-answers`, {
                 method: 'POST',
                 body: JSON.stringify(payload),
             });
@@ -90,9 +117,15 @@ const ReadingPage = () => {
         );
     }
 
-    if (!article) return null;
-
-    console.log("Rendering with article data:", article);
+    if (!article) {
+        // Xử lý trường hợp không có bài đọc nào sau khi đã load xong
+        return (
+             <div className="text-center p-10">
+                <p className="text-gray-600 mb-4">{t.reading_no_articles || "Congratulations, you have completed all articles in this lesson!"}</p>
+                <BackButton to={`/${language}/reading`} />
+            </div>
+        );
+    }
 
     return (
         <div className="max-w-7xl mx-auto p-4 md:p-8">
@@ -116,17 +149,21 @@ const ReadingPage = () => {
                 {/* Cột câu hỏi + nút */}
                 <div>
                     <div className="space-y-6">
-                        {article.questions?.map((q, index) => (
-                            <QuestionRenderer
-                                key={q._id}
-                                question={q}
-                                index={index}
-                                userAnswer={userAnswers[q._id]}
-                                onAnswerChange={handleAnswerChange}
-                                isSubmitted={!!results}
-                                result={results ? results[q._id] : null}
-                            />
-                        ))}
+                        {article.questions?.map((q, index) => {
+                            const defaultAnswer = q.qType === 'fill_in_blank' ? '' : [];
+                            const currentAnswer = userAnswers[q._id] ?? defaultAnswer;
+                            return (
+                                <QuestionRenderer
+                                    key={q._id}
+                                    question={q}
+                                    index={index}
+                                    userAnswer={currentAnswer}
+                                    onAnswerChange={handleAnswerChange}
+                                    isSubmitted={!!results}
+                                    result={results ? results[q._id] : null}
+                                />
+                            );
+                        })}
                     </div>
 
                     <div className="mt-8 text-center">

@@ -176,7 +176,7 @@ const GrammarTheoryPage = () => {
             setIsLoading(true);
             setError(null);
             try {
-                const response = await apiService(`/lessons/grammar/library?language=${language}`);
+                const response = await apiService(`/grammar/library?language=${language}`);
                 const fetchedLessons = response.data;
                 setLessons(fetchedLessons);
 
@@ -191,16 +191,15 @@ const GrammarTheoryPage = () => {
                             setSelectedTheory(result.foundItem);
                             const newOpenItems = {};
                             result.parentIds.forEach(id => { newOpenItems[id] = true; });
-                            newOpenItems[lesson._id] = true; // Mở cả danh mục bài học cha
+                            newOpenItems[lesson._id] = true; 
                             setOpenItems(newOpenItems);
                             
                             focusedItemFound = true;
-                            break; // Dừng tìm kiếm khi đã thấy
+                            break;
                         }
                     }
                 }
 
-                // **SỬA LỖI:** Chỉ chạy logic mặc định nếu không tìm thấy mục được focus
                 if (!focusedItemFound && fetchedLessons?.length > 0) {
                     const firstLesson = fetchedLessons[0];
                     const newOpenItems = { [firstLesson._id]: true };
@@ -209,7 +208,6 @@ const GrammarTheoryPage = () => {
                         const firstItemToShow = findFirstLeaf(firstLesson.content.grammarTheory);
                         if (firstItemToShow) {
                             setSelectedTheory(firstItemToShow);
-                            // Mở các mục cha của mục đầu tiên (nếu có)
                             const result = findTheoryAndParents(firstLesson.content.grammarTheory, firstItemToShow._id);
                              result.parentIds.forEach(id => { newOpenItems[id] = true; });
                         }

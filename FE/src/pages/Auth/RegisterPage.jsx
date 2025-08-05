@@ -9,6 +9,7 @@ const RegisterPage = () => {
     const [username, setUsername] = useState('');
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
+    const [aiApiKey, setAiApiKey] = useState(''); 
     const [error, setError] = useState('');
     const [isLoading, setIsLoading] = useState(false);
     const { register } = useAuth();
@@ -26,7 +27,7 @@ const RegisterPage = () => {
         }
 
         try {
-            await register(username, email, password);
+            await register(username, email, password, aiApiKey);
             navigate('/en'); 
         } catch (err) {
             setError(err.message || 'Failed to register. The email or username may already be in use.');
@@ -72,6 +73,25 @@ const RegisterPage = () => {
                         className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                         required
                     />
+                </div>
+                <div className="mb-6">
+                    <label className="block text-gray-700 font-medium mb-1" htmlFor="aiApiKey">
+                        Google AI API Key
+                    </label>
+                    <input
+                        id="aiApiKey"
+                        type="password"
+                        value={aiApiKey}
+                        onChange={(e) => setAiApiKey(e.target.value)}
+                        className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                        required
+                    />
+                    <p className="text-xs text-gray-500 mt-1">
+                        Dự án này yêu cầu bạn cung cấp API Key của riêng mình. 
+                        <a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+                           Lấy key tại đây.
+                        </a>
+                    </p>
                 </div>
                 <button 
                     type="submit" 

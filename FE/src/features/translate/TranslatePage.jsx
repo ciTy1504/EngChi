@@ -34,7 +34,7 @@ const TranslatePage = () => {
         setUserTranslation('');
         setQuestion(null);
         try {
-            const response = await apiService(`/lessons/translation/${lessonId}/next-question`);
+            const response = await apiService(`/translation/${lessonId}/next-question`);
             if (response.data) {
                 setQuestion(response.data);
             } else {
@@ -52,7 +52,7 @@ const TranslatePage = () => {
         setError(null);
         try {
             await apiService(`/lessons/${lessonId}/start`);
-            const response = await apiService(`/lessons/translation/${lessonId}/next-question`);
+            const response = await apiService(`/translation/${lessonId}/next-question`);
             if (response.data) {
                 setQuestion(response.data);
             } else {
@@ -80,7 +80,7 @@ const TranslatePage = () => {
         setIsSubmitting(true);
         setResult(null);
         try {
-            const response = await apiService('/lessons/translation/submit-answer', {
+            const response = await apiService('/translation/submit-answer', {
                 method: 'POST',
                 body: JSON.stringify({
                     lessonId: lessonId,

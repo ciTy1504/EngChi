@@ -27,16 +27,16 @@ const GrammarQuizPage = () => {
             setIsLoading(true);
             setError(null);
             try {
-                // Giả sử API trả về câu hỏi cho một chủ đề cụ thể
-                // Ví dụ: /lessons/grammar/parts-of-speech/quiz
-                // Trong thực tế, bạn sẽ cần một endpoint để lấy câu hỏi theo ID hoặc slug
-                const response = await apiService(`/lessons/${lessonId}/quiz-questions`);
+                const response = await apiService(`/grammar/${lessonId}/quiz-questions`);
                 setQuestions(response.data.questions);
                 setTopicTitle(response.data.topicTitle);
-                // Khởi tạo userAnswers
                 const initialAnswers = {};
                 response.data.questions.forEach(q => {
-                    initialAnswers[q._id] = q.qType === 'multiple_choice_multiple' ? [] : undefined;
+                    if (q.qType === 'fill_in_blank') {
+                        initialAnswers[q._id] = '';
+                    } else {
+                        initialAnswers[q._id] = []; 
+                    }
                 });
                 setUserAnswers(initialAnswers);
             } catch (err) {

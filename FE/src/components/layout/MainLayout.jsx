@@ -20,7 +20,7 @@ const MainLayout = () => {
       
       <button
         onClick={toggleSidebar}
-        className="fixed top-1/2 -translate-y-1/2 z-20 bg-white p-1 rounded-full shadow-md text-gray-600 hover:bg-gray-200 transition-all duration-300 ease-in-out"
+        className="fixed top-1/2 -translate-y-1/2 z-20 bg-black p-1 rounded-full shadow-md text-white hover:bg-gray-200 transition-all duration-300 ease-in-out"
         style={{ left: isSidebarOpen ? 'calc(16rem - 1rem)' : '0rem' }}
         aria-label="Toggle sidebar"
       >

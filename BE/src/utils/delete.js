@@ -22,6 +22,7 @@ console.log("MONGO_URI is loaded successfully.");
 // Load the model
 const MasterLesson = require('../models/masterLesson.model');
 const UserProgress = require('../models/userProgress.model'); 
+const User = require('../models/user.model');
 
 // Database Connection Function
 const connectDB = async () => {
@@ -45,6 +46,9 @@ const deleteAllData = async () => {
         const progressResult = await UserProgress.deleteMany({});
         console.log(`✅ Deleted ${progressResult.deletedCount} documents from UserProgress collection.`);
 
+        console.log('\n--- Deleting Users ---');
+        const userResult = await User.deleteMany({});
+        console.log(`✅ Deleted ${userResult.deletedCount} documents from User collection.`);
     } catch (error) {
         console.error('\n❌ An error occurred during the deletion process:', error);
     }
