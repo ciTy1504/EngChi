@@ -3,7 +3,13 @@ const asyncHandler = require('express-async-handler');
 
 const progressUpdateActions = {
     'delete_words': async (progress, payload) => {
-        progress.progressData.deletedWords.addToSet(...(payload.words || []));
+        const wordsToDelete = payload.words || [];
+        progress.progressData.deletedWords.addToSet(...wordsToDelete);
+        if (progress.progressData.reviewWords && progress.progressData.reviewWords.length > 0) {
+            progress.progressData.reviewWords = progress.progressData.reviewWords.filter(
+                reviewWord => !wordsToDelete.includes(reviewWord.word)
+            );
+        }
     },
     'review_words': async (progress, payload) => {
         const wordsToReview = payload.words.map(w => ({

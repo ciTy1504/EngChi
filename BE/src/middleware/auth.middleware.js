@@ -19,9 +19,6 @@ exports.protect = async (req, res, next) => {
   try {
     const decoded = jwt.verify(token, process.env.JWT_SECRET);
     
-    // [SỬA ĐỔI QUAN TRỌNG]
-    // Yêu cầu Mongoose lấy tất cả các trường mặc định VÀ thêm trường aiApiKey.
-    // Dấu '+' đảm bảo trường này được trả về để chúng ta có thể giải mã nó sau này.
     req.user = await User.findById(decoded.id).select('+aiApiKey');
 
     if (!req.user) {
@@ -43,7 +40,12 @@ exports.protectSetup = async (req, res, next) => {
     }
     try {
         const decoded = jwt.verify(token, process.env.JWT_SETUP_SECRET);
-        req.user = { id: decoded.id };
+        req.user = await User.findById(decoded.id);
+
+        if (!req.user) {
+            return res.status(401).json({ success: false, message: 'User not found for setup' });
+        }
+        
         next();
     } catch (err) {
         return res.status(401).json({ success: false, message: 'Not authorized: Invalid setup token' });

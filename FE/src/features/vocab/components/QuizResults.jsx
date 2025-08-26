@@ -36,9 +36,6 @@ const QuizResults = ({ results, progressId, lesson, language, isReviewMode }) =>
         const initialActions = {};
         results.forEach(result => {
             if (result.isCorrect) {
-                // SỬA: Phân biệt trạng thái mặc định cho chế độ học thường và chế độ review
-                // - Chế độ học thường: Mặc định là đã thuộc ('delete')
-                // - Chế độ review: Mặc định là giữ lại để ôn tiếp ('keep')
                 initialActions[result.wordData.word] = isReviewMode ? 'keep' : 'delete';
             }
         });
@@ -53,73 +50,70 @@ const QuizResults = ({ results, progressId, lesson, language, isReviewMode }) =>
     const handleUpdateProgress = async () => {
         setIsUpdating(true);
         try {
-            const wordsToDelete = [];
-            const wordsToReview = [];
-            
-            results.forEach(result => {
-                const action = wordActions[result.wordData.word];
-                const lessonId = result.masterLessonId;
-                const word = result.wordData.word;
+            const wordsToMaster = [];
+            const wordsToReviewLater = [];
 
-                if (result.isCorrect && action === 'delete') {
-                    wordsToDelete.push({ word, lessonId });
-                } 
-                else if (result.isCorrect && action === 'review') {
-                    wordsToReview.push({ word, masterLessonId: lessonId });
+            results.forEach(result => {
+                if (!result.isCorrect) return; 
+
+                const action = wordActions[result.wordData.word];
+                const wordData = { word: result.wordData.word, lessonId: result.masterLessonId };
+
+                if (action === 'delete') { 
+                    wordsToMaster.push(wordData);
+                } else if (action === 'review') { 
+                    wordsToReviewLater.push(wordData);
                 }
             });
 
             const updatePromises = [];
-            const progressIdsCache = {};
-
-            const getProgressId = async (lessonId) => {
-                if (progressIdsCache[lessonId]) return progressIdsCache[lessonId];
-                if (!isReviewMode) {
-                     progressIdsCache[lessonId] = progressId;
-                     return progressId;
-                }
-                 const res = await apiService(`/lessons/${lessonId}/start`);
-                 const pId = res.userProgress?._id;
-                 progressIdsCache[lessonId] = pId;
-                 return pId;
-            };
-
-            // Nhóm các từ theo lessonId để gọi API hiệu quả hơn
-            const groupWordsByLesson = (words) => {
-                return words.reduce((acc, { word, lessonId }) => {
-                    if (!acc[lessonId]) acc[lessonId] = [];
-                    acc[lessonId].push(word);
-                    return acc;
-                }, {});
-            };
-            
-            const groupedWordsToDelete = groupWordsByLesson(wordsToDelete);
-            
-            for (const lessonId in groupedWordsToDelete) {
-                const pId = await getProgressId(lessonId);
-                if (pId) {
-                    const wordsForLesson = groupedWordsToDelete[lessonId];
-                    if (isReviewMode) {
-                        // Trong chế độ review, cần xóa khỏi review list và thêm vào deleted list
-                        updatePromises.push(apiService(`/lessons/progress/${pId}`, { method: 'PUT', body: JSON.stringify({ action: 'remove_review_words', payload: { words: wordsForLesson } }) }));
-                    } else {
-                        // Trong chế độ học thường, chỉ cần thêm vào deleted list
-                        updatePromises.push(apiService(`/lessons/progress/${pId}`, { method: 'PUT', body: JSON.stringify({ action: 'delete_words', payload: { words: wordsForLesson } }) }));
-                    }
-                }
+            if (!isReviewMode && wordsToReviewLater.length > 0) {
+                const payload = {
+                    action: 'review_words',
+                    payload: { words: wordsToReviewLater.map(w => ({ word: w.word, masterLessonId: w.lessonId })) }
+                };
+                updatePromises.push(
+                    apiService(`/progress/${progressId}`, { method: 'PUT', body: JSON.stringify(payload) })
+                );
             }
-            
-            if (!isReviewMode && wordsToReview.length > 0) {
-                 const pId = await getProgressId(lesson._id);
-                 if(pId) {
-                    updatePromises.push(apiService(`/lessons/progress/${pId}`, { method: 'PUT', body: JSON.stringify({ action: 'review_words', payload: { words: wordsToReview } }) }));
-                 }
+
+            if (wordsToMaster.length > 0) {
+                if (isReviewMode) {
+                    const wordsByLesson = wordsToMaster.reduce((acc, word) => {
+                        acc[word.lessonId] = acc[word.lessonId] || [];
+                        acc[word.lessonId].push(word.word);
+                        return acc;
+                    }, {});
+
+                    for (const lessonId in wordsByLesson) {
+                        const progressResponse = await apiService(`/lessons/${lessonId}/start`);
+                        const pId = progressResponse.userProgress?._id;
+                        if (pId) {
+                            const payload = {
+                                action: 'remove_review_words',
+                                payload: { words: wordsByLesson[lessonId] }
+                            };
+                            updatePromises.push(
+                                apiService(`/progress/${pId}`, { method: 'PUT', body: JSON.stringify(payload) })
+                            );
+                        }
+                    }
+                } else {
+                    const payload = {
+                        action: 'delete_words',
+                        payload: { words: wordsToMaster.map(w => w.word) }
+                    };
+                    updatePromises.push(
+                        apiService(`/progress/${progressId}`, { method: 'PUT', body: JSON.stringify(payload) })
+                    );
+                }
             }
 
             await Promise.all(updatePromises);
 
             toast.success(t.quiz_results_save_success);
             navigate(`/${language}/vocab`);
+
         } catch (error) {
             console.error("Error saving progress:", error);
             toast.error(`${t.quiz_results_save_error} ${error.message}`);

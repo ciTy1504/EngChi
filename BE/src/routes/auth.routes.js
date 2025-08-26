@@ -21,6 +21,6 @@ router.post('/login', [
 router.get('/me', protect, getMe);
 router.post('/google', googleLogin);
 
-router.post('/complete-profile', protectSetup, completeProfile);
+router.post('/complete-profile', completeProfile); 
 
 module.exports = router;

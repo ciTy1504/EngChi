@@ -1,6 +1,6 @@
 // src/pages/Auth/CompleteProfilePage.jsx
-import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import React, { useState, useEffect } from 'react';
+import { useLocation, useNavigate } from 'react-router-dom'; // Thêm useLocation
 import { useAuth } from '../../contexts/AuthContext';
 import { apiService } from '../../api/apiService';
 import AuthLayout from './AuthLayout';
@@ -10,37 +10,52 @@ const CompleteProfilePage = () => {
     const [aiApiKey, setAiApiKey] = useState('');
     const [error, setError] = useState('');
     const [isLoading, setIsLoading] = useState(false);
+    
     const navigate = useNavigate();
-    const { token } = useAuth(); // Dùng để xác thực token tạm có tồn tại không
+    const location = useLocation(); // Dùng hook useLocation để lấy state
+    const { setToken } = useAuth();
+
+    // [SỬA LỖI QUAN TRỌNG]
+    // Lấy token trực tiếp từ state điều hướng, không dùng localStorage
+    const setupToken = location.state?.setupToken;
+
+    // useEffect bây giờ chỉ có một nhiệm vụ: kiểm tra xem trang có được vào đúng cách không
+    useEffect(() => {
+        if (!setupToken) {
+            console.error("Accessed CompleteProfilePage without a setupToken. Redirecting.");
+            navigate('/login');
+        }
+    }, [setupToken, navigate]);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
         setError('');
         setIsLoading(true);
 
-        if (!token) {
-            setError("Invalid session. Please log in again.");
-            setIsLoading(false);
-            navigate('/login');
-            return;
-        }
-
         try {
             const response = await apiService('/auth/complete-profile', {
                 method: 'POST',
-                body: JSON.stringify({ password, aiApiKey }),
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ password, aiApiKey, setupToken }), // Gửi token đã lấy được
             });
-            // apiService sẽ tự động xử lý token, nhưng để chắc chắn, ta set lại
-            localStorage.setItem('token', response.token);
-            // Reload để AuthContext được cập nhật đúng
-            window.location.href = '/en'; 
-        } catch (err) {
+            
+            // Không cần xóa localStorage vì chúng ta không dùng nó nữa
+            setToken(response.token);
+            navigate('/en');
+
+        } catch (err) {  
             setError(err.message || 'Failed to update profile.');
         } finally {
             setIsLoading(false);
         }
     };
 
+    // "Gatekeeper" - Nếu không có token (do vào trang trực tiếp), không hiển thị gì cả
+    if (!setupToken) {
+        return null; 
+    }
+
+    // Nếu có token, hiển thị form
     return (
         <AuthLayout title="Complete Your Profile">
             <p className="text-center text-sm text-gray-600 mb-4">
@@ -57,8 +72,7 @@ const CompleteProfilePage = () => {
                         value={password}
                         onChange={(e) => setPassword(e.target.value)}
                         className="w-full px-3 py-2 border border-gray-300 rounded-md"
-                        required
-                        minLength={6}
+                        required minLength={6}
                     />
                 </div>
                 <div className="mb-6">

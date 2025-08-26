@@ -9,18 +9,18 @@ const LoginPage = () => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
     const [error, setError] = useState('');
-    const { login, googleLogin } = useAuth(); // Lấy cả hai hàm từ context
+    const { login, googleLogin } = useAuth();
     const navigate = useNavigate();
 
     const handleGoogleSuccess = async (credentialResponse) => {
         setError('');
         try {
-            // SỬA: Sử dụng hàm `googleLogin` từ context
             const result = await googleLogin(credentialResponse.credential);
             if (result.profileComplete) {
                 navigate('/en');
             } else {
-                navigate('/complete-profile');
+                // Truyền token qua state của navigate.
+                navigate('/complete-profile', { state: { setupToken: result.setupToken } });
             }
         } catch (err) {
             setError(err.message || 'Google login failed.');
@@ -35,12 +35,12 @@ const LoginPage = () => {
         e.preventDefault();
         setError('');
         try {
-            const result = await login(email, password);
-            if (result.profileComplete) {
-                navigate('/en');
-            } else {
-                navigate('/complete-profile');
-            }
+            // [SỬA LỖI LOGIC]
+            // Hàm login() của backend bây giờ chỉ trả về token nếu thành công.
+            // Nó sẽ ném lỗi nếu thất bại, được bắt bởi khối catch.
+            // Vì vậy, chúng ta không cần kiểm tra `result` nữa.
+            await login(email, password);
+            navigate('/en'); // Nếu không có lỗi, điều hướng ngay lập tức.
         } catch (err) {
             setError(err.message || 'Failed to log in. Please check your credentials.');
         }
