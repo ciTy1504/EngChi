@@ -1,8 +1,8 @@
-// src/features/reading/components/QuestionRenderer.jsx
+// src/features/reading/QuestionRenderer.jsx
 import React, { useContext } from 'react';
 import { Link } from 'react-router-dom'; 
-import { LanguageContext } from '../../../contexts/LanguageContext'; 
-import { useTranslations } from '../../../hooks/useTranslations'; 
+import { LanguageContext } from '../../contexts/LanguageContext'; 
+import { useTranslations } from '../../hooks/useTranslations'; 
 
 const getResultClass = (isSubmitted, isCorrect) => {
     if (!isSubmitted) return 'border-gray-300';

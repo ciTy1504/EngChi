@@ -5,8 +5,7 @@ import { LanguageContext } from '../../contexts/LanguageContext';
 import { useTranslations } from '../../hooks/useTranslations';
 import { apiService } from '../../api/apiService';
 import BackButton from '../../components/shared/BackButton';
-// THAY ĐỔI: Import QuestionRenderer từ vị trí mới
-import QuestionRenderer from './components/QuestionRenderer'; 
+import QuestionRenderer from './QuestionRenderer'; 
 import { toast } from 'react-hot-toast';
 
 const GrammarQuizPage = () => {

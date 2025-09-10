@@ -1,6 +1,6 @@
-// src/features/vocab/components/QuestionNavigator.jsx
+// src/features/vocab/QuestionNavigator.jsx
 import React from 'react';
-import { useTranslations } from '../../../hooks/useTranslations';
+import { useTranslations } from '../../hooks/useTranslations';
 
 const QuestionNavigator = ({ questions, currentIndex, onNavigate, isRevealingResults, onNavigateEnabled = true }) => {
     const t = useTranslations();

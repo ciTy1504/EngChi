@@ -4,7 +4,7 @@ import { LanguageContext } from '../../contexts/LanguageContext';
 import { useTranslations } from '../../hooks/useTranslations';
 import { apiService } from '../../api/apiService';
 import BackButton from '../../components/shared/BackButton';
-import IdiomCard from './components/IdiomCard';
+import IdiomCard from './IdiomCard';
 
 const TableOfContents = ({ categories, onSelect, activeCategory }) => {
     return (

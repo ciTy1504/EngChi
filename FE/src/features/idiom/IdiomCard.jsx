@@ -1,4 +1,4 @@
-// src/features/idiom/components/IdiomCard.jsx
+// src/features/idiom/IdiomCard.jsx
 import React from 'react';
 
 const IdiomCard = ({ idiom }) => {

@@ -5,7 +5,7 @@ import { LanguageContext } from '../../contexts/LanguageContext';
 import { useTranslations } from '../../hooks/useTranslations';
 import { apiService } from '../../api/apiService';
 import BackButton from '../../components/shared/BackButton'; // Import BackButton
-import TranslationResult from './components/TranslationResult';
+import TranslationResult from './TranslationResult';
 
 const TranslatePage = () => {
     const { lessonId } = useParams();
@@ -13,9 +13,8 @@ const TranslatePage = () => {
     const t = useTranslations();
     const navigate = useNavigate();
 
-    // Lấy mode từ URL, ví dụ: /translate/someId?mode=vi-to-foreign
     const [searchParams] = useSearchParams();
-    const translationMode = searchParams.get('mode') || 'foreign-to-vi'; // Mặc định là Anh/Trung -> Việt
+    const translationMode = searchParams.get('mode') || 'foreign-to-vi';
     const isReverseMode = translationMode === 'vi-to-foreign';
 
     const [question, setQuestion] = useState(null);

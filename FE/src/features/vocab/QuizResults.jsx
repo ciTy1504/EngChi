@@ -1,9 +1,9 @@
-// File: src/features/vocab/components/QuizResults.jsx
+// File: src/features/vocab/QuizResults.jsx
 import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useTranslations } from '../../../hooks/useTranslations';
+import { useTranslations } from '../../hooks/useTranslations';
 import QuestionNavigator from './QuestionNavigator';
-import { apiService } from '../../../api/apiService';
+import { apiService } from '../../api/apiService';
 import { toast } from 'react-hot-toast'; 
 
 const CheckIcon = () => <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" /></svg>;
@@ -36,15 +36,33 @@ const QuizResults = ({ results, progressId, lesson, language, isReviewMode }) =>
         const initialActions = {};
         results.forEach(result => {
             if (result.isCorrect) {
-                initialActions[result.wordData.word] = isReviewMode ? 'keep' : 'delete';
+                // THAY ĐỔI 1: Cấu trúc state mới
+                // Mặc định: Giữ lại (keep) và không review (review: false)
+                initialActions[result.wordData.word] = {
+                    mainAction: isReviewMode ? 'keep' : 'delete', // Logic cũ của bạn, có thể thay đổi thành 'keep' cho cả 2 nếu muốn
+                    review: false
+                };
             }
         });
         setWordActions(initialActions);
     }, [results, isReviewMode]);
 
 
-    const handleActionChange = (word, newAction) => {
-        setWordActions(prev => ({ ...prev, [word]: newAction }));
+    // THAY ĐỔI 2: Logic xử lý click nút mới
+    const handleActionChange = (word, actionClicked) => {
+        setWordActions(prev => {
+            const currentActions = { ...prev[word] }; // Lấy state hiện tại của từ
+
+            if (actionClicked === 'review') {
+                // Đảo ngược trạng thái review
+                currentActions.review = !currentActions.review;
+            } else {
+                // 'keep' và 'delete' là các hành động chính, loại trừ lẫn nhau
+                currentActions.mainAction = actionClicked;
+            }
+            
+            return { ...prev, [word]: currentActions };
+        });
     };
 
     const handleUpdateProgress = async () => {
@@ -56,16 +74,25 @@ const QuizResults = ({ results, progressId, lesson, language, isReviewMode }) =>
             results.forEach(result => {
                 if (!result.isCorrect) return; 
 
-                const action = wordActions[result.wordData.word];
-                const wordData = { word: result.wordData.word, lessonId: result.masterLessonId };
+                // THAY ĐỔI 3: Đọc từ cấu trúc state mới
+                const actions = wordActions[result.wordData.word];
+                if (!actions) return; // Bỏ qua nếu không có action nào được set
 
-                if (action === 'delete') { 
+                const wordData = { word: result.wordData.word, lessonId: result.masterLessonId };
+                
+                // Nếu mainAction là 'delete', nó sẽ được master
+                if (actions.mainAction === 'delete') { 
                     wordsToMaster.push(wordData);
-                } else if (action === 'review') { 
+                } 
+                
+                // Nếu 'review' được chọn (là true), thêm vào danh sách review
+                // Điều này độc lập với mainAction
+                if (actions.review) { 
                     wordsToReviewLater.push(wordData);
                 }
             });
 
+            // Logic API phía dưới giữ nguyên vì nó đã được thiết kế để xử lý 2 mảng riêng biệt
             const updatePromises = [];
             if (!isReviewMode && wordsToReviewLater.length > 0) {
                 const payload = {
@@ -108,13 +135,16 @@ const QuizResults = ({ results, progressId, lesson, language, isReviewMode }) =>
                     );
                 }
             }
-
-            await Promise.all(updatePromises);
+            
+            if (updatePromises.length > 0) {
+                await Promise.all(updatePromises);
+            }
 
             toast.success(t.quiz_results_save_success);
             navigate(`/${language}/vocab`);
 
-        } catch (error) {
+        } catch (error)
+        {
             console.error("Error saving progress:", error);
             toast.error(`${t.quiz_results_save_error} ${error.message}`);
         } finally {
@@ -123,18 +153,13 @@ const QuizResults = ({ results, progressId, lesson, language, isReviewMode }) =>
     };
     
     const handleNavigate = (index) => {
-        itemRefs.current[index]?.scrollIntoView({
-            behavior: 'smooth',
-            block: 'center',
-        });
+        itemRefs.current[index]?.scrollIntoView({ behavior: 'smooth', block: 'center' });
     };
 
     const correctCount = results.filter(r => r.isCorrect).length;
     const totalCount = results.length;
 
-    if (!results || results.length === 0) {
-        return <div>{t.loading_results}</div>;
-    }
+    if (!results || results.length === 0) return <div>{t.loading_results}</div>;
 
     const pageTitle = isReviewMode 
         ? "Kết quả Ôn tập" 
@@ -149,53 +174,58 @@ const QuizResults = ({ results, progressId, lesson, language, isReviewMode }) =>
             </div>
             
             <div className="space-y-4">
-                {results.map((result, index) => (
-                    <div key={result.wordData.word} ref={el => itemRefs.current[index] = el} className={`p-4 rounded-lg border-l-4 ${result.isCorrect ? 'bg-green-50 border-green-500' : 'bg-red-50 border-red-500'}`}>
-                        <p className="font-bold text-lg">{index + 1}. {result.wordData.word}</p>
-                        {result.wordData.pronounce && (
-                            <p className="text-gray-500 text-base">/{result.wordData.pronounce}/</p>
-                        )}
-                        <p>
-                            <span className="font-semibold">{t.quiz_results_your_answer} </span>
-                            <span className={result.isCorrect ? 'text-green-700' : 'text-red-700'}>{result.userAnswer || t.quiz_results_unanswered}</span>
-                        </p>
-                        <p><span className="font-semibold">{t.quiz_results_correct_answer}</span> {result.wordData.meaning}</p>
-                        
-                        
-                        {result.isCorrect && (
-                            <div className="mt-3 pt-3 border-t border-gray-200">
-                                <span className="font-semibold mr-4 text-sm text-gray-700">{t.quiz_results_word_action_prompt}</span>
-                                <div className="flex items-center gap-3 mt-1">
-                                    <ActionButton
-                                        text={t.quiz_results_action_keep}
-                                        icon={<RepeatIcon />}
-                                        onClick={() => handleActionChange(result.wordData.word, 'keep')}
-                                        isSelected={wordActions[result.wordData.word] === 'keep'}
-                                        colorClasses={{ selectedBg: 'bg-blue-500', selectedText: 'text-white', selectedBorder: 'border-blue-600' }}
-                                    />
-                                    
-                                    {!isReviewMode && (
+                {results.map((result, index) => {
+                    const currentWordActions = wordActions[result.wordData.word];
+                    return (
+                        <div key={result.wordData.word} ref={el => itemRefs.current[index] = el} className={`p-4 rounded-lg border-l-4 ${result.isCorrect ? 'bg-green-50 border-green-500' : 'bg-red-50 border-red-500'}`}>
+                            <p className="font-bold text-lg">{index + 1}. {result.wordData.word}</p>
+                            {result.wordData.pronounce && (
+                                <p className="text-gray-500 text-base">/{result.wordData.pronounce}/</p>
+                            )}
+                            <p>
+                                <span className="font-semibold">{t.quiz_results_your_answer} </span>
+                                <span className={result.isCorrect ? 'text-green-700' : 'text-red-700'}>{result.userAnswer || t.quiz_results_unanswered}</span>
+                            </p>
+                            <p><span className="font-semibold">{t.quiz_results_correct_answer}</span> {result.wordData.meaning}</p>
+                            
+                            {result.isCorrect && currentWordActions && (
+                                <div className="mt-3 pt-3 border-t border-gray-200">
+                                    <span className="font-semibold mr-4 text-sm text-gray-700">{t.quiz_results_word_action_prompt}</span>
+                                    <div className="flex items-center gap-3 mt-1">
                                         <ActionButton
-                                            text={t.quiz_results_action_review}
-                                            icon={<BookmarkIcon />}
-                                            onClick={() => handleActionChange(result.wordData.word, 'review')}
-                                            isSelected={wordActions[result.wordData.word] === 'review'}
-                                            colorClasses={{ selectedBg: 'bg-purple-500', selectedText: 'text-white', selectedBorder: 'border-purple-600' }}
+                                            text={t.quiz_results_action_keep}
+                                            icon={<RepeatIcon />}
+                                            onClick={() => handleActionChange(result.wordData.word, 'keep')}
+                                            // THAY ĐỔI 4: Điều kiện isSelected mới
+                                            isSelected={currentWordActions.mainAction === 'keep'}
+                                            colorClasses={{ selectedBg: 'bg-blue-500', selectedText: 'text-white', selectedBorder: 'border-blue-600' }}
                                         />
-                                    )}
+                                        
+                                        {!isReviewMode && (
+                                            <ActionButton
+                                                text={t.quiz_results_action_review}
+                                                icon={<BookmarkIcon />}
+                                                onClick={() => handleActionChange(result.wordData.word, 'review')}
+                                                // THAY ĐỔI 4: Điều kiện isSelected mới
+                                                isSelected={currentWordActions.review}
+                                                colorClasses={{ selectedBg: 'bg-purple-500', selectedText: 'text-white', selectedBorder: 'border-purple-600' }}
+                                            />
+                                        )}
 
-                                    <ActionButton
-                                        text={t.quiz_results_action_delete}
-                                        icon={<CheckIcon />}
-                                        onClick={() => handleActionChange(result.wordData.word, 'delete')}
-                                        isSelected={wordActions[result.wordData.word] === 'delete'}
-                                        colorClasses={{ selectedBg: 'bg-green-500', selectedText: 'text-white', selectedBorder: 'border-green-600' }}
-                                    />
+                                        <ActionButton
+                                            text={t.quiz_results_action_delete}
+                                            icon={<CheckIcon />}
+                                            onClick={() => handleActionChange(result.wordData.word, 'delete')}
+                                            // THAY ĐỔI 4: Điều kiện isSelected mới
+                                            isSelected={currentWordActions.mainAction === 'delete'}
+                                            colorClasses={{ selectedBg: 'bg-green-500', selectedText: 'text-white', selectedBorder: 'border-green-600' }}
+                                        />
+                                    </div>
                                 </div>
-                            </div>
-                        )}
-                    </div>
-                ))}
+                            )}
+                        </div>
+                    )
+                })}
             </div>
             
             <div className="mt-8 mb-8 p-4 bg-gray-100 rounded-lg text-center max-w-2xl mx-auto">

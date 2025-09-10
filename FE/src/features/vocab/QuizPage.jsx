@@ -4,8 +4,8 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { checkVocabulary } from '../../api/aiAPI';
 import { LanguageContext } from '../../contexts/LanguageContext';
 import { useTranslations } from '../../hooks/useTranslations';
-import QuestionNavigator from './components/QuestionNavigator';
-import QuizResults from './components/QuizResults.jsx';
+import QuestionNavigator from './QuestionNavigator';
+import QuizResults from './QuizResults.jsx';
 import { apiService } from '../../api/apiService';
 
 const shuffleArray = (array) => [...array].sort(() => 0.5 - Math.random());

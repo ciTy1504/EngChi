@@ -5,7 +5,7 @@ import { useParams } from 'react-router-dom';
 import { LanguageContext } from '../../contexts/LanguageContext';
 import { useTranslations } from '../../hooks/useTranslations';
 import { apiService } from '../../api/apiService';
-import QuestionRenderer from './components/QuestionRenderer';
+import QuestionRenderer from './QuestionRenderer';
 import BackButton from '../../components/shared/BackButton';
 import { toast } from 'react-hot-toast';
 import { normalizeMongoData } from '../../utils/dataUtils';
